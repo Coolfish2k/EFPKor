@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_prt_o_retardant_basic">
+        <text>난연성 직물 조각</text>
+    </string>
+    <string id="st_prt_o_retardant_basic_descr">
+        <text>환경 보호복에 사용되는 첨단 직물 조각. 불에 잘 타지 않는 의상을 분해하여 얻을 수 있습니다. 이것만으로는 활용하기 어렵지만 다른 조각과 결합하면 유용한 물건을 만들 수 있습니다.\n</text>
+    </string>
+
+    <string id="st_prt_o_ballistic_basic">
+        <text>방탄복 조각</text>
+    </string>
+    <string id="st_prt_o_ballistic_basic_descr">
+        <text>작은 방탄 철판 조각 및 직물. 방탄성 있는 의상을 분해하여 얻을 수 있습니다. 이것만으로는 활용하기 어렵지만 다른 조각과 결합하면 유용한 물건을 만들 수 있습니다.\n</text>
+    </string>
+    <string id="st_ui_craft_components">
+        <text>방어복 부품</text>
+    </string>
+    <string id="st_ui_scrap">
+        <text>조각 분해[!]</text>
+    </string>
+    <string id="st_ui_scrap_batch">
+        <text>조각 일괄 분해[!]</text>
+    </string>
+</string_table>

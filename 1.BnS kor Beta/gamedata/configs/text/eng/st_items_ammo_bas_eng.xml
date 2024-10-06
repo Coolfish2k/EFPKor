@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+
+<!--
+        Ammunition
+-->
+
+
+<string_table>
+        
+        <string id="ammo_23x75_shrapnel">
+                <text>"유산탄-25" 23x75mm (BaS)</text>
+        </string>
+        <string id="ammo_23x75_shrapnel_descr">
+                <text>벅샷 들어있는 카트리지. 적용 범위는 최대 25미터입니다. KS-23 카빈총에 사용됩니다. 배럴에 강선이 있기 때문에 벅샷은 보다 멀리 날아가며 조준하지 않고도 쏠 수 있습니다.%c[0,143,50,166] 관통 가능한 최고 등급 방어구: 없음%c[0,143,50,166] 생체조직 살상 등급: 매우 높음</text>
+        </string>
+        
+        <string id="ammo_23x75_barrikada">
+                <text>"바리카다" 23x75ìì (BaS)</text>
+        </string>
+        <string id="ammo_23x75_barrikada_descr">
+                <text>강철로 된 뾰족한 총알이 들어 있는 탄약. 차량에 손상을 주어 강제로 정지시키는 데 사용됩니다. 적용 범위는 최대 100미터입니다. KS-23 카빈총에 사용됩니다.%c[0,143,50,166] 관통 가능한 최고 등급 방어구: BR5, III%c[0,143,50,166] 생체조직 살상 등급: 높음</text>
+        </string>
+
+
+                <string id="ammo_9x21_sp10">
+                <text>9x21 mm SP10 (BaS)</text>
+        </string>
+        <string id="ammo_9x21_sp10_descr">
+                <text>관통력이 증가한 총알이 있는 권총 카트리지. 개인 보호 장비로 보호되는 인마살상용으로 설계되었습니다. 열강화강심의 노즈부가 탄에 돌출되어 있어 탄환의 높은 관통효과를 얻을 수 있습니다.\n \n%c[d_purple] 갑옷 관통력: BR4, II\n%c[d_purple] 비무장 살상력: 중간</text>
+        </string>
+
+
+        <string id="ammo_20x70_buck">
+                <text>20x70 벅샷 (BaS)</text>
+        </string>
+        <string id="ammo_20x70_buck_descr">
+                <text>6mm 벅샷으로 채워진 표준 20구경 탄입니다. 근거리에서 매우 치명적입니다. 포신내에 강선이 없는 활강포 총기류에 적합니다.%c[0,143,50,166] 관통 가능한 최고 등급 방어구: 없음%c[0,143,50,166] 생체조직 살상 등급: 중간 - 높음 \n%c[ui_gray_1]특이사항: 산탄, 근거리.</text>
+        </string>
+        <string id="ammo_20x70_buck_s">
+                <text>20x70 shot</text>
+        </string>
+
+
+        <string id="ammo_23_eco">
+                <text>Ecolog-23 cartridge (BaS)</text>
+        </string>
+        <string id="ammo_23_eco_descr">
+                <text>존에 있는 과학 직원의 요구를 위해 설계된 특수 카트리지입니다. 작업에 따라 다양한 유형의 약품으로 채워집니다. 매우 신중한 취급이 필요합니다. 사용법 : 아주 천천히 무기에 집어넣는다.%c[0,143,50,166] 관통 가능한 최고 등급 방어구: 없음%c[0,143,50,166] 생체조직 살상 등급: 없음 \n%c[ui_gray_1]특이사항: 얇은 텅스텐 바늘을 사용하여 돌연변이체의 피부를 관통하여 용액을 주입합니다.</text>
+        </string>
+        <string id="ammo_23_eco_s">
+                <text>Ecolog-23</text>
+        </string>
+
+
+        <string id="ammo_vog_30">
+                <text>VOG-30 수류탄 (BaS)</text>
+        </string>
+        <string id="ammo_vog_30_descr">
+                <text>VOG-30 파편 수류탄은 적의 인력을 파괴하고 열린 지역을 대비하도록 설계되었습니다. 1980 년대에 개발 된 아날로그 버전과 비교하여 개선 된 이 수류탄은 더 강력한 조각 효과와 카트리지의 추진제 충전했습니다.\n </text>
+        </string>
+        <string id="ammo_vog_30_s">
+                <text>VOG-30</text>
+        </string>
+
+
+        <string id="ammo_338_federal">
+                <text>.338 페더럴 (BaS)</text>
+        </string>
+        <string id="ammo_338_federal_descr">
+                <text>.338 페더럴(연방)은 0.33 구경까지 목이 달린 .308 윈체스터 케이스를 기반으로 하는 소총 탄약입니다. 2006년 페더럴 카트리지(Federal Cartridge)사와 사코(Sako)사에 의해 만들어졌으며 경량 소총을 위한 적당한 반동을 가진 레져 및 게임용 탄약으로 설계되었습니다.%c[0,143,50,166] 관통 가능한 최고 등급 방어구: BR5, III%c[0,143,50,166] 생체조직 살상 등급: 매우 높음</text>
+        </string>
+        <string id="ammo_338_federal_s">
+                <text>.338 Federal</text>
+        </string>
+        
+</string_table>

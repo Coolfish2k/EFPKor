@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_no_helm">
+        <text>헬멧은 의상과 호환되지 않습니다.</text>
+    </string>
+    <string id="st_no_helmkit">
+        <text>헬멧을 교체하려면 헬멧 수리 키트가 필요합니다.</text>
+    </string>
+    <string id="st_helm_success">
+        <text>헬멧 교체 완료.</text>
+    </string>
+    <string id="ui_inv_max_condition">
+        <text>최대 상태</text>
+    </string>
+    <string id="st_part_repaired">
+        <text>%s이(가) %s% 상태로 복구되었습니다.</text>
+    </string>
+    <string id="st_dot">
+        <text>?</text>
+    </string>
+    <string id="st_ui_repair_new">
+        <text>새것</text>
+    </string>
+    
+    
+    <string id="st_total_repair">
+        <text>복원된 의상 부품의 전체 상태:</text>
+    </string>
+
+    <string id="st_can_repair">
+        <text>의상의 다음 구성요소를 수리 가능:</text>
+    </string>
+    <string id="st_type_prt_o_fabrics">
+        <text>직물</text>
+    </string>
+    <string id="st_type_prt_o_ballistic">
+        <text>방탄도</text>
+    </string>
+    <string id="st_type_prt_o_retardant">
+        <text>난연성</text>
+    </string>
+    <string id="st_type_prt_o_support">
+        <text>외골격 프레임</text>
+    </string>
+    
+	<string id="ui_mcm_outfit_title">
+		<text>Outfit Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_menu_outfit">
+		<text>Outfit Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_outfit_damage">
+		<text>부품 데미지 비율</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_desc">
+		<text>의상 부품이 받는 피해의 비율.</text>
+	</string>
+	<string id="ui_mcm_outfit_debug">
+		<text>디버그 기록</text>
+	</string>
+	<string id="ui_mcm_outfit_debug_desc">
+		<text>디버그 기록</text>
+	</string>
+
+    
+    <string id="article_opo">
+        <text>의상 관리</text>
+    </string>
+    <string id="article_opo_text">
+        <text>
+            Outfit Parts Overhaul은 유지 관리 작업 방식을 변경하여 장비를 유지 관리하기 위해 올바른 도구와 부품을 사용하는 데 더 중점을 둡니다.\n \n
+			%c[pda_green]I. 부품과 유지보수%c[ui_gray_1]\n
+            \n*의상에는 최대 상태가 있습니다. 이것은 부품의 평균 상태에 의해 결정됩니다.            \n*의상 수리 아이템은 0%에도 쓸 수 있지만 현재 최대 상태까지만 복원할 수 있습니다.
+            \n*더 심각한 상태의 의복에는 더 좋은 수리 물품이 필요합니다.
+            \n*기술자는 모든 부품을 100%로 복원합니다.
+            \n*시간이 지남에 따라 의복은 피해를 받아 최대 상태가 저하됩니다. 다른 부품들은 다른 속도로 저하됩니다.
+            \n \n
+			%c[pda_green]II. 수리와 작업장에서 교체%c[ui_gray_1]\n
+            \n*특정 수리 물품(재봉 도구 및 수리 도구)은 의상의 부품을 수리합니다. 이렇게 반복하면 결과적으로 최대 상태가 복원됩니다.           
+            \n*기본 재봉 도구는 직물을 고칠 수 있습니다. 고급 재봉 도구는 난연제와 직물을 고칩니다. 수리 도구는 헬멧을 제외한 모든 것을 수리합니다.
+            \n*각 도구는 먼저 수리할 수 있는 부품의 우선 순위를 지정하여 복원합니다. 예를 들어 방탄도, 난연성 및 직물 상태가 동등하게 손상된 의상의 경우 방탄도가 우선적으로 수리됩니다.          
+            \n*재봉 및 수리 도구만으로는 최대 상태로 완벽히 복원할 수 없습니다. 의상 부품에 수리 보조 물품을 사용하여 최대 상태를 크게 향상 시킬 수 있습니다.
+            \n*100% 부품을 사용하여 의상에 사용하는 부품을 최대상태로 복원합니다.(최대 3배!)
+            \n*부품을 작업장에서 교체해도 최대 상태가 복원되지 않습니다. 그렇기에 무료이며 수리 도구를 소모하지 않습니다.\n \n
+            %c[pda_green]III. 방어복 분해%c[ui_gray_1]\n
+            \n*의상의 부품을 분해하여 기초 부품을 얻을 수 있습니다!
+            \n*분해하려면 적절한 도구를 사용하거나 도구를 부품에 끌어다 놓습니다.
+            \n*상태에 따라 얻는 부품의 양이 변합니다.
+            \n*의상 부품의 구성 요소는 다른 의상 부품을 조립하는데 사용됩니다. 조합법은 고급 도구 책에 들어있습니다.
+        </text>
+    </string>
+
+</string_table>

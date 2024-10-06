@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+    <string id="ui_mcm_menu_recoil">
+        <text>반동</text>
+    </string>
+    <string id="ui_mcm_recoil_title">
+        <text>반동 향상</text>
+    </string>
+    <string id="ui_mcm_recoil_enabled">
+        <text>기능 활성화</text>
+    </string>
+    <string id="ui_mcm_recoil_enabled_desc">
+        <text>향상된 반동 효과를 활성화합니다.</text>
+    </string>
+    <string id="ui_mcm_recoil_camera">
+        <text>카메라 움직임 활성화</text>
+    </string>
+    <string id="ui_mcm_recoil_camera_desc">
+        <text>카메라를 움직여 반동 패턴을 만듭니다. 방해가 되거나 짜증나는 경우에는 이 기능을 끌 수 있습니다.</text>
+    </string>
+    <string id="ui_mcm_recoil_stance">
+        <text>자세는 반동에 영향을 미칩니다</text>
+    </string>
+    <string id="ui_mcm_recoil_stance_desc">
+        <text>가만히 서 있으면 무기가 안정되고 반동이 줄어듭니다. 움직이면 반동이 증가합니다.</text>
+    </string>
+</string_table>

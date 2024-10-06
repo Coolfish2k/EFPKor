@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_device_glowstick">
+		<text>형광봉 (초록)</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>화학 반응을 일으켜 빛을 일으킵니다. 화학 광원은 스토커가 다양한 비상 상황 및 기타 다른 광원에 접근할 수 없는 경우에 자유롭게 설치할 수 있는 광원으로 널리 사용됩니다. 단독 사용, 내구성, 내화성, 방수성 및 장기 보관에 적합하여 사용할 수 있는 범위가 매우 넓습니다. \n이 형광봉은 초록색 빛을 방출하며 적당한 범위와 밝기를 가져 거의 모든 상황에 적합합니다. \n \n%c[0,140,140,140]특징:\n%c[0,153,255,255] *%c[0,140,140,140] 기술 물품\n%c[0,153,255,255] *%c[0,140,140,140] 실제 시간으로 40분 작동 \n%c[0,153,255,255] *%c[0,140,140,140] 범위: 12 미터</text>
+	</string>
+	<string id="st_device_glowstick_red">
+		<text>형광봉 (빨강)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>화학 반응을 일으켜 빛을 일으킵니다. 화학 광원은 스토커가 다양한 비상 상황 및 기타 다른 광원에 접근할 수 없는 경우에 자유롭게 설치할 수 있는 광원으로 널리 사용됩니다. 단독 사용, 내구성, 내화성, 방수성 및 장기 보관에 적합하여 사용할 수 있는 범위가 매우 넓습니다. \n이 형광봉은 붉은 빛을 방출하여 훨씬 더 넓은 범위를 비추지만 밝기는 낮기에 군인들에게 인기가 많습니다. \n \n%c[0,140,140,140]특징:\n%c[0,153,255,255] *%c[0,140,140,140] 기술 물품\n%c[0,153,255,255] *%c[0,140,140,140] 실제 시간으로 60분 작동 \n%c[0,153,255,255] *%c[0,140,140,140] 범위: 24 미터</text>
+	</string>
+	<string id="st_device_glowstick_orange">
+		<text>형광봉 (주황)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>화학 반응을 일으켜 빛을 일으킵니다. 화학 광원은 스토커가 다양한 비상 상황 및 기타 다른 광원에 접근할 수 없는 경우에 자유롭게 설치할 수 있는 광원으로 널리 사용됩니다. 단독 사용, 내구성, 내화성, 방수성 및 장기 보관에 적합하여 사용할 수 있는 범위가 매우 넓습니다. \이 형광봉은 주황색 빛을 방출하며 초록색과 거의 동일한 성능이지만 밝기는 낮아서 민감한 눈을 가진 사람들에게 더 적합합니다. \n \n%c[0,140,140,140]특징:\n%c[0,153,255,255] *%c[0,140,140,140] 기술 물품\n%c[0,153,255,255] *%c[0,140,140,140] 실제 시간으로 40분 작동 \n%c[0,153,255,255] *%c[0,140,140,140] 범위: 10 미터</text>
+	</string>
+	<string id="st_device_glowstick_blue">
+		<text>형광봉 (청록)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>화학 반응을 일으켜 빛을 일으킵니다. 화학 광원은 스토커가 다양한 비상 상황 및 기타 다른 광원에 접근할 수 없는 경우에 자유롭게 설치할 수 있는 광원으로 널리 사용됩니다. 단독 사용, 내구성, 내화성, 방수성 및 장기 보관에 적합하여 사용할 수 있는 범위가 매우 넓습니다. \n이 형광봉은 청록색 빛을 방출하고 일반적인 형광봉에 비해 훨씬 더 좁은 범위만 비추지만 밝기는 가장 높습니다. 지하나 대낮에도 잘 보이지 않는 어두운 공간에 적합합니다. 그림자든 뭐든 상관 없이 밝혀줍니다. \n \n%c[0,140,140,140]특징:\n%c[0,153,255,255] *%c[0,140,140,140] 기술 물품\n%c[0,153,255,255] *%c[0,140,140,140] 실제 시간으로 30분 작동 \n%c[0,153,255,255] *%c[0,140,140,140] 범위: 6 미터</text>
+	</string>
+	<string id="ui_mcm_menu_glowsticks">
+		<text>형광봉</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>브레인 스코처 및 미라클 머신 깜빡임</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>활성화하면 브레인 스코처와 미라클 머신에서 형광봉을 가져와야 될 이유를 제공하기 위해 손전등과 램프가 깜빡입니다.</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>형광봉 투척 거리</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>형광봉 은닉처 확률</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>은닉처에서 형광봉을 찾을 확률.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>형광봉 노획 확률</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>시체에서 형광봉을 얻을 확률.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>투척키</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>형광봉을 던질 때 누르고 있어야 하는 키.</text>
+    </string>
+</string_table>
