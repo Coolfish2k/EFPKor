@@ -2,11 +2,93 @@
 <string_table>
 
 <!-- Outfit Attatchment Overhaul (OAO)-->
+	<string id="st_af_new_frames_name">
+		<text>알루미늄 프레임</text>
+	</string>
+	<string id="st_af_new_frames_descr">
+		<text>괜찮은 품질의 알루미늄 프레임은 가방 중량을 분산시키고 더 효율적인 수납이 가능하도록 합니다. 알루미늄은 가볍고 튼튼하지만 전기 전도성을 높이는 단점이 존재합니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 프레임은 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] � %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+
+	<string id="st_af_new_frames_up_name">
+		<text>강화된 알루미늄 프레임</text>
+	</string>
+	<string id="st_af_new_frames_up_descr">
+		<text>알루미늄 프레임을 개선해 기존보다 더 효율적으로 무개를 분산할 수 있습니다. /n괜찮은 품질의 알루미늄 프레임은 가방 중량을 분산시키고 더 효율적인 수납이 가능하도록 합니다. 알루미늄은 가볍고 튼튼하지만 전기 전도성을 높이는 단점이 존재합니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 프레임은 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] � %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_grid_name">
+		<text>티타늄 그리드</text>
+	</string>
+	<string id="st_af_new_grid_descr">
+		<text>배낭의 무게를 보다 효율적으로 분산시키는 데 사용되는 고품질 티타늄 그리드입니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 고품질 티타늄 그리드는 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] � %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] � %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+	
+	<string id="st_af_new_grid_up_name">
+		<text>강화된 티타늄 그리드</text>
+	</string>
+	<string id="st_af_new_grid_up_descr">
+		<text>기존 티타늄 그리드를 강화하여 더 효율적으로 무개를 분산할 수 있습니다.\n배낭의 무게를 보다 효율적으로 분산시키는 데 사용되는 고품질 티타늄 그리드입니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 고품질 티타늄 그리드는 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] � %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] � %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_camelbak_name">
+		<text>카멜백</text>
+	</string>
+	<string id="st_af_new_camelbak_descr">
+		<text>낙타의 혹을 참고해 만든 카멜백은 사용자의 등이나 허리에 착용하는, 물로 채워진 작은 가방입니다. 입에 물고있을 수 있는 튜브가 있어 긴급한 상황에서도 수분을 공급받을 수 있습니다. 군용품으로써 위장 도색이 되어있어 장시간 대기해야하는 작전 등에서 유용하게 사용할 수 있습니다. 제품은 고품질 직물로 만들어지기 때문에 더이상 사용하지 않는 카멜백은 수리 재료로 활용할 수 있습니다.\n \n%c[d_red]\n\n%c[d_red]경고:% c[ui_gray_2]\n \n%c[default]물은 전기 전도도가 낮지만 신체에 가까워지면 전류에 더 취약해질 수 있습니다. 이러한 이유로 카멜백을 소지할 때는 주변 환경에 특별히 주의하는 것이 좋습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 한 번에 하나의 카멜백만 장착 가능\n
+		</text>
+	</string>
+
+	<string id="st_af_new_camelbak_up_name">
+		<text>보온 카멜백</text>
+	</string>
+	<string id="st_af_new_camelbak_up_descr">
+		<text>보온 소재가 추가된 카멜백으로 내부의 물을 더 오래 차갑게 유지하고 공급받을 수 있습니다.\n낙타의 혹을 참고해 만든 카멜백은 사용자의 등이나 허리에 착용하는, 물로 채워진 작은 가방입니다. 입에 물고있을 수 있는 튜브가 있어 긴급한 상황에서도 수분을 공급받을 수 있습니다. 군용품으로써 위장 도색이 되어있어 장시간 대기해야하는 작전 등에서 유용하게 사용할 수 있습니다. 제품은 고품질 직물로 만들어지기 때문에 더이상 사용하지 않는 카멜백은 수리 재료로 활용할 수 있습니다.\n \n%c[d_red]\n\n%c[d_red]경고:% c[ui_gray_2]\n \n%c[default]물은 전기 전도도가 낮지만 신체에 가까워지면 전류에 더 취약해질 수 있습니다. 이러한 이유로 카멜백을 소지할 때는 주변 환경에 특별히 주의하는 것이 좋습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 한 번에 하나의 카멜백만 장착 가능\n
+		</text>
+	</string>
+	<string id="st_af_huntkit_name">
+		<text>야전 해체 키트</text>
+	</string>
+	<string id="st_af_new_camelbak_up_descr">
+		<text>다양한 모양의 칼과 갈고리 등이 들어있는 드레싱 키트입니다. 거의 모든 알려진 뮤턴트를 해체할 수 있도록 도구가 구성되어 있으며 벨트에 장착 후 손쉽게 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		</text>
+	</string>
     <string id="st_af_new_surge_name">
 		<text>서지 프로텍터</text>
 	</string>
 	<string id="st_af_new_surge_descr">
-		<text>A simple device consisting of a ton of resistors and replaceable fuses. It protects the user by limiting the effective amount of electricity that comes into direct contact with the body through diverting it to the resistor-fuse complex, mitigating a majority of the shock at the cost of blowing the fuses. This makes it almost foolproof against Electro Anomalies, but it can only endure so many strong electric shocks before all the fuses are blown out. Most stalkers construct these devices with spare electronic trash, which is in no shortage in the Zone. Even though the device is heavy and disposable, it is extremely useful for navigating electrical anomaly fields. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
+		<text>수많은 저항과 퓨즈로 구성된 간단한 보호장치입니다. 신체가 전기와 접촉할 경우, 전기를 저항 퓨즈 복합체로 전환하고 퓨즈가 끊어짐으로써 전기 피해를 감소화 합니다. 이로 인해 전기 이상 현상에 대해 거의 완벽하게 보호되지만 강력한 전기를 순간적으로 받을 경우 모든 퓨즈가 끊어지고 보호능력을 상실 할 위험이 있습니다. 이와 관련한 지식이 있는 대부분의 스토커들은 존에서 얻을 수 있는 값싼 전자 부품들로 이런 장비를 직접 만들기도 합니다. 장치가 무겁고 일회용임에도 불구하고 전기 이상 영역을 탐색하는 데 매우 유용합니다.\n \n
 		%c[0,140,140,140]특징:\n
 		%c[d_cyan] �  기술 물품\n
 		%c[d_cyan] �  하나의 환경 제어 장치만 장착가능\n
@@ -18,6 +100,7 @@
 		<text>업그레이드된 서지 프로텍터</text>
 	</string>
 	<string id="st_af_new_surge_up_descr">
+	아티팩트를 활용하여 전류를 더 효율적으로 분산시키는 업그레이드된 서지 보호기입니다. 작동방식은 기존의 서지 프로텍터와 거의 비슷하지만, 아티팩트가 전류 흡수에 도움을 주며 덕분에 장치와 퓨즈를 더 오래 사용할 수 있습니다. 또한, 아티팩트는 가벼운 근육 이완 전류를 지속적으로 방출하여 통증과 피로를 완화하는 데 도움이 됩니다.\n\n
 		<text>An upgraded Surge Protector making use of an artifact to better disperse electrical shock. Errant surges electricity are routed through the same path, but due to the presence of the artifact, some shock is partially absorbed and the overall damage to the components is reduced. In addition, the artifact constantly emits a mild muscle relaxing current, which helps with soreness and fatigue. \n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]It should be noted that such a module will not be able to work properly and provide sufficient protection if your suit does not meet the minimum protection requirements while in an abnormal field.\n \n \n
 		%c[0,140,140,140]특징:\n
 		%c[d_cyan] � 기술 물품\n
@@ -89,30 +172,6 @@
     
         <string id="st_stim_none">
             <text>자극제가 아닙니다.</text>
-        </string>
-
-        <string id="st_af_new_surge_name">
-            <text>서지 프로텍터</text>
-        </string>
-        <string id="st_af_new_surge_descr">
-            <text>A simple device consisting of a ton of resistors and replaceable fuses. It protects the user by limiting the effective amount of electricity that comes into direct contact with the body through diverting it to the resistor-fuse complex, mitigating a majority of the shock at the cost of blowing the fuses. This makes it almost foolproof against Electro Anomalies, but it can only endure so many strong electric shocks before all the fuses are blown out. Most stalkers construct these devices with spare electronic trash, which is in no shortage in the Zone. Even though the device is heavy and disposable, it is extremely useful for navigating electrical anomaly fields. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
-            %c[0,140,140,140]특징:\n
-            %c[d_cyan] � 기술 물품\n
-            %c[d_cyan] � 하나의 환경 제어 장치만 장착가능\n
-            %c[d_cyan] � %c[ui_gray_2] 전자 부품으로 수리 가능
-            </text>
-        </string>
-
-        <string id="st_af_new_surge_up_name">
-            <text>업그레이드된 서지 프로텍터</text>
-        </string>
-        <string id="st_af_new_surge_up_descr">
-            <text>An upgraded Surge Protector making use of an artifact to better disperse electrical shock. Errant surges electricity are routed through the same path, but due to the presence of the artifact, some shock is partially absorbed and the overall damage to the components is reduced. In addition, the artifact constantly emits a mild muscle relaxing current, which helps with soreness and fatigue. \n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]It should be noted that such a module will not be able to work properly and provide sufficient protection if your suit does not meet the minimum protection requirements while in an abnormal field.\n \n \n
-            %c[0,140,140,140]특징:\n
-            %c[d_cyan] � 기술 물품\n
-            %c[d_cyan] �  하나의 환경 제어 장치만 장착가능\n
-            %c[d_cyan] � %c[ui_gray_2] 전자 부품으로 수리 가능
-            </text>
         </string>
 
 	<string id="st_plate_cap_0">
@@ -589,7 +648,7 @@
 		<text>더러운 </text>
 	</string>
 	<string id="st_damage_4">
-		<text>사용감있는 </text>
+		<text>작동하는 </text>
 	</string>
 	<string id="st_damage_5">
 		<text>작동하는 </text>
