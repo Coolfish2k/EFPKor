@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="sar_monolith">
+		<text>북쪽의 부름</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>위시 그랜터와 대화하기.</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>북쪽에서 당신을 부르는 소리가 들려왔다. 근원을 찾아라.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>당신을 부르는 목소리는 위시 그랜터에서 온 것이 틀림없다. 석관 어딘가에서 찾을 수 있을 것이다.</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>석관</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>필사본에 언급된 숨겨진 모노리스 기지를 찾아 무엇이 숨겨져 있는지 알아내야 한다.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>위시 그랜터를 파괴하기 : 10 웨이브의 투사를 모두 물리치십시오.</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>C-의식 포드의 전원 공급 장치 생성기를 비활성화하십시오.</text>
+	</string>
+	<string id="sar_monolith_destroy_3">
+		<text>발생기를 비활성화하십시오.</text>
+	</string>
+</string_table>

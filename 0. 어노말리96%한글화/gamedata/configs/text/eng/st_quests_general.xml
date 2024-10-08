@@ -1,0 +1,2570 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< GENERAL TEXT  STRINGS FOR TASKS
+<	CoC 1.4.10 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 14, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!--                                      -->
+	<!-- STORYLINE GENERAL TASK STRINGS       -->
+	<!--                                      -->
+	<!--	Modified by DoctorX               -->
+	<!--	for DoctorX Questlines 1.6        -->
+	<!--	October 07, 2016                  -->
+	<!--                                      -->
+
+	<!-- Find Wish Granter Task -->
+
+	<string id="drx_sl_find_wish_granter_task_name">
+		<text>위시 그랜터 찾기</text>
+	</string>
+	<string id="drx_sl_find_wish_granter_task_text">
+		<text>어떤 소원이라도 들어준다는 위시 그랜터가 체르노빌 원자력 발전소의 깊은 곳에 묻혀있다고 한다. 그것을 찾아야 한다.</text>
+	</string>
+
+
+
+	<!--                                                -->
+	<!-- STORYLINE START GAME TASK TEXT  STRINGS        -->
+	<!--                                                -->
+	<!--	Modified by DoctorX                         -->
+	<!--	for DoctorX Questlines 1.6                  -->
+	<!--	October 14, 2016                            -->
+	<!--                                                -->
+
+	<!-- Start Game at Sidorovich (Loner) Task 1 -->
+
+	<string id="drx_sl_esc_m_trader_start_game_1_name">
+		<text>시도르비치 만나기</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_start_game_1_text">
+		<text>코돈의 시도르비치는 존에 막 입성한 초보 스토커를 지원해 주는 것으로 알려져 있습니다.</text>
+	</string>
+
+	<!-- Start Game at Petrenko (Duty) Task 1 -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_name">
+		<text>페트렌코 대령 만나기</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_text">
+		<text>페트렌코 대령님의 호출을 받았다. 임무를 받기위해 찾아뵈야한다.</text>
+	</string>
+
+	<!-- Start Game at Lukash (Freedom) Task 1 -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_name">
+		<text>루카쉬 만나기</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_text">
+		<text>프리덤의 수장 루카쉬가 내게 할 말이 있나보다.</text>
+	</string>
+
+	<!-- Meet Cold1 (Clear Sky) Task 1 -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_name">
+		<text>콜드 만나기</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_text">
+		<text>클리어 스카이 기지의 콜드에게 호출을 받았다. 가봐야 한다.</text>
+	</string>
+
+	<!-- Start Game at Sakharov (Ecologist) Task 1 -->
+
+	<string id="drx_sl_yan_stalker_sakharov_start_game_1_name">
+		<text>사하로프 교수 만나기</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_start_game_1_text">
+		<text>사하로프 교수님이 날 불렀다.</text>
+	</string>
+
+	<!-- Start Game at Dushman (Mercenary) Task 1 -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_name">
+		<text>더쉬맨 만나기</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_text">
+		<text>더쉬맨과 이야기 해봐야 한다.</text>
+	</string>
+
+	<!-- Start Game at Kuznetsov (Military Honcho) Task 1 -->
+
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_name">
+		<text>쿠즈네초프 대령 만나기</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_text">
+		<text>쿠즈네초프 대령님의 호출이 있었다.</text>
+	</string>
+
+	<!-- Start Game at Sultan (Bandit Honcho) Task 1 -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_name">
+		<text>술탄 만나기</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_text">
+		<text>술탄이 날 만나고 싶어한다.</text>
+	</string>
+
+	<!-- Start Game at Rabbit (Monolith Trader) Task 1 -->
+
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_name">
+		<text>레빗 만나기</text>
+	</string>
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_text">
+		<text>현명한 레빗 형제님께서 길을 해 주실 것이다.</text>
+	</string>
+	
+	<!-- Start Game at Stribog (Sin Trader) Task 1 -->
+
+	<string id="drx_sl_red_greh_trader_start_game_1_name">
+		<text>스트리보 만나기</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_start_game_1_text">
+		<text>스트리보가 내게 사명을 주실 것이다.</text>
+	</string>
+
+
+
+	<!--                                             -->
+	<!-- STORYLINE MEET HONCHO TASK TEXT  STRINGS    -->
+	<!--                                             -->
+	<!--	Modified by DoctorX                      -->
+	<!--	for DoctorX Questlines 1.6               -->
+	<!--	October 14, 2016                         -->
+	<!--                                             -->
+
+	<!-- Meet Sidorovich (Loner) Task 1 -->
+
+	<string id="drx_sl_esc_m_trader_meet_task_1_name">
+		<text>시도르비치 찾아가기</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_meet_task_1_text">
+		<text>코돈의 시도르비치에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Xenotech (Loner) Task 1 -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_name">
+		<text>제노테크 찾아가기</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_meet_task_1_text">
+		<text>코돈의 제노테크에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Beard (Loner) Task 1 -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_name">
+		<text>브레드 찾아가기</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_meet_task_1_text">
+		<text>스카도브스크의 브레드에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Noah (Loner) Task 1 -->
+
+	<string id="drx_sl_zat_b18_noah_meet_task_1_name">
+		<text>노아 찾아가기</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_meet_task_1_text">
+		<text>자톤의 노아에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Petrenko (Duty) Task 1 -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_name">
+		<text>페트렌코 대령 찾아가기</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_meet_task_1_text">
+		<text>로스토크의 페트렌코 대령에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Mangun (Duty) Task 1 -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_name">
+		<text>'맨건' 찾아가기</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_meet_task_1_text">
+		<text>로스토커의 맨건에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Lukash (Freedom) Task 1 -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_name">
+		<text>루카쉬 찾아가기</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_meet_task_1_text">
+		<text>군창고의 루카쉬에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Loki (Freedom) Task 1 -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_meet_task_1_name">
+		<text>루키 찾아가기</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_meet_task_1_text">
+		<text>야노브 역의 루키에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Cold (Clear Sky) Task 1 -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_name">
+		<text>콜드 찾아가기</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_meet_task_1_text">
+		<text>습지대의 콜드에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Librarian (Clear Sky) Task 1 -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_meet_task_1_name">
+		<text>사서 찾아가기</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_meet_task_1_text">
+		<text>습지대의 사서에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Sakharov (Ecologist) Task 1 -->
+
+	<string id="drx_sl_yan_stalker_sakharov_meet_task_1_name">
+		<text>사하로프 교수 찾아가기</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_meet_task_1_text">
+		<text>얀타의 사하로프 교수에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Tukarev (Ecologist) Task 1 -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_meet_task_1_name">
+		<text>토카레프 찾아가기</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_meet_task_1_text">
+		<text>주피터의 토카레프에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Dushman (Mercenary) Task 1 -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_name">
+		<text>더쉬맨 찾아가기</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_meet_task_1_text">
+		<text>죽은 도시의 더쉬맨에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Hog (Mercenary) Task 1 -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_name">
+		<text>호그 찾아가기</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_meet_task_1_text">
+		<text>죽은 도시의 호그에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Kuznetsov (Military) Task 1 -->
+
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_name">
+		<text>쿠즈네초프 대령 찾아가기</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_meet_task_1_text">
+		<text>아그로프롬의 쿠즈네초프 대령에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Kirilov (Military) Task 1 -->
+
+	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_name">
+		<text>키릴로프 중위 찾아가기</text>
+	</string>
+	<string id="drx_sl_agr_smart_terrain_1_6_army_mechanic_stalker_meet_task_1_text">
+		<text>아그로프롬의 키릴로프 중위에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Sultan (Bandit) Task 1 -->
+
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_name">
+		<text>술탄 찾아가기</text>
+	</string>
+	<string id="drx_sl_zat_b7_bandit_boss_sultan_meet_task_1_text">
+		<text>검은 계곡의 술탄에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Olivius (Bandit) Task 1 -->
+
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_name">
+		<text>올리비우스 찾아가기</text>
+	</string>
+	<string id="drx_sl_val_smart_terrain_7_4_bandit_trader_stalker_meet_task_1_text">
+		<text>검은 계곡의 올리비우스에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+	<!-- Meet Rabbit (Monolith) Task 1 -->
+
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_name">
+		<text>레빗 찾아가기</text>
+	</string>
+	<string id="drx_sl_pri_monolith_monolith_trader_stalker_meet_task_1_text">
+		<text>프리피야트의 레빗에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+
+	<!-- Meet Cleric (Monolith) Task 1 -->
+
+	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_name">
+		<text>클레릭 찾아가기</text>
+	</string>
+	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_meet_task_1_text">
+		<text>프리피야트의 클레릭에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+	
+	<!-- Meet Stribog (Sin) Task 1 -->
+
+	<string id="drx_sl_red_greh_trader_meet_task_1_name">
+		<text>스트리보 찾아가기</text>
+	</string>
+	<string id="drx_sl_red_greh_trader_meet_task_1_text">
+		<text>붉은 숲의 스트리보에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+	
+	<!-- Meet Dazhbog (Sin) Task 1 -->
+
+	<string id="drx_sl_red_greh_tech_meet_task_1_name">
+		<text>대지보그 찾아가기</text>
+	</string>
+	<string id="drx_sl_red_greh_tech_meet_task_1_text">
+		<text>붉은 숲의 대지보그에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+	
+	<!-- Meet Olivar (Monolith) Task 1 -->
+
+	<string id="drx_sl_trader_monolith_kbo_meet_task_1_name">
+		<text>올리버 찾아가기</text>
+	</string>
+	<string id="drx_sl_trader_monolith_kbo_meet_task_1_text">
+		<text>프리피야트 외곽의 올리버에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+	
+	<!-- Meet Griffith (Monolith) Task 1 -->
+
+	<string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_name">
+		<text>그리피스 찾아가기</text>
+	</string>
+	<string id="drx_sl_merc_pri_grifon_mlr_meet_task_1_text">
+		<text>프리피야트 외곽의 그리피스에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+	
+	<!-- Meet Vector (Mercenary) Task 1 -->
+
+	<string id="drx_sl_zat_stancia_trader_merc_meet_task_1_name">
+		<text>벡터 찾아가기</text>
+	</string>
+	<string id="drx_sl_zat_stancia_trader_merc_meet_task_1_text">
+		<text>자톤의 벡터에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+	
+	<!-- Meet Klenov (Bandit) Task 1 -->
+
+	<string id="drx_sl_jup_cont_trader_bandit_meet_task_1_name">
+		<text>클레노프 찾아가기</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_meet_task_1_text">
+		<text>주피터의 클레노프에게 가는 것, 그것이 내 다음 목표다.</text>
+	</string>
+
+
+	<!-- SIMULATION TASK TEXT  STRINGS     -->
+	<!--	Modified by DoctorX            -->
+	<!--	for DoctorX Questlines 1.6     -->
+	<!--	October 07, 2016               -->
+
+
+	<!-- 구해 오기 : Supplies for Clear Sky Simulation Task -->
+	<string id="simulation_task_1_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_1_text">
+		<text>동료 스토커에게 %s 구해 주기.</text>
+	</string>
+	<string id="simulation_task_1_about">
+		<text>보급이 떨어져서 그런데 혹시 부탁할 수 있어?</text>
+	</string>
+	<string id="simulation_task_1_fetch_about">
+		<text>%s가 부족해. 가지고 있어? 부탁해도 될까?</text>
+	</string>
+	<string id="simulation_task_1_fetch_finish">
+		<text>좋아! 고마워!</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
+	<string id="simulation_task_2_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_2_text">
+		<text>괜찮은 % 구해오기.</text>
+	</string>
+	<string id="simulation_task_2_about">
+		<text>젠장, 부탁좀 해도 될까? 도와줄래?</text>
+	</string>
+	<string id="simulation_task_2_fetch_about">
+		<text>%s가 없어서 그래. 부탁해도 될까?</text>
+	</string>
+	<string id="simulation_task_2_fetch_finish">
+		<text>좋은데? 진짜 고마워!</text>
+	</string>
+	
+	
+	<!-- FIND SUPPLIES FOR BANDIT TASK -->
+	<string id="simulation_task_3_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_3_text">
+		<text>밴딧에게 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_3_about">
+		<text>건수 좀 있냐? 부탁좀 하자 야.</text>
+	</string>
+	<string id="simulation_task_3_fetch_about">
+		<text>내가 지금 괜찮은 물건이 들어와서 그런데 %s를 찾아주면 나눠줄 수도 있다고. 어때?</text>
+	</string>
+	<string id="simulation_task_3_fetch_finish">
+		<text>죽이는데! 여기.</text>
+	</string>
+
+
+	<!-- FIND SUPPLIES FOR MILITARY TASK -->
+	<string id="simulation_task_4_name">
+		<text>내무군에게 구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_4_text">
+		<text>내무군에게 %s 구해 주기</text>
+	</string>
+	<string id="simulation_task_4_about">
+		<text>보급품 교환 할 마음 있어?</text>
+	</string>
+	<string id="simulation_task_4_fetch_about">
+		<text>제안하나 하지. %s를 구해주면 내가 남는 탄약을 좀 줄게.</text>
+	</string>
+	<string id="simulation_task_4_fetch_finish">
+		<text>좋아!</text>
+	</string>
+	
+	<!-- Bring Supplies for Monolith Simulation Task -->
+	<string id="simulation_task_5_name">
+		<text>모노리스 대원에게 %s 가져가기</text>
+	</string>
+	<string id="simulation_task_5_text">
+		<text>내 형제에게 %s를 구해줘야 한다.</text>
+	</string>
+	<string id="simulation_task_5_about">
+		<text>모노리스님을 섬기려면 강해야 합니다. 허나 내 힘이 약하다는 것을 형제께 고백합니다. 절 도와줄 수 있겠습니까, 형제여?</text>
+	</string>
+	<string id="simulation_task_5_fetch_about">
+		<text>모노리스님을 섬기려면 강해야 합니다. 허나 내 힘이 약하다는 것을 형제께 고백합니다. 절 도와줄 수 있겠습니까, 형제여?</text>
+	</string>
+	<string id="simulation_task_5_fetch_finish">
+		<text>형제여 고맙습니다. 모노리스의 영광이 당신에게 비춰지길.</text>
+	</string>
+	
+	<!-- Find Supplies for Merc Simulation Task -->
+	<string id="simulation_task_6_name">
+		<text>용병에게 %s 구해 주기</text>
+	</string>
+	<string id="simulation_task_6_text">
+		<text>용병에게 %s 구해 주기.</text>
+	</string>
+	<string id="simulation_task_6_about">
+		<text>부탁 좀 들어줄래? 물자가 모자라. 도와줄래?</text>
+	</string>
+	<string id="simulation_task_6_fetch_about">
+		<text>%s이(가) 부족해. 구하면 날 찾아와</text>
+	</string>
+	<string id="simulation_task_6_fetch_finish">
+		<text>고마워!</text>
+	</string>
+
+	<!-- FIND WEAPON FOR STALKER TASK -->
+	<string id="simulation_task_7_name">
+		<text>구해 오기 : 괜찮은 %s</text>
+	</string>
+	<string id="simulation_task_7_text">
+		<text>완벽한 상태의 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_7_about">
+		<text>그래, 내 보관함이 약탈당했고 가장 좋아하는 소총을 잃어버렸어. 염병. 아무든, 새 무기를 구해야 하는데 도와줄래?</text>
+	</string>
+	<string id="simulation_task_7_fetch_about">
+		<text>신뢰할 수 있는 %s을(를) 찾고 있어. 개인적으로 그 소총을 좋아해서 말이야. 상태가 좋은 것을 찾으면 추가료를 지불하지.</text>
+	</string>
+	<string id="simulation_task_7_fetch_finish">
+		<text>고마워, 스토커! 여기. 자, 그 빌어먹을 프랙쳐를 사냥하러 가야지...</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
+	<string id="simulation_task_8_name">
+		<text>구해 오기 : 괜찮은 %s</text>
+	</string>
+	<string id="simulation_task_8_text">
+		<text>구해 오기 : 괜찮은 %s</text>
+	</string>
+	<string id="simulation_task_8_about">
+		<text>지금 쓰는 이 소총, 상태가 좀 엿같아서 말이야. 총격전에서 나를 방해하지 않을 무장이 필요해. 돈은 지불 할테니까 하나 구해줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_8_fetch_about">
+		<text>믿을 수 있는 %s을(를) 구해 줘. 지불은 좋게 하지.</text>
+	</string>
+	<string id="simulation_task_8_fetch_finish">
+		<text>훌륭해! 아주 잘 빠졌구만. 여기.</text>
+	</string>
+	
+	
+	<!-- FIND WEAPON FOR BANDIT TASK -->
+	<string id="simulation_task_9_name">
+		<text>무기 밀매</text>
+	</string>
+	<string id="simulation_task_9_text">
+		<text>밴딧가 추적할 수 없는 %s이(가) 필요하다.</text>
+	</string>
+	<string id="simulation_task_9_about">
+		<text>제안하나 하지. 난 추적할 수 없는 소총이 필요해. 무슨 말인지 알지? 도와줄래?</text>
+	</string>
+	<string id="simulation_task_9_fetch_about">
+		<text>추적할 수 없는 %s이(가) 필요해. 사고품, 장물, 약탈품, 무엇이든 좋아. 하나만 구해다 줘. 가치의 두 배로 지불하지.</text>
+	</string>
+	<string id="simulation_task_9_fetch_finish">
+		<text>좋았어! 여기. 너 나랑 만난적 없는 거다 알겠지?</text>
+	</string>
+	
+	<!-- Find a Reliable Weapon for Merc Simulation Task -->
+	<string id="simulation_task_10_name">
+		<text>구해 오기 : 괜찮은 %s</text>
+	</string>
+	<string id="simulation_task_10_text">
+		<text>용병에게 괜찮은 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_10_about">
+		<text>이 소총, 쓰다보면 좆같이 걸려대서 말이야. 좋은 걸로 하나 구해줄 수 있겠어?</text>
+	</string>
+	<string id="simulation_task_10_fetch_about">
+		<text>믿을 수 있는 %s을(를) 구해 줘. 지불은 좋게 하지.</text>
+	</string>
+	<string id="simulation_task_10_fetch_finish">
+		<text>훌륭해! 아주 잘 빠졌구만. 여기.</text>
+	</string>
+
+	<!-- Find a Reliable Weapon for Military Simulation Task -->
+	<string id="simulation_task_11_name">
+		<text>구해 오기 : 괜찮은 %s</text>
+	</string>
+	<string id="simulation_task_11_text">
+		<text>구해 오기 : 괜찮은 %s.</text>
+	</string>
+	<string id="simulation_task_11_about">
+		<text>이 소총, 쓰다보면 계속 걸리고 기능고장이 잦아. 좋은 걸로 하나 구해줄 수 있겠어?</text>
+	</string>
+	<string id="simulation_task_11_fetch_about">
+		<text>믿을 수 있는 %s을(를) 구해 줘. 지불은 좋게 하지.</text>
+	</string>
+	<string id="simulation_task_11_fetch_finish">
+		<text>훌륭해! 아주 잘 빠졌구만. 여기.</text>
+	</string>
+	
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_12_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_12_text">
+		<text>동료 스토커에게 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_12_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_12_fetch_about">
+		<text>니가 만약 "%s" 아티팩트를 가지고 오면 잘 쳐줄게. 어때?</text>
+	</string>
+	<string id="simulation_task_12_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+	
+	
+	<!-- FIND ARTEFACT FOR MILITARY TASK -->
+	<string id="simulation_task_13_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_13_text">
+		<text>%s라는 아티팩트를 구해줘야 한다.</text>
+	</string>
+	<string id="simulation_task_13_about">
+		<text>이봐, 규정 위반이라는 것을 알고 있지만 곧 집으로 복귀할거라서 기념품을 가지고 싶어. 나를 위해 유물을 찾아 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_13_fetch_about">
+		<text>"%s" 아티팩트를 얻고 싶어. 가지고 오면 내 총울 주지.</text>
+	</string>
+	<string id="simulation_task_13_fetch_finish">
+		<text>좋아! 여기 약속한거. 지휘관님이 몰라야 할 텐데.</text>
+	</string>
+	
+	
+	<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_14_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_14_text">
+		<text>스토커는 돌연변이 고기를 준비하는 특별한 요리법을 가지고 있으며 %s을(를) 가져와야 한다.</text>
+	</string>
+	<string id="simulation_task_14_about">
+		<text>이봐, 돌연변이 고기 먹어본 적이 있어? 배고프지 않으면 만지지도 않을 것이지만 개인적으로 좋아하거든. 사냥은 잘 하는 편이야?</text>
+	</string>
+	<string id="simulation_task_14_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_14_fetch_finish">
+		<text>오늘 저녁은 이거겠구만! 고마워, 스토커. 여기. 아, 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서.</text>
+	</string>
+
+
+	<!-- Mutant Meat Stew for Bandit Simulation Task -->
+	<string id="simulation_task_15_name">
+		<text>%s 스튜</text>
+	</string>
+	<string id="simulation_task_15_text">
+		<text>밴딧는 돌연변이 고기에 관한 특별한 레시피를 가지고 있다.</text>
+	</string>
+	<string id="simulation_task_15_about">
+		<text>이봐, 돌연변이 고기 먹어본 적이 있어? 배고프지 않으면 만지지도 않을 것이지만 개인적으로 좋아하거든. 사냥은 잘 하는 편이야?</text>
+	</string>
+	<string id="simulation_task_15_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_15_fetch_finish">
+		<text>오늘 저녁은 이거겠구만! 고마워, 스토커. 여기. 아, 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서.</text>
+	</string>
+
+	<!-- Collect Mutant 조직 샘플 for Ecologist Simulation Task -->
+	<string id="simulation_task_16_name">
+		<text>구해 오기 : %s 조직 샘플</text>
+	</string>
+	<string id="simulation_task_16_text">
+		<text>과학자에게 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_16_about">
+		<text>존의 특정 돌연변이를 연구하고 있어. 조직 샘플을 수집할 사람이 필요해.</text>
+	</string>
+	<string id="simulation_task_16_fetch_about">
+		<text>존의 특정 돌연변이를 연구하고 있어. 조직 샘플을 수집할 사람이 필요해.</text>
+	</string>
+	<string id="simulation_task_16_fetch_finish">
+		<text>고마워. 연구에 엄청난 도움이 될 거야.</text>
+	</string>
+
+
+
+	<!-- Bring patches for Freedom Simulation Task -->
+	<string id="simulation_task_17_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_17_text">
+		<text>프리덤에게 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_17_about">
+		<text>나 대신 듀티 쓰레기 놈들 패치 좀 모아줄래? 그러면 잠이 더 잘 와서 말이지.</text>
+	</string>
+	<string id="simulation_task_17_fetch_about">
+		<text>나 대신 듀티 쓰레기 놈들 패치 좀 모아줄래? 그러면 잠이 더 잘 와서 말이지.</text>
+	</string>
+	<string id="simulation_task_17_fetch_finish">
+		<text>존경 최대치라고, 브로! 여기. 이거 받아!</text>
+	</string>
+	
+	<!-- Bring patches for Duty Simulation Task -->
+	<string id="simulation_task_18_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_18_text">
+		<text>듀티에게 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_18_about">
+		<text>아무정부주의자를 제거하고 싶어? 최근에 너무 많어. 증거로 패치를 가져와 줘.</text>
+	</string>
+	<string id="simulation_task_18_fetch_about">
+		<text>아무정부주의자를 제거하고 싶어? 최근에 너무 많어. 증거로 패치를 가져와 줘.</text>
+	</string>
+	<string id="simulation_task_18_fetch_finish">
+		<text>잘했어. 여기, 받아.</text>
+	</string>
+	
+	<!-- Bring patches for Stalkers Simulation Task -->
+	<string id="simulation_task_19_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_19_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_19_about">
+		<text>안녕, 나쁜 놈들을 죽이고 싶어? 나에게 그들의 패치를 주면, 인공물을 주지. 어때?</text>
+	</string>
+	<string id="simulation_task_19_fetch_about">
+		<text>안녕, 나쁜 놈들을 죽이고 싶어? 나에게 그들의 패치를 주면, 인공물을 주지. 어때?</text>
+	</string>
+	<string id="simulation_task_19_fetch_finish">
+		<text>고마워. 여기 아티팩트.</text>
+	</string>
+	
+	<!-- Bring patches for Bandits Simulation Task -->
+	<string id="simulation_task_20_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_20_text">
+		<text>밴딧에게 %s 구하기.</text>
+	</string>
+	<string id="simulation_task_20_about">
+		<text>이봐, 너한테 부탁할 게 있어. 우리 사업을 방해하는 놈들이 너무 많아. 그들 중 일부를 처리하고 패치를 뜯어와 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_20_fetch_about">
+		<text>이봐, 너한테 부탁할 게 있어. 우리 사업을 방해하는 놈들이 너무 많아. 그들 중 일부를 처리하고 패치를 뜯어와 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_20_fetch_finish">
+		<text>좋아. 여기 아티팩트와 내 존경을 주지.</text>
+	</string>
+	
+	<!-- Find Trip Equipment Tasks -->	
+	<string id="simulation_task_21_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_21_text">
+		<text> %s 구하기.</text>
+	</string>
+	<string id="simulation_task_21_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_21_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.  %s. 그걸 좀 구해줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_21_fetch_finish">
+		<text>고마워! 여기 답례.</text>
+	</string>
+	
+	<!-- Find Trip Equipment Tasks -->	
+	<string id="simulation_task_22_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_22_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_22_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_22_fetch_about">
+		<text>내 분대는 존의 다른 지역으로 향하려고 해. 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_22_fetch_finish">
+		<text>오! 친구들이 고마워 할거야! 여기, 이거 받아. 고마워.</text>
+	</string>
+	
+	<!-- Find Repair Kit Tasks -->	
+	<string id="simulation_task_23_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_23_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_23_about">
+		<text>이 낡은 장비 보여? 점점 닳아가는데 내가 게을러가지고 무시하고 있었는데, 이젠 한계야 최대한 빨리 수리해야겠어.</text>
+	</string>
+	<string id="simulation_task_23_fetch_about">
+		<text>이 낡은 장비 보여? 점점 닳아가는데 내가 게을러가지고 무시하고 있었는데, 이젠 한계야 최대한 빨리 수리해야겠어. %s? 그게 좋다던데 그걸 좀 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_23_fetch_finish">
+		<text>고마워! 여기 돈.</text>
+	</string>
+	
+	<!-- Find Upgrade Parts Tasks -->	
+	<string id="simulation_task_24_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_24_text">
+		<text>누군가 자신의 의상을 업그레이드해야 하는데 %s 업그레이드 키트를 찾아 가져오라고 했습니다.</text>
+	</string>
+	<string id="simulation_task_24_about">
+		<text>현지 정비사가 내 복장을 개선하기 위해 특정 장비를 찾고 있다고 하더라고. 요즘 기계공들은 돈과 도구를 동시에 요구하는 것 같던데. 에휴, 더 끔찍한게 뭔지 알아? 난 운도 없다는 거야...</text>
+	</string>
+	<string id="simulation_task_24_fetch_about">
+		<text>현지 정비사가 내 복장을 개선하기 위해 특정 장비를 찾고 있다고 하더라고. 요즘 기계공들은 돈과 도구를 동시에 요구하는 것 같던데. 에휴, 더 끔찍한게 뭔지 알아? 난 운도 없다는 거야... %s. 그게 필요하다고 하던데. 구해주면 답례할게.</text>
+	</string>
+	<string id="simulation_task_24_fetch_finish">
+		<text>멋져! 정말 고마워 여기.</text>
+	</string>
+	
+	<!-- Find Upgrade Parts Tasks -->	
+	<string id="simulation_task_25_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_25_text">
+		<text>누군가 자신의 총을 업그레이드해야 하는데 %s 업그레이드 키트를 찾아 가져오라고 했습니다.</text>
+	</string>
+	<string id="simulation_task_25_about">
+		<text>이 녹슨 총 보여? 드디어 만져줘야 할 때가 왔어. 도구를 나에게 가져오면 잘 지불해 줄게.</text>
+	</string>
+	<string id="simulation_task_25_fetch_about">
+		<text>이 녹슨 총 보여? 드디어 만져줘야 할 때가 왔어. 도구를 나에게 가져오면 잘 지불해 줄게. %s을 가져와 줘.</text>
+	</string>
+	<string id="simulation_task_25_fetch_finish">
+		<text>훌륭해. 여기 받아.</text>
+	</string>
+	
+	
+	<!-- HOSTAGE RESCUE FOR STALKER TASK -->
+	<string id="simulation_task_26_name">
+		<text>수색 구출 임무</text>
+	</string>
+	<string id="simulation_task_26_text">
+		<text>스토커의 친구가 밴딧에게 납치당했다. 그를 구하자.</text>
+	</string>
+	<string id="simulation_task_26_about">
+		<text>도움이 필요해. 친구가 밴딧들에게 강도를 당하고 인질로 잡혔어. 어떻게 해야 할지 모르겠어. 내 친구를 구해줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_26_finish">
+		<text>해냈구나! 정말, 정말 고마워. 여기 고생한 답례.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR DUTY TASK -->
+	<string id="simulation_task_27_name">
+		<text>수색 구출 임무</text>
+	</string>
+	<string id="simulation_task_27_text">
+		<text>듀티가 적에게 잡혀있다. 그를 구해와라.</text>
+	</string>
+	<string id="simulation_task_27_about">
+		<text>스토커, 우리 동료가 인질로 잡혔어! 구조 작업을 수행할 수 있을 만큼 유능한 사람이 절실히 필요해. 친구를 구해줘.</text>
+	</string>
+	<string id="simulation_task_27_finish">
+		<text>고마워, 스토커. 저녀석 얼굴을 다시 볼 줄이야! 여기, 받아줘.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
+	<string id="simulation_task_28_name">
+		<text>수색 구출 임무</text>
+	</string>
+	<string id="simulation_task_28_text">
+		<text>프리덤이 적에게 잡혀있다. 그를 구해와라.</text>
+	</string>
+	<string id="simulation_task_28_about">
+		<text>스토커, 우리 동료가 인질로 잡혔어! 구조 작업을 수행할 수 있을 만큼 유능한 사람이 절실히 필요해. 친구를 구해줘.</text>
+	</string>
+	<string id="simulation_task_28_finish">
+		<text>해냈구나! 고마워. 여기 고생한 답례.</text>
+	</string>
+
+
+	<!-- HOSTAGE RESCUE FOR ECOG TASK -->
+	<string id="simulation_task_29_name">
+		<text>수색 구출 임무</text>
+	</string>
+	<string id="simulation_task_29_text">
+		<text>과학자가 적에게 잡혀있다. 그를 구해와라.</text>
+	</string>
+	<string id="simulation_task_29_about">
+		<text>어, 제발 도와줘! 동료 중 한 명이 납치됐어. 그를 구출해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_29_finish">
+		<text>고마워, 스토커. 저놈을 다시 보니 너무 좋네! 보상이야. 받아줘.</text>
+	</string>
+
+
+	<!-- ASSASSINATION  FOR STALKER TASK -->
+	<string id="simulation_task_30_name">
+		<text>현상금 사냥꾼 사냥</text>
+	</string>
+	<string id="simulation_task_30_text">
+		<text>어떤 스토커가 현상금 사냥꾼을 제거해 달라고 부탁했다.</text>
+	</string>
+	<string id="simulation_task_30_about">
+		<text>그래, 도와줘! 어떤 개자식이 내 머리에 현상금을 걸었어. 그를 좀 처리해 줘. 그러면 그가 내게 준 현상금의 두 배를 네게 줄게.</text>
+	</string>
+	<string id="simulation_task_30_finish">
+		<text>고마워, 스토커! 여기 있습니다. 드디어 며칠 만에 처음으로 잘 수 있겠어!</text>
+	</string>
+
+
+	<!-- VENGEANCE  FOR STALKER TASK -->
+	<string id="simulation_task_31_name">
+		<text>복수</text>
+	</string>
+	<string id="simulation_task_31_text">
+		<text>스토커가 자기 동지의 죽음에 대한 복수를 부탁했다.</text>
+	</string>
+	<string id="simulation_task_31_about">
+		<text>어젯밤 우리 캠프에 강도가 몰래 들어와 내 친구를 잔인하게 살해했어. 이런 쓰레기들이 계속 숨쉬게 놔둘 순 없어. 날 위해 그놈을 죽여줘, 스토커. 그 보답으로, 내 전사한 전우의 소총을 줄게.</text>
+	</string>
+	<string id="simulation_task_31_finish">
+		<text>스토커 고마워, 넌 좋은 전사야. 쓰러진 내 동생을 위해 한 잔 하자.</text>
+	</string>
+
+	<!-- ASSASINATION  FOR MILITARY TASK -->
+	<string id="simulation_task_32_name">
+		<text>글로리 킬</text>
+	</string>
+	<string id="simulation_task_32_text">
+		<text>동료 병사가 내가 중요한 목표물을 암살할 수 없다고 장담했다.</text>
+	</string>
+	<string id="simulation_task_32_about">
+		<text>뭐, 승진이라도 하려는 거야? 이봐 신병. 내가 우연히 윗대가리들이 없애길 원하는 어떤 고부가가치 목표물의 위치를 알고 있어. 아마 넌 그놈한테 가까이 가지도 못할 걸?</text>
+	</string>
+	<string id="simulation_task_32_finish">
+		<text>오, 정말? 정말로? 젠장, 네게 괜히 내기했네. 아무튼 여기. </text>
+	</string>
+
+	<!-- ASSASSINATION  FOR MERC OR BANDIT TASK -->
+	<string id="simulation_task_33_name">
+		<text>청부살인</text>
+	</string>
+	<string id="simulation_task_33_text">
+		<text>살인 청부 맡았다.</text>
+	</string>
+	<string id="simulation_task_33_about">
+		<text>사실, 최근 일을 너무 많이 맡았어. 나 대신 내 계약서 한 장 넘겨받아 볼래? 현상금 대부분은 너한테 넘겨줄게.</text>
+	</string>
+	<string id="simulation_task_33_finish">
+		<text>잘했어. 여기.</text>
+	</string>
+	
+	<!-- Redemption for Monolith Simulation Task -->
+	<string id="simulation_task_34_name">
+		<text>구원</text>
+	</string>
+	<string id="simulation_task_34_text">
+		<text>모노리스 형제가 이교도에게 패배했다. 나는 그 불신자를 없애야 한다. 아무도 모노리스가 두렵지 않다고 생각하기 시작하지 않도록 말이다.</text>
+	</string>
+	<string id="simulation_task_34_about">
+		<text>형제 래빗이 모노리스의 목적을 위해 이교도 중 한 명을 죽여달라고 부탁했습니다. 목표에 도달하지 못했고, 때문에 그를 실망시킨 것 같아요. 제 임무를 완수하고 제 실패를 만회해 주시지 않겠습니까?</text>
+	</string>
+	<string id="simulation_task_34_finish">
+		<text>잘 하셨습니다. 당신과 함께 전능하신 모놀리스님을 섬기게 되어 영광입니다.</text>
+	</string>
+
+	<!-- Subcontractor for Bandit Simulation Task -->
+	<string id="simulation_task_35_name">
+		<text>청부살인</text>
+	</string>
+	<string id="simulation_task_35_text">
+		<text>도적들를 죽이는 계약을 따냈다.</text>
+	</string>
+	<string id="simulation_task_35_about">
+		<text>사실, 최근 일을 너무 많이 맡았어. 나 대신 내 계약서 한 장 넘겨받아 볼래? 현상금 대부분은 너한테 넘겨줄게.</text>
+	</string>
+	<string id="simulation_task_35_finish">
+		<text>고마워. 여기 돈.</text>
+	</string>
+
+	
+	<!-- Eliminate Enemy Forces for Monolith Simulation Task -->
+	<string id="simulation_task_36_name">
+		<text>적 분대 궤멸시키기</text>
+	</string>
+	<string id="simulation_task_36_text">
+		<text>그 지역에서 적이 발견되었다. 나는 모노리스의 이익을 위해 이교도들과 싸워야 한다.</text>
+	</string>
+	<string id="simulation_task_36_about">
+		<text>형제여, 우리는 이 지역에서 적을 보았다. 우리는 형제들에게 전투를 벌이도록 경고할 것이다. 지금 당장 가거라. 그들을 파괴하라.</text>
+	</string>
+	<string id="simulation_task_36_finish">
+		<text>잘 했다, 형제여.</text>
+	</string>
+
+	<!-- Scouting Expedition for Mercenary Simulation Task -->
+	<string id="simulation_task_37_name">
+		<text>정찰 임무</text>
+	</string>
+	<string id="simulation_task_37_text">
+		<text>나는 적군이 목격된 지역을 정찰하기 위해 파견되었다.</text>
+	</string>
+	<string id="simulation_task_37_about">
+		<text>이웃 지역에서 적의 활동이 보고되고 있으며, 우리 부대는 그들과 교전하는 임무를 맡고 있어. 공격에 대비해서 전방으로 정찰할 용의가 있는 사람을 찾고 있어. </text>
+	</string>
+	<string id="simulation_task_37_finish">
+		<text>훌륭해! 잘했어.</text>
+	</string>
+
+	
+	<!-- Clear Research Area for Ecologist Simulation Task -->
+	<string id="simulation_task_38_name">
+		<text>연구 지역 청소</text>
+	</string>
+	<string id="simulation_task_38_text">
+		<text>지역 파벌이 과학자를 괴롭히고 있다. 그는 나에게 연구를 진행하기 위해서 그들을 그 지역에서 쫓아내라고 했다.</text>
+	</string>
+	<string id="simulation_task_38_about">
+		<text>중요한 조사를 해야 할 분야가 있는데 그쪽으로 이사온 무단거주자들이 있어. 문제는 그 근처에 갈 때마다 저를 향해 총을 쏜다는 거지. 이 연구는 중요해. 그들을 '설득'할 수 있겠어?</text>
+	</string>
+	<string id="simulation_task_38_finish">
+		<text>고마워. 여기 감사의 표시로 이것을 받아 줘.</text>
+	</string>
+	
+	<!-- Push Back Monolith Incursion for Freedom Simulation Task -->
+	<string id="simulation_task_39_name">
+		<text>모노리스 격퇴하기</text>
+	</string>
+	<string id="simulation_task_39_text">
+		<text>프리덤은 이 장소 근처에서 모노리스 스토커들을 발견했다. 난 모노리스가 이 지역을 더 이상 침범하지 못하도록 막아야 한다. 그렇지 않으면 그들이 지원군을 데려올 것이다.</text>
+	</string>
+	<string id="simulation_task_39_about">
+		<text>아마 내말을 믿지 못할 거야. 순찰 중에 이 지역에 들렀을 때 여기서 멀지 않은 곳에 있는 모노리스 스토커들을 발견했어. 루카쉬와 그의 부하들에게 무전해야겠어. 그동안 이놈들을 좀 봐줄래? 도와주고 싶은데 내가 지금 숙취가 너무 심해. 아니, 내말은, 두통이 있어서.</text>
+	</string>
+	<string id="simulation_task_39_finish">
+		<text>그냥 감시하라고 했잖아, 세상에. 쓸어 버렸다고? 루카쉬가 지원군을 보낸다고 했는데, 더 이상 필요 없을 것 같네. 아, 그리고 루카쉬가 내가 이걸 너보고 주라고 했어. 어이, 저리 비켜! 내 근처엔 얼씬거리지 마! 미안. 어쨌든 다시 순찰할 병력이 생겼지. 그럼 안녕, 스토커.</text>
+	</string>
+	
+	<!-- Interdict Enemy Forces for Duty Simulation Task -->
+	<string id="simulation_task_40_name">
+		<text>적군 섬멸시키기</text>
+	</string>
+	<string id="simulation_task_40_text">
+		<text>나는 그 지역에 진입하는 적군을 요격하라는 요청을 받았다.</text>
+	</string>
+	<string id="simulation_task_40_about">
+		<text>도적들이 그 지역에 침입하고 있어. 사령관님께 알릴게. 내가 돌아올 때까지 그들을 붙잡아 둬.</text>
+	</string>
+	<string id="simulation_task_40_finish">
+		<text>훌륭해! 훌륭한 군인 그 자체로군.</text>
+	</string>
+	
+	<!-- Eliminate Dangerous Mutants for Duty Simulation Task -->
+	<string id="simulation_task_41_name">
+		<text>돌연변이 제거하기</text>
+	</string>
+	<string id="simulation_task_41_text">
+		<text>듀티를 위해 돌연변이 제거하기</text>
+	</string>
+	<string id="simulation_task_41_about">
+		<text>이 지역에서 위험한 돌연변이가 돌아다니면 안 돼. 누군가 죽을 거야. 저기로 가서 무리를 좀 솎아내줘.</text>
+	</string>
+	<string id="simulation_task_41_finish">
+		<text>잘했어, 여기 보상.</text>
+	</string>
+
+	<!-- Eliminate Dangerous Mutants for Clear Sky Simulation Task -->
+	<string id="simulation_task_42_name">
+		<text>돌연변이 제거하기</text>
+	</string>
+	<string id="simulation_task_42_text">
+		<text>클리어 스카이를 위해 돌연변이 제거하기.</text>
+	</string>
+	<string id="simulation_task_42_about">
+		<text>돌연변이 무리에게 습격당했어. 그들이 있는 곳을 알려줄게, 그들이 누군가를 죽이기 전에 그들을 제거해줘.</text>
+	</string>
+	<string id="simulation_task_42_finish">
+		<text>고마워, 보상으로 받아주세요.</text>
+	</string>
+
+	<!-- Eliminate Dangerous Mutants for Monolith Simulation Task -->
+	<string id="simulation_task_43_name">
+		<text>모노리스를 위해 돌연변이 제거하기</text>
+	</string>
+	<string id="simulation_task_43_text">
+		<text>모노리스를 위해 돌연변이 제거하기.</text>
+	</string>
+	<string id="simulation_task_43_about">
+		<text>그 지역에 위험한 돌연변이들이 있습니다. 그들은 우리 형제 중 한 명을 죽였습니다. 가서 그들을 제거하십시오.</text>
+	</string>
+	<string id="simulation_task_43_finish">
+		<text>잘 했습니다, 형제여.</text>
+	</string>
+	
+	<!-- Search the Stash Simulation Task -->
+	<string id="simulation_task_44_name">
+		<text>은닉처 탐색</text>
+	</string>
+	<string id="simulation_task_44_text">
+		<text>스토커가 좋은 은신처의 위치를 알려주었다. PDA를 회수하면 포상금을 주겠다고 했다.</text>
+	</string>
+	<string id="simulation_task_44_about">
+		<text>누군가 좋은 물건을 숨긴 곳을 알아요. 거기서 PDA를 찾으면, 돈을 지불할게. 다른 건 다 네 거야.</text>
+	</string>
+	<string id="simulation_task_44_finish">
+		<text>고마워!</text>
+	</string>
+
+	<!-- Drug Runner for Freedom Simulation Task -->
+	<string id="simulation_task_45_name">
+		<text>마약상</text>
+	</string>
+	<string id="simulation_task_45_text">
+		<text>프리덤의 수송품을 배달해야 한다.</text>
+	</string>
+	<string id="simulation_task_45_about">
+		<text>이봐, 최근에 '의약용품'이 떨어졌어. 주워서 가져다 줄래? 좀 이상하긴 하지만 별로 힘들진 않을 거야. 어때 돈 좀 만져보고 싶어?</text>
+	</string>
+	<string id="simulation_task_45_finish">
+		<text>하하 나이스! 잘 됐군. 정말 고마워. 나랑 애들은 우리가 처리해야 할 '부상'이 많으니까. 시식하려고 하지 않았길 바래. 그 물건은 좀 독해서 대부분의 스토커들이 다룰 수 없어서 말이야. 자, 여기. </text>
+	</string>
+
+	<!-- Retrieve Documents for Clear Sky Simulation Task -->
+	<string id="simulation_task_46_name">
+		<text>클리어 스카이를 위해 문서 되찾기</text>
+	</string>
+	<string id="simulation_task_46_text">
+		<text>클리어 스카이가 자신의 문서를 찾아달라 했다.</text>
+	</string>
+	<string id="simulation_task_46_about">
+		<text>돌연변이에게 공격당했을 때 숨겨둔 중요한 서류들이 있어. 그곳에 돌아가는 건 좀 두려워서. 그걸 구해 주면 기꺼이 돈을 지불하지.</text>
+	</string>
+	<string id="simulation_task_46_finish">
+		<text>고마워!</text>
+	</string>
+
+	
+	<!-- Find PDA Tasks -->
+	<string id="simulation_task_cl_name">
+		<text>통신 두절</text>
+	</string>
+	<string id="simulation_task_cl_text">
+		<text>스토커가 PDA를 구해 달라고 했다.</text>
+	</string>
+	<string id="simulation_task_cl_about">
+		<text>좀 도와 줄래? 내 PDA가 최근에 고장이 났아. 새걸 구해줘.</text>
+	</string>
+	<string id="simulation_task_cl_fetch_about">
+		<text>좀 도와 줄래? 내 PDA가 최근에 고장이 났아. 새걸 구해줘. 최대한 빨리, 알았지?</text>
+	</string>
+	<string id="simulation_task_cl_fetch_finish">
+		<text>정말, 고마워!</text>
+	</string>
+	<string id="simulation_task_ec_fetch_about">
+		<text>최근에 PDA가 고장난 것 같아. 결함이 있는 장비로는 제대로 작업도 할 수 없고 밴딧가 나타나길 기다릴 수도 없어서 말이야. 하나 찾아 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_ec_fetch_finish">
+		<text>고마워. 여기 보상.</text>
+	</string>
+
+	<!-- Deliver Package Simulation Task -->
+	<string id="simulation_task_47_name">
+		<text>배달 임무</text>
+	</string>
+	<string id="simulation_task_47_text_0">
+		<text>$comm에서 $item_1을 그의 친구에게 전달하는 임무중, 어딘가에 떨어뜨렸다고 한다. 되찾아야 한다.</text>
+	</string>
+	<string id="simulation_task_47_text_1">
+		<text>$comm으로부터 $item_1을 그의 친구에게 전달하라는 임무를 받았다.</text>
+	</string>
+	<string id="simulation_task_47_about">
+		<text>친구에게 전달해야 할 중요한 소포가 있어. 문제는 내가 지금 여기 갇혀 있어서, 떠날 수 없다는 거지. 그녀석한테 소포를 배달해줄 의향이 있어? 답례는 그녀석이 할거야.</text>
+	</string>
+	<string id="simulation_task_47_finish">
+		<text>고마워...</text>
+	</string>
+	<string id="st_simulation_task_47_0">
+		<text>이봐, 너에게 줄게 있어. 당신 친구, $name이 보낸 거야.</text>
+	</string>
+	<string id="st_simulation_task_47_1">
+		<text>딱 잘 왔어. 고마워, 친구. 내 친구에게 알려줄게. 여기 보상.</text>
+	</string>
+
+	<string id="simulation_task_48_name">
+		<text>배달 임무</text>
+	</string>
+	<string id="simulation_task_48_text_0">
+		<text>$comm에서 $item_1을 그의 친구에게 전달하라는 임무를 맡겼는데, 어딘가에 떨어뜨렸다. 되찾아야 한다.</text>
+	</string>
+	<string id="simulation_task_48_text_1">
+		<text>$comm에서 $item_1을 그의 친구에게 전달하라는 임무를 받았다.</text>
+	</string>
+	<string id="simulation_task_48_about">
+		<text>이 소포를 동료에게 배달해 줄 수 있어? 난 이곳을 떠날 수 없어. 그녀석한테 수고비를 지불하라고 연락할게.</text>
+	</string>
+	<string id="simulation_task_48_finish">
+		<text>고마워...</text>
+	</string>
+	<string id="st_simulation_task_48_0">
+		<text>이봐, 너에게 줄게 있어. 당신 동료가 전해달래. $name라고 했던가.</text>
+	</string>
+	<string id="st_simulation_task_48_1">
+		<text>아 전화가 왔었어, 고마워. 여기.</text>
+	</string>
+
+	<string id="simulation_task_49_name">
+		<text>배달 임무</text>
+	</string>
+	<string id="simulation_task_49_text_0">
+		<text>$comm에서 $item_1을 그의 친구에게 전달하라는 임무를 받았지만, 어딘가에 떨어뜨렸다. 되찾아야 한다.</text>
+	</string>
+	<string id="simulation_task_49_text_1">
+		<text>$comm에서 $item_1을 그의 친구에게 전달하라는 임무를 맡겼다</text>
+	</string>
+	<string id="simulation_task_49_about">
+		<text>좋아, 들어 봐, 이 소포 보이지? 이걸 징징거고 있는 내 친구한테 줘야해. 제발 전화좀 그만 쳐 걸라고 해줘. 내 일만 아니었다면, 가서 엉덩이에 쑤셔박아줬을 거야. 가져가서 배달료 요구하는거 잊지말고.</text>
+	</string>
+	<string id="simulation_task_49_finish">
+		<text>고마워...</text>
+	</string>
+	<string id="st_simulation_task_49_0">
+		<text>이봐, 너에게 줄게 있어. 당신 동료가 전해달래. $name라고 했던가.</text>
+	</string>
+	<string id="st_simulation_task_49_1">
+		<text>드디어 그 개자식이 내 메시지를 받았구나! 어디보자.... 이거 받아. 잘했어.</text>
+	</string>
+
+	<!-- Take Measurements of Anomaly Field Simulation Task -->
+	<string id="simulation_task_50_name">
+		<text>이상현상 연구</text>
+	</string>
+	<string id="simulation_task_50_text_0">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 부탁했지만, 잃어버린 $item_1을 먼저 회수해야 한다.</text>
+	</string>
+	<string id="simulation_task_50_text_1">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 요청했습니다.표시된 위치로 가야한다.</text>
+	</string>
+	<string id="simulation_task_50_text_2">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 요청했습니다.$item_1을 사용하여 측정할 수 있습니다.</text>
+	</string>
+	<string id="simulation_task_50_text_3">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 요청했습니다.이제 $item_1에 기록된 결과를 가지고 그에게 돌아갈 수 있습니다.</text>
+	</string>
+	<string id="simulation_task_50_about">
+		<text>칼란차 교수님이 내게 이상현상을 연구하라고 했어. 내가 이미 몇 가지 중요한 일을 하지 않았더라면 좋았을 텐데. 내 장치를 가지고 가서 치수를 재는 게 어때? 수고비는 지불할게.</text>
+	</string>
+	<string id="simulation_task_50_finish">
+		<text>치수는? 좋아, 여기 보상.</text>
+	</string>
+	
+	<!-- Take Measurements of Anomaly Field Simulation Task -->
+	<string id="simulation_task_51_name">
+		<text>이상현상 연구</text>
+	</string>
+	<string id="simulation_task_51_text_0">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 부탁했지만, 잃어버린 $item_1을 먼저 회수해야 한다.</text>
+	</string>
+	<string id="simulation_task_51_text_1">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 요청했습니다.표시된 위치로 가야한다.</text>
+	</string>
+	<string id="simulation_task_51_text_2">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 요청했습니다.$item_1을 사용하여 측정할 수 있습니다.</text>
+	</string>
+	<string id="simulation_task_51_text_3">
+		<text>$comm이 이상현상을 공부하는 것을 도와달라고 요청했습니다.이제 $item_1에 기록된 결과를 가지고 그에게 돌아갈 수 있습니다.</text>
+	</string>
+	<string id="simulation_task_51_about">
+		<text>사실 특이한 이상 현상의 치수를 재고 결과를 가져올 사람이 필요해요.
+		\n작업에 적합한 장치를 마련했어. 이 장치는 열악한 환경 조건을 견디고 간섭에도 불구하고 정확한 데이터를 수집하도록 설계되었습니다.
+		\n해줄래?</text>
+	</string>
+	<string id="simulation_task_51_finish">
+		<text>훌륭해! 큰 도움이 됐어. 자, 받아줘.</text>
+	</string>
+	
+	<!-- Find Fate of Missing Squad Simulation Task -->
+	<string id="simulation_task_52_name">
+		<text>잃어버린 신호 ($freq MHz)</text>
+	</string>
+	<string id="simulation_task_52_text_0">
+		<text>$comm에서 잃어버린 팀을 추적하라는 임무를 맡았지만 $item_1가 필요하다.</text>
+	</string>
+	<string id="simulation_task_52_text_1">
+		<text>나는 $comm에서 실종된 팀을 추적해서 그들에게 무슨 일이 일어났는지 알아내는 임무를 맡았다.$map으로 가야겠다.</text>
+	</string>
+	<string id="simulation_task_52_text_2">
+		<text>나는 $comm에서 그의 실종된 팀을 추적해서 그들에게 무슨 일이 일어났는지 알아내는 임무를 맡았다.$item_1를 사용해서 주파수를 $freq MHz로 설정한 뒤, 신호가 잡힐 때 까지 돌아다니는 수밖에 없다.</text>
+	</string>
+	<string id="simulation_task_52_text_3">
+		<text>나는 $comm에서 그의 실종된 팀을 추적해서 그들에게 무슨 일이 일어났는지 알아내는 임무를 맡았다. 찾은 $item_2를 찾아야 한다.</text>
+	</string>
+	<string id="simulation_task_52_text_4">
+		<text>나는 $comm에서 그의 실종된 팀을 추적해서 그들에게 무슨 일이 일어났는지 알아내는 임무를 맡았다.\n 제 연구 결과를 가지고 그에게 돌아와야 한다.</text>
+	</string>
+	<string id="simulation_task_52_about">
+		<text>긴급히 도움이 필요해. 며칠 전에 부대가 파견되었지만 돌아오는 길에 연락이 끊겼다. 흔적도 없이 사라졌다고! 가서 그들을 찾거나 최소한 무슨 일이 있었는지에 대한 단서라도 찾아줘.
+		\n너 RF수신기 있지? 우리는 그거로 신호를 보내. 그걸 이용해서 그들을 찾을 수 있을 거야.</text>
+	</string>
+	<string id="simulation_task_52_finish">
+		<text>젠장. PDA는 그들의 마지막 순간에 대한 기록을 가지고 있다. 복병인 것 같군. 고마워. 여기 보상.</text>
+	</string>
+	
+	<!-- FIND SUPPLIES FOR RENEGADE TASK -->
+	<string id="simulation_task_53_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_53_text">
+		<text>한 스토커가 %s을(를) 찾는다면, 좋은 물건을 준다고 했다.</text>
+	</string>
+	<string id="simulation_task_53_about">
+		<text>전리품 교환이나 해줄까?</text>
+	</string>
+	<string id="simulation_task_53_fetch_about">
+		<text>%s을(를) 찾을 수 있으면 좋은 물건을 주지.</text>
+	</string>
+	<string id="simulation_task_53_fetch_finish">
+		<text>좋군. 여기!</text>
+	</string>
+	
+	<!-- FIND WEAPON FOR RENEGADE TASK -->
+	<string id="simulation_task_54_name">
+		<text>무기 밀매</text>
+	</string>
+	<string id="simulation_task_54_text">
+		<text>레네게이드에게 추적 불가능한 %s이(가) 필요합니다.</text>
+	</string>
+	<string id="simulation_task_54_about">
+		<text>이봐, 나한테서 추적할 수 없는 라이플이 필요해. 무슨 뜻인지 알겠어? 도와줄 수 있지?</text>
+	</string>
+	<string id="simulation_task_54_fetch_about">
+		<text>추적 불가능한 %s이(가) 필요해. 사고, 훔치고, 약탈하고, 뭐든 괜찮아. 하나만 사줘. 두 배의 값을 지불할게.</text>
+	</string>
+	<string id="simulation_task_54_fetch_finish">
+		<text>좋아! 내가 약속했던 거. 그리고 넌 날 만난적 없는거야, 알겠어?</text>
+	</string>
+	
+	<!-- Mutant Meat Stew for Renegade Simulation Task -->
+	<string id="simulation_task_55_name">
+		<text>%s 스튜</text>
+	</string>
+	<string id="simulation_task_55_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 레시피를 가지고 있다.</text>
+	</string>
+	<string id="simulation_task_55_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_55_fetch_about">
+		<text>%s. 몇 점만 얻어주면 좋겠어. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_55_fetch_finish">
+		<text>오늘 저녁은 이거겠구만! 고마워, 스토커. 여기. 아, 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서.</text>
+	</string>
+	
+	<!-- Subcontractor for Renegade Simulation Task -->
+	<string id="simulation_task_56_name">
+		<text>레네게이드 제거</text>
+	</string>
+	<string id="simulation_task_56_text">
+		<text>레네게이드를 위해 청부 살인은 해주기로 했다.</text>
+	</string>
+	<string id="simulation_task_56_about">
+		<text>사실, 최근 일을 너무 많이 맡았어. 나 대신 내 계약서 한 장 넘겨받아 볼래? 현상금 대부분은 너한테 넘겨줄게.</text>
+	</string>
+	<string id="simulation_task_56_finish">
+		<text>고마워.</text>
+	</string>
+	
+		<!-- Find Supplies for ISG Simulation Task -->
+	<string id="simulation_task_57_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_57_text">
+		<text>UNISG에게 %s를 구해주기로 했다.</text>
+	</string>
+	<string id="simulation_task_57_about">
+		<text>보급이 떨어져서. 도와줄래?</text>
+	</string>
+	<string id="simulation_task_57_fetch_about">
+		<text>보급이 떨어져서 그러는데 도와줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_57_fetch_finish">
+		<text>고마워!</text>
+	</string>
+	
+		<!-- Find a Reliable Weapon for ISG Simulation Task -->
+	<string id="simulation_task_58_name">
+		<text>구해 오기 : 괜찮은 %s </text>
+	</string>
+	<string id="simulation_task_58_text">
+		<text>구해 오기 : 괜찮은 %s </text>
+	</string>
+	<string id="simulation_task_58_about">
+		<text>내가 받은 이 소총, 적당히 쓰레기여야 말이지. 총격전 때마다 걸리고 탄이 튀어. 새 것을 찾아 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_58_fetch_about">
+		<text>%s을 구해줘. 보상은 충분히 할게.</text>
+	</string>
+	<string id="simulation_task_58_fetch_finish">
+		<text>훌륭해! 아주 잘 빠졌구만. 여기.</text>
+	</string>
+	
+	<!-- Scouting Expedition for ISG Simulation Task -->
+	<string id="simulation_task_59_name">
+		<text>이해 상충</text>
+	</string>
+	<string id="simulation_task_59_text">
+		<text>침입자가 발견된 영역을 청소해야합니다. 마주친 적과 교전하십시오.</text>
+	</string>
+	<string id="simulation_task_59_about">
+		<text>우리 팀의 임무에 위험을 초래할 수 있는 그룹이 특정 됐어. 어떻게 하든 상관없지만, 우린 그들이 해당 장소에서 나가줬으면 해서. 장소를 확보해 줄 사람을 찾고 있어.</text>
+	</string>
+	<string id="simulation_task_59_finish">
+		<text>좋아. 잘했어.</text>
+	</string>
+	
+	<!-- FIND ARTEFACT FOR ISG TASK -->
+	<string id="simulation_task_60_name">
+		<text>구해 오기 : "%s" 아티팩트</text>
+	</string>
+	<string id="simulation_task_60_text">
+		<text>UNISG 가 "%s" 아티팩트를 구하는 중이다.</text>
+	</string>
+	<string id="simulation_task_60_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_60_fetch_about">
+		<text>우리 고객들은 아티팩트를 연구하고 있는데, 그들은 "%s" 아티팩트가 필요하데. 그 임무를 받은 운 좋은 남자가 누굴까? 그래 맞아, 바로 나야. 그러니 부탁 좀 들어줘. 보상은 충분히 할게.</text>
+	</string>
+	<string id="simulation_task_60_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+	
+	<!-- Take Measurements of Anomaly Field Simulation Task -->
+	<string id="simulation_task_61_name">
+		<text>이상현상 연구</text>
+	</string>
+	<string id="simulation_task_61_text_0">
+		<text>$comm이 이상현상 필드를 연구하는 것을 도와달라고 요청했지만, 먼저 잃어버린 $item_1을 회수해야 합니다.</text>
+	</string>
+	<string id="simulation_task_61_text_1">
+		<text>$comm이 이상현상 필드를 연구하는 것을 도와달라고 요청했습니다.\n표시된 위치로 이동해야합니다.</text>
+	</string>
+	<string id="simulation_task_61_text_2">
+		<text>$comm이 이상현상 필드를 연구하는 것을 도와달라고 요청했습니다.\n$item_1을 사용하여 측정을 수행합니다.</text>
+	</string>
+	<string id="simulation_task_61_text_3">
+		<text>$comm이 이상현상 필드를 연구하는 것을 도와달라고 요청했습니다.\n$item_1과 기록된 결과를 그에게 반환해야합니다.</text>
+	</string>
+	<string id="simulation_task_61_about">
+		<text>이 곳에서 우리가 하는 일의 일부는 이상현상 활동을 연구하고 보고하는 거야. 이상현장을 연구하고 측정해서 결과를 가져올 사람이 필요해.
+		\n이거 가지고 가. 이 장치는 열악한 환경 조건을 견디고 간섭에도 불구하고 정확한 데이터를 수집하도록 설계되있어.
+		\n어때?</text>
+	</string>
+	<string id="simulation_task_61_finish">
+		<text>진짜 고마워. 시간이 부족했거든. 여기!</text>
+	</string>
+	
+	<!-- Bring patches for Sin Simulation Task -->
+	<string id="simulation_task_62_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_62_text">
+		<text>씬이 %s을(를) 수집해 달라 요청했습니다.</text>
+	</string>
+	<string id="simulation_task_62_about">
+		<text>존은 오물로부터 정화되어야 한다. 그 쓰레기들을 죽이고 그들의 유니폼 패치를 가져와라.</text>
+	</string>
+	<string id="simulation_task_62_fetch_about">
+		<text>존은 오물로부터 정화되어야 한다. 그 쓰레기들을 죽이고 그들의 유니폼 패치를 가져와라.</text>
+	</string>
+	<string id="simulation_task_62_fetch_finish">
+		<text>여기 보상. 고마워.</text>
+	</string>
+	
+	<!-- Redemption for Sin Simulation Task -->
+	<string id="simulation_task_63_name">
+		<text>구원</text>
+	</string>
+	<string id="simulation_task_63_text">
+		<text>동료 모노리스 전사가 이교도에게 패배했다. 우리는 우리 형제들을 도와서 그를 쓰러뜨려야 한다.</text>
+	</string>
+	<string id="simulation_task_63_about">
+		<text>형제여, 우리는 모놀리스와 우리의 대의를 위해 뻔뻔한 이교도들을 죽일 것입니다. 도와주실 의향이 있으십니까?</text>
+	</string>
+	<string id="simulation_task_63_finish">
+		<text>잘 하셨습니다. 당신과 함께 전능하신 모놀리스님을 모시게 되어 영광입니다.</text>
+	</string>
+	
+	<!-- Eliminate Enemy Forces for Sin Simulation Task -->
+	<string id="simulation_task_64_name">
+		<text>적 분대 격퇴하기</text>
+	</string>
+	<string id="simulation_task_64_text">
+		<text>적군이 발견되었다. 씬 위해 그 이단자를 멸하십시오.</text>
+	</string>
+	<string id="simulation_task_64_about">
+		<text>형제여, 우리는 이 지역에서 적을 보았다. 우리는 형제들에게 전투 준비를 하라고 경고할 것이다. 지금 당장 가거라. 이교도들은 정화되어야 한다.</text>
+	</string>
+	<string id="simulation_task_64_finish">
+		<text>잘 했다, 형제여.</text>
+	</string>
+
+	<!-- Eliminate Dangerous Mutants for Sin Simulation Task -->
+	<string id="simulation_task_65_name">
+		<text>씬을 위해 돌연변이 제거하기</text>
+	</string>
+	<string id="simulation_task_65_text">
+		<text>씬을 위해 그 지역의 돌연변이를 도살한다.</text>
+	</string>
+	<string id="simulation_task_65_about">
+		<text>이 지역의 돌연변이 개체수가 불안정해지고 있어. 우리는 균형을 유지하기 위해 그들의 수를 도태시켜야 해.</text>
+	</string>
+	<string id="simulation_task_65_finish">
+		<text>잘했다. 형제여.</text>
+	</string>
+	
+	<!-- Night-time Mutant hunting TASK -->
+	<string id="simulation_task_66_name">
+		<text>밤의 포식자 사냥하기</text>
+	</string>
+	<string id="simulation_task_66_text">
+		<text>밤에 돌아다니는 위험한 포식자를 잡는 것을 도와달라는 요청을 받았다. 그것이 날 찾기전에 먼저 찾아야한다.</text>
+	</string>
+	<string id="simulation_task_66_about">
+		<text>어제, 한 야수가 지역을 배회하고 있었어. 그리고 그게 우리 동료 중 한 명을 죽였다고! 그 새끼가 숨기 전에 처리해야 해. 도와줄거지?</text>
+	</string>
+	<string id="simulation_task_66_finish">
+		<text>휴, 아슬아슬했어... 고마워. 여기 네 몫이야.</text>
+	</string>
+	
+	<string id="simulation_task_67_name">
+		<text>야수 제거 하기</text>
+	</string>
+	<string id="simulation_task_67_text">
+		<text>밤에 돌아다니는 위험한 포식자를 잡는 것을 도와달라는 요청을 받았다. 다른 스토커를 더 죽이기 전에 처리해야한다.</text>
+	</string>
+	<string id="simulation_task_67_about">
+		<text>우린 위험한 밤생물을 죽이는 임무를 맡았어. 오늘 밤에 실행할 거야. 그렇지 않으면 우리 동료들이 더 죽어나겠지. 도와줄래? 같이 가자, 그러면 같이 야수를 쓰러뜨릴 수 있을 거야, 어때?</text>
+	</string>
+	<string id="simulation_task_67_finish">
+		<text>우리가 해냈어! 잘 했어, 친구. 이거 받아, 신세 많이 졌어.</text>
+	</string>
+	
+	<!-- RESCUE UNDERCOVER AGENT -->
+	<string id="spy_task_name">
+		<text>위기일발</text>
+	</string>
+	<string id="spy_task_text">
+		<text>잠복 요원을 적 분대에서 안전하게 구출해야 한다. 요원을 제외한 적 분대를 모두 죽이고 잠복 요원을 기지로 호위하십시오. 요원은 임무상 다른 분대가 모두 제거될 때까지 당신을 공격할 것이며 SVD를 사용한다.</text>
+	</string>
+	<string id="spy_task_about">
+		<text>우리의 첩보원 하나가 적의 파벌에 잠입했어. 하지만 적이 그를 의심하고 있는 것 같아. 지난 몇 번의 통신 시도에도 응답하지 않았고, 메시지도 보내지 않았더군. 그는 아마 엄중한 감시를 받고 있어서 더 이상 임무를 수행할 여유가 없을 거야. 심증만으로 그를 제거할 수도 있다는 것은 말할 것도 없겠지. 그를 구해야 해. 우리는 그의 위치를 찾을 수 있었지만, 그는 혼자가 아닌 것 같아. 적 부대를 죽이고 요원을 우리 기지로 호송해줘. 무장으로 그를 알아볼 수 있어, 그는 SVD를 가지고 있어. 경고 하지: 그 녀석은 잠입중이야. 너한테 바로 반격해 올거라고. 명심해.</text>
+	</string>
+	<string id="spy_task_finish">
+		<text>좋아. 즉시 보고하도록 하지.</text>
+	</string>
+	<string id="spy_task_join">
+		<text>사격 중지! 내가 스파이야! 미안해, 임무중이라서 이렇게 해야 했어. 이제 기지로 돌아가자.</text>
+	</string>
+	<string id="spy_task_leave">
+		<text>이제 헤어지자고, 다음에 또 봐!</text>
+	</string>
+
+	<!-- HOSTAGE INTERACTION  TEXT -->
+	<string id="hostage_companion_task_1_start_dialog_1">
+		<text>고...고마워! 너가 몇분만 늦었어도 아마 나는- 아니, 생각하고 싶지도 않군. 내 목숨을 빚졌어, 친구.</text>
+	</string>
+	<string id="hostage_companion_task_1_actor_reply">
+		<text>살고 싶으면 날 따라와!</text>
+	</string>
+
+
+	<!-- NIMBLE SPECIAL ORDER TEXT -->
+	<string id="esc_2_12_nimble_items_get_order_name">
+		<text>특별 주문: 물건 수령</text>
+	</string>
+	<string id="esc_2_12_nimble_items_get_order_text">
+		<text>상품이 도착했습니다. 님블에게 받으러 가자.</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_name">
+		<text>특별 주문: 기다리기</text>
+	</string>
+	<string id="esc_2_12_nimble_items_wait_order_text">
+		<text>주문이 완료됐다. 이제 님블이 물건을 구해올 때까지 기다리자.</text>
+	</string>
+
+
+	<!-- SURGE HIDE MESSAGES -->
+	<string id="hide_from_surge_message">
+		<text>주목! 에미션 임박!</text>
+	</string>
+	<string id="hide_from_surge_descr_1_a">
+		<text>에미션 임박, 즉시 대피소로 이동하십시오!</text>
+	</string>
+	<string id="hide_from_surge_descr_2_a">
+		<text>에미션 도중 대피소에서 떠나면 목숨을 잃을 것입니다.</text>
+	</string>
+	<string id="hide_from_surge_name_1">
+		<text>에미션: 대피소 찾기</text>
+	</string>
+	<string id="hide_from_surge_name_2">
+		<text>에미션: 대피소에서 대기</text>
+	</string>
+
+
+	<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_rad_message_caption">
+		<text>주목!</text>
+	</string>
+	<string id="hide_from_fallout_rad_message">
+		<text>방사능 낙진이 시작됨.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_1_a">
+		<text>방사능 수치가 위험하다. 방사능 낙진으로부터 몸을 숨겨야 한다.</text>
+	</string>
+	<string id="hide_from_fallout_rad_descr_2_a">
+		<text>방사능 낙진땐 대피소에서 떠나면 안 됩니다.</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_1">
+		<text>방사능 낙진: 대피소 찾기</text>
+	</string>
+	<string id="hide_from_fallout_rad_name_2">
+		<text>방사능 낙진: 대피소에서 대기</text>
+	</string>
+	<string id="end_fallout_rad_message_caption">
+		<text>주목!</text>
+	</string>
+	<string id="end_fallout_rad_message">
+		<text>낙진이 끝남</text>
+	</string>
+
+	<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_acid_message_caption">
+		<text>주목!</text>
+	</string>
+	<string id="hide_from_fallout_acid_message">
+		<text>Chemical fallout begins.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_1_a">
+		<text>The level of contamination is dangerous. You should hide from the chemical fallout.</text>
+	</string>
+	<string id="hide_from_fallout_acid_descr_2_a">
+		<text>I shouldn't leave shelter during a chemical fallout.</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_1">
+		<text>생화학 낙진: 대피소 찾기</text>
+	</string>
+	<string id="hide_from_fallout_acid_name_2">
+		<text>생화학 낙진: 대피소에서 대기</text>
+	</string>
+	<string id="end_fallout_acid_message_caption">
+		<text>주목!</text>
+	</string>
+	<string id="end_fallout_acid_message">
+		<text>Chemical fallout has ended</text>
+	</string>
+
+	<!-- ATMOSFEAR PSI STORM MESSAGES -->
+	<string id="hide_from_psi_storm_message_caption">
+		<text>주목!</text>
+	</string>
+	<string id="hide_from_psi_storm_message">
+		<text>정신파 폭풍이 시작됨.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_1_a">
+		<text>정신파 폭풍을 피할 곳을 찾아야한다.</text>
+	</string>
+	<string id="hide_from_psi_storm_descr_2_a">
+		<text>정신파 폭풍이 몰아칠 땐 대피소에서 나가면 안된다.</text>
+	</string>
+	<string id="hide_from_psi_storm_name_1">
+		<text>정신파 폭풍: 대피소 찾기</text>
+	</string>
+	<string id="hide_from_psi_storm_name_2">
+		<text>정신파 폭풍: 대피소에서 대기</text>
+	</string>
+	<string id="end_psi_storm_caption">
+		<text>주목!</text>
+	</string>
+	<string id="end_psi_storm_message">
+		<text>정신파 폭풍이 끝남</text>
+	</string>
+
+
+	<!-- FACTION BASE DEFENSE VS MUTANTS -->
+	<string id="faction_base_defense_name">
+		<text>돌연변이로 부터 거점을 지켜라</text>
+	</string>
+	<string id="faction_base_defense_yantar_name">
+		<text>좀비 스토커로부터 생태학자 캠프를 방어하라.</text>
+	</string>
+	<string id="faction_base_defense_text">
+		<text>돌연변이들이 기지를 공격하고 있다!</text>
+	</string>
+	<string id="faction_base_defense_yantar_text">
+		<text>좀비 스토커들이 이동식 연구소를 공격하고 있다. 도와줘! 현재 진행 중인 방출은 여러분에게 해를 끼칠 만큼 충분히 강하지 않다! 옥상에서 기관총을 사용하도록.</text>
+	</string>
+	
+	
+	<string id="fetch_drugkit_task_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="fetch_drugkit_task_text">
+		<text>%s을(를) 찾아서 가져오는 임무를 받았다.</text>
+	</string>
+	<string id="fetch_drugkit_task_about">
+		<text>매일 치료해야 하는 부상자 때문에 의료품을 유지하는 게 어려워. 조만간 붕대와 의약품이 떨어질까 봐 걱정이이야. 그 오래된 약 제조 도구 중 하나를 가져다 줬으면 해. 도움이 될 거야.</text>
+	</string>
+	<string id="fetch_drugkit_task_fetch_about">
+		<text>%s이(가) 급히 필요해. 알약과 앰플이 들어있을 텐데, 의료용품을 좀 더 준비해야겠어. 풀세트를 가져다 주시면 그 키트 중 하나를 지불하지.</text>
+	</string>
+	<string id="fetch_drugkit_task_fetch_finish">
+		<text>고마워. 여기.</text>
+	</string>
+	
+	
+			<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_68_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_68_text">
+		<text>클리어스카이가 %s 유물에 대한 대가로 보상을 주기로 했다.</text>
+	</string>
+	<string id="simulation_task_68_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_68_fetch_about">
+		<text>니가 만약 "%s" 아티팩트를 가지고 오면 잘 쳐줄게. 어때?</text>
+	</string>
+	<string id="simulation_task_68_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_69_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_69_text">
+		<text>과학자가 %s 유물에 대한 대가로 보상을 주기로 했다.</text>
+	</string>
+	<string id="simulation_task_69_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_69_fetch_about">
+		<text>니가 만약 "%s" 아티팩트를 가지고 오면 잘 쳐줄게. 어때?</text>
+	</string>
+	<string id="simulation_task_69_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_70_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_70_text">
+		<text>프리덤이 %s 유물에 대한 대가로 보상을 주기로 했다.</text>
+	</string>
+	<string id="simulation_task_70_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_70_fetch_about">
+		<text>니가 만약 "%s" 아티팩트를 가지고 오면 잘 쳐줄게. 어때?</text>
+	</string>
+	<string id="simulation_task_70_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_71_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_71_text">
+		<text>용병이 %s 유물에 대한 대가로 보상을 주기로 했다.</text>
+	</string>
+	<string id="simulation_task_71_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_71_fetch_about">
+		<text>니가 만약 "%s" 아티팩트를 가지고 오면 잘 쳐줄게. 어때?</text>
+	</string>
+	<string id="simulation_task_71_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_72_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_72_text">
+		<text>동료 스토커가 %s 유물에 대한 대가로 보상을 주기로 했다.</text>
+	</string>
+	<string id="simulation_task_72_about">
+		<text>아티팩트 사냥 좀 해볼래?</text>
+	</string>
+	<string id="simulation_task_72_fetch_about">
+		<text>니가 만약 "%s" 아티팩트를 가지고 오면 잘 쳐줄게. 어때?</text>
+	</string>
+	<string id="simulation_task_72_fetch_finish">
+		<text>드디어! 자 여기 보상!</text>
+	</string>
+	
+		<!-- FIND ARTEFACT FOR MILITARY TASK -->
+	<string id="simulation_task_73_name">
+		<text>구해 오기 : %s 아티팩트</text>
+	</string>
+	<string id="simulation_task_73_text">
+		<text>군인이 %s 유물에 대한 대가로 보상을 주기로 했다.</text>
+	</string>
+	<string id="simulation_task_73_about">
+		<text>규정에 어긋나는 건 알지만, 곧 돌아가게 될 거야. 기념품을 가지고 돌아오고 싶어. 아티팩트좀 찾아 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_73_fetch_about">
+		<text>"%s" 아티팩트를 찾고 싶어. 하나 찾으면 내 라이플을 줄게.</text>
+	</string>
+	<string id="simulation_task_73_fetch_finish">
+		<text>대단해! 내가 약속했던 거. 지휘관에겐 알리지 마.</text>
+	</string>
+	
+		<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_74_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_74_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_74_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_74_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_74_fetch_finish">
+		<text>오오! 오늘 저녁은 맛있겠구만! 고마워, 스토커. 여기 받아. 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서. 가져가.</text>
+	</string>
+	
+		<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_75_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_75_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_75_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_75_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_75_fetch_finish">
+		<text>오오! 오늘 저녁은 맛있겠구만! 고마워, 스토커. 여기 받아. 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서. 가져가.</text>
+	</string>
+	
+		<string id="simulation_task_76_name">
+		<text>%s 스튜</text>
+	</string>
+	<string id="simulation_task_76_text">
+		<text>밴딧가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_76_about">
+		<text>이봐, 돌연변이 고기 먹어본 적이 있어? 배고프지 않으면 만지지도 않을 것이지만 개인적으로 좋아하거든. 사냥은 잘 하는 편이야?</text>
+	</string>
+	<string id="simulation_task_76_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_76_fetch_finish">
+		<text>오늘 저녁은 이거겠구만! 고마워, 스토커. 여기. 아, 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서.</text>
+	</string>
+	
+		<string id="simulation_task_77_name">
+		<text>%s 스튜</text>
+	</string>
+	<string id="simulation_task_77_text">
+		<text>밴디트가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_77_about">
+		<text>이봐, 돌연변이 고기 먹어본 적이 있어? 배고프지 않으면 만지지도 않을 것이지만 개인적으로 좋아하거든. 사냥은 잘 하는 편이야?</text>
+	</string>
+	<string id="simulation_task_77_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_77_fetch_finish">
+		<text>오늘 저녁은 이거겠구만! 고마워, 스토커. 여기. 아, 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서.</text>
+	</string>
+	
+		<string id="simulation_task_78_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_78_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_78_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_78_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_78_fetch_finish">
+		<text>오늘 저녁은 이거겠구만! 고마워, 스토커. 여기. 아, 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서.</text>
+	</string>
+	
+		<string id="simulation_task_79_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_79_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_79_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_79_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_79_fetch_finish">
+		<text>오오! 오늘 저녁은 맛있겠구만! 고마워, 스토커. 여기 받아. 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서. 가져가.</text>
+	</string>
+	
+		<string id="simulation_task_80_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_80_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_80_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_80_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_80_fetch_finish">
+		<text>오오! 오늘 저녁은 맛있겠구만! 고마워, 스토커. 여기 받아. 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서. 가져가.</text>
+	</string>
+	
+		<string id="simulation_task_81_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_81_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_81_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_81_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_81_fetch_finish">
+		<text>오오! 오늘 저녁은 맛있겠구만! 고마워, 스토커. 여기 받아. 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서. 가져가.</text>
+	</string>
+	
+		<string id="simulation_task_82_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_82_text">
+		<text>한 스토커가 돌연변이 고기에 관한 특별한 조리법을 가지고 있다. %s을(를) 가져와야 합니다.</text>
+	</string>
+	<string id="simulation_task_82_about">
+		<text>돌연변이 고기 먹어봤어? 어지간히 배가 고프지 않으면 손을 대지 않겠지만, 개인적으로 좋아해서. 사냥은 잘 해?</text>
+	</string>
+	<string id="simulation_task_82_fetch_about">
+		<text>%s 몇 점 구해주면 그만한 가치가 있는 요리로 만들어 줄게. 음... 생각만 해도 침이 고이는구만.</text>
+	</string>
+	<string id="simulation_task_82_fetch_finish">
+		<text>오오! 오늘 저녁은 맛있겠구만! 고마워, 스토커. 여기 받아. 그리고 여기. 내 소총에 맞지 않는 탄약이 있어서. 가져가.</text>
+	</string>
+	
+		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+	<string id="simulation_task_83_name">
+		<text>(로너) 구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_83_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_83_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_83_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지, 스토커.</text>
+	</string>
+	<string id="simulation_task_83_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<!-- FIND MUTANT PARTS FOR LONERS TASK -->
+	<string id="simulation_task_84_name">
+		<text>(클리어 스카이)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_84_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_84_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_84_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_84_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<string id="simulation_task_85_name">
+		<text>(프리덤) 구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_85_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_85_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_85_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_85_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<string id="simulation_task_86_name">
+		<text>(듀티)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_86_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_86_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_86_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_86_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<string id="simulation_task_87_name">
+		<text>(내무군)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_87_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_87_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_87_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_87_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<string id="simulation_task_88_name">
+		<text>(로너)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_88_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_88_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_88_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_88_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<!-- FIND MUTANT PARTS FOR ECOGS TASK -->
+	<string id="simulation_task_89_name">
+		<text>(과학자)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_89_text">
+		<text>%s에서 %s이(가) 조직 검체를 가져오도록 요청했습니다.</text>
+	</string>
+	<string id="simulation_task_89_about">
+		<text>노련한 스토커나 돌연변이 사냥꾼이 필요해. 해볼래?</text>
+	</string>
+	<string id="simulation_task_89_fetch_about">
+		<text>%s에게 조직 샘플을 수집해야 해. 어떻게 구하든 상관 없어요, 그냥 신선하게만 가지고 와줘. 변이체로부터 필요한 것을 되찾는 즉시 가지고 와줘.</text>
+	</string>
+	<string id="simulation_task_89_fetch_finish">
+		<text>고마워. 연구에 큰 기여를 한거야.</text>
+	</string>
+	
+			<string id="simulation_task_90_name">
+		<text>(듀티)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_90_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_90_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_90_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_90_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<string id="simulation_task_91_name">
+		<text>(용병)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_91_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_91_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_91_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_91_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<string id="simulation_task_92_name">
+		<text>(과학자)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_92_text">
+		<text>%s에서 %s이(가) 조직 검체를 가져오도록 요청했습니다.</text>
+	</string>
+	<string id="simulation_task_92_about">
+		<text>노련한 스토커나 돌연변이 사냥꾼이 필요해. 해볼래?</text>
+	</string>
+	<string id="simulation_task_92_fetch_about">
+		<text>%s에게 조직 샘플을 수집해야 해. 어떻게 구하든 상관 없어요, 그냥 신선하게만 가지고 와줘. 변이체로부터 필요한 것을 되찾는 즉시 가지고 와줘.</text>
+	</string>
+	<string id="simulation_task_92_fetch_finish">
+		<text>고마워. 연구에 큰 기여를 한거야.</text>
+	</string>
+	
+			<string id="simulation_task_93_name">
+		<text>(듀티)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_93_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_93_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_93_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_93_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+			<string id="simulation_task_94_name">
+		<text>(용병)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_94_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_94_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_94_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_94_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+			<string id="simulation_task_95_name">
+		<text>(로너)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_95_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_95_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_95_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_95_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+			<string id="simulation_task_96_name">
+		<text>(클리어 스카이)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_96_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_96_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_96_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_96_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+			<string id="simulation_task_97_name">
+		<text>(로너)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_97_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_97_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_97_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_97_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+			<string id="simulation_task_98_name">
+		<text>(과학자)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_98_text">
+		<text> %s의 샘플 구하기.</text>
+	</string>
+	<string id="simulation_task_98_about">
+		<text>%s에서 %s이(가) 조직 검체를 가져오도록 요청했습니다.</text>
+	</string>
+	<string id="simulation_task_98_fetch_about">
+		<text>%s에게 조직 샘플을 수집해야 해. 어떻게 구하든 상관 없어요, 그냥 신선하게만 가지고 와줘. 변이체로부터 필요한 것을 되찾는 즉시 가지고 와줘.</text>
+	</string>
+	<string id="simulation_task_98_fetch_finish">
+		<text>고마워. 연구에 큰 기여를 한거야.</text>
+	</string>
+	
+			<string id="simulation_task_99_name">
+		<text>(과학자)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_99_text">
+		<text>%s의 샘플 구하기.</text>
+	</string>
+	<string id="simulation_task_99_about">
+		<text>%s에서 %s이(가) 조직 검체를 가져오도록 요청했습니다.</text>
+	</string>
+	<string id="simulation_task_99_fetch_about">
+		<text>%s에게 조직 샘플을 수집해야 해. 어떻게 구하든 상관 없어요, 그냥 신선하게만 가지고 와줘. 변이체로부터 필요한 것을 되찾는 즉시 가지고 와줘.</text>
+	</string>
+	<string id="simulation_task_99_fetch_finish">
+		<text>고마워. 연구에 큰 기여를 한거야.</text>
+	</string>
+	
+				<string id="simulation_task_100_name">
+		<text>(용병)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_100_text">
+		<text>%s의 %s의 의뢰다. %s를 가져다 주면 그가 돈을 잘 지불 할 것이다.</text>
+	</string>
+	<string id="simulation_task_100_about">
+		<text>특정 돌연변이에 대한 현상금이 걸려있더라고. 관심 있어?</text>
+	</string>
+	<string id="simulation_task_100_fetch_about">
+		<text>이 돌연변이를 죽이고 %s을(를) 가져오면 돈을 주지.</text>
+	</string>
+	<string id="simulation_task_100_fetch_finish">
+		<text>아, 벽에 걸 박제감이 또 생겼구만. 잘 했어.</text>
+	</string>
+	
+		<!-- Find Trip Equipment Tasks -->	
+	<string id="simulation_task_101_name">
+		<text>(로너)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_101_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_101_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_101_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_101_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_102_name">
+		<text>(클리어 스카이)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_102_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_102_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_102_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_102_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_103_name">
+		<text>(프리덤)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_103_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_103_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_103_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_103_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_104_name">
+		<text>(밴디트)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_104_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_104_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_104_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_104_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_105_name">
+		<text>(레네게이드)구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_105_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_105_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_105_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_105_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_106_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_106_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_106_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_106_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_106_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_107_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_107_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_107_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_107_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_107_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_108_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_108_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_108_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_108_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_108_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_109_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_109_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_109_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_109_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_109_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_110_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_110_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_110_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_110_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_110_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_111_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_111_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_111_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_111_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_111_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_112_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_112_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_112_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_112_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_112_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_113_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_113_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_113_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_113_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_113_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_114_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_114_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_114_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_114_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_114_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<string id="simulation_task_115_name">
+		<text>구해 오기 : %s </text>
+	</string>
+	<string id="simulation_task_115_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_115_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해.</text>
+	</string>
+	<string id="simulation_task_115_fetch_about">
+		<text>나와 내 동료들은 존으로의 긴 여행을 준비했어. 하지만 아직 장비가 더 필요해. %s. 그걸 계속 찾고 있는데 없어. 구해 줄 수 있어?</text>
+	</string>
+	<string id="simulation_task_115_fetch_finish">
+		<text>고마워! 잘 됐다. 여기 돈.</text>
+	</string>
+	
+		<!-- Find Trip Equipment Tasks -->	
+	<string id="simulation_task_116_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_116_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_116_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_116_fetch_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_116_fetch_finish">
+		<text>고마워! 여기. 답례야.</text>
+	</string>
+	
+	<string id="simulation_task_117_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_117_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_117_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_117_fetch_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_117_fetch_finish">
+		<text>고마워! 여기. 답례야.</text>
+	</string>
+	
+		<string id="simulation_task_118_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_118_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_118_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_118_fetch_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_118_fetch_finish">
+		<text>고마워! 여기. 답례야.</text>
+	</string>
+	
+		<string id="simulation_task_119_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_119_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_119_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_119_fetch_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_119_fetch_finish">
+		<text>고마워! 여기. 답례야.</text>
+	</string>
+	
+		<string id="simulation_task_120_name">
+		<text>구해 오기 : %s</text>
+	</string>
+	<string id="simulation_task_120_text">
+		<text>%s 구하기.</text>
+	</string>
+	<string id="simulation_task_120_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_120_fetch_about">
+		<text>우리 분대가 지금 존의 다른 지역으로 떠나려고 준비 중이거든? 그래서 우리는 항상 최악의 상황을 대비하려고 여분의 장비를 모으고 있어. %s. 그걸 구하고 있는데 주변에 아무리 찾아도 없더라고. 가져다 주면 보답해줄게.</text>
+	</string>
+	<string id="simulation_task_120_fetch_finish">
+		<text>고마워! 여기. 답례야.</text>
+	</string>
+	
+	
+	
+	<string id="st_multifetch_1"><text>다음 물건을 찾아야 한다:</text></string>
+	<string id="st_multifetch_2"><text>, 최소한 %s% 상태여야 한다.</text></string>
+	<string id="st_multifetch_3"><text>다음 걸 가지고오면 추가 보상이 있다:</text></string>
+	<string id="st_multifetch_4"><text>찾아야할 물건:</text></string>
+
+</string_table>

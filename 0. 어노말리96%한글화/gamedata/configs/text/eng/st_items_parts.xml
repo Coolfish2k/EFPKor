@@ -1,0 +1,1132 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
+-->
+
+<string_table>
+
+<!--
+ITEMS
+-->
+
+	<string id="st_prt_i_ammo">
+		<text>탄약 부품</text>
+	</string>
+	<string id="st_prt_i_ammo_descr">
+		<text>
+		아무리 보급을 잘 했다고 하더라도, "안 좋은" 탄으로 여겨지는 탄으로 된 한 개 이상의 탄창이 꼭 생기게 되어 있기 마련입니다. 운나쁜 스토커들은 질 나쁜 탄창을 사용해서 무기가 걸리게 되는 매우 좋지 않은 상황을 맞닥뜨릴 수도 있습니다. 그 반면, 이런 탄약 부품들은 다양한 탄종을 만들어내는데 재사용할 수 있습니다. 이게 몇몇 스토커들이 이런 것들을 모아놓는 걸 선호하는 이유입니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_paper">
+		<text>종이 시트</text>
+	</string>
+	<string id="st_prt_i_paper_descr">
+		<text>
+		실크로 코팅된 찢어진 종이 시트입니다. 존 같은 곳에서도, 이 물건은 잡다한 용도로 사용할 수 있습니다. 식품을 포장하거나 먼지를 닦아내는 가장 저렴한 방법입니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_textolite">
+		<text>텍스톨라이트 소재</text>
+	</string>
+	<string id="st_prt_i_textolite_descr">
+		<text>
+		섬유재질의 천과 폴리머 재질의 바인더 (베이클라이트, 폴리에스테르 레진, 에폭시 수지)로 만들어진 다층 구조의 플라스틱입니다. 적절한 기술만 있으면 수리에 큰 도움이 될 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_b">
+		<text>천 시트</text>
+	</string>
+	<string id="st_textile_patch_b_descr">
+		<text>
+		단순한 천 시트로, 옷을 기우거나 화기에 기름이나 청소용제를 도포하는 데 주로 사용됩니다. 모든 바늘이나 접착제와 같이 사용할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_m">
+		<text>직물 시트</text>
+	</string>
+	<string id="st_textile_patch_m_descr">
+		<text>
+		군납품 품질의 직물 시트로 의복이나 경갑의 야전 수리에 이용할 수 있습니다. 상대적으로 저렴한 가격과 높은 범용성으로 인해, 존에 있는 사람들 사이에서 널리 쓰입니다. 중간 등급의 바느질 도구와 고급 접착제와 같이 사용해야 합니다. 또한 무기를 보수하는 데 필요한 용액들을 더 효율적으로 도포하는 데에도 사용합니다.
+		</text>
+	</string>
+	
+	<string id="st_textile_patch_e">
+		<text>강화된 직물 시트</text>
+	</string>
+	<string id="st_textile_patch_e_descr">
+		<text>
+		케블라 패딩으로 강화된 두꺼운 직물 시트입니다. 평갑과 중갑을 수리하는 데 사용합니다. 다수의 파손된 부분을 덮을 수 있을만큼 큽니다. 제대로 쓰려면 높은 등급의 바느질 도구와 접착제가 필요합니다. 다른 용도로는 무기 유지보수 및 청소가 있는데, 강도가 높아서 총기 부품의 잘 닿지 않는 곳 구석구석까지 청소할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_capacitors">
+		<text>콘덴서 한 팩</text>
+	</string>
+	<string id="st_prt_i_capacitors_descr">
+		<text>
+		전기를 축적해 두는 콘덴서입니다. 단순한 콘덴서로 두 금속판 사이에 유전체를 끼워 만들어졌습니다. 이 부품은 다양한 전자장치에서 사용되는데 교류 전류를 바로잡아서, 전기 에너지를 저장하고 전자장치의 잡음을 우회하는 데 중요한 역할을 하기 때문입니다. 존에서는 상당히 희귀한 물품이지만, 매우 유용합니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_transistors">
+		<text>트랜지스터 한 상자</text>
+	</string>
+	<string id="st_prt_i_transistors_descr">
+		<text>
+		높은 품질의 BJT 트랜지스터 한 상자입니다. 트랜지스터는 세 부분의 반도체 부품 (베이스, 이미터, 컬렉터)으로 구성되어 있고 각각 전자파의 진동을 생성하고, 변환하며 증폭합니다. 이 지역에 반입되는 기적이 일어나게 된다면, 전자공학 기술자들의 꿈의 물건이 될 것입니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_resistors">
+		<text>저항 한 상자</text>
+	</string>
+	<string id="st_prt_i_resistors_descr">
+		<text>
+		저항은 전자제품에서 찾아볼 수 있는 가장 흔한 부품입니다. 이 부품은 다른 부품들에 적절한 수준의 전압이 공급되도록 전자 회로들 사이에서 흐르는 전류량을 제한하고 방향을 설정해 줍니다. 이 상자에는 12에서 82메가옴까지의 다양한 전기저항값을 가진 저항들이 모두 포함되어 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_copper">
+		<text>구리선</text>
+	</string>
+	<string id="st_prt_i_copper_descr">
+		<text>
+		전기공학용 구리선은 전기 에너지의 생산, 전송 및 사용에 관련된 모든 장치들, 기구들, 설치과정, 기계들에 실용적으로 사용됩니다. 온전한 형태로 된 것은 상당히 희귀하지만, 일반적인 낡은 라디오, 워키토키 등의 다른 전자제품들에서 쉽게 획득할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_wood">
+		<text>목재 부품</text>
+	</string>
+	<string id="st_prt_i_wood_descr">
+		<text>
+		넓은 물결 무늬가 있는, 가벼운 삼나무 조각입니다. 가구나 층판, 그리고 도구 같은 것들을 만드는 실외작업에 주로 사용됩니다. 이런 존 같은 곳에서는 그렇게 쓸모 있지는 않지만, 제작에 사용할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_scrap">
+		<text>고철 조각</text>
+	</string>
+	<string id="st_prt_i_scrap_descr">
+		<text>
+		한 줌의 금속 볼트, 나사, 철쪼가리 그리고 장비들의 조각입니다. 다양한 형태와 등급의 강철과 알루미늄 합금이 모여 있습니다. 야전에서 장비를 수리하는 데 보조하거나, 제작에도 이용할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_fasteners">
+		<text>고정장치</text>
+	</string>
+	<string id="st_prt_i_fasteners_descr">
+		<text>
+		 한 줌의 나사, 나사받이, 너트, 못 그리고 작은 금속 판으로 이루어져 있습니다. 다양한 형태와 크기로 되어 있습니다. 야전에서 장비를 수리하는 데 보조하거나, 제작에도 이용할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_plastic">
+		<text>플라스틱 필름</text>
+	</string>
+	<string id="st_prt_i_plastic_descr">
+		<text>저밀도의 폴리에틸렌 필름으로 되어 있는 작은 꾸러미입니다. 이 얇은 플라스틱 막들은 구역이나 물건들을 분리하거나, 물건들을 담거나 보호막의 기능을 합니다. 플라스틱 필름은 다양한 영역에서 사용할 수 있습니다. 비록 몇 군데가 찢어지기는 했지만, 폴리에틸렌 재질의 특성으로 특히 음식이나 약물의 포장이나 격리에 좋습니다.
+		</text>
+	</string>
+	
+	<string id="st_prt_i_glass">
+		<text>유리 조각</text>
+	</string>
+	<string id="st_prt_i_glass_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_i_ceramic">
+		<text>세라믹 베이스</text>
+	</string>
+	<string id="st_prt_i_ceramic_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_i_leather">
+		<text>가죽 두루마리</text>
+	</string>
+	<string id="st_prt_i_leather_descr">
+		<text>.</text>
+	</string>
+	
+	
+	
+	<string id="st_prt_i_rubber">
+		<text>고무</text>
+	</string>
+	<string id="st_prt_i_rubber_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_i_triggermechanism">
+		<text>방아쇠 기계 장치</text>
+	</string>
+	<string id="st_prt_i_triggermechanism_descr">
+		<text>정체 불명의 총기에서 분리된 방아쇠 기계 장치입니다. 대부분의 방아쇠는 매우 비슷한 구조를 가지고 있기 때문에, 이 물건이 아무 무기에나 장착되지 않을 이유는 없습니다.
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] * 기본 재료\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_spring">
+		<text>용수철</text>
+	</string>
+	<string id="st_prt_i_spring_descr">
+		<text>정체 불명의 총기의 방아쇠 장치나 내부 구조에서 떼어낸 작은 용수철입니다. 아마도 대부분의 다른 작은 용수철을 대체하는 데 사용할 수 있을 것입니다.%c[ui_gray_2]특징:\n
+		%c[d_cyan] * 기본 재료\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_pistolgrip">
+		<text>권총 손잡이</text>
+	</string>
+	<string id="st_prt_i_pistolgrip_descr">
+		<text>몇몇 정체불명의 총기에서 떼어낸 권총 손잡이입니다. 이 고무처리된 손잡이는 다른 총기들에 맞추기 위해 개조되거나 변형할 수 있을 것입니다.%c[ui_gray_2]특징:\n
+		%c[d_cyan] * 기본 재료\n
+		</text>
+	</string>
+	
+
+
+<!--
+WEAPONS (rifles)
+-->
+
+<!-- Barrels-->
+	<string id="st_barrel_1">
+		<text>18.5mm 총열 [R]</text>
+	</string>
+	<string id="st_barrel_1_descr">
+		<text>18.5mm 이중 총열 산탄총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_2">
+		<text>18.5mm 총열 [R]</text>
+	</string>
+	<string id="st_barrel_2_descr">
+		<text>18.5mm 격철식 이중 총열 산탄총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_3">
+		<text>18.5mm 총열 [K]</text>
+	</string>
+	<string id="st_barrel_3_descr">
+		<text>18.5mm 활강식 소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_4">
+		<text>7.62mm 총열 [V]</text>
+	</string>
+	<string id="st_barrel_4_descr">
+		<text>7.62mm 소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_5">
+		<text>7.92mm 총열 [V]</text>
+	</string>
+	<string id="st_barrel_5_descr">
+		<text>독일제 7.92mm 소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_6">
+		<text>9mm 총열-소음기 [AS/PP]</text>
+	</string>
+	<string id="st_barrel_6_descr">
+		<text>특수 목적의 9mm 자동소총에 장착하기 위해 만들어진 내장형 소음기가 달린 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_7">
+		<text>7.62mm 총열 [A|V]</text>
+	</string>
+	<string id="st_barrel_7_descr">
+		<text>7.62mm 반자동 또는 자동 소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_8">
+		<text>5.45mm 총열 [À]</text>
+	</string>
+	<string id="st_barrel_8_descr">
+		<text>5.45mm 자동소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_9">
+		<text>5.56mm 총열 [À]</text>
+	</string>
+	<string id="st_barrel_9_descr">
+		<text>5.56mm 자동소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_10">
+		<text>7.62mm 총열 [P]</text>
+	</string>
+	<string id="st_barrel_10_descr">
+		<text>7.62mm 소총에서 분리된 가스 조절기가 달린 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_11">
+		<text>9mm 총열 [AS/PP]</text>
+	</string>
+	<string id="st_barrel_11_descr">
+		<text>특수 목적의 9mm 자동소총 또는 PP 소총에 장착하기 위해 만들어진 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_12">
+		<text>7.62mm 총열 [PP]</text>
+	</string>
+	<string id="st_barrel_12_descr">
+		<text>악명높은, 혹은 전설적인 PPSh 기관단총 종류의 총기에서 분리된 총열입니다.
+		</text>
+	</string>
+
+	<string id="st_barrel_13">
+		<text>12.7x55mm 총열</text>
+	</string>
+	<string id="st_barrel_13_descr">
+		<text>12.7x55mm 자동소총에서 분리된 총열입니다.
+		</text>
+	</string>
+
+
+<!-- Trigger mechanisms -->
+	<string id="st_trigger_components_1">
+		<text>공이가 달린 단발 방식의 방아쇠 장치</text>
+	</string>
+	<string id="st_trigger_components_1_descr">
+		<text>공이가 달린 단발 방식의 방아쇠 장치입니다.
+		</text>
+	</string>
+
+	<string id="st_trigger_components_2">
+		<text>공이가 달린 이중 발사 방식의 방아쇠 장치</text>
+	</string>
+	<string id="st_trigger_components_2_descr">
+		<text>공이가 달린 이중 발사 방식의 방아쇠입니다. 자동사격과 단발사격 기능을 전환하기 위해 설계되었습니다.
+		</text>
+	</string>
+
+	<string id="st_trigger_components_3">
+		<text>공이가 달린 삼중 발사 방식의 방아쇠 장치</text>
+	</string>
+	<string id="st_trigger_components_3_descr">
+		<text>공이가 달린 삼중 발사 방식의 방아쇠입니다. 자동사격과 단발사격, 그리고 2점사 사격을 위해 설계되었습니다. 무기의 디자인과 긴밀하게 연관되어 있습니다.
+		</text>
+	</string>
+
+	<string id="st_trigger_components_4">
+		<text>공이치기가 달린 단발 사격 방식의 방아쇠 장치
+		</text>
+	</string>
+	<string id="st_trigger_components_4_descr">
+		<text>공이치기가 달린 단발 사격 방식의 방아쇠 장치입니다.
+		</text>
+	</string>
+
+	<string id="st_trigger_components_5">
+		<text>공이치기가 달린 이중 발사 방식의 방아쇠 장치
+		</text>
+	</string>
+	<string id="st_trigger_components_5_descr">
+		<text>공이치기가 달린 이중 발사 방식의 방아쇠 장치입니다. 단발과 자동 사격을 가능하게 만들어 줍니다.
+		</text>
+	</string>
+
+	<string id="st_trigger_components_6">
+		<text>공이가 달린 방아쇠 장치 [R]</text>
+	</string>
+	<string id="st_trigger_components_6_descr">
+		<text>이중 총열 산탄총에서 분리된 공이가 달린 방아쇠 장치입니다.
+		</text>
+	</string>
+
+
+<!-- Breech blocks -->
+	<string id="st_bolt_carrier_1">
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [러시아]</text>
+	</string>
+	<string id="st_bolt_carrier_1_descr">
+		<text>동구권에서 생산된 회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_2">
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [러시아]</text>
+	</string>
+	<string id="st_bolt_carrier_2_descr">
+		<text>동구권에서 생산된, 특수한 자동소총에서 분리된 회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_3">
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [NATO]</text>
+	</string>
+	<string id="st_bolt_carrier_3_descr">
+		<text>NATO 소속 국가에서 만들어진 표준 구경의 자동 소총에서 분리된 회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_4">
+		<text>잠금 바이어스가 있는 슬라이드식 노리쇠 뭉치</text>
+	</string>
+	<string id="st_bolt_carrier_4_descr">
+		<text>잠금 바이어스가 있는 슬라이드식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_5">
+		<text>하프-프리 방식의 슬라이드식 노리쇠 뭉치</text>
+	</string>
+	<string id="st_bolt_carrier_5_descr">
+		<text>롤러 브레이크가 달린 하프-프리 방식의 슬라이드식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_6">
+		<text>노리쇠 잠금장치가 있는 슬라이드식 노리쇠 뭉치</text>
+	</string>
+	<string id="st_bolt_carrier_6_descr">
+		<text>노리쇠 잠금장치가 있는 슬라이드식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_7">
+		<text>잠금쇠가 있는 레버 방식 노리쇠 뭉치</text>
+	</string>
+	<string id="st_bolt_carrier_7_descr">
+		<text>잠금쇠가 있는 레버 방식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_8">
+		<text>이중 총열 산탄총의 초크 [R]</text>
+	</string>
+	<string id="st_bolt_carrier_8_descr">
+		<text>이중 총열 산탄총의 초크입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_9">
+		<text>이충 총열 산탄총에서 분리된 초크 [R]</text>
+	</string>
+	<string id="st_bolt_carrier_9_descr">
+		<text>이충 총열 산탄총에서 분리된 초크입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_10">
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [NATO]</text>
+	</string>
+	<string id="st_bolt_carrier_10_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치로, NATO 가입국가에서 만든 대구경 자동소총에서 분리되었습니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_carrier_11">
+		<text>종단축 슬라이드 프리식 노리쇠 뭉치 [PP]</text>
+	</string>
+	<string id="st_bolt_carrier_11_descr">
+		<text>기관단총에서 분리된 종단축 슬라이드 프리식 노리쇠 뭉치입니다.
+		</text>
+	</string>
+
+
+<!-- Breech heads -->
+	<string id="st_bolt_1">
+		<text>폴링 드롭식 브리치 블록 [R]</text>
+	</string>
+	<string id="st_bolt_1_descr">
+		<text>레버식 잠금 방식을 사용한 활강식 산탄총이나 소총에서 분리된 폴링 드롭식 브리치 블록입니다. 외견상으로 볼 때, 힌지와 걸쇠의 상태는 좋아 보이며, 심하게 다루어지지 않은 것으로 보입니다
+		</text>
+	</string>
+
+	<string id="st_bolt_2">
+		<text>회전식 노리쇠 [이중 잠금장치][P]</text>
+	</string>
+	<string id="st_bolt_2_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다. 외견상으로 볼 때, 회전식 노리쇠의 상태는 좋아 보이며, 크게 남은 사용 흔적이 거의 없습니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_3">
+		<text>회전식 노리쇠 [이중 잠금장치][K]</text>
+	</string>
+	<string id="st_bolt_3_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린, 활강식 자동 또는 반자동 소총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_4">
+		<text>회전식 노리쇠 [이중 잠금장치][V]</text>
+	</string>
+	<string id="st_bolt_4_descr">
+		<text>잠금 바이어스가 달린 종단 슬라이드식 노리쇠 뭉치나 "노리쇠" 잠금장치가 달린 종단 슬라이드식 셔터가 포함된 소총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_5">
+		<text>회전식 노리쇠 [삼중 잠금장치][V]</text>
+	</string>
+	<string id="st_bolt_5_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 소총에서 분리된 삼중 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_6">
+		<text>회전식 노리쇠 [이중 잠금장치][À]</text>
+	</string>
+	<string id="st_bolt_6_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_7">
+		<text>회전식 노리쇠 [사중 잠금장치][AS]</text>
+	</string>
+	<string id="st_bolt_7_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 특수한 자동소총에서 분리된 사중 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_8">
+		<text>회전식 노리쇠 [6단 잠금장치][À]</text>
+	</string>
+	<string id="st_bolt_8_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 6단 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_9">
+		<text>회전식 노리쇠 [7단 잠금장치][À]</text>
+	</string>
+	<string id="st_bolt_9_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 7단 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_10">
+		<text>회전식 노리쇠 [8단 잠금장치][À]</text>
+	</string>
+	<string id="st_bolt_10_descr">
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 8단 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_11">
+		<text>이중 총열 산탄총의 공이가 달린 급탄 장치  [R]</text>
+	</string>
+	<string id="st_bolt_11_descr">
+		<text>이중 총열 산탄총에서 분리된 공이가 달린 좌측과 우측 급탄장치입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_12">
+		<text>공이치기식 이중 총열 산탄총의 공이 [R]</text>
+	</string>
+	<string id="st_bolt_12_descr">
+		<text>수평식 이중 총열 산탄총에서 분리된 좌측과 우측 공이입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_13">
+		<text>회전식 노리쇠 [이중 잠금장치][À][NATO]</text>
+	</string>
+	<string id="st_bolt_13_descr">
+		<text>NATO 소속 국가에서 만든 회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치가 달린 대구경 소총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_14">
+		<text>회전식 노리쇠 [À/PP]</text>
+	</string>
+	<string id="st_bolt_14_descr">
+		<text>PP 계열 소총이나 하프-프리 방식 종단 슬라이드식 노리쇠 뭉치가 달린 자동소총에서 분리된 회전식 노리쇠입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_15">
+		<text>메인스프링이 달린 드러머 [PP]</text>
+	</string>
+	<string id="st_bolt_15_descr">
+		<text>종단 슬라이딩 프리식 노리쇠 뭉치가 달린 몇몇 내수용 PP 계열 총기에서 분리된 메인스프링이 달린 드러머입니다..
+		</text>
+	</string>
+
+	<string id="st_bolt_16">
+		<text>메인스프링이 달린 드러머 [PP][NATO]</text>
+	</string>
+	<string id="st_bolt_16_descr">
+		<text>종단 슬라이딩 프리식 노리쇠 뭉치가 달린 몇몇 수입한 PP 계열 총기에서 분리된 메인스프링이 달린 드러머입니다.
+		</text>
+	</string>
+
+	<string id="st_bolt_17">
+		<text>메인스프링이 달린 드러머 [PP][PPSh]</text>
+	</string>
+	<string id="st_bolt_17_descr">
+		<text>종단 슬라이딩 프리식 노리쇠 뭉치가 달린 슈파긴의 설계를 따르는 소련제 PP 계열 총기에서 분리된 메인스프링이 달린 드러머입니다.
+		</text>
+	</string>
+
+
+<!-- 가스관s, etc -->
+	<string id="st_gas_tube_1">
+		<text>가스관 [K]</text>
+	</string>
+	<string id="st_gas_tube_1_descr">
+		<text>활강식 카빈에서 가져온 가스관입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_2">
+		<text>핸드가드 [R]</text>
+	</string>
+	<string id="st_gas_tube_2_descr">
+		<text>펌프 액션식 산탄총에서 분리된 이동식 핸드가드입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_3">
+		<text>가스관 [V]</text>
+	</string>
+	<string id="st_gas_tube_3_descr">
+		<text>자동 급탄식 소총에서 분리된 가스관입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_4">
+		<text>가스관 [AS/PP]</text>
+	</string>
+	<string id="st_gas_tube_4_descr">
+		<text>특수한 자동 소총에서 분리된 가스관입니다. 9mm 전용입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_5">
+		<text>가스관 [A|V][러시아]</text>
+	</string>
+	<string id="st_gas_tube_5_descr">
+		<text>반자동 또는 자동 소총에서 분리된 가스관입니다 (러시아).
+		</text>
+	</string>
+
+	<string id="st_gas_tube_6">
+		<text>가스관 [A|V][NATO]</text>
+	</string>
+	<string id="st_gas_tube_6_descr">
+		<text>반자동 또는 자동 소총에서 분리된 가스관입니다 (NATO).
+		</text>
+	</string>
+
+	<string id="st_gas_tube_7">
+		<text>가스관 [P]</text>
+	</string>
+	<string id="st_gas_tube_7_descr">
+		<text>기관총에서 분리된 가스관입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_8">
+		<text>가스 배출기 [V]</text>
+	</string>
+	<string id="st_gas_tube_8_descr">
+		<text>노리쇠 잠금장치가 있는 슬라이드식 노리쇠 뭉치가 달린 소총에서 분리된 가스 배출기입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_9">
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기 [R]</text>
+	</string>
+	<string id="st_gas_tube_9_descr">
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기 (추출기) 입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_10">
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기 [R]</text>
+	</string>
+	<string id="st_gas_tube_10_descr">
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기입니다.
+		</text>
+	</string>
+
+	<string id="st_gas_tube_11">
+		<text>가스관 [PP]</text>
+	</string>
+	<string id="st_gas_tube_11_descr">
+		<text>MP5 기관단총에서 분리된 손잡이가 달린 가스관입니다.
+		</text>
+	</string>
+
+
+<!--
+WEAPONS (pistols)
+-->
+
+<!-- barrels -->
+	<string id="st_prt_w_p_barrel_1">
+		<text>9x18mm 총열</text>
+	</string>
+	<string id="st_prt_w_p_barrel_1_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_2">
+		<text>9x19mm 총열</text>
+	</string>
+	<string id="st_prt_w_p_barrel_2_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_3">
+		<text>.45 총열</text>
+	</string>
+	<string id="st_prt_w_p_barrel_3_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_4">
+		<text>5.7mm 총열</text>
+	</string>
+	<string id="st_prt_w_p_barrel_4_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_5">
+		<text>7.62mm 총열</text>
+	</string>
+	<string id="st_prt_w_p_barrel_5_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_6">
+		<text>9x18mm 총열 (enclosed)</text>
+	</string>
+	<string id="st_prt_w_p_barrel_6_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_w_p_barrel_7">
+		<text>.357 총열</text>
+	</string>
+	<string id="st_prt_w_p_barrel_7_descr">
+		<text>.</text>
+	</string>
+
+<!-- trigger mechanism -->
+	<string id="st_prt_w_p_trigger_1">
+		<text>싱글 액션식 방아쇠 기계장치</text>
+	</string>
+	<string id="st_prt_w_p_trigger_1_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_trigger_2">
+		<text>더블 액션식 방아쇠 기계장치</text>
+	</string>
+	<string id="st_prt_w_p_trigger_2_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_trigger_3">
+		<text>더블 액션식 (DA/SA) 방아쇠 기계장치</text>
+	</string>
+	<string id="st_prt_w_p_trigger_3_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_trigger_4">
+		<text>"MP412" 더블 액션식  방아쇠 기계장치</text>
+	</string>
+	<string id="st_prt_w_p_trigger_4_descr">
+		<text>.</text>
+	</string>
+	
+	
+<!-- recoil spring assembly -->
+	<string id="st_prt_w_p_spring_1">
+		<text>9mm 반동 제어 스프링 결합장치 [소련]</text>
+	</string>
+	<string id="st_prt_w_p_spring_1_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_2">
+		<text>9mm 반동 제어 스프링 결합장치 [러시아]</text>
+	</string>
+	<string id="st_prt_w_p_spring_2_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_3">
+		<text>.45 반동 제어 스프링 결합장치</text>
+	</string>
+	<string id="st_prt_w_p_spring_3_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_4">
+		<text>9mm 반동 제어 스프링 결합장치 [서구권]</text>
+	</string>
+	<string id="st_prt_w_p_spring_4_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_5">
+		<text>7.62mm 반동 제어 스프링 결합장치</text>
+	</string>
+	<string id="st_prt_w_p_spring_5_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_w_p_spring_6">
+		<text>반동 제어 스프링 결합장치 (R1 DE 6")</text>
+	</string>
+	<string id="st_prt_w_p_spring_6_descr">
+		<text>.</text>
+	</string>
+	
+	
+<!--
+OUTFITS
+-->
+
+<!-- Fabrics and hardware -->
+	<string id="st_prt_o_fabrics_1">
+		<text>옷감 시트</text>
+	</string>
+	<string id="st_prt_o_fabrics_1_descr">
+		<text>의복의 가장 기초적인 부분을 이루는 재료입니다. 옷감들은 면이나 합성섬유, 양모 및 가죽 등의 다양한 재료로 만들어져 편안함과 튼튼함을 더해 줍니다. 또한 고무나 발리스틱 나일론같은 보호용 옷감도 사용되었으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_2">
+		<text>옷감 시트 (합성섬유)</text>
+	</string>
+	<string id="st_prt_o_fabrics_2_descr">
+		<text>의복의 가장 기초적인 부분을 이루는 재료입니다. 이 옷감들은 폴리에스테르나 라이크라와 같은 합성섬유들과 혼합되어 다목적성과 내구성을 높였습니다. 또한 고무나 발리스틱 나일론같은 보호용 옷감도 사용되었으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_3">
+		<text>튼튼한 직물</text>
+	</string>
+	<string id="st_prt_o_fabrics_3_descr">
+		<text>이 옷감은 폴리에스테르, 가죽 또는 캔버스 같은 다양한 재료로 만들어졌으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다. 험한 환경 조건에서도 좋은 내구성을 보이기 때문에, 이러한 옷감들은 존의 깊숙한 곳을 탐험하는 데에도 적절합니다.</text>
+	</string>
+	
+	<string id="st_prt_o_fabrics_4">
+		<text>군납용 직물</text>
+	</string>
+	<string id="st_prt_o_fabrics_4_descr">
+		<text>군용품 등급의 옷감들은 전투복이나 경갑에 주로 사용됩니다. 상대적으로 저렴한 가격과 높은 다목적성으로 가치가 높아, 이 옷감은 존에서 활동하는 사람들에게 널리 쓰입니다. 또한 고무나 발리스틱 나일론같은 보호용 옷감도 사용되었으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다.</text>
+	</string>
+	
+<!-- Retardants / Protective textiles -->
+	<string id="st_prt_o_retardant_1">
+		<text>덧댄 내화성 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_1_descr">
+		<text>이 옷감들은 다른 화학적 처리를 받은 옷감이나 공장제 방화 섬유로 만들어진 옷감들에 비해 내화성이 근본적으로 더 우수합니다. 존에서, 이런 종류의 옷감들은 위험한 환경이나 Burner나 Comet 이상현상과 같은 화염 이상현상에 대한 보호를 제공하는 보호구에 주로 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_2">
+		<text>덧댄 내화학/비전도성 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_2_descr">
+		<text>이 옷감들은 다른 화학적 처리를 받은 옷감이나 공장제 방화 섬유로 만들어진 옷감들에 비해 전기 저항력과 화학 물질들에 대한 방호력이 더 높습니다. 존에서, 이런 종류의 옷감들은 위험한 환경이나 Electro나 Fruit Punch 이상현상과 같은 화학 또는 전기 이상현상에 대한 보호를 제공하는 보호구에 주로 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_3">
+		<text>B등급 RPVC 처리 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_3_descr">
+		<text>경질 폴리염화 비닐 (Rigid Polyvinyl Chloride; RPVC) 은 쉽게 닳아 없어지지 않는 불연성 물질입니다. RPVC는 이상현상 위험지역에 대해 높은 보호도를 제공하는 UV 안정제의 역할도 수행합니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_4">
+		<text>A등급 RPVC 처리 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_4_descr">
+		<text>경질 폴리염화 비닐 (Rigid Polyvinyl Chloride; RPVC) 은 쉽게 닳아 없어지지 않는 불연성 물질입니다. RPVC는 이상현상 위험지역에 대해 높은 보호도를 제공하는 UV 안정제의 역할도 수행합니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_5">
+		<text>PVC/고무 코팅된 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_5_descr">
+		<text>위험 요소들에 대한 보호제공 목적으로 만들어진 질기고 튼튼한 PVC 코팅된 폴리에스테르와 고무섬유 옷감입니다. 바느질이나, 접착 혹은 용접에 사용할 수 있습니다.
+		\n중심부는 매우 질긴 폴리에스테르 옷감으로 이루어져 있고 양면이 PVC로 코팅되어 있는 이중 코팅 옷감입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_6">
+		<text>PVC/탄소섬유 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_6_descr">
+		<text>위험 요소들에 대한 보호제공 목적으로 만들어진 질기고 튼튼한 PVC 코팅된 폴리에스테르와 탄소섬유 옷감입니다. 바느질이나, 접착 혹은 용접에 사용할 수 있습니다.
+		\n중심부는 매우 질긴 폴리에스테르 옷감으로 이루어져 있고 양면이 PVC로 코팅되어 있는 이중 코팅 옷감입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_7">
+		<text>단열용 마그네슘 그리드와 내장재</text>
+	</string>
+	<string id="st_prt_o_retardant_7_descr">
+		<text>이 마그네슘 그리드는 방어구를 보호해주는 유전체의 역할을 하며 착용자를 강력한 전기 쇼크나 일정 수준까지의 정신파의 영향으로부터 보호해줍니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_8">
+		<text>단열용 강화 산화마그네슘 그리드</text>
+	</string>
+	<string id="st_prt_o_retardant_8_descr">
+		<text>이 마그네슘 그리드는 방어구를 보호해주는 유전체의 역할을 하며 착용자를 강력한 전기 쇼크나 일정 수준까지의 정신파의 영향으로부터 보호해줍니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_9">
+		<text>폴리머 시트 (황산비스무트 코팅)</text>
+	</string>
+	<string id="st_prt_o_retardant_9_descr">
+		<text>존 내부에서 사용되는 의복에 열 차감 특성을 가진 황산비스무트를 코팅하는 것은 훌륭한 선택이 될 수 있습니다. 대체적으로 폴리머 시트 위에 코팅되어 상당한 범위의 신체 부위를 덮습니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_10">
+		<text>폴리머 시트 (황산바륨 코팅)</text>
+	</string>
+	<string id="st_prt_o_retardant_10_descr">
+		<text>존 내부에서 사용되는 의복에 열 차감 특성을 가진 황산바륨을 코팅하는 것은 훌륭한 선택이 될 수 있습니다. 대체적으로 폴리머 시트 위에 코팅되어 상당한 범위의 신체 부위를 덮습니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_11">
+		<text>알루미늄 처리된 내성 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_11_descr">
+		<text>알루미늄 처리된 다층구조 옷감은 심각한 화재 위험과 복사열 및 화학적 원인과 관련 있는 안전성 위협에 대한 보호 능력과 환경 방호를 위해 특별하게 디자인되었습니다. 더불어, 이러한 종류의 옷감은 정신파 효과를 강력하게 차단해 줍니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_12">
+		<text>알루미늄 처리된 유리섬유 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_12_descr">
+		<text>알루미늄 처리된 다층구조 유리섬유 옷감은 심각한 감전 위험과 복사열 및 화학적 원인과 관련 있는 안전성 위협에 대한 보호 능력과 환경 방호를 위해 특별하게 디자인되었습니다. 더불어, 이러한 종류의 옷감은 정신파 효과를 강력하게 차단해 줍니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_13">
+		<text>PBI 혼합식 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_13_descr">
+		<text>PBI 혼합식 옷감은 최근 몇 년 동안 소방 관련 영역에서 신뢰를 얻어 왔습니다. 이 옷감은 높은 수준의 방화력을 갖춘 선도적 위치에 있는 옷감이라고 평가되고 있습니다. 이러한 이유 때문에, 존에서 활동하는 사람들은 자신들의 방어구에 이러한 옷감을 적극적으로 활용하고 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_14">
+		<text>폴리에스테르 처리된 PBI 혼합식 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_14_descr">
+		<text>PBI 혼합식 옷감은 최근 몇 년 동안 소방 관련 영역에서 신뢰를 얻어 왔습니다. 이 옷감은 높은 수준의 방화력을 갖춘 선도적 위치에 있는 옷감이라고 평가되고 있습니다. 이러한 이유 때문에, 존에서 활동하는 사람들은 자신들의 방어구에 이러한 옷감을 적극적으로 활용하고 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_15">
+		<text>활성탄 함유 (ACC) 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_15_descr">
+		<text>원래는 화생방 보호의에 사용하기 위해 개발되었습니다. 현재 활성탄 옷감은 국방, 산업, 그리고 의학 분야에 자주 응용되는 소재입니다. 고급 및 능동식 상처 관리법의 효율을 상당히 높여주는 한편, 방사능 입자에 대해서도 훌륭한 보호를 제공합니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_16">
+		<text>활성탄 처리된 부직포 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_16_descr">
+		<text>원래는 화생방 보호의에 사용하기 위해 개발되었습니다. 현재 활성탄 옷감은 국방, 산업, 그리고 의학 분야에 자주 응용되는 소재입니다. 고급 및 능동식 상처 관리법의 효율을 상당히 높여주는 한편, 방사능 입자에 대해서도 훌륭한 보호를 제공합니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_17">
+		<text>단열용 콘스탄탄 내장재</text>
+	</string>
+	<string id="st_prt_o_retardant_17_descr">
+		<text>이 내장재는 콘스탄탄 시트로 만들어졌습니다. 이러한 소재는 방어구를 보호해 주는 유전체의 역할을 하며 착용자를 전기 쇼크, 정신파 그리고 일정 수준까지의 방사성 물질로부터 보호해줍니다. 또한 다른 종류의 위험성에 대해서도 보호를 제공해 줄 수 있기 때문에, 존에서 쓸모있는 소재입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_18">
+		<text>유리섬유로 코팅된 단열용 콘스탄탄 내장재</text>
+	</string>
+	<string id="st_prt_o_retardant_18_descr">
+		<text>이 내장재는 콘스탄탄 시트와 유리섬유로 코팅된 옷감으로 만들어졌습니다. 이러한 소재는 방어구를 보호해 주는 유전체의 역할을 하며 착용자를 전기 쇼크, 정신파 그리고 일정 수준까지의 방사성 물질로부터 보호해줍니다. 또한 다른 종류의 위험성에 대해서도 보호를 제공해 줄 수 있기 때문에, 존에서 쓸모있는 소재입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_19">
+		<text>단열용 유리섬유 "폴리에스테르" 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_19_descr">
+		<text>“E" 유리섬유로 짜여지고 버미큘라이트 기반 필름으로 코팅된 고온 저항성 옷감은 화씨 1500도까지의 온도를 견딜 수 있으며 20Kv까지의 전압에 저항할 수 있습니다. 존과 같은 곳에서, 이러한 옷감들은 이상현상의 위험성들에 쉽게 대처하는 데 도움이 됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_retardant_20">
+		<text>단열용 유리섬유 "새틴 위브" 옷감</text>
+	</string>
+	<string id="st_prt_o_retardant_20_descr">
+		<text>“E" 유리섬유로 짜여지고 버미큘라이트 기반 필름으로 코팅된 고온 저항성 옷감은 화씨 1700도까지의 온도를 견딜 수 있으며 25Kv까지의 전압에 저항할 수 있습니다. 존과 같은 곳에서, 이러한 옷감들은 이상현상의 위험성들에 쉽게 대처하는 데 도움이 됩니다.</text>
+	</string>
+	
+<!-- Ballistic inserts -->
+	<string id="st_prt_o_ballistic_1">
+		<text>강화된 세라믹 내장재가 포함된 케블라 k129 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_1_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_2">
+		<text>강화된 세라믹 내장재가 포함된 케블라 프로테라 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_2_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_3">
+		<text>폴리카보네이트 합성재가 포함된 케블라 K129 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_3_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_4">
+		<text>카본섬유 합성재가 포함된 케블라 K129 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_4_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_5">
+		<text>케블라 AP와 강철 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_5_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_6">
+		<text>강화된 티타늄 합성재가 포함된 케블라 AP 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_6_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_7">
+		<text>폴리카보네이트 내장재가 포함된 케블라 K119 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_7_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_8">
+		<text>카본섬유 내장재가 포함된 케블라 K119 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_8_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_9">
+		<text>확장 수납 공간이 포함된 B등급 폴리에틸렌 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_9_descr">
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_10">
+		<text>확장 수납 공간이 포함된 A등급 폴리에틸렌 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_10_descr">
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_11">
+		<text>케블라 K119 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_11_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_12">
+		<text>강화된 케블라 K119 플레이트</text>
+	</string>
+	<string id="st_prt_o_ballistic_12_descr">
+		<text>케블라 플레이트는 특유의 방탄 능력으로 널리 알려져 있고, 그런 점 때문에 높은 평가를 받습니다. 케블라 플레이트는 다양한 역할을 수행할 수 있는데, 가장 중요한 역할은 바로 몸통의 전방과 후방에 날아드는 총탄의 충격력을 흡수해 주는 것입니다. 케블라 플레이트는 무거운 강철 플레이트를 대신하는 가벼운 대체품으로 사용할 수 있습니다. 또한, 방어구에 플레이트를 덧댐으로써 장갑판의 종류를 불문하고 방어구가 낡거나 찢어져서 손상되는 것을 막아주기 때문에, 방어구를 좋은 상태로 유지시켜주는 데 도움이 될 수 있습니다. 전세계의 군사조직에서 사용됩니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_13">
+		<text>폴리에틸렌 경량화 장갑판</text>
+	</string>
+	<string id="st_prt_o_ballistic_13_descr">
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_14">
+		<text>폴리에틸렌 장갑판 (급조됨)</text>
+	</string>
+	<string id="st_prt_o_ballistic_14_descr">
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_15">
+		<text>케블라-49 옷감이 포함된 카본 나노튜브 레이어</text>
+	</string>
+	<string id="st_prt_o_ballistic_15_descr">
+		<text>카본 나노튜브 (Carbon nanotubes; CNTs)는 방탄용 소재를 만들어낼 수 있는 훌륭한 잠재력을 갖추었습니다. 카본 나노튜브는 그 주목할 만한 특징으로 인해 폴리머와 다른 소재들을 강화할 수 있는 이상적인 자질을 가지고 있으며, 방탄조끼 등의 분야에도 적용할 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_16">
+		<text>케블라-29 옷감이 포함된 카본 나노튜브 레이어 (강화됨)</text>
+	</string>
+	<string id="st_prt_o_ballistic_16_descr">
+		<text>카본 나노튜브 (Carbon nanotubes; CNTs)는 방탄용 소재를 만들어낼 수 있는 훌륭한 잠재력을 갖추었습니다. 카본 나노튜브는 그 주목할 만한 특징으로 인해 폴리머와 다른 소재들을 강화할 수 있는 이상적인 자질을 가지고 있으며, 방탄조끼 등의 분야에도 적용할 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_17">
+		<text>폴리카보네이트 내장재가 포함된 폴리에틸렌 피복</text>
+	</string>
+	<string id="st_prt_o_ballistic_17_descr">
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_18">
+		<text>강화된 폴리에틸렌 피복</text>
+	</string>
+	<string id="st_prt_o_ballistic_18_descr">
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_19">
+		<text>카본섬유 피복</text>
+	</string>
+	<string id="st_prt_o_ballistic_19_descr">
+		<text>케블라 소재와 비교해 보았을 때 카본섬유는 큰 차이는 없으나 뾰족한 물체에 대해서는 그다지 효과적이지 않습니다. 하지만 케블라 소재가 고열에서 약해지는 것과 달리 카본 섬유는 고열에도 견딜 수 있다는 장점이 있습니다. 카본 섬유로 만들어진 물체는 가벼운 특성이 있어서, 유연성을 더해줄 수 있습니다.</text>
+	</string>
+	
+	<string id="st_prt_o_ballistic_20">
+		<text>강화된 카본섬유 피복</text>
+	</string>
+	<string id="st_prt_o_ballistic_20_descr">
+		<text>케블라 소재와 비교해 보았을 때 카본섬유는 큰 차이는 없으나 뾰족한 물체에 대해서는 그다지 효과적이지 않습니다. 하지만 케블라 소재가 고열에서 약해지는 것과 달리 카본 섬유는 고열에도 견딜 수 있다는 장점이 있습니다. 카본 섬유로 만들어진 물체는 가벼운 특성이 있어서, 유연성을 더해줄 수 있습니다.</text>
+	</string>
+
+<!-- Supportive installations -->
+	<string id="st_prt_o_support_1">
+		<text>외골격 프레임</text>
+	</string>
+	<string id="st_prt_o_support_1_descr">
+		<text>착용자에게 훌륭한 보호를 제공해 주는 동시에 완력을 증대해 주는 기계화된 프레임으로 전기 모터, 압축 공기, 지렛대와 유압식 구조들로 이루어져 있습니다.</text>
+	</string>
+	
+
+</string_table>

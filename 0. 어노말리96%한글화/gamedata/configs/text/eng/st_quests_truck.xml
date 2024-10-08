@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MLR TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_1_name">
+		<text>트럭 묘지의 밴딧 정비사에게 %s 찾아주기</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_text">
+		<text>트럭 묘지에 있는 정비사가 %s를 찾아달라 했다.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_about">
+		<text>형씨, 여기 있는 물건의 반 이상이 부서지고 있어. 애들을 도울 수 있는 도구가 정말 필요해. 도와줄래?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_about">
+		<text>형씨, 여기 있는 물건의 반 이상이 부서지고 있어. 애들을 도울 수 있는 도구가 정말 필요해. 도와줄래?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
+		<text>오, 그래... 내 말이 바로 그거야. 있잖아, 날 도와줬으니 작은 할인을 해 주지.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MLR TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_2_name">
+		<text>트럭 묘지의 밴딧 정비사에게 %s 찾아주기</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_text">
+		<text>트럭 묘지에 있는 정비사가 %s를 찾아달라 했다.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_about">
+		<text>이 지역은 완전히 황야지만, 여긴... 전략적 요충지라고! 동지들이 화력을 최대한 끌어내기 위해서는 더 좋은 도구가 필요해. 다시 도와줘, 해줄거지?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_about">
+		<text>이 지역은 완전히 황야지만, 여긴... 전략적 요충지라고! 동지들이 화력을 최대한 끌어내기 위해서는 더 좋은 도구가 필요해. 다시 도와줘, 해줄거지?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
+		<text>오 씹! 넌 최고야! 확실히 할인 해 주지!</text>
+	</string>
+
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT BANDIT TASK -->
+
+	<string id="trucks_cemetery_bandit_mechanic_task_3_name">
+		<text>트럭 묘지의 밴딧 정비사에게 %s 찾아주기</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_text">
+		<text>트럭 묘지에 있는 정비사가 %s를 찾아달라 했다.</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_about">
+		<text>악당처럼 담담하게 앉아 있다가 우리가 놓치고 있는 게 뭔지 깨달았어. 맞아, 훨씬 더 좋은 도구야! 어쨌든, 어때? 찾는 것 좀 도와줄래?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_about">
+		<text>악당처럼 담담하게 앉아 있다가 우리가 놓치고 있는 게 뭔지 깨달았어. 맞아, 훨씬 더 좋은 도구야! 어쨌든, 어때? 찾는 것 좀 도와줄래?</text>
+	</string>
+	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
+		<text>와, 너 진짜 해냈구나! 고마워, 친구야, 넌 최고야. 가장 큰 할인은 바로 너에게 주도록 하지, 즐기라고!</text>
+	</string>
+
+</string_table>

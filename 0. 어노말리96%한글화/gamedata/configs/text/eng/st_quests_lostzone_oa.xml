@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: OPERATION AFTERGLOW TASKS
+<	Anomaly 1.5 - Lost to the Zone: Operation Afterglow
+<
+<	Made by: SarisKhan
+<	Last revised: 04 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+        <!-- Operation Afterglow Task 1 -->
+	<string id="lttz_oa_encrypted_transmission_name">
+		<text> 암호화된 무전 </text>
+	</string>
+        
+	<string id="lttz_oa_encrypted_transmission_text">
+		<text> 자톤의 철의 숲 이상현상 지역에서 간헐적인 무선 전송을 확인하십시오. </text>
+	</string>
+	<string id="lttz_oa_encrypted_transmission_text2">
+		<text> 무선 전송을 감지했습니다. 조사하십시오. </text>
+	</string>
+        
+<string id = "decryption_radio_name">
+		<text> 라디오 </text>
+	</string>
+	<string id="decryption_radio_desc">
+		<text> 이 소박한 군용 무전기는 근처의 무선 전송을 가로채고 해독할 수 있습니다. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 2 -->
+									
+	<string id="lttz_oa_rally_point_name">
+		<text> 작전명 에프터 글로우: 랠리 포인트 </text>
+	</string>
+        
+	<string id="lttz_oa_rally_point_text">
+		<text> 레인저 스테이션을 점유하고 있는 UNISG 분대를 제거하십시오. </text>
+	</string>
+	<string id="lttz_oa_rally_point_text2">
+		<text> 덱타레프와 함께 다음 임무에 대해 토론하십시오. </text>
+	</string>
+	<string id="lttz_oa_rally_point_text3">
+		<text> 나머지 UNISG 분대가 기지로 복귀중입니다. 그들을 따뜻하게 맞이하십시오. </text>
+	</string>
+	<string id="lttz_oa_rally_point_text4">
+		<text> 당신은 UNISG 군대를 제거했습니다. 덱타레프와 함께 다음 임무에 대해 논의하십시오. </text>
+	</string>
+	<string id="lttz_oa_rally_point_text5">
+		<text> 유용한 정보의 출처를 찾기 위해 시체를 탐색하십시오. </text>
+	</string>
+	<string id="lttz_oa_rally_point_text6">
+		<text> 분대장의 PDA를 찾았습니다. 덱타레프에게 전달하십시오. </text>
+	</string>
+        
+	<string id="st_zat_b40_sarge_pda_name">
+		<text> 분대장의 PDA </text>
+	</string>
+	<string id="st_zat_b40_sarge_pda_desc">
+		<text> 이 PDA는 UNISG 특수 정찰대의 분대장이 소유했던 것입니다. 아마도 중요한 전술적 또는 전략적 정보를 포함할 것입니다. 암호화되어 있으므로 내용은 확인 할 수 없습니다. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 3 -->
+									
+	<string id="lttz_oa_report_name">
+		<text> 보고 </text>
+	</string>
+        
+	<string id="lttz_oa_report_text">
+		<text> 자톤에서 일어난 일을 보고하십시오. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 4 -->
+									
+	<string id="lttz_oa_special_delivery_name">
+		<text> 작전명 에프터 글로우: 특별 배달 </text>
+	</string>
+        
+	<string id="lttz_oa_special_delivery_text">
+		<text>군 장교에게 물건을 전달하십시오. UNISG를 은밀히 지원하기 위해 일부러 실패할 수도 있습니다. </text>
+	</string>
+	<string id="lttz_oa_special_delivery_text2">
+		<text> 물건을 성공적으로 전달했다고 덱타레프에게 보고하십시오. </text>
+	</string>
+	<string id="lttz_oa_special_delivery_text3">
+		<text>군 장교가 죽은 것 같습니다. 임무을 완료할 수 없다고 덱타레프에게 보고하십시오. </text>
+	</string>
+	<string id="lttz_oa_special_delivery_text4">
+		<text> 물건을 제때 배달하지 못한 것 같습니다. 임무을 완료할 수 없다고 덱타레프에게 보고하십시오. </text>
+	</string>
+        
+<string id = "special_delivery_case_name">
+		<text> 봉인된 케이스 </text>
+	</string>
+	<string id="special_delivery_case_desc">
+		<text> 미공개 내용물이 들어있는 봉인된 케이스. 다소 무겁습니다. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 5 -->
+									
+	<string id="lttz_oa_undercover_agent_name">
+		<text> 작전명 에프터 글로우: 잠복 요원 </text>
+	</string>
+        
+	<string id="lttz_oa_undercover_agent_text">
+		<text> UNISG 부대에 잠입한 비밀 요원을 만나 그에게서 유용한 정보를 얻으십시오. 의심스러운 행동은 UNISG의 주의를 끌 수 있습니다. </text>
+	</string>
+	<string id="lttz_oa_undercover_agent_text2">
+		<text> UNISG군에 걸리지 않고 정보를 얻었다. 덱타레프에게 보고하십시오. </text>
+	</string>
+	<string id="lttz_oa_undercover_agent_text3">
+		<text> 당신은 정보를 얻을 수 있었지만 UNISG에게 걸렸습니다. 덱타레프에게 보고하십시오. </text>
+	</string>
+        
+	<string id="st_army_isg_spy_pendrive_name">
+		<text> 비밀 요원의 펜드라이브 </text>
+	</string>
+	<string id="st_army_isg_spy_pendrive_descr">
+		<text> 덱타레프의 다소 비밀스러운 브리핑에 따르면 UNISG의 스파이는 목표와 움직임에 대한 일부 정보와 유엔군이 이 지역을 떠나도록 법적 또는 정치적 압력을 가할 수 있는 증거를 수집하고 있습니다. 암호화되었습니다. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 6 -->
+									
+	<string id="lttz_oa_search_unit_name">
+		<text> 작전명 에프터 글로우: 보호된 비밀 </text>
+	</string>
+        
+	<string id="lttz_oa_search_unit_text">
+		<text> 오래된 주피터 공장을 약탈하고 있는 UNISG 군대를 제거하십시오. 또는 덱타레프를 막아 UNISG가 원하는 정보를 가지고 탈출할 수 있도록 할 수도 있습니다. </text>
+	</string>
+	<string id="lttz_oa_search_unit_text2">
+		<text> 당신은 UNISG 분대를 제거했습니다. 덱타레프와 함께 다음 임무에 대해 논의하십시오. </text>
+	</string>
+	<string id="lttz_oa_search_unit_text3">
+		<text> 공장 안에 남아 있는 일급 비밀 문서를 찾으십시오. </text>
+	</string>
+	<string id="lttz_oa_search_unit_text4">
+		<text> 문서를 찾았습니다. 덱타레프와 대화하십시오. </text>
+	</string>
+	<string id="lttz_oa_search_unit_text5">
+		<text> 당신은 너무 늦었고 UNISG 군대는 문서를 가지고 떠났습니다. 덱타레프와 대화하십시오. </text>
+	</string>
+        
+	<string id="jupiter_documents_name">
+		<text> 주피터 공장 문서 </text>
+	</string>
+	<string id="jupiter_documents_desc">
+		<text> 아마도 공장에 남겨진 비밀 정보가 담긴 마지막 문서일 것입니다. 외국 요원의 손에 넘어가지 않도록 하는 것이 좋습니다. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 7 -->
+									
+	<string id="lttz_oa_strelok_name">
+		<text> 명사수 </text>
+	</string>
+        
+	<string id="lttz_oa_strelok_text">
+		<text> 스트렐록이 추격하는 모노리스 분대를 처리하도록 도와주세요. </text>
+	</string>
+	<string id="lttz_oa_strelok_text2">
+		<text> 스트렐록와 대화하세요. </text>
+	</string>
+	<string id="lttz_oa_strelok_text3">
+		<text> 스트렐록을 세탁소로 호위하십시오. </text>
+	</string>
+	<string id="lttz_oa_strelok_text4">
+		<text> 스트렐록와 대화하세요. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 8 -->
+									
+	<string id="lttz_oa_rogue_name">
+		<text> 내부의 전쟁 </text>
+	</string>
+        
+	<string id="lttz_oa_rogue_text">
+		<text> 로그를 만나 무슨 일이 일어났는지 알아보십시오. </text>
+	</string>
+	<string id="lttz_oa_rogue_text1">
+		<text> 로그에게 1회 분량의 싸이 블록을 주어 정신 필드의 영향으로부터 회복하도록 도우십시오. </text>
+	</string>
+	<string id="lttz_oa_rogue_text2">
+		<text> 로그에게 약을 주십시오. </text>
+	</string>
+	<string id="lttz_oa_rogue_text3">
+		<text> 로그를 세탁소로 호위하십시오. </text>
+	</string>
+	<string id="lttz_oa_rogue_text4">
+		<text> 로그는 이상현상의 영향에 굴복하고 말았습니다. 스트렐록에게 그의 운명을 알리십시오. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 9 -->
+									
+	<string id="lttz_oa_stitch_name">
+		<text> 워킹 데드 </text>
+	</string>
+        
+	<string id="lttz_oa_stitch_text">
+		<text> 스티치가 좀비를 물리칠 수 있도록 도와주세요. </text>
+	</string>
+	<string id="lttz_oa_stitch_text2">
+		<text> 좀비를 제거했습니다. 스티치와 대화하세요. </text>
+	</string>
+	<string id="lttz_oa_stitch_text3">
+		<text> 스티치를 세탁소로 안내하십시오. </text>
+	</string>
+	<string id="lttz_oa_stitch_text4">
+		<text>스티치는 살아남지 못했습니다. 스트렐록에게 그의 운명을 알리십시오. </text>
+	</string>
+        
+	<!-- Operation Afterglow Task 10 -->
+									 
+	<string id="lttz_oa_loose_ends_name">
+		<text> 작전명 에프터 글로우: 느슨한 끝 </text>
+	</string>
+        
+	<string id="lttz_oa_loose_ends_text">
+		<text> 덱타레프 대령의 현재 임무에 대해 대면하십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text2">
+		<text> 스트렐록과 협상하고 타협점을 찾으십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text21">
+		<text> 스트렐록을 처치하십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text22">
+		<text> 덱타레프를 처치하십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text3">
+		<text> 덱타레프는 죽었습니다. 스트렐록에게 그의 운명을 알리십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text31">
+		<text> 스트렐록이 죽었습니다. 덱타레프와 대화하십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text4">
+		<text> 덱타레프에게 스트렐록이 자신의 방식대로 협력할 의향이 있다고 전하십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text41">
+		<text> 당신은 스트렐록이 덱타레프를 제거하는 것을 돕기로 결정했습니다. 대령을 죽이십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text5">
+		<text> UNISG 부대가 덱타레프를 추격하고 있습니다. 그의 공격을 물리칠 수 있도록 도와주세요. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text6">
+		<text> UNISG 분대가 궤멸했습니다. 덱타레프와 대화하십시오. </text>
+	</string>
+	<string id="lttz_oa_loose_ends_text7">
+		<text> 덱타레프와 그의 팀이 떠났습니다. 스트렐록에게 모든 일이 끝났다고 전하세요. </text>
+	</string>
+        
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+</string_table>

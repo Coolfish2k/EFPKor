@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Butcher -->
+	<string id="hunter_gar_trader_task_1_name">
+		<text>도태 사냥</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_text">
+		<text>정리가 필요한 돌연변이 은신처가 있습니다. 나는 그것을 처리하는 더러운 일을 하기로 동의했습니다.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_about">
+		<text>흠. 내가 돌연변이 소굴을 찾았어. 지역 스토커에게 문제를 일으키기 시작했고. 좋은 사냥꾼은 문제 해결에 능숙해야 한다고 생각해서 말이야. 자, 어때. 사냥을 할 기분이 들어? 네 기술에 대한 대가는 지불하지. 네가 돌아오면 모은 고기나 전리품을 내게 팔 수도 있다고.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_finish">
+		<text>다시한번 지역 생태계가 균형을 이뤘군.. 히히. 자, 일에 대한 보상.</text>
+	</string>
+
+	<string id="hunter_gar_trader_task_2_name">
+		<text>부쳐에게 %s 구해주기</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_text">
+		<text>부쳐가 %s를 필요로 하며 그에게 좀 가져다달라고 했습니다.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_about">
+		<text>어떤 사람들은 돌연변이 고기에 상당한 돈을 지불하지.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_about">
+		<text>가끔 돌연변이 고기를 얻은 뒤 바텐더 및 다른 상인에게 보내 식품을 보충하도록 돕고있어. 지금은 %s을(를) 도매로 보낼 준비를 하고 있어서. 내게 가져다 줄 수 있다면 주머니에 적당한 현금을 꽂아주지.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_finish">
+		<text>아, 훌륭해! 이 고기가 지금 역겹게 보일 수 있지만 준비될 때까지 기다려. 맛있을거야!</text>
+	</string>
+
+	
+<!-- Flea Market -->
+	<string id="baraholka_trader_night_task_1_name">
+		<text>"%s" 아티팩트 찾기</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_text">
+		<text>벼룩시장 상인이 %s을(를) 찾아달라고 합니다.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_about">
+		<text>흔하지 않은 종류의 아티팩트을 찾아 전리품을 얻고 싶어? 네게 좋은 장비를 소개해 줄 수도 있어.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_about">
+		<text>희귀 아티팩트을 찾으면서 전리품도 얻고 싶어? "%s"를 찾아주면 몇 가지 더 좋은 옵션을 제공해 주지.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_finish">
+		<text>아, 훌륭해. 여기 보상.</text>
+	</string>
+
+
+</string_table>

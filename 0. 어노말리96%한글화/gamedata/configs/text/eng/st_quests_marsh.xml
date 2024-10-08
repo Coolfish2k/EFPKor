@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON MARSH (SWAMPS) MAP
+<	CoC 1.4.10 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 14, 2016
+<
+<===========================================================-->
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 14, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_text">
+		<text>다음 임무를 받으러 가야 한다.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_about">
+		<text>그래, 네 도움이 필요한 친구가 있어. 보러 가봐.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_finish">
+		<text>행운을 빌지 스토커.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Covert Agent Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
+		<text>비밀 요원</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_text">
+		<text>클리어 스카이 요원이 남긴 문서를 회수해야 하시오.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
+		<text>제 요원 중 한 명이 표시가 안 된 곳에 서류 몇 개를 남겨놨어. 그걸 회수해 줘. 아무도 따라오지 못하게 해야해. 만약 누군가 당신을 미행하는 것을 보면 즉시 죽이도록.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_finish">
+		<text>미행당한 건 아니지? 잘했어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Protect Clear Sky Base Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
+		<text>클리어 스카이 기지 지키기</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_text">
+		<text>지역 내 적이 클리어 스카이 기지를 발견하지 못하도록 제거하시오.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
+		<text>늪지대에서 적대적인 활동이 증가했어. 우리 기지에 실수로 침입하는 위험을 감수할 순 없겠지. '클리어 스카이'에 적대적인 사람은 모두 제거해.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_finish">
+		<text>잘했어. 고마워.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Find Artefact Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_name">
+		<text>콜드에게 "%s" 아티팩트 전달하기</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_text">
+		<text>콜드가 %s 아티팩트가 필요하다 했다.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+		<text>스토커, 아티팩트를 좀 가져다줘.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_fetch_about">
+		<text>"%s"라는 아티팩트를 찾고있어. 아직 발견되지 않은 속성들이 있다고 믿여겨지거든.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_fetch_finish">
+		<text>아, 찾았구나. 고마워.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Search Agroprom Underground Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_name">
+		<text>아그로프롬 지하 탐색</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_text">
+		<text>도난당한 군사 문서들이 아그로프롬 아래 터널에 있으니 찾아서 콜드에게 돌려주시오.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_about">
+		<text>우리 요원 중 한 명이 군에서 중요한 문서를 가져오기로 했어. 문제는 그것들을 가져오기 전에 살해당했다는 거야. 현재 아그로프롬 아래의 터널에 숨겨져 있어. 그 지역에 비밀리에 침투해서 군에서 찾기 전에 되찾아줘. 행운을 빌어.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_finish">
+		<text>잘했어. 훌륭하군.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Blood Red Sky Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_name">
+		<text>피빛 하늘</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_text">
+		<text>레네게이드를 늪지에서 쫓아내십시오.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_about">
+		<text>해냈구나. 좋아, 큰일이 닥쳤어. 레네게이드들이 늪에 다시 잠복했어. 보아하니 좆같은 나날을 보내고 돌아온 건 우리뿐만이 아닌 것 같구만. 우리쪽 경비병들이 네게 합류할 거야. 그놈들과 맞서 싸워줘. 건투를 빌어.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_5_finish">
+		<text>아, 드디어 마음이 좀 놓이네. 정말 고마워.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Librarian (Clear Sky Trader) Default Storyline Task -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_text">
+		<text>다음 임무를 받으러 가야 한다.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_about">
+		<text>일을 맞길만한 사람을 알고 있어. 가서 만나봐, 돈을 제법 많이 낸다고 알려져 있어.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_finish">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Librarian (Clear Sky Trader) Clear Out Mutant Lair Storyline Task -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_name">
+		<text>사서를 위한 돌연변이 소굴 정리</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_text">
+		<text>돌연변이 은신처를 처리하시오.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_about">
+		<text>여기서 멀지 않은 곳에 돌연변이 은신처가 있어. 가서 막대기로 찔러봐.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_finish">
+		<text>잘 했어, 돈 여기.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Librarian (Clear Sky Trader) Procure Supplies Storyline Task -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_name">
+		<text>클리어 스카이를 위해 %s 구하기</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_text">
+		<text>사서가 %s을/를 구해달라 했다.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_about">
+		<text>도움이 필요해. 식량도 부족하고 보급받기도 쉽지 않아.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_fetch_about">
+		<text>%s. 지금 그게 필요해.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_finish">
+		<text>좋았어, 고마워.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 14, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Payoff Change Factions Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_name">
+		<text>클리어 스카이 입단</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_text">
+		<text>콜드가 클리어 스카이에 입단하기 위해서는 15,000 RU가 필요하다 했다.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_about">
+		<text>그래, 널 주시하고 있긴 했거든...호기심이 많고 모험심이 강해. 클리어 스카이에 잘 어울릴 거야. 다만 예외없이 15,000 RU 정도의 수수료를 지불해야해. 이것은 우리의 연구에 자금을 지원하고 우리의 보호를 지불하는데 쓰일 예정이야. 어떻게 생각해?</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_finish">
+		<text>좋아. 연구할 게 많아. 가서 네가 도울 수 있는 곳을 찾아 봐. 환영해.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Decimate the Enemy Task -->
+	
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
+		<text>늪지대 청소</text>
+	</string>	
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_text">
+		<text>콜드는 늪지에서 클리어 스카이의 적들을 뿌리뽑고 싶어한다. %s을(를) 수집해야 한다.</text>
+	</string>		
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
+		<text>처음엔 군대가 우리의 도적단 청소에 끼어들었다는 것에 제법 고마워했었지. 안타깝게도, 나중에 그들은 북쪽에 몇 개의 전초기지를 세우더군. 그 순찰대도 우리한테는 별로 우호적이지 않지. 놈들이 일을 엿같이 처리하는 건 말할 것도 없고, 우리의 전초기지를 괴롭히는 도적놈들이 계속 몰려오고 있어. 가서 우리가 어떤 존재인지 보여줘.</text>
+	</string>		
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_fetch_about">
+		<text>처음엔 군대가 우리의 도적단 청소에 끼어들었다는 것에 제법 고마워했었지. 안타깝게도, 나중에 그들은 북쪽에 몇 개의 전초기지를 세우더군. 그 순찰대도 우리한테는 별로 우호적이지 않지. 놈들이 일을 엿같이 처리하는 건 말할 것도 없고, 우리의 전초기지를 괴롭히는 도적놈들이 계속 몰려오고 있어. 가서 우리가 어떤 존재인지 보여주고 증거를 가지고 와줘.</text>
+	</string>	
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_fetch_finish">
+		<text>아, 역시 우리의 히트맨이야. 이젠 그 개자식들이 다시 늪에 오기 전에 다시 고민해보겠지. 그러길 바라지. 그나저나 여기 상.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Night Terror Task -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
+		<text>밤의 공포</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_text">
+		<text>콜드는 밤에 출몰하는 위험한 돌연변이를 제거하려고 합니다.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
+		<text>돌연변이가 우리 기지 근처에 접근하는 일은 드물지. 하지만 우리 부하들이 보고하길, 어떤 거대한 짐승이 북서쪽 망루를 관리하던 팀 전체를 산산조각 냈다고 하더군. 잘 무장한 네 사람이 그녀석들을 묻었어요. 확실히 들개는 아니더군. 네가 터프한 놈인 거 알아, 그럼 그 개같은 놈을 좀 쫓아낼 수 있지 않을까?</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_finish">
+		<text>잘 했어, 돈 이 보상이 충분하길 바라지.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) FDefend the pump station Task -->
+
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_title">
+		<text>펌프장 방어</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_descr">
+		<text>순찰대 중 한 명이 펌프장에서 밴딧 몇 명을 잡았는데, 퇴각한 후 다시 정비해서 공격을 준비하고 있다고 자백했어. 언제 공격할지 몰라. 이미 그곳에 몇 명을 보냈어. 하지만 도움이 더 필요해. 물론 보상해 줄게.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Kalancha (Clear Sky Medic) Lost to the Zone Tasks -->
+	
+	<string id="mar_smart_terrain_base_doctor_task_1_name">
+		<text>부자연 도태</text>
+	</string>	
+	<string id="mar_smart_terrain_base_doctor_task_1_text">
+		<text>칼란차 교수를 위해 %s 샘플을 수집하기.</text>
+	</string>		
+	<string id="mar_smart_terrain_base_doctor_task_1_about">
+		<text>그 구역의 돌연변이들은 그 비정상적인 조건에 대한 수많은 독특한 적응을 보여줬어. 연구를 위해 조직 샘플을 채취해 줘. 아마 잘만 하면 우리가 이런 환경에서 더 잘 지낼수 있도록 도울 수도 있을 거야.</text>
+	</string>		
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about">
+		<text>그 구역의 돌연변이들은 그 비정상적인 조건에 대한 수많은 독특한 적응을 보여줬어. 연구를 위해 조직 샘플을 채취해 줘. 아마 잘만 하면 우리가 이런 환경에서 더 잘 지낼수 있도록 도울 수도 있을 거야. %s을 모아와줘.</text>
+	</string>	
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish">
+		<text>샘플의 상태는 양호해. 그럼 바로 조사해보도록 하지. 고마워.</text>
+	</string>
+	
+	<string id="mar_smart_terrain_base_doctor_task_2_name">
+		<text>과학 진보</text>
+	</string>	
+	<string id="mar_smart_terrain_base_doctor_task_2_text">
+		<text>칼란차 교수에게 "%s" 아티팩트 전달하기.</text>
+	</string>		
+	<string id="mar_smart_terrain_base_doctor_task_2_about">
+		<text>아티팩트는 우리 연구에 매우 귀중한 자료를 제공해주지. 하지만, 우리가 직면하고 있는 많은 위협 때문에, 그것들을 그렇게 자주 모을 수 없어. 좀 도와 주겠어?</text>
+	</string>		
+	<string id="mar_smart_terrain_base_doctor_task_2_fetch_about">
+		<text>아티팩트는 우리 연구에 매우 귀중한 자료를 제공해주지. 하지만, 우리가 직면하고 있는 많은 위협 때문에, 그것들을 그렇게 자주 모을 수 없어. 좀 도와 주겠어? %s 아티팩트를 하나를 찾고있어.</text>
+	</string>	
+	<string id="mar_smart_terrain_base_doctor_task_2_fetch_finish">
+		<text>아무리 시간이 지나도 이것들은 나를 계속 놀라게 하는군. 정말 멋진 표본이야. 지원에 감사하지.</text>
+	</string>
+	
+	<string id="mar_smart_terrain_base_doctor_task_3_name">
+		<text>공급 부족</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_3_text">
+		<text>칼란차 교수가 %s를 부탁했다</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_3_about">
+		<text>스포어는 우리에게 물자를 공급하기 위해 최선을 다하고 있어. 하지만 아직도 우리는 어려운 상황에 처해 있고. 치료해야 할 부상자는 상대적으로 적지만 의료 물자는 한정되어 있어. 재고 보충 좀 도와 줄 수 있어?</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_3_fetch_about">
+		<text>스포어는 우리에게 물자를 공급하기 위해 최선을 다하고 있어. 하지만 아직도 우리는 어려운 상황에 처해 있고. 치료해야 할 부상자는 상대적으로 적지만 의료 물자는 한정되어 있어. 재고 보충 좀 도와 줄 수 있어? 보자... %s, 그래, 그게 저번 습격에 떨어졌어. 부탁해.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_3_fetch_finish">
+		<text>도움에 깊이 고마움을 표하지.</text>
+	</string>
+	
+	<string id="mar_smart_terrain_base_doctor_task_5_name">
+		<text> 칼란차 교수에게 %s 구해주기</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_5_text">
+		<text>칼란차 교수가 %s를(을) 구해달라고 했다.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_5_about">
+		<text>매일 늘어나는 부상자에 의료용품 창고에 남은 의약품이 아슬아슬해. 조만간 붕대랑 약도 다 떨어질 거야. 약 제조 키트를 좀 찾아줘. 확실히 도움이 될 거야.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_5_fetch_about">
+		<text>매일 늘어나는 부상자에 의료용품 창고에 남은 의약품이 아슬아슬해. 조만간 붕대랑 약도 다 떨어질 거야. 약 제조 키트를 좀 찾아줘. 확실히 도움이 될 거야. 그걸 가지고 와주면 합당한 대가를 지불하지.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_5_fetch_finish">
+		<text>고마워! 정말 큰 일을 해준거야!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Spore (Clear Sky Trader) Deliver PDA Task -->
+
+	<string id="mar_base_owl_stalker_trader_task_1_name">
+		<text>님블에게 PDA 전달하기</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_text">
+		<text>스포어가 자톤의 님블에게 암호화된 PDA를 전해달라고 했다.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_about">
+		<text>그래, 있어. 일이 필요한 거지? 이 PDA를 자톤에서 놀고있는 녀석한테 전해줘. 이름은 님블이야. 가져다 주면 그 녀석이 너에게 보상할 거야. 절 대, 그러니까 절대 웅덩이 같은 데에만 빠뜨리지 마. 만약 그랬다간... 알지? 니가 거기 있는 동안, 그녀석 서비스도 한번 슥 둘러봐. 녀석한테 부탁하면 상당히 좋은 장비를 손에 넣을 수도 있으니까. 돈만 있다면말이지만.</text>
+	</string>
+
+	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
+	<string id="mar_base_owl_stalker_trader_task_2_name">
+		<text>헬리콥터 격추 시키기</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_text">
+		<text>스포어는 당신이 헬리콥터를 파괴하길 원한다. 일을 완료하면 그가 할인을 제공해줄 것이다.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_about">
+		<text>저 빌어처먹을 헬기가 날 미치게 만들고 있어! 이명이 너무 심해서 남쪽 반경을 순찰할 때마다 귀에서 비명소리가 난다고! 망할 놈들, 내가 누굴 죽이기 전에 저걸 처리해주면 내가 앞으로 평생 할인을 해주지.</text>
+	</string>
+
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_owl_stalker_trader_task_3_name">
+		<text>생태학자 호위</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_text">
+		<text>클리어 스카이 과학자들이 연구할 수 있는 특정 장소로 안내하기 위해 날 고용했다. 일단 그들의 연구가 성공적으로 끝나면, 그과 함께 기지로 복귀해라.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_about">
+		<text>캠프에 있는 과학자들이 연구를 위해 현장으로 안내해줄 숙련된 스토커가 필요해. 준비됐어? 네 일은 그들을 살려서 목적지로 안내하는 거야. 실패하면 이 근방에서 평판이 나빠질 거니까 조심하고.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_finish">
+		<text>감사합니다. 여기 서비스에 대한 비용이요.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_1_name">
+		<text>돌연변이 제거 구역</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_text">
+		<text>근처에서 돌연변이들이 발견되어 사람들을 위험하게 만들고 있다. 지역을 확보하라.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_about">
+		<text>혹시 사냥꾼이야? 우리들이 자주 다니는 경로의 돌연변이들을 제거해줄 사람을 찾고 있어. 해볼래?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_finish">
+		<text>훌륭해! 여기. 이제 안전해졌다고 전달해야겠다. 고마워.</text>
+	</string>
+
+	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_2_name">
+		<text>밴딧 캠프 공격하기</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_text">
+		<text>지역 내 밴딧를 제거하는 임무를 받았다. 작업이 끝나면 사서에게 다시 보고하십시오.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_about">
+		<text>최근 밴딧들과 큰 마찰이 있었다. 그 살인범들이 본거지 밖에 있는 우리 캠프에 매복해서 영토를 차지하려 하고 있다고. 그 놈들이 있는 한 습지를 통과하는 안전한 경로가 적어져. 그래서 손을 더럽히는 것을 두려워하지 않는 경험 많은 스토커가 필요해. 도와줄 수 있어?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_finish">
+		<text>훌륭해! 여기. 고마워.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_3_name">
+		<text>%s 공급하기</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_text">
+		<text>%s을(를) 클리어 스카이 베이스 캠프에 있는 사서에게 전달하십시오.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_about">
+		<text>네가 사격에 능숙하고 돌연변이를 두려워하지 않는다면, 일이 있어. 관심 있어?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_about">
+		<text>식량이 부족해. 그래도 캠프에 있는 모든 사람들을 먹여야한다고. 배가 고프면 어떤 놈들은 가끔 날 죽이려고 든다고. 요즘 좀 덜하긴 하지만... 그래서 말인데 바쁘지 않다면 %s을 구해줄 수 있어? 가공은 직접해. 바로 여기 내 부엌에서. 돌연변이들이 흥분하게 되면 아드레날린 때문에 고기가 질겨진다는 것을 기억하라고. 또 출혈이 적을수록 고기의 맛이 좋아져. 그러니까 조심해서 쏘라고, 알았지?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
+		<text>훌륭해, 넌 결국 좋은 사냥꾼이야! 여기 보상.</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_1_name">
+		<text>노비코브에게 %s 찾아주기</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_text">
+		<text>노비코브에게 %s를 가져다 줘야한다.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_about">
+		<text>이곳으로 도구를 가지고 오는 것은 정말 어려워. 몇 가지 새로운 도구만 손에 넣을 수 있다면 더 다양한 장비에 대한 업그레이드를 수행할 수 있을 텐데. 만약 관심이 있다면, 부탁 좀 할게.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about">
+		<text>기본적인 도구 세트가 필요해. 만약 나를 위해 그걸 가져다 준다면, 고마울거 같아. 할인도 해주지.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>좋은데! 여기, 돈 가져.</text>
+	</string>
+	<!-- FIND LEVEL 2 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_2_name">
+		<text>노비코브에게 %s 찾아주기</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_text">
+		<text>노비코브에게 %s를 가져다 줘야한다.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_about">
+		<text>더 많은 도구가 필요해. 저번에 좋은 걸 가져다 준건 아는데 좀 더 높은 퀄리티의 세트가 필요해. 만약 관심이 있다면, 구해주겠어?</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about">
+		<text>고급 도구 세트가 필요합니다. 만약 나를 위해 그걸 가져다 준다면, 고마울거 같아. 할인도 해주지.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>좋은데! 여기, 돈 가져.</text>
+	</string>
+	<!-- FIND LEVEL 3 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_3_name">
+		<text>노비코브에게 %s 찾아주기</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_text">
+		<text>노비코브에게 %s를 가져다 줘야한다.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_about">
+		<text>더 많은 도구가 필요해. 저번에 좋은 걸 가져다 준건 아는데 좀 더 높은 퀄리티의 세트가 필요해. 만약 관심이 있다면, 구해주겠어?</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_about">
+		<text>이번엔 전문적인 도구 세트가 필요해. 그것은 내가 필요한 것을 포함해야 한다. 이게 마지막일 거야.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>좋은데! 여기, 돈 가져. 그리고 앞으로 작업대가 필요하면 말만 하라고. 공짜로 빌려줄 테니까.</text>
+	</string>
+
+	<!-- ESCORT SCIENTISTS DIALOGS -->
+	<string id="ecolog_companion_task_1_start_dialog_1">
+		<text>당신이 우리의 가이드인가요? 당신의 PDA에 위치를 표시해 두겠습니다. 길을 안내해 주세요. 분석을 마친 후 안전하게 우리를 호송해 주시고요. 일이 끝나서 캠프에 도착하면 보상에 대해 말하죠.</text>
+	</string>
+	<string id="ecolog_companion_task_1_start_dialog_2">
+		<text>이동해야 합니다. 더 오래 시간이 끌릴 수록, 위험해져요.</text>
+	</string>
+	<string id="ecolog_companion_task_1_complete">
+		<text>고마워요 스토커. 여기 말한 금액입니다.</text>
+	</string>
+	<string id="ecolog_companion_task_1_actor_reply">
+		<text>예.</text>
+	</string>
+
+		<!-- FIND SWAMP DOCTOR -->
+	<string id="mar_doctor_task">
+		<text>존의 신비</text>
+	</string>
+	<string id="mar_doctor_task_0">
+		<text>당신은 미스터리를 풀기 위해 존에 왔다. 낯익은 얼굴을 한 사람에게 당신이 찾는 답이 있을 수 있다.</text>
+	</string>
+
+	<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+	<string id="cit_doctor_task">
+		<text>폴리시야 호텔</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>의사가 준 열쇠와 좌표를 보면 스트렐록이 프리피야에 있는 폴리시야 호텔의 방에 숨겨뒀다는 걸 알 수 있다.</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>주어진 좌표로 호텔을 찾았다. 이 근처 어딘가에 열쇠에 새겨진 글자와 일치하는 방이 있을 것이다.</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>스트렐록이 버리고 간 방에 흩어져 있는 물건들이 몇 개 있다. 잠재적인 단서를 찾기 위해 조사하자.</text>
+	</string>
+	<!-- MARSH DOCTOR VISIT LABS -->
+	<string id="st_main_1_search_agr_ug_name">
+		<text>아그로프롬 지하 조사</text>
+	</string>
+	<string id="st_main_1_search_agr_ug_text">
+		<text>아그로프롬의 지하를 조사하고 단서를 찾아야 한다.</text>
+	</string>
+	<string id="st_main_2_search_labx18_name">
+		<text>X18 연구소 조사</text>
+	</string>
+	<string id="st_main_2_search_labx18_text">
+		<text>X18 연구소를 조사하여 음모의 단서를 찾아라.</text>
+	</string>
+	<string id="st_main_3_search_labx16_name">
+		<text>X16 연구소 조사</text>
+	</string>
+	<string id="st_main_3_search_labx16_text">
+		<text>X16 연구소를 조사하여 음모의 단서를 찾아라.</text>
+	</string>
+	<string id="st_main_4_search_labx10_name">
+		<text>X19 연구소 조사</text>
+	</string>
+	<string id="st_main_4_search_labx10_text">
+		<text>X19 연구소를 조사하여 음모의 단서를 찾아라.</text>
+	</string>
+	<string id="st_main_5_search_labx8_name">
+		<text>X8 연구소 조사</text>
+	</string>
+	<string id="st_main_5_search_labx8_text">
+		<text>X8 연구소를 조사하여 음모의 단서를 찾아라.</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_name">
+		<text>주피터 지하 조사</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_text">
+		<text>주피터 지하를 조사하여 음모의 단서를 찾아라.</text>
+	</string>
+	<string id="st_main_7_search_mon_con_name">
+		<text>체르노빌 NPP 조사</text>
+	</string>
+	<string id="st_main_7_search_mon_con_text">
+		<text>체르노빌 NPP를 조사하여 음모의 단서를 찾아라.</text>
+	</string>
+</string_table>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Lukash (Freedom Leader) -->
+	<string id="about_freedom_lider_miklyha_0">
+		<text>당신이 브레인 스코처에 쳐들어가서 반 년 동안 거기서 지냈던 스토커야?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_1">
+		<text>뭐, 반 년 정도는 아니었고, 그저 한 달 정도였지만. 하지만 맞아, 내 이름은 루카쉬야. 만나서 반가워.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_2">
+		<text>그 땐 어땠어?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_3">
+		<text>미안하지만, 떠올리지 않는 편이 나을 거 같아서 말이지. 그 때 가장 중요했던 건 거길 안전하게 빠져나오는 거였어.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_4">
+		<text>알겠어. 아무튼 고마워.</text>
+	</string>
+	
+	<string id="lukash_svoboda_0">
+		<text>프리덤에 대해 이야기해줘.</text>
+	</string>
+	<string id="lukash_svoboda_1">
+		<text>너도 알겠지만, 다른 세력들은 무시하는게 나아. 그 녀석들은 어떤 식으로든 꽉 막혀 있다고. 우리들은 아마 틀림없이 존에서 가장 유쾌한 녀석들일 거야. 그리고 존은 정말로 기적과도 같은 존재지. 이상현상들, 아티팩트들, 심지어는 뮤턴트조차 말이야. 뭐, 대부분이 그렇다는 말이지. 어떤 방법으로든, 모든 사람들은 여기로 와서 이곳의 경이로움을 만끽할 수 있어야 해. 누구에게나, 하루에 24시간 동안 열려 있어야 한다고. 좋은 게 좋은 거잖아, 그렇지? 우리가 여기 있는데, 즐거움을 좀 찾지 못할 이유가 어디에 있어? 아무런 규칙도, 아무런 규율도 없지만, 일이 뭔가 잘못되었을 때 의지할 만한 헌신적인 동료들이 있지. 친구들과 함께 맥주라도 좀 마시고 싶어? 그렇게 해. 모노리스 괴짜들을 때려 눕히고 싶다고? 물론 가능하지. 듀티 녀석들 엉덩이를 걷어차주고 싶어? 당장 하자고! 멋진 경험을 할 수많은 기회가 앞에 놓여 있다고.</text>
+	</string>
+	
+	<string id="lukash_freedom_0">
+		<text>프리덤에 대해 이야기해줘.</text>
+	</string>
+	<string id="lukash_freedom_1">
+		<text>너도 알겠지만, 다른 세력들은 무시하는게 나아. 그 녀석들은 어떤 식으로든 꽉 막혀 있다고. 우리들은 아마 틀림없이 존에서 가장 유쾌한 녀석들일 거야. 그리고 존은 정말로 기적과도 같은 존재지. 이상현상들, 아티팩트들, 심지어는 뮤턴트조차 말이야. 뭐, 대부분이 그렇다는 말이지. 어떤 방법으로든, 모든 사람들은 여기로 와서 이곳의 경이로움을 만끽할 수 있어야 해. 누구에게나, 하루에 24시간 동안 열려 있어야 한다고. 좋은 게 좋은 거잖아, 그렇지? 우리가 여기 있는데, 즐거움을 좀 찾지 못할 이유가 어디에 있어? 아무런 규칙도, 아무런 규율도 없지만, 일이 뭔가 잘못되었을 때 의지할 만한 헌신적인 동료들이 있지. 친구들과 함께 맥주라도 좀 마시고 싶어? 그렇게 해. 모노리스 괴짜들을 때려 눕히고 싶다고? 물론 가능하지. 듀티 녀석들 엉덩이를 걷어차주고 싶어? 당장 하자고! 멋진 경험을 할 수많은 기회가 앞에 놓여 있다고.</text>
+	</string>
+	<string id="lukash_freedom_2">
+		<text>그렇군.</text>
+	</string>
+	<string id="lukash_freedom_3">
+		<text>그나저나, 가끔씩 우리들과 어울려서 놀아보지 않겠어?</text>
+	</string>
+	<string id="lukash_freedom_4">
+		<text>그래, 재밌게 놀아 보자고.</text>
+	</string>
+	<string id="lukash_freedom_41">
+		<text>끝내주는군. 들어온 걸 환영해, 친구.</text>
+	</string>
+	<string id="lukash_freedom_5">
+		<text>미안하지만, 내 일에 더 신경쓰고 싶어. 난 신경쓰지 마.</text>
+	</string>
+	<string id="lukash_freedom_51">
+		<text>물론, 강요하는 건 아냐. 마음이 바뀐다면 언제나 돌아오라고.</text>
+	</string>
+	<string id="lukash_freedom_6">
+		<text>어, 너네들은 그냥 총든 히피 무리들 아니었어?</text>
+	</string>
+	<string id="lukash_freedom_61">
+		<text>오, 그게 네 생각이라면 말이지, 상관없어. 우리들을 방해하지만 말라고, 아니면 네 엉덩이에 신나게 쏴갈기고 싶어질지도 모르니까. 알겠지, 친절하게 경고해주는 거야. 안녕히.</text>
+	</string>
+	<string id="lukash_freedom_62">
+		<text>난 가봐야겠어.</text>
+	</string>
+	<string id="lukash_freedom_7">
+		<text>정보 고마워.</text>
+	</string>
+	
+	<string id="monolith_eidolon_start_0">
+		<text>모노리스님을 찬미할지어다, 형제여.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_freedom_0">
+		<text>비행 기록 장치를 찾아냈어.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_freedom_1">
+		<text>오, 진짜야? 가져와 봐. 저 멍청이들이 뭘 계획했는지 보자고.</text>
+	</string>
+
+
+	<string id="look_for_cs_history_part_3_1_0">
+		<text>난 레쉬라는 사람을 찾고 있는데, 혹시 여기 있어?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_1">
+		<text>그래. 1층으로 내려가 봐, 그 녀석은 복도 끝에 있어.</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_2">
+		<text>고마워.</text>
+	</string>
+	
+	<string id="devushka_5_help_0">
+		<text>안녕. 생활은 좀 어때? 내 동료와 관련해서 몇 가지 질문이 좀 있는데, 아마도 너도 잘 알고 있는 사람일 거야.</text>
+	</string>
+	<string id="devushka_5_help_1">
+		<text>좋아, 들어오라고. 상황은 그럭저럭 좋아, 저 장벽 너머에 숨어있는 사악한 영혼들이 아직 없어지지는 않았지만. 그리고 당연히, 난 힙을 기억하고 있지. 그녀 친구들에게는 애도를 표하지. 스프랏을 언제나 좋아했었거든.</text>
+	</string>
+	
+	<string id="devushka_help1_0">
+		<text>요즘 초보자 마을에서 힙을 찾고 다니는 깡패들에 대해 들어본 적 있어? 힙은 그 놈들이 신디케이트에서 온 요원이라고 생각하는 거 같은데.</text>
+	</string>
+	<string id="devushka_help1_1">
+		<text>아, 그래, 들은 적 있어. 밴딧과 용병들 사이에서 모집된 심부름꾼들이, 힙이 처음으로 도착했을 때부터 걜 잡아서 현상금을 챙기겠다고 벼르고 있었지. 그래도 그 놈들은 프리덤의 성질머리를 건드리려고 할 정도로 배짱이 있는 놈들은 아니었어, 특히 코스티얀이 살아있었을 때는 말이지. 그 녀석이 우리가 처음 여기에 도착했을 때 군인들과 모노리스 놈들을 몰아낸 사람이었다는 걸 알고 있었어? 아주 끝내주는 친구였지. 하지만, 듀티가 결국 그를 축이고 말았고, 그 디거 개새끼가 바의 남쪽에 있는 모든 곳에서 힙의 평판을 망쳐버리고 말았지... 난 힙이 그저 숨어다니는 걸 원한다 해도 비난할 생각은 없어, 우린 그 당시에 상당히 약해져 있는 상태였으니까. 하지만, 힙이 지금 어떤 색깔을 띠고 있는지는 상관없이, 난 이제 내 사람들을 괴롭히려는 녀석들을 가만히 두고 볼 수 없어. 걱정마, 힙, 내가 개인적으로 두쉬맨과 술탄과 이야기를 나눠 볼 테니까. 그들이라면 이 말도 안되는 짓거리를 멈출 수 있을 거야. 그런데 힙, 옛날의 우정을 봐서, 날 위해 약을 좀 배달해줄 수 없을까? 최근에 우리들이 야노프에 기지를 세워서 그 친구들에게 도움을 좀 줘야 하거든. 거기에 도착한다면, 로키와 이야기해봐. 그 녀석이 약품 상자를 가져갈 거야. 이 일을 해준다면, 우리 사이에 비긴 걸로 치자고.</text>
+	</string>
+	<string id="devushka_help1_2">
+		<text>걱정 마 루카쉬. 우린 갈 준비가 됐어.</text>
+	</string>
+	<string id="devushka_help1_3">
+		<text>미안 루카쉬, 아직은 배달일을 맡을 준비가 안 됐어. 도와줘서 고마워.</text>
+	</string>
+
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_ask">
+		<text>이봐, 루카쉬! 잠시 프리덤에서의 삶에 대해 이야기해 줄 수 있어?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_1">
+		<text>Sure! You've heard of Bob Marley, yes? His birthday is a celebrated event around here... *sigh* too bad the lads never seem to remember when it is. It's the sixth of February, in case you care, although good luck getting that into the heads of our seedy new arrivals.\n \nMake no mistake, the celebrations tend to be quite memorable - more ham than one can fit on a spit, and enough vodka to knock a pseudogiant on its ass.\n \nHahaha...yeah, good times. Still, sometimes I regret getting the boys to shack up in this place with me. Not everyone has the willpower to camp next to the Radar for years on end, and you can tell it's taking its toll.\n \nMake no mistake - my boys are badasses. Firm and hard to the core. But I see what they share with each other around the campfires. Reminds me of our days under Chekhov - disgraceful.\n \nBut what else are the lads supposed to do - use those spooky psy-helmets the government scientists conjure up in their bunkers? Nuh-uh. I know some of our more tight-assed boys around here do that, but how do they know those helmets are just there to protect their consciousness? How do they know it won't turn them into a different kind of zombie when the state decides to make its final move?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_2">
+		<text>A while back, the government developed a specially modified bulletproof vest. It integrated carefully treated artefact fragments that could heal the wearer's wounds before their very eyes. Naturally, only the military got to use them, so we went ahead and changed that, hehe. Once we got hold of a few models, we tried to reverse-engineer the new technology into our own outfits.\n \nIt didn't really go anywhere for us at first, but luckily one of my boys, eh, stumbled upon some research notes. The data was made available to the public immediately.  Just like that, Freedom ensured the government monopoly on personal combat life support systems would be broken forever.\n \nThis is part of what Freedom is all about. We ensure the mice and the rats of this world don't get screwed over by all fat cats sitting at the top.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_3">
+		<text>Yeah, I've got a minute.\n \nYou know what bullshit really tires me out some days? The idea of Freedom being nothing but a bunch of sexual deviants and druggies looking for their next hit, their next fix.\n \nI've heard many sick rumours from our detractors over the years... but none of them get my hackles up more than their fetishistic stories about us trying to get our peckers into Bloodsuckers. It all started as a vicious rumour by Duty a few years ago. How did this rumour come about, you ask? I warn you, it's not for the faint of heart.\n \nWhat happened was a couple of our brave new boys - about six of them, actually - were hunting for artefacts in the Bloodsucker Village. I was quite proud of them, most people are too afraid to go near that place. It was an ambush. A veteran Duty squad had already been camping in that village, waiting just for them. At the time, we thought those rookies were simply all killed, but no...\n \nWhat happened is Duty overwhelmed and kidnapped our young rooks easily. Duty stripped their armour off, paraded them back to that filthy bloodsport arena in Rostok, and arranged a fight. Off-the-books. They promised my missing boys they'd be let go if they could wrestle down a bloodsucker barehanded and... I'm sure you can guess what they were expected to do next. It makes me sick to recount this, but you need to know the full story.\n \nThey were pitted against two bloodsuckers - one for every three of my lads they had captured.  They were forced to pin the beasts down, and then... No, I can't say. Only that the sick Duty bastards were getting the whole thing on camera.  True to their word, Duty let the survivors go. If you can even call them survivors. After their emancipation, most refused to eat or drink. A few managed to get some nice, thick rope... or placed a gun down their throats and...\n \n...others, well, they died from withdrawal. Our sawbones later found traces of meth, cocaine and Adderal in their blood. We don't give our lads that stuff, so one can only assume Duty forced it down their throats.\n \nAnd what did Duty get? They got some exciting new images to back up their propaganda campaigns. And then I got some of the names of the bastards involved. And then they got stuck and left to die like bleeding pigs. But I'm not done yet.\n \nWe are Freedom fighters, and Duty has yet to pay for all the crimes against liberty that they have committed.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_4">
+		<text>Alright. Today can be a cautionary tale. Many, many years ago we had a boy among our ranks - Pavlik, his name was. Well-liked, not a bad guy. He seemed open and laid-back, like many of our newer recruits first are. Well, he quickly made new friends, and the lads here at the base trusted him with all sorts of interesting facts, secrets, personal stories... One day, I discovered he was selling these secrets off to the mercs.\n \nPavlik isn't the only one who's done something like this. Freedom has a sad history of dealing with shit like this every year or so. These stories always begin differently, but all turn out the same way - with the damn snitch coughing the blood out his lungs, profoundly regretting his poor life choices.\n \nThere's a lot of love in our community. A lot of trust. I wouldn't want to *ever* be the guy who betrays it. Would you? </text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_5">
+		<text>Yeah, the state of the Zone has been on my mind for a while. It wouldn't hurt to have someone else stand around and listen to what I'm thinking.\n \nI have to be honest, life isn't easy here. Only the strong, the flexible or the clever can expect to survive long. Those who get too stubborn, too careless, too complacent... they die quickly. The Zone has a way of killing off those who try to threaten or abuse it, while it lifts up those who respect it - those who remember that they're here because they have nowhere else to turn. Those who do not take it for granted.\n \nThis is why Freedom must do all it can to preserve the Zone. Despite its dangers, it's a wondrous place for others. For those who have nothing, those who have lost hope, they get to come here and find new purpose. Even inventors or artists who have lost their inspiration, or don't know how to make their next breakthrough - they can come here and leave with everything they need.\n \nThis is why we fight against the government - who'd shackle this miracle in red tape, cages and categories. It's why we battle with Duty, who'd gladly nuke this place again if it meant an end to the mutants and anomalies here. I want the Zone to be around when the sons and daughters of my nephews and nieces grow up. I want them to come and go from this place as they please, without any weedy officials or slimy organizations telling them that they can't.\n \nThis place was intended for all humanity. Not one human. Not even a group of them. And for this reason, we must make an end to tyrants.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_6">
+		<text>Sure. I suppose you might have questions about our relations with some of the other groups.\n \nFirstly, as a general rule neutral stalkers off-limits. They represent the common man and are the lifeblood of what Freedom stands for. Of course, that doesn't mean you should blindly trust them, nor should you ever defer to them without good cause - many of them have pro-Duty or even pro-government views. But unless they're causing trouble, live and let live.\n \nSecondly, bandits. Who first called them bandits, anyways? Now, some of them genuinely are sick bastards. Those ones, I'd shoot myself, but most are just neutral stalkers that Duty have targeted and segregated with their propaganda campaigns. As a result, they're much more desperate than most stalkers, but they're just trying to survive here like anyone else.\n \nDushman's mercs? Between you and me, most of them are slimy bastards, but dependable when on a contract. The only thing they care about is money, and right now their money tells them to subvert the local government, much like we do. We get along at an arm's length, and that's all I really have to say about them.\n \nEcologists? If I had my way, I'd have given most of their state-funded asses an eviction notice ages ago. But Skinflint keeps whining about us needing supplies from their bunkers, and Loki is too soft-hearted to support me in this, despite otherwise being a good leader. Overall, Freedom respects their viewpoints enough that we leave the scientists alone. Even if I personally believe their studies are too harsh and invasive on the local wildlife.\n \nDon't even get me started on Duty or Military, or you'll get me ranting for hours.\n \nMonolith focus too much on their precious rock, rather than the Zone as a whole. Not to mention they're truly awful when it comes to sharing. Don't try to reason with them - they'd sooner blow up in your face than sit down for a chat, and would sooner kill you than let you take one step past the Barrier.\n \nAnd other groups? Well, they're around, but Freedom doesn't encounter them enough on a day-to-day basis for me to think much of them. Anyways, that's it for now. I can't spend my whole day discussing this.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_7">
+		<text>Eh, life is too grave right now. Everyone's sitting at their posts, looking glum. It's ridiculous. Let me share a joke or two with you.\n \nSo, a state-sponsored news reporter successfully arranges an interview with a Freedom member - yeah I know, sounds crazy right there. It gets even better.\n \n"So what do you think of the military forces we have stationed here?" the reporter asks.\n"They are pigs. They are cruel, stupid and blind scum of the earth!" the Freedomer replies, like the good lad he is.\nThe reporter pauses for a bit, then asks her next question.\n"Alright. So what do you think of Duty?"\nThe Freedomer goes silent, as if deep in thought, before finally saying...\n"Actually, the military isn't so bad when you put it like that..."</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_8">
+		<text>No matter what else you might hear about Freedom, remember this: we happily accept anyone who recognizes that the Zone is a place where the rule of state doesn't apply. It's a place where you can live right and live freely under your own morals and common sense instead... as long as you're willing to live with the consequences, too. This is what Freedom is all about - taking life on our own terms. By banding together, we ensure this ideal is never suppressed.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_9">
+		<text>Yeah, let me tell you something about our worst enemy.\n \nSo, an experienced Dutyer and a rookie Dutyer are walking in the Zone, when suddenly the older one stops dead in his tracks and whispers to his underling.\n"Shh! Move over to that tree. Carefully."\nThe younger Dutyer starts sweating and begins carefully, very carefully, moving to the tree. He does little zig-zags, even spinning in quick circles to what the danger might be.\nEventually, he reaches the tree. Suddenly, the veteran Dutyer shouts.\n"I KNEW IT! I KNEW THEY WERE LYING WHEN THEY SAID THERE WERE ANOMALIES THERE!" \n \nHeh. Classic campfire joke. What, you were expecting something serious? Things are tense enough around camp as it is. Unless we have any real business to discuss, I'd appreciate you giving me some space for now. I need to concentrate on keeping this base afloat.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
+		<text>Maybe another time, man? Right now, I need to focus on keeping the boys coordinated, and I know a few of them will want to see me in private soon. </text>
+	</string>
+	
+<!-- (Freedom guide) -->
+	<string id="mil_freedom_guid_meet_0">
+		<text>이봐, 요즘 어때?</text>
+	</string>
+	<string id="mil_freedom_guid_meet_1">
+		<text>그럭저럭. 난 레쉬야, 만나서 반가워. 난 여기서 안내와 정찰 임무를 맡고 있어.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_2">
+		<text>그럼 이곳에 대한 정보들을 좀 알아? 아마도 많은 곳들을 가봤을 거 같은데.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_3">
+		<text>그렇지. 난 이상현상 안에도 들어가 본 적이 있다고. 그 땐 내가 아직 용병이었을 때였지... 내 분대원들과 같이 공간 버블 속으로 들어가버리고 말았어. 아주 긴 이야기지. 어쨌든, 난 코돈과 얀타호수, 그리고 주피터의 야노브 역까지 안내해주고 있어. 각각 4500 루블, 5000 루블, 그리고 6000 루블이야.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_4">
+		<text>잘 알아두고 있을게.</text>
+	</string>
+
+	<string id="mil_freedom_guid_go_0">
+		<text>날 데려다 줘.</text>
+	</string>
+	<string id="mil_freedom_guid_go_1">
+		<text>알겠어, 친구. 어디로?</text>
+	</string>
+		<string id="mil_freedom_guid_go_2">
+			<text>야노브로. [6000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_5">
+			<text>돈부터 내라고, 친구.</text>
+		</string>
+		<string id="mil_freedom_guid_go_8">
+			<text>여기, 다 가지라고.</text>
+		</string>
+		<string id="mil_freedom_guid_go_3">
+			<text>코돈으로. [4500 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_6">
+			<text>돈은 있지?</text>
+		</string>
+		<string id="mil_freedom_guid_go_9">
+			<text>여기, 가져가.</text>
+		</string>
+		<string id="mil_freedom_guid_go_4">
+			<text>얀타 호수로. [5000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_7">
+			<text>돈은 가져왔어?</text>
+		</string>
+		<string id="mil_freedom_guid_go_10">
+			<text>물론. 여기 있어.</text>
+		</string>
+	<string id="mil_freedom_guid_go_11">
+		<text>잊어버려.</text>
+	</string>
+	<string id="mil_freedom_guid_go_12">
+		<text>마음이 바뀌었어.</text>
+	</string>
+
+</string_table>

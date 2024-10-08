@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="kb_active_jobs">
+		<text>PDA</text>
+	</string>
+	<string id="kb_alife_command">
+		<text>공격 명령</text>
+	</string>
+	<string id="kb_always_run">
+		<text>걷기/낮게 숙이기</text>
+	</string>
+	<string id="kb_artefact">
+		<text>아티팩트</text>
+	</string>
+	<string id="kb_walk">
+		<text>걷기/낮은 포복</text>
+	</string>
+	<string id="kb_freelook">
+		<text>고개 돌리기</text>
+	</string>
+<string id="kb_grp_movement">
+	<text>움직임</text>
+	</string>
+	<string id="kb_backward">
+		<text>뒤로</text>
+	</string>
+	<string id="kb_binoculars">
+		<text>쌍안경</text>
+	</string>
+	<string id="kb_buy_menu">
+		<text>구매 목록</text>
+	</string>
+	<string id="kb_chat">
+		<text>채팅</text>
+	</string>
+	<string id="kb_chat_team">
+		<text>팀 채팅</text>
+	</string>
+	<string id="kb_console">
+		<text>콘솔</text>
+	</string>
+	<string id="kb_contacts">
+		<text>PDA 접촉기록</text>
+	</string>
+	<string id="kb_crouch">
+		<text>숙이기</text>
+	</string>
+	<string id="kb_crouch_toggle">
+		<text>숙이기 토글</text>
+	</string>
+	<string id="kb_detector">
+		<text>탐지기</text>
+	</string>
+	<string id="kb_grp_weapons">
+	<text>무기</text>
+</string>
+	<string id="kb_down">
+		<text>아래로</text>
+	</string>
+	<string id="kb_drop">
+		<text>떨어트리기</text>
+	</string>
+	<string id="kb_fire">
+		<text>발사</text>
+	</string>
+	<string id="kb_firemode_next">
+		<text>다음 사격 모드</text>
+	</string>
+	<string id="kb_firemode_prev">
+		<text>이전 사격 모드</text>
+	</string>
+	<string id="kb_forward">
+		<text>앞으로</text>
+	</string>
+	<string id="kb_func">
+		<text>총열 유탄발사기</text>
+	</string>
+	<string id="kb_grp_common">
+		<text>일반</text>
+	</string>
+	<string id="kb_grp_direction">
+		<text>방향</text>
+	</string>
+	<string id="kb_grp_inventory">
+		<text>인벤토리</text>
+	</string>
+	<string id="kb_grp_movement">
+		<text>움직임</text>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<text>멀티플레이어</text>
+	</string>
+	<string id="kb_grp_weapons">
+		<text>무기</text>
+	</string>
+	<string id="kb_inventory">
+		<text>인벤토리</text>
+	</string>
+	<string id="kb_jump">
+		<text>점프</text>
+	</string>
+	<string id="kb_left">
+		<text>왼쪽으로</text>
+	</string>
+	<string id="kb_left_lookout">
+		<text>왼쪽으로 기울임</text>
+	</string>
+	<string id="kb_left_strafe">
+		<text>왼쪽으로</text>
+	</string>
+	<string id="kb_map">
+		<text>지도</text>
+	</string>
+	<string id="kb_next_slot">
+		<text>다음 무기</text>
+	</string>
+	<string id="kb_suppressor">
+		<text>소음기 탈부착</text>
+	</string>
+	<string id="kb_grenade_throw">
+		<text>수튜탄 단축키</text>
+	</string>
+	<string id="kb_unload_all">
+		<text>무든 무기 언로드</text>
+	</string>
+	<string id="kb_lower_weapon">
+		<text>무기 내리기/올리기</text>
+	</string>
+	<string id="kb_geiger">
+		<text>가이거 카운터</text>
+	</string>
+	<string id="kb_mask_clean">
+		<text>바이져 닦기</text>
+	</string>
+<string id="kb_grp_inventory">
+	<text>인벤토리</text>
+</string>
+<string id="kb_grp_pda">
+	<text>PDA</text>
+</string>
+	<string id="kb_item_anim">
+		<text>아이템 애니메이션 활성화</text>
+	</string>
+	<string id="kb_night_vision">
+		<text>야간 투시경</text>
+	</string>
+	<string id="kb_pause">
+		<text>일시정지</text>
+	</string>
+	<string id="kb_pda">
+		<text>PDA</text>
+	</string>
+	<string id="kb_prev_slot">
+		<text>이전 무기</text>
+	</string>
+	<string id="kb_quit">
+		<text>나가기</text>
+	</string>
+	<string id="kb_reload">
+		<text>재장전</text>
+	</string>
+	<string id="kb_repair">
+		<text>수리</text>
+	</string>
+	<string id="kb_right">
+		<text>오른쪽으로</text>
+	</string>
+	<string id="kb_right_lookout">
+		<text>오른쪽으로 기울임</text>
+	</string>
+	<string id="kb_right_strafe">
+		<text>오른쪽으로</text>
+	</string>
+	<string id="kb_scores">
+		<text>현재 임무</text>
+	</string>
+	<string id="kb_screenshot">
+		<text>스크린샷</text>
+	</string>
+		<string id="kb_radio">
+		<text>라디오 시작/중지</text>
+	</string>
+	<string id="kb_music_player">
+		<text>플레이어 시작/중지</text>
+	</string>
+	<string id="kb_volume_up">
+		<text>볼륨 +</text>
+	</string>
+	<string id="kb_volume_down">
+		<text>볼륨 -</text>
+	</string>
+	<string id="kb_next_track">
+		<text>다음 트랙</text>
+	</string>
+	<string id="kb_prev_track">
+		<text>이전 트랙</text>
+	</string>
+	<string id="kb_switch_playlist">
+		<text>채널/재생 목록 전환</text>
+	</string>
+
+<string id="kb_grp_companions">
+	<text>동료</text>
+</string>
+	<string id="kb_companion_wheel">
+		<text>동료 컨트롤 휠</text>
+	</string>
+	<string id="kb_companion_combat">
+		<text>동료 전투모드 토글</text>
+	</string>
+	<string id="kb_companion_movement">
+		<text>동료 이동방식 토글</text>
+	</string>
+	<string id="kb_companion_move">
+		<text>동료 목표로 이동</text>
+	</string>
+	<string id="kb_companion_cover">
+		<text>동료 은신모드 토글</text>
+	</string>
+	<string id="kb_companion_loot">
+		<text>동료 루팅모드 토글</text>
+	</string>
+
+<string id="kb_grp_common">
+	<text>기타</text>
+</string>
+	<string id="kb_debugger">
+		<text>디버그</text>
+	</string>
+
+	<string id="kb_skin_menu">
+		<text>모델 선텍 메뉴</text>
+	</string>
+	<string id="kb_sprint">
+		<text>달리기</text>
+	</string>
+	<string id="kb_team_menu">
+		<text>팀 선택 메뉴</text>
+	</string>
+	<string id="kb_torch">
+		<text>탐조등</text>
+	</string>
+	<string id="kb_turn_engine">
+		<text>활성화</text>
+	</string>
+	<string id="kb_up">
+		<text>위로</text>
+	</string>
+	<string id="kb_use">
+		<text>행동하기</text>
+	</string>
+	<string id="kb_use_bandage">
+		<text>빠른 붕대감기</text>
+	</string>
+	<string id="kb_use_medkit">
+		<text>빠른 메디킷 사용</text>
+	</string>
+	<string id="kb_vote_begin">
+		<text>투표 시작</text>
+	</string>
+	<string id="kb_vote_menu">
+		<text>투표</text>
+	</string>
+	<string id="kb_vote_no">
+		<text>투표 시 "아니오"</text>
+	</string>
+	<string id="kb_vote_yes">
+		<text>투표 시 "예"</text>
+	</string>
+	<string id="kb_weapon1">
+		<text>무기 1</text>
+	</string>
+	<string id="kb_weapon2">
+		<text>무기 2</text>
+	</string>
+	<string id="kb_weapon3">
+		<text>무기 3</text>
+	</string>
+	<string id="kb_weapon4">
+		<text>무기 4</text>
+	</string>
+	<string id="kb_weapon5">
+		<text>무기 5</text>
+	</string>
+	<string id="kb_weapon6">
+		<text>무기 6</text>
+	</string>
+	<string id="kb_wpn_next">
+		<text>탄종 바꾸기</text>
+	</string>
+	<string id="kb_wpn_prev">
+		<text>현재 타입의 이전 무기</text>
+	</string>
+	<string id="kb_zoom">
+		<text>줌</text>
+	</string>
+	<string id="speech_menu_group">
+		<text>음성 메시지 (1)</text>
+	</string>
+	<string id="speech_menu_personal">
+		<text>음성 메시지 (2)</text>
+	</string>
+	<string id="kb_quick_use_1">
+		<text>퀵슬롯 (1)</text>
+	</string>
+	<string id="kb_quick_use_2">
+		<text>퀵슬롯 (2)</text>
+	</string>
+	<string id="kb_quick_use_3">
+		<text>퀵슬롯 (3)</text>
+	</string>
+	<string id="kb_quick_use_4">
+		<text>퀵슬롯 (4)</text>
+	</string>
+	<string id="kb_cam_1">
+		<text>1인칭 시점</text>
+	</string>
+	<string id="kb_cam_2">
+		<text>3인칭 시점 (1)</text>
+	</string>
+		<string id="kb_hud">
+		<text>토글 HUD</text>
+	</string>
+	<string id="kb_cam_3">
+		<text>3인칭 시점 (2)</text>
+	</string>
+	<string id="kb_cam_autoaim">
+		<text>3인칭 자동 조준</text>
+	</string>
+	<string id="kb_cam_zoom_in">
+		<text>칼 빠르게 꺼내기</text> <!--text>Camera zoom in</text-->
+	</string>
+	<string id="kb_cam_zoom_out">
+		<text>카메라 줌 아웃</text>
+	</string>
+
+	<string id="kb_custom1">
+		<text>동료 전투모드 토글</text>
+	</string>
+	<string id="kb_custom2">
+		<text>동료 이동방식 토글</text>
+	</string>
+	<string id="kb_custom3">
+		<text>동료 목표로 이동</text>
+	</string>
+	<string id="kb_custom4">
+		<text>동료 은신모드 토글</text>
+	</string>
+	<string id="kb_custom5">
+		<text>동료 루팅모드 토글</text>
+	</string>
+	<string id="kb_custom6">
+		<text>HUD 토글</text>
+	</string>
+
+	<string id="kb_custom7">
+		<text>PDA 지도</text>
+	</string>
+	<string id="kb_custom8">
+		<text>PDA 관계도</text>
+	</string>
+	<string id="kb_custom9">
+		<text>PDA 접촉기록</text>
+	</string>
+	<string id="kb_custom10">
+		<text>PDA 통계</text>
+	</string>
+	<string id="kb_custom11">
+		<text>PDA 메시지</text>
+	</string>
+	<string id="kb_custom12">
+		<text>PDA 가이드</text>
+	</string>
+
+	<string id="kb_custom13">
+		<text>소음기 토글</text>
+	</string>
+	<string id="kb_custom14">
+		<text>가이거 계수기 (모드 3)</text>
+	</string>
+	<string id="kb_custom15">
+		<text>인벤토리의 모든 무기 버리기</text>
+	</string>
+</string_table>

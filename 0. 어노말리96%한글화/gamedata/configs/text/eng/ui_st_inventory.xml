@@ -1,0 +1,1237 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Sorter -->
+	<string id="ui_st_tab_all">
+		<text>모든 아이템 (1)</text>
+	</string>
+	<string id="ui_st_tab_weapons">
+		<text>무기 및 부착물 (2)</text>
+	</string>
+	<string id="ui_st_tab_armor">
+		<text>의상 및 가방 (3)</text>
+	</string>
+	<string id="ui_st_tab_ammo">
+		<text>탄약 및 수류탄 (4)</text>
+	</string>
+	<string id="ui_st_tab_artefact">
+		<text>아티팩트 및 돌연변이 표본 (5)</text>
+	</string>
+	<string id="ui_st_tab_tools">
+		<text>기타 장치 및 장비, 수리 도구 (6)</text>
+	</string>
+	<string id="ui_st_tab_consumables">
+		<text>의료품 및 음식 (7)</text>
+	</string>
+	<string id="ui_st_tab_misc">
+		<text>기타 (8)</text>
+	</string>
+	
+	<!-- Loot mode -->
+	<string id="ui_st_put_all">
+		<text>전부 옮기기</text>
+	</string>
+	<string id="ui_st_put_all_hint">
+		<text>전부 옮기기 (SHIFT + P)</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>전부 가지기</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>전부 가지기 (SHIFT + T)</text>
+	</string>
+	
+	<!-- Trade mode -->
+	<string id="ui_total_price">
+		<text>총합</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>구매</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>판매</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>선택한 아이템 판매</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>선택한 아이템 구매</text>
+	</string>
+	<string id="not_enough_money_actor">
+		<text>돈이 부족함</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>해당 인물이 돈을 충분히 가지고 있지 않습니다</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>상인이 이런 물품에는 관심이 없다.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>거래하기에는 물품이 너무 손상되었다.</text>
+	</string>
+
+	<!-- Upgrade mode -->
+	<string id="ui_st_inv_repair">
+		<text>수리</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>선택한 아이템 수리</text>
+	</string>
+	
+	<!-- Quick use items -->
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	
+	<!-- Item Properties -->
+	<string id="st_activate_artefact">
+		<text>아티팩트 사용하기</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>유탄 발사기 부착</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>조준경 부착</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>소음기 부착</text>
+	</string>
+	<string id="st_base_cost">
+		<text>가격</text>
+	</string>
+	<string id="st_community">
+		<text>범주:</text>
+	</string>
+	<string id="st_condition">
+		<text>상태</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>유탄 발사기 제거</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>조준경 제거</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>소음기 제거</text>
+	</string>
+	<string id="st_drop">
+		<text>버리기</text>
+	</string>
+	<string id="st_drop_all">
+		<text>모두 버리기</text>
+	</string>
+	<string id="st_eat">
+		<text>먹기</text>
+	</string>
+	<string id="st_donate">
+		<text>기부하기</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>벨트에 부착</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>가방으로 옮기기</text>
+	</string>
+	<string id="st_move_to">
+		<text>옮기기</text>
+	</string>
+	<string id="st_move_all">
+		<text>전부 옮기기</text>
+	</string>
+	<string id="st_unequip">
+		<text>장착 해제</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>슬롯으로 옮기기</text>
+	</string>
+	<string id="st_play">
+		<text>연주한다</text>
+	</string>
+	<string id="st_sell_item">
+		<text>물건 팔기</text>
+	</string>
+	<string id="st_item_use">
+		<text>사용하기</text>
+	</string>
+	<string id="st_item_sort">
+		<text>정리하기</text>
+	</string>
+	<string id="st_item_unpack">
+		<text>꺼내기</text>
+	</string>
+	<string id="st_item_play">
+		<text>연주하기</text>
+	</string>
+	<string id="st_item_open">
+		<text>열기</text>
+	</string>
+	<string id="st_item_reveal">
+		<text>열어보기</text>
+	</string>
+	<string id="st_item_read">
+		<text>읽기</text>
+	</string>
+	<string id="st_item_separate">
+		<text>나누기</text>
+	</string>
+	<string id="st_item_disassemble">
+		<text>해체하기</text>
+	</string>
+	<string id="st_item_charge">
+		<text>UPD 충전</text>
+	</string>
+	<string id="st_item_money">
+		<text>%s 루블 꺼내기</text>
+	</string>
+	<string id="st_item_details">
+		<text>세부정보</text>
+	</string>
+	<string id="st_item_unpack_battery">
+		<text>배터리 꺼내기</text>
+	</string>
+	<string id="st_item_tear_patch">
+		<text>패치 뜯어내기</text>
+	</string>
+	<string id="st_item_attach_patch">
+		<text>패치 부착</text>
+	</string>
+	<string id="st_awr_r_detail">
+		<text>부품 복원 [!]</text>
+	</string>
+	<string id="st_awr_disassembly_weapon">
+		<text>무기 분해 [!]</text>
+	</string>
+	<string id="st_awr_disassembly_outfit">
+		<text>의상 분해 [!]</text>
+	</string>
+	<string id="st_awr_disassembly_helmet">
+		<text>헤드기어 분해 [!]</text>
+	</string>
+	<string id="st_awr_disassembly_cloth">
+		<text>분해 [!]</text>
+	</string>
+	<string id="st_drink">
+		<text>마시기</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>탄알 빼기</text>
+	</string>
+	<string id="st_use">
+		<text>사용하기</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>옷 입기</text>
+	</string>
+	<string id="st_dress_helmet">
+		<text>헬멧 쓰기</text>
+	</string>
+	<string id="st_equip_backpack">
+		<text>배낭 메기</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>옷 벗기</text>
+	</string>
+	<string id="st_undress_helmet">
+		<text>헬멧 벗기</text>
+	</string>
+	<string id="st_unequip_backpack">
+		<text>배낭 벗기</text>
+	</string>
+
+	<string id="st_plant_explosive_prox">
+		<text>압력 신관 설치</text>
+	</string>
+	<string id="st_plant_explosive_timer_10">
+		<text>지연 신관, 10초</text>
+	</string>
+	<string id="st_plant_explosive_timer_30">
+		<text>지연 신관, 30초</text>
+	</string>
+
+	<!-- Units -->
+	<string id="st_perc">
+		<text>%</text>
+	</string>
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+	<string id="st_g">
+		<text>g</text>
+	</string>
+	<string id="st_kcal">
+		<text>kcal eq.</text>
+	</string>
+	<string id="st_kcal_sec">
+		<text>kcal / 초 eq.</text>
+	</string>
+	<string id="st_msv">
+		<text>mSv</text>
+	</string>
+	<string id="st_msv_sec">
+		<text>mSv / 초</text>
+	</string>
+	<string id="st_microg">
+		<text>µg of adren.</text>
+	</string>
+	<string id="st_microg_sec">
+		<text>µg of adren. / 초</text>
+	</string>
+	<string id="st_ml_min">
+		<text>ml / 분</text>
+	</string>
+	<string id="st_kw_m2">
+		<text>kW/m2</text>
+	</string>
+	<string id="st_kv">
+		<text>kV</text>
+	</string>
+	<string id="st_mt">
+		<text>mT</text>
+	</string>
+	<string id="st_ppm">
+		<text>C1 ppm eq.</text>
+	</string>
+	<string id="st_j">
+		<text>H/mm2</text>
+	</string>
+	<string id="st_ah_sec">
+		<text>Ah/초</text>
+	</string>
+	<string id="st_mah_sec">
+		<text>mAh/초</text>
+	</string>
+	<string id="st_uah_sec">
+		<text>uAh/초</text>
+	</string>
+	<string id="st_pah_sec">
+		<text>pAh/초</text>
+	</string>
+	<string id="st_hz">
+		<text>Hz</text>
+	</string>
+	<string id="st_khz">
+		<text>KHz</text>
+	</string>
+	<string id="st_mhz">
+		<text>MHz</text>
+	</string>
+	<string id="st_ghz">
+		<text>GHz</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>sec</text>
+	</string>
+	<string id="ui_inv_seconds">
+		<text>seconds</text>
+	</string>
+	
+	<!-- Player states -->
+	<string id="st_ui_main_sensor">
+		<text>전리 방사능 중독\n \n%c[0,170,170,170]전리 방사능에 노출되는 것은 USS 요원들에게 극도로 높은 위험으로 취급된다. 이 떄문에, USS의 모든 대원들은 방사능 수치를 알맞게 측정할 수 있는 능력을 기를 수 있는 훈련을 받아야만 한다. 이 기술은 대원들이 체르노빌 통제 구역 안에서 효과적으로 임무를 수행하기 위한 핵심 요소가 되었다. 전리 방사능을 측정하는 기본 단위는 밀리시버트이다(mSv). 대략 8000 mSv 수준의 방사능은 회복의 여지 없이 치명적이다. 1000 mSv(아래를 참고)를 넘는 수치의 방사능 수준은 USS 요원의 업무능력에 점진적인 악영향을 미칠 수 있다. 따라서 방사능에 노출되었을 때, 적절한 효능을 가진 항방사능 약물을 즉시 투여하는 것이 매우 권장된다. 표 3.2 는 방사능 수준마다 어떤 증상이 나타나는지를 보여준다:\n %c[0,102,255,0]250 - 1500 mSv: 증상이 드러나지 않음. 장기적인 영향은 미미함.\n%c[0,255,255,0]1500 - 3000 mSv: 보통에서 강한 수준의 통증을 느낌, 약간의 어지러움, 피부가 얼룩짐. 장기적인 증상은 가벼움. 적절한 치료를 받으면 완치 가능.\n%c[0,255,122,0]3000 - 4500 mSv: 매우 심한 통증, 비교적 빠른 시일 내에 치료받지 않을 경우 혼란과 어지럼증을 겪다 조기에 사망에 이를 수 있음. 배고픔과 목마름이 완전히 사라짐, 반점, 설사, 피부 벗겨짐 및 탈모가 나타남. 재생 능력을 영구적으로 상실할 위험성이 높음. 많은 양의 세정제를 투입하면 신체 기능을 복구할 가능성이 있음.\n%c[0,204,0,51]4500 - 6000 mSv: 상기한 증상의 심화. 추가적으로, 중추 신경계에 영구적인 손상 발생. 높은 확률로 사망.\n%c[0,204,0,51]6000 mSv 또는 그 이상: 즉사. 대개 급격한 의식상실 이후에 사망함.\n%c[0,153,255,255] * 단위: mSv (밀리시버트)%c[0,153,255,255] * 즉사 수준의 방사능: ~6000+ mSv%c[0,153,255,255] * 평균적인 외부 방사능. 방사능 집중 구역에서의 잠재적 방사능: ~900 mSv / min\n \n \n</text>
+	</string>
+	<string id="ui_inv_burn_protection">
+		<text>1. 열복사\n%c[0,170,170,170]체르노빌 통제 구역에서의 전형적인 화염 이상현상은 두 가지 서로 다른 요소로 구성되어 있다: %c[0,170,170,170]반구 모양의 열복사 지역 - 지속적인 밀도의 흐름을 50 kW / m2 만큼까지 만들어내고, 온도를 430 °C 까지 발생시킨다, 그리고 "불판 이상현상" - 1000 °C까지의 온도를 가진 파괴적인 위력의 불꽃을 땅에서 대략 10cm 정도 떨어진 한 점에서부터 위쪽으로 뿜어낸다. 통제 구역의 이상현상에 접근하고 이용 가능한 대응책을 알아내기 위해 kW/m2 (1평방미터 당 킬로와트) 척도가 사용되었다. 이 척도는 이상현상으로부터 나오는 열 흐름의 밀도를 확인하여 에너지의 총량을 알아볼 수 있다.\n%c[0,153,255,255] *보통 수준의 모닥불 안에서의 수치: 500 °C or 29 kW/m2%c[0,153,255,255] * 평균적인 열복사 필드의 열 흐름 수치: 620 °C 또는 51,5 kW/m2\n%c[0,153,255,255] * 평균적인 불판 이상현상 분출에서의 수치: 1000 °C 또는 212 kW/m2\n%c[0,153,255,255] * 대략적인 비보호 상태에서의 생존 시간: RF: 1,5 분 / BU: 0,5 초%c[0,153,255,255] * 대략적인 보호구 완전 소실까지의 시간: RF: 10 분 / BU: 6 초\n%c[0,140,140,140]RF = 복사 필드 ; BU = "불판 이상현상"\n%c[0,210,210,210]2. 산성\n%c[0,170,170,170]강한 산성을 나타내는 지역 ("과일 화채 이상현상"이라 칭함)은 통제 구역에서 높은 독성을 보이는 지역("독성 이상현상")에서 찾을 수 있다고 알려져 있다. 이 중력에 의해 유지되는 "탱크"는 매우 불안정하며 고체 물질과 접촉할 경우 잠시 동안 형태를 잃어버린다. 이런 상황이 발생할 경우 강력한 폭발이 일어나 0,5 litres 만큼의 강한 산화성 물질 및 50% 만큼 응결된 황산을 뿜어낸다. 이러한 폭발은 액체성 물질이 대략 2-미터 반지름을 갖는 위쪽을 향한 물방울 모양으로 퍼지게 되는 현상을 수반한다. 비교 연구를 수행하기 위해, 산성의 강도는 대부분 열복사 척도로 사용하는 kW / m2 로 측정되었다.\n%c[0,153,255,255] * "과일 화채" 이상현상의 물방울 모양의 평균 강도: 270 °C 또는 70 kW/m2 eq.\n \n</text> 
+	</string>
+	<string id="ui_inv_chemical_burn_protection">
+		<text>독성\n%c[0,170,170,170]소위 "독성 이상현상" 이라고 불리는 지역 안에서 발견된 물질들이 가지고 있는 특성을 아직 완전히 파악하지 못했기 때문에, 위험 평가는 보편적인 반수치사농도(인간 기준)를 기준으로 하여 수행되었다.\n%c[0,170,170,170]이 기준은 한 시간 동안 해당 기체에 노출된 무작위한 인간 "실험 집단"들 중 절반을 죽이는 데 필요한 기체의 농도와 흡입량 수준을 기준으로 기체 물질의 전반적인 독성을 측정한다.\n%c[0,170,170,170]대부분의 경우 통제구역 내부의 이상현상들에서는 백만분의 10 (ppm) 정도의 농도만으로 시간당 50%의 사망률을 넘기는 데 충분한 생체 화학적 물질들이 있어, 이러한 이상현상은 과학계에서 알려진 독성 물질 중 가장 강력한 물질들을 포함하는 클래스 I (C1) 그룹으로 정의되었다. 통제구역 내부의 독성 이상현상 지역은 C1 200 ppm (백만 분의 일) 만큼의 평균적인 농도를 지니는데, 여기서 "200"이란 공기 중에 있는 입자를 백만 개로 나누어 볼 때 클래스 I에 해당하는 물질이 녹아 있는 "부분들" (입자) 의 숫자를 뜻한다. 이러한 수준의 독성은 통제구역의 독성 이상현상을 지구에 있는 가장 위험한 환경들 중 하나로 만들기에 충분하며, 과학적 장비들에 의해 보호받지 않은 상태의 보통 사람을 3분 이내에 죽이는 데 충분할 정도로 강하다.\n%c[0,170,170,170]이러한 이유와 더불어 접근을 목적으로 하는 경우에도, 이상현상 지역의 강도와 보호 장비의 효과는 클래스 I (C1) 독성 물질이 기체 중에 얼마나 있는지를 백만 단위로 (ppm) 나타낸 지표에 의해 평가된다. 이러한 접근 결과는 보편적인 "이상 현상의" 독성을 C1 ppm 척도에 의해 나타낼 수 있게 하였다. 장비의 경우, 이러한 결과가 해당되는 장비가 보호할 수 있는 C1 ppm 독성 농도를 나타내 준다.\n%c[0,153,255,255] * %c[0,140,140,140] 평균적인 독성 이상현상 강도: ~200 C1 ppm eq.%c[0,153,255,255] * 가장 높게 측정된 독성 이상현상 강도: ~600 C1 ppm eq.%c[0,153,255,255] * 평균적인 비보호 시 생존 시간: ~3 분 %c[0,153,255,255] * 평균적인 완전 착용된 보호구의 소모 시간: ~25 min.\n \n</text>
+	</string>
+	<string id="ui_inv_fire_wound_protection">
+		<text>방어구 보호 단계\n%c[0,170,170,170]방어구 보호 단계는 몸통 보호구의 특정 부위의 방탄 능력을 나타낸다. 평가를 위해 국제적으로 인정된, 특정 부위에서 단계적 수준의 탄자의 운동 에너지를 견딜 수 있는 능력을 기반으로 설정된 미국 법무성 산하 연구소 (NIJ)의 방탄복 등급을 사용하였다.\n%c[0,210,210,210]방어구 등급 목록:\n%c[0,210,210,210]CLASS I: 12x70 산탄, 유탄 파편\n %c[0,210,210,210]CLASS IIA 그리고 II: 9x18 mm, 9x18 mm +P+, 9x19 mm FMJ, 9x19 JHP, 45 ACP\n%c[0,210,210,210]CLASS IIIA: 357 HP, 45 하이드로, 5.56x45 mm FNJ\n %c[0,210,210,210]CLASS III 9x18 mm AP, 9x19 mm AP, 7.62x39 mm FMJ, 7.92x33 mm FMJ, 5.45x39 mm FNJ, 12x76 슬러그탄\n%c[0,210,210,210]CLASS IV: 9x39 mm SP-5, 7.62x51 mm NATO, .300 윈체스터 매그넘, 45 AP, 7.92x33 mm AP\n%c[0,210,210,210]CLASS V (외골격): 5.45x39 AP, 5.56x45 AP, 7.62x39 mm AP, 7.62x51 mm NATO AP, 7.62x54 PP, 9x39 mm SP-6, 7.62x54 mm 7H1\n%c[0,204,0,51]중요:\n%c[0,170,170,170]상기한 보호 단계는 오직 방어구의 관통 저항 능력에만 관계가 있다. 탄자의 충격은 방어구를 뚫지 못했다고 해도, 탄자의 순수한 운동 에너지만으로 충격 트라우마를 발생시켜 피해를 입힐 능력이 있다. 가장 일반적인 경우에는, 충격을 받은 결과로 연성 조직에 부종이 일어나는 경우가 전부이지만, 특정 상황에서 충격력이 충분히 강하다면 출혈을 일으키는 개방 골절을 입힐 우려가 있으며, 제대로 치료되지 않는다면 사망에 이를 수 있다. 방탄복이 금속 재질로 (특히 티타늄이나 강철 재질) 보강된다면 개방 골절 및 탄환의 충격으로 인한 전반적인 부정적인 효과들이 발생할 가능성을 상당한 수준으로 저감할 수 있다.\n \n</text>
+	</string>
+	<string id="ui_inv_radiation_protection">
+		<text>외부 방사능 물질\n%c[0,170,170,170]현존하는 문건들에 의하면 통제 구역에서 가장 일반적으로 접할 수 있는 방사능은 먼지나 모래, 물 등의 물질들에 있는 순수한 알파 입자를 통해 이동하며, 이런 식으로 해당 지역에 거주하는 모든 유기체 내부에 오랜 기간 동안 존재하게 된다. 이러한 방사선은 피부를 관통할 수 없으며 오직 방출된 방사선이 생체 조직에 직접적으로 접촉하여 혈류 속으로 침투했을 때 발생한다. 예를 들면 방사능 물질이 묻은 먼지로 오염된 공기를 흡입하거나 방사능에 오염된 식품을 섭취한 경우를 들 수 있다. 이러한 이유 때문에, 통제구역에서는 항상 필터가 달린 호흡 장치를 착용하고 구역 안에서 습득한 음식물이나 식수에 의존하는 것을 피하는 것이 강력히 추천된다.\n%c[0,170,170,170]베타 방사선 침투의 경우 - 자료에 의하면 체르노빌 원자력 발전소 4동 석관 지역에서 여전히 집중되어 있는 것으로 확인되었다. 그러나, 최근 통제 구역 내부의 특정 생물종이 근접한 거리에서 관통 능력이 있는 전리 방사선을 방출하는 것이 발견되었다. 알려지지 않은 이유로 인해, 이러한 방사선 방출 효과는 생물체가 사망함과 즉시 사라지는 것으로 나타났다.\n%c[0,170,170,170]통제구역 내부에 존재하는 전리 방사선의 근원 중 가장 마지막 단계이며 가장 위험한 것은 바로 에미션 방출로 다양한 강도의 감마선 방출이 감지되었다. 감마 방사선이 방출하는 순수한 에너지량 및 관통 능력을 감안한다면, 에미션이 발생했을 때마다 안전한 지역에 엄폐하는 것이 극히 추천된다.\n%c[0,153,255,255] * 천으로 된 마스크의 보호율: 45% %c[0,153,255,255] * 호흡 필터의 보호율: 90% %c[0,153,255,255] * 환경 보호복의 보호율: 100%\n%c[0,204,0,51]중요:\n%c[0,170,170,170]모든 방어구와 머리 보호구는 모든 종류의 방사선에 대해 높은 강도의 현장 테스트를 거쳤다. 이러한 테스트의 결과들은 안내서에 포함되어 있으나, 불완전하며 오직 기초적인 수준의 가이드라인을 제공하는 것으로 받아들여야 할 것이다.\n \n</text>
+	</string>
+	<string id="ui_inv_shock_protection">
+		<text>전기\n%c[0,170,170,170]체르노빌 통제 구역의 전기 이상현상들은 의심할 여지도 없이 존에서 만들어낸 것들 중에서 잠재적으로 가장 유용하게 활용할 수 있다. 단순한 가스 화합물처럼 보이는 것으로부터 뻗어나오는 강력하고 지속적인 전기 아크는 활용할 경우 막대한 양의 순수한 에너지를 제공할 수 있다. 안타깝게도, 이러한 이상현상들로부터 전기를 얻으려는 모든 시도는 이상현상이 가진 극도의 불안정성과 어떤 종류의 고체 물질과 접촉하기만 해도 막대한 에너지 분출을 일으키는 특성으로 인해 실패하였다. 이상현상의 변덕스런 성질로 인하여 연구진이 설치한 센서에서 콘덴서가 과열될 정도로 전압과 전류의 갑작스런 상승이 기록된 바, 이러한 현상은 현대 과학계에서 전대미문이라고 할 수 있다.\n%c[0,170,170,170]이상현상에서의 전기 방출 현상 동안 생성되는 최대 전압은 4.0 메가볼트 (MV) 정도이며, 이는 전류를 지사에서 3.5 미터 정도의 높이까지 치솟게 만든다. 전기 방출은 50 밀리초 동안 지속되기 때문에, 한 번의 방출로 인해 이상현상 내부에서 생성되는 에너지는 건장한 성인 남성을 사망에 이르게 하기에는 대개 부족한 편이다. 그러나, 심각한 신체적 피해 및 심한 트라우마가 발생할 가능성이 높으며 두 번째 방출 (피해자가 이상현상 필드를 적절히 빠져나가지 못할 경우 발생할 가능성이 높음) 시에는 대부분의 경우 사망에 이르게 된다.\n%c[0,170,170,170]모든 정전기 방출 사례들에서 확인할 수 있듯이, 가장 최적의 보호 수단은 신체의 전기 저항력을 높이는 것이다. 이는 다양한 수단으로 충족할 수 있는데, 주로 보호력이 있으며, 전기 전도성이 없는 보호복을 입음으로써 구비할 수 있다.\n%c[0,170,170,170]통제구역에서의 USS 작전을 위해, 모든 전기저항 수단들과 전투용 방어구의 효과성은 한 번의 3000 kV / 50 ms 정도의 전기 이상현상 방출 동안 장비가 견딜 수 있는 전압의 정도를 킬로볼트 (kV) 숫자로 측정한다.\n%c[0,153,255,255] * 평균적인 전기 이상현상의 위력: ~3 MV%c[0,153,255,255] * 한 번의 방출이 보호구를 입지 않은 신체에 미치는 피해량: 95%\n \n</text>
+	</string>
+	<string id="ui_inv_telepatic_protection">
+		<text>정신파 영향\n%c[0,170,170,170]체르노빌 통제구역 내부에서 상당히 흔하게 발견되는 소위 "정신파 필드" 라고 불리는 것의 기원과 성질에 관련된 과학적 자료들은 기밀이며 이번 임무와 관련이 없다.\n%c[0,170,170,170]하지만, 모든 USS 요원들은 정신파 필드의 위력이 모든 사람들에게 극도로 위험하다는 사실과 어떠한 대가를 치르더라도 이를 피해야 한다는 사실을 반드시 숙지하고 있어야 한다. 이러한 필드는 대개 중심에 위치한 근원지로부터 반구 모양으로 형성되어 있다. 기억해야 할 것은 정신파 필드는 인간을 즉시 사망에 이르게 만들거나 노출된 지 수 초 이내에 회복할 수 없는 코마 상태에 빠지게 만들 수 있다는 것이다 (이는 추가적인 장비로 보호받지 않은 상태의 모든 인간들에게 적용된다). 정신파 필드의 위력은 근원지로부터의 거리에 따라 다양하다: 필드의 가장자리에서 위력은 가장 약하고 근원지로 가까이 갈수록 기하학적인 수준으로 증가한다.\n%c[0,170,170,170]주된 "정신파 복사" 현상과 함께, 각 정신파 필드는 희미하고, 낮은 파장을 (50-60 Hz) 가진 완전히 무해한 것으로 보이는 자기장을 만들어내기도 하는 것이 확인되었다. 이러한 자기장은 쉽게 탐지할 수 있으며 주요 정신파 필드의 힘을 평가하기 위한 목적으로 측정될 수 있다. 정신파 필드의 강도는 (그리고 방어 수준의 효과성은) 수반되는 자기장의 강도를 나타내는 밀리테슬라로 (mT) 표기할 수 있다.\n%c[0,210,210,210]확인된 근원지:\n%c[0,153,255,255] * 에미션 방출: 35 mT (지속적인 흐름) ; 660 mT (에미션 파동 시) %c[0,153,255,255] * 평균적인 정신 이상현상: 주변부 3mT ; 중심부 45 mT%c[0,153,255,255] * 컨트롤러 뮤턴트: 주변부 5 mT ; 중심부 75 mT ; 반경 33 m%c[0,153,255,255] * 폴터가이스트 뮤턴트: 주변부 8 mT ; 중심부 90 mT ; 반경 52 m%c[0,153,255,255] * 버러 뮤턴트: 주변부 2 mT ; 중심부 50 mT ; 반경 26 m%c[0,153,255,255] * 싸이독 뮤턴트: 주변부 0.1 mT ; 중심부 15 mT ; 반경 23 m%c[0,153,255,255] * 얀타 연구단지 (비활성화): 주변부 0.001 mT ; 중심부 1800 mT (est.) ; 반경 ~3.5 km%c[0,153,255,255] * "브레인 스코처" (비활성화): 주변부 0.001 mT ; 중심부 6500 mT (est.) ; 반경 ~20 km\n%c[0,140,140,140]주변부 = 필드의 가장자리%c[0,140,140,140]중심부 = 필드의 중심지%c[0,140,140,140]반경 = 필드의 범위\n \n</text>
+	</string>
+	<string id="ui_inv_wound_protection">
+		<text>파열 보호\n%c[0,170,170,170]체르노빌 통제구역 내부에서 작전을 수행할 때 파열 보호 수준은 중요한 요소이며 절대로 간과해서는 안 될 요소이다. 이는 통제구역이 가진 특수한 성격에 따라 지나칠 정도로 변이된 매우 공격적이고 육식성이 강한 동물들에 기인한다.\n%c[0,170,170,170]"뮤턴트"는 이러한 비정상적인 진화로 인해 탄생한 동물이나 인간으로부터 기원한 생물들을 총칭하는 용어이다. 이들은 모체와 진화 단계에 따라 다양한 형태와 모양을 가지고 있으며, 사냥감에게 피해를 입히거나 사냥감을 죽일 수 있는 몇 가지 수단을 마음대로 사용할 수 있다. 일반적인 공격 유형은 물거나, 날카로운 발톱으로 피부나 방어구를 잘라내거나, 앞으로 뻗어나온 송곳니로 찌르거나, 발차기나 주먹으로 사냥감에게 돌진하는 것 등이 있다.\n \n%c[0,170,170,170]이러한 위협에 대해 가장 인기있는 보호수단은 바로 동물의 공격에 의해서 거의 관통되지 않는 특수한 방법으로 생산된 보호구를 착용하는 것이다. 비록 일반적으로는 보호 물질로 이루어진 얇은 층만 있더라도 피해를 막는 것이 가능하지만, 통제구역 내부에서는 특수하게 디자인된 열상 보호 옷감만을 사용하는 것이 권장된다.\n \n%c[0,170,170,170]어떤 방어구의 일부분이 가진 파열 보호 능력은 방탄 보호 등급과 직접적인 관련이 있다. 특히 다수의 내장 금속판이 장착되어 있는 NIJ 등급 AIII 이상인 방어구에 대해서는 효과가 입증되었다고 할 수 있다.\n%c[0,204,0,51]중요:\n%c[0,170,170,170]높은 내구성과 두께를 가진 방어구는 총탄이나 모든 종류의 동물에 의한 공격들이 주는 피해를 상당히 감소시킬 수 있지만, 방어구를 만든 물질은 파괴할 수 없는 물질들이 아니며 천천히 내구도가 저감되어, 환경 및 물리적 요소에 대한 보호 능력을 점차 잃어갈 것이다. 방어구가 손상되는 정도는 일정한 값을 가지지 않으며 방어구의 상태에 따라 다른데, 이는 장비가 더 많이 손상되었을 수록 장비의 상태가 더욱 빠르게 떨어진다는 것을 의미한다.\n%c[0,170,170,170]이러한 이유 때문에, 방어구와 머리 보호구를 최대한 자주 수리하고 심한 구조적 피해를 입는 것을 피하는 것이 강력하게 추천된다.\n \n</text>
+	</string>
+	<string id="ui_inv_power_restore">
+		<text>기력 회복\n%c[0,170,170,170]당신의 기력 수준은 몸에 저장된 사용할 수 있는 물리력을 나타내 줍니다. 이 에너지는 다양한 목적으로 사용되며, 가장 대표적으로는 달리는 것이 있습니다. 또한 기력을 심하게 사용하면 움직일 수 없게 될 것입니다. 따라서 먹고, 마시고, 잠을 자는 것으로 기력을 회복하는 것은 매우 중요하며, 당신이 들고 있는 무게가 기력이 줄어드는 속도에 영향을 미치기 때문에 배낭에 들어있는 무게를 확인하는 것이 좋습니다. 약물이나 아티팩트로 기력 회복 속도를 빠르게 할 수 있습니다. 이 정도의 정보로도 충분하겠지만, 당신의 USS 생존 가이드는 다음과 같은 지침들을 제시하고 있습니다:\n \n 기력의 회복과 소모량은 대략적으로 다음과 같이 나눠지는 다양한 요소들에 의해 결정된다: 바로 "영양", "장비", "화학적 약물" 그리고 "아티팩트 기반" 이다. 분석의 편의성을 위해, 다음과 같은 가장 중요한 기력회복 요점들을 빠른 참조를 위해 나열하였다:\n%c[0,210,210,210]요점 1: 영양소는 기력 바를 대략 33% 정도만 채워줄 수 있다. 이 "자연적인 최대치"의 대략적인 수준은 장비와 훈련 수준에 따라 달라진다.%c[0,210,210,210]요점 2: 기력 바를 "액면상" 33% 수준으로 유지하기 위해서는 열량의 섭취가 요구된다.%c[0,210,210,210]요점 3: 만일 방어구가 기동성을 제한하게 된다면 상기한 액면상의 33% 수준의 기력 바는 그 이하로 줄어들 것이다.%c[0,210,210,210]요점 4: 기력의 회복은 들고 있는 장비들의 무게에 의해서도 높아지거나 낮아지지만, 이러한 요소는 기력 바에 표시되지 않는다.%c[0,210,210,210]요점 5: 기력 바를 액면상 33% 수준보다 높이기 위해서는 기력 회복량을 높여주는 다양한 화학적 물질이나 아티팩트를 사용해야 한다.%c[0,210,210,210]요점 6: 화학적 촉진제의 강도는 촉진제가 몸에서 "생산하고" 혈류 속으로 투입하는 아드레날린의 µg (마이크로그램) 수치로 나타난다.%c[0,210,210,210]요점 7: 신체에 존재하는 아드레날린의 양은 대략 90 µg 정도이다. 이를 2배로 증가시키기 위해서는 400 mg의 카페인과 동일한 효과를 가진 약물을 섭취해야 한다.%c[0,210,210,210]요점 8: 기력 회복 속도를 두 배로 올리기 위해서는 액면상 아드레날린 수치를 다섯 배, 예를 들면 500 µg 정도로 급속하게 높여야만 한다. 이러한 효과를 갖는 다양한 물질들의 효과는 중첩되지 않는다.%c[0,210,210,210]요점 9: 기력 바를 화학적 약물로 확장시킨 66% 이상의 수치로 높이고자 할 경우에는, 아티팩트가 필요하다. 아티팩트로 증폭하는 효과는 중첩된다.\n \n</text>
+	</string>
+			<string id="st_ui_bleeding_sensor">
+		<text>출혈\n%c[0,170,170,170]출혈은 적절하게 처치되지 않았을 경우 체력을 급속한 수치로 고갈시킨다. 출혈이 발생하는 상처는 주로 방어구를 관통하거나 피부를 찢어버리는 외부의 물리력에 의해 발생하며, 때로는 내부 장기로의 피해를 수반하게 된다. 또한 출혈은 타격 피해로 인해 외상 골절이 발생했을 경우에도 일어난다.\n%c[0,170,170,170]평균적인 USS 요원은 의식을 잃지 않고 대략 2.7 리터까지의 혈액 손실을 감당할 수 있다. 극히 심각한 (혹은 가벼운 상처가 다수 발생하였을 경우) 부상을 입게 된다면 5분에서 10분 사이에 상기한 정도의 양만큼의 출혈이 발생할 수 있다. 반창고나 야전 상처 바느질 키트는 효과적으로 출혈을 멈추게 할 수 있으며, 약물은 혈액의 점성이나 혈소판의 농도를 높여 전반적인 출혈량을 줄이는 데 사용된다.\n%c[0,153,255,255] * 신체 혈액량: ~5.5 리터%c[0,153,255,255] * 치명적인 혈액 손실량: ~2.7 리터%c[0,153,255,255] * 보호구가 없는 몸통에 5.45 구경의 탄환이 관통될 경우: ~320 ml / min%c[0,153,255,255] * 붕대의 지혈량: ~270 ml / min \n%c[0,170,170,170]진료 기록:\n%c[0,102,255,0]0 - 100 ml / min: 가벼움%c[0,255,255,0]100 - 200 ml / min: 주의 필요%c[0,255,122,0]200 - 300 ml / min: 심함%c[0,204,0,51]300+ ml / min: 치명적임\n \n</text>
+	</string>
+	<string id="st_ui_health_sensor_inv">
+		<text>체력\n%c[0,170,170,170]전반적으로 체력이라고 알려진 것은 어떤 상황에서도 살고자 하며 앞으로 계속 나아갈 수 있는 능력과 의지로 설명하는 것이 더 좋을지도 모릅니다. 존은 비정한 곳입니다. 비록 "여기 들어오는 자는 모든 희망을 버려라" 라는 말은 여기에 적용하기엔 그다지 적합하지는 않지만, 모든 사람들이 당신을 도와줄 거라는 기대는 하지 않는 것이 좋습니다. 당신은 스스로의 힘으로 살아가야만 하며, 쓰러질 경우에는 비참한 죽음을 맞이하게 될 수 있습니다. 뮤턴트나 날씨, 에미션 혹은 존 그 자체가 당신을 죽음으로 이끌 수 있겠지만, 부디 기억하시길 바랍니다. 죽음은 당신의 잘못이며, 당신의 탓이고, 살아남는 건 오직 당신에게 달려 있습니다. 당신이 어떻게 바라보던지 간에, 적자생존은 자연의 본성입니다. 이 과업의 출발선을 끊고 나아가지 않는 자들은 반드시 죽게 될 것이며, 더 많은 인내심을 가진 자들만이 살아서 내일을 볼 수 있을 것입니다.\n%c[0,170,170,170]심각한 총상이라 할지라도 당신을 완전히 움직이지 못하게 할 수는 없지만, 반드시 고통을 만들어낼 것이고, 고통은 위험합니다. 당신의 신체 기능을 정지시킬 것이기 때문이죠. 쇼크와, 의식 상실, 그리고 신체적 피로가 따를 것이고 그렇게 되면 죽은 것이나 마찬가지이기 때문에, 발걸음을 조심히 하길 바랍니다.\n%c[0,170,170,170]어떠한 방어구나 장비라도 당신을 모든 위험에서 보호해 주는 것은 아니며 다른 물건들 또한 생존하는 데 가장 중요한 요소인 것은 아닙니다. 가장 중요한 건 바로 마음가짐입니다. 마음가짐이야말로 당신이 존으로부터의 압력을 견뎌낼 힘을 주고 목표를 이루기 위한 의지를 주는 것입니다. 그러나, 마음가짐은 일정한 것이 아니라 변화하는 것입니다. 마음가짐은 주변 상황에 따라 달라집니다. 정신적인 트라우마는 당신을 나약하게 만들고 체력을 고갈시킵니다. 이는 특히 에미션이나 이상현상들같이 강력한 현상에 노출되었을 때 현실로 다가오게 될 겁니다. 하지만, 당신은 먹고, 마시고, 잠을 자는 행위, 즉 스스로를 돌보는 행위를 함으로써 정신력을 강하게 만들 수 있습니다. 또한 당신은 특정한 행위를 함으로써 정신을 생생하게 만들 수 있고, 충분히 존에서 살아남아 왔다면 신체 활동을 강화하는 다양한 물건들을 사용할 수 있습니다.\n%c[0,170,170,170]당신이 쓰러진다고 해도, 최소한 당신이 할 수 있는 모든 것들을 해 봤을 테니, 아마도 조금이나마 위안이 될 수 있겠죠. 그 뒤에는 당신은 그저 시체로 그 자리에 누워서, 까마귀나 벌레들, 그리고 뮤턴트들의 먹이가 될 것입니다. 당신이 남긴 모든 것들은 똑같은 실수를 저지르지 않고, 아직 살아있을 당신의 동료들의 마음 속에 남게 될 것입니다.\n \n</text>
+	</string>
+	
+	<!-- Item description-->
+	<string id="st_cap_old">
+		<text>낡은</text>
+	</string>
+	<string id="st_cap_verybad">
+		<text>저품질</text>
+	</string>
+	
+	<string id="st_cap_upgr_1">
+		<text>(기본)</text>
+	</string>
+	<string id="st_cap_upgr_2">
+		<text>(향상된)</text>
+	</string>
+	<string id="st_cap_upgr_3">
+		<text>(정밀조정)</text>
+	</string>
+	
+	<string id="st_cap_meal_1">
+		<text>(존 내수생산)</text>
+	</string>
+	<string id="st_cap_meal_2">
+		<text>(익힘)</text>
+	</string>
+	<string id="st_cap_meal_3">
+		<text>(정수)</text>
+	</string>
+	
+	<string id="st_cap_con_25_o">
+		<text>해진</text>
+	</string>
+	<string id="st_cap_con_50_o">
+		<text>손상된</text>
+	</string>
+	<string id="st_cap_con_75_o">
+		<text>긁혀있는</text>
+	</string>
+	<string id="st_cap_con_100_o">
+		<text>깨끗한</text>
+	</string>
+	<string id="st_cap_con_25_w">
+		<text>변형된</text>
+	</string>
+	<string id="st_cap_con_50_w">
+		<text>손상된</text>
+	</string>
+	<string id="st_cap_con_75_w">
+		<text>긁혀있는</text>
+	</string>
+	<string id="st_cap_con_100_w">
+		<text>기능적인</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>방어구 상태</text>
+	</string>
+	<string id="st_weight">
+		<text>무게.</text>
+	</string>
+	<string id="st_weight_full">
+		<text>무게</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>탄창 용량</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>정확도</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>피해량</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>조작성</text>
+	</string>
+	
+	<string id="ui_inv_health">
+		<text>체력 회복</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>지구력 회복</text>
+	</string>
+	
+	<string id="ui_inv_outfit_additional_weight">
+		<text>무게 제한</text>
+	</string>
+	<string id="ui_inv_outfit_artefact_count">
+		<text>허리띠</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>화상 저항</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>독성(화학) 저항</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>탄도 저항</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>방사능 저항</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>전기 저항</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>정신 저항</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>파열 저항</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>폭발 저항</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>충격 저항</text>
+	</string>
+	<string id="ui_inv_outfit_hit_fraction_actor">
+		<text>힘</text>
+	</string>
+	
+	<string id="ui_inv_satiety">
+		<text>포만감</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>지구력 회복</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>소지 가능 무게</text>
+	</string>
+	<string id="ui_inv_af_condition">
+		<text>효율성</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>총 무게:</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>체력</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>탄약</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>지속시간</text>
+	</string>
+	
+	<string id="st_itm_desc_properties">
+		<text>특성</text>
+	</string>
+	<string id="st_itm_desc_details">
+		<text>디테일</text>
+	</string>
+	<string id="st_itm_desc_warning">
+		<text>경고</text>
+	</string>
+	
+	<string id="st_itm_desc_state_possible">
+		<text>가능</text>
+	</string>
+	<string id="st_itm_desc_state_not_possible">
+		<text>가능하지 않음</text>
+	</string>
+	<string id="st_itm_desc_state_avail">
+		<text>포함</text>
+	</string>
+	<string id="st_itm_desc_state_avail_workshop">
+		<text>사용가능(정비공용)</text>
+	</string>
+	<string id="st_itm_desc_state_not_avail">
+		<text>사용할 수 없음</text>
+	</string>
+	<string id="st_itm_desc_state_not_included">
+		<text>포함되지 않음</text>
+	</string>
+	<string id="st_itm_desc_state_low">
+		<text>적은</text>
+	</string>
+	<string id="st_itm_desc_state_average">
+		<text>평균적인</text>
+	</string>
+	<string id="st_itm_desc_state_high">
+		<text>높은</text>
+	</string>
+	<string id="st_itm_desc_state_slight">
+		<text>약간의</text>
+	</string>
+	<string id="st_itm_desc_state_moderate">
+		<text>보통의</text>
+	</string>
+	<string id="st_itm_desc_state_significant">
+		<text>큰</text>
+	</string>
+	<string id="st_itm_desc_state_increase">
+		<text>증가</text>
+	</string>
+	<string id="st_itm_desc_state_decrease">
+		<text>감소</text>
+	</string>
+	
+	<string id="st_itm_desc_arty_cont">
+		<text>보관된 아티팩트</text>
+	</string>
+	<string id="st_itm_desc_arty_cont_rad">
+		<text>허용가능한 방사선량</text>
+	</string>
+	
+	<string id="st_itm_desc_eat_sleepiness">
+		<text>%s 졸음 %s</text>
+	</string>
+	<string id="st_itm_desc_eat_thirst">
+		<text>%s 갈증 %s</text>
+	</string>
+	<string id="st_itm_desc_eat_alcohol">
+		<text>어지러움 </text>
+		</string>
+	<string id="st_itm_desc_eat_radiation">
+		<text>방사능 중독</text>
+	</string>
+	<string id="st_itm_desc_eat_health">
+		<text>몸에 해로움</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_upgradable">
+		<text>업그레이드 가능</text>
+	</string>
+	<string id="st_itm_desc_outfit_heardgear">
+		<text>헤드기어</text>
+	</string>
+	<string id="st_itm_desc_outfit_num_of_slots">
+		<text>추가 슬롯용 부착물</text>
+	</string>
+	<string id="st_itm_desc_outfit_carry_weight">
+		<text>소지 가능 무게 증가</text>
+	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>전력질주</text>
+	</string>
+	<string id="st_itm_desc_outfit_patch_torn">
+		<text>의상의 팩션 패치가 뜯어져 있습니다.</text>
+	</string>
+	<string id="st_itm_desc_outfit_faction">
+		<text>팩션</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_repair_bonus">
+		<text>수리 보너스</text>
+	</string>
+	<string id="st_itm_desc_outfit_required_tool">
+		<text>필요한 도구</text>
+	</string>
+	
+	<string id="st_itm_desc_workshop_tool">
+		<text>워크밴치에서 부품 교체 및 업그레이드 가능</text>
+	</string>
+	<string id="st_itm_desc_repair_min_con">
+		<text>적용 가능한 최소 내구도 수치</text>
+	</string>
+	<string id="st_itm_desc_repair_base_con">
+		<text>기본 수리 수치</text>
+	</string>
+	<string id="st_itm_desc_repair_match">
+		<text>대응되는 부품을 사용하여 재료를 수리할 수 있습니다.</text>
+	</string>
+	
+	<string id="st_itm_desc_part_usable">
+		<text>워크밴치에서 부품 교체 가능</text>
+	</string>
+	<string id="st_itm_desc_part_i">
+		<text>기본 재료</text>
+	</string>
+	<string id="st_itm_desc_part_w">
+		<text>무기 부품</text>
+	</string>
+	<string id="st_itm_desc_part_o">
+		<text>방어구 부품</text>
+	</string>
+	
+	<string id="st_itm_desc_upgr_w">
+		<text>무기 업그레이트 키트</text>
+	</string>
+	<string id="st_itm_desc_upgr_o">
+		<text>방어구 업그레이트 키트</text>
+	</string>
+	<string id="st_itm_desc_upgr_usable">
+		<text>적절한 업그레이드 설치를 위해 작업대에서 사용 가능</text>
+	</string>
+
+<!-- Others -->
+	<string id="ui_inv_ammo_pistol">
+		<text>권총탄 사기 (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>소총탄 사기 (W)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>지혈 작용</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>취소</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>구입 불가</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>금액 제한</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>기본 (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>돌아가기</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>소총 용 유탄 발사기 구입 (D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>소총용 수류탄 발사기 수류탄 구입 (E)</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>지금</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>중형 무기</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>마지막으로 구매한 로드아웃 구매</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>이전 (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>소지금</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>필요</text>
+	</string>
+	<string id="ui_inv_needs">
+		<text>필요함</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>돈이 충분하지 않음</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>로드아웃 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>로드아웃 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>로드아웃 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>방사능</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>랭크 제한</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>발사 속도</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>비우기 (C)</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>돌격 소총</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>소총용 조준경 구매 (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>배낭의 모든 아이템 판매 (X)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>소총</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>권총용 소음기 구입 (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>소총용 소음기 구입 (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>저격소총</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>시간</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>이미 가지고 있음</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>온라인 S.T.A.L.K.E.R. 서비스를 이용할 수 없습니다.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>마스터 서버에 연결할 수 없습니다.</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>방호력:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>기본</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>구매한 로드아웃이 저장됨</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>에미션에서 살아남을 수 있음니다.</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>컨테이너</text>
+	</string>
+	<string id="st_ui_artifacts">
+		<text>아티팩트</text>
+	</string>
+	<string id="st_ui_itm_repair_base">
+		<text>손상된 품목</text>
+	</string>
+	<string id="st_ui_itm_repair_support">
+		<text>보조 재료</text>
+	</string>
+	<string id="st_ui_itm_cook_fuel">
+		<text>연료</text>
+	</string>
+	<string id="st_ui_itm_cook_food">
+		<text>레시피</text>
+	</string>
+	<string id="st_ui_repair">
+		<text>수리</text>
+	</string>
+	<string id="st_ui_craft">
+		<text>제작</text>
+	</string>
+	<string id="st_ui_cancel">
+		<text>취소</text>
+	</string>
+	<string id="st_ui_total">
+		<text>총합</text>
+	</string>
+	<string id="st_ui_bonus">
+		<text>보너스</text>
+	</string>
+	<string id="st_ui_base">
+		<text>기초</text>
+	</string>
+	<string id="st_ui_oldcon">
+		<text>낡은</text>
+	</string>
+	
+	<!-- Messages -->
+	<string id="st_news_dis_items">
+		<text>%c[d_red]적절한 분해 도구가 필요합니다.</text>
+	</string>
+	<string id="st_ui_need_charger">
+		<text>%s 는 전기가 필요합니다.</text>
+	</string>
+	<string id="st_new_anomaly_map">
+		<text>새로운 지도 발견</text>
+	</string>
+	<string id="ui_st_create_stash">
+		<text>은닉처 생성하기</text>
+	</string>
+	<string id="ui_st_geiger_mode_1">
+		<text>모드 1: 활성 상태에서</text>
+	</string>
+	<string id="ui_st_geiger_mode_2">
+		<text>모드 2: 항상</text>
+	</string>
+	<string id="ui_st_geiger_mode_3">
+		<text>모드 3: 버튼 클릭 시</text>
+	</string>
+	<string id="ui_st_npc_pda_unkown">
+		<text>PDA는 기능하지 않습니다</text>
+	</string>
+	<string id="ui_st_npc_pda_low_power">
+		<text>저전력</text>
+	</string>
+	<string id="ui_st_npc_pda_access_denied">
+		<text>접근 불가</text>
+	</string>
+	<string id="ui_st_npc_pda_strelok">
+		<text>스트렐록을 죽여라</text>
+	</string>
+	<string id="ui_st_battery_more_power">
+		<text>장치에 더 많은 전력이 있습니다.</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>헤드램프 해제</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>헤드램프 장착</text>
+	</string>
+	<string id="st_lamp_power_left">
+		<text>헤드램프의 전력이 %s% 남음</text>
+	</string>
+	<string id="st_lamp_no_power_left">
+		<text>헤드램프에 전원이 남아있지 않습니다</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>UPD(범용 전원 장치)가 없습니다.</text>
+	</string>
+	<string id="st_upd_low">
+		<text>낮은 배터리 전원</text>
+	</string>
+	<string id="st_pda_no_power">
+		<text>PDA에 전원이 남아 있지 않습니다</text>
+	</string>
+	<string id="st_pda_no_active">
+		<text>No active PDA</text>
+	</string>
+	
+	<string id="st_ui_scopes">
+		<text>스코프</text>
+	</string>
+	<string id="st_ui_silencer">
+		<text>소음기</text>
+	</string>
+	<string id="st_ui_grenade_launcher">
+		<text>유탄 발사기</text>
+	</string>
+	<string id="st_ui_awr_parts_list">
+		<text>교체 부품</text>
+	</string>
+	<string id="st_ui_repair_kit_list">
+		<text>호환되는 수리 키트</text>
+	</string>
+	<string id="st_ui_workshop_kit_list">
+		<text>호환 워크샵 키트</text>
+	</string>
+	<string id="st_ui_disassemly_list">
+		<text>구성품</text>
+	</string>
+	<string id="st_ui_upgrade_list">
+		<text>업그레이드</text>
+	</string>
+	<string id="st_ui_arty_rank">
+		<text>아티팩트 랭크</text>
+	</string>
+	<string id="st_ui_artefact">
+		<text>아티팩트</text>
+	</string>
+	<string id="st_ui_repair_add_condition">
+		<text>기본 내구도 획득</text>
+	</string>
+	<string id="st_ui_repair_min_condition">
+		<text>이하 상태에서는 사용 불가</text>
+	</string>
+	<string id="st_ui_repair_bonus">
+		<text>수리 보너스</text>
+	</string>
+	<string id="st_ui_power_loss">
+		<text>전력 손실</text>
+	</string>
+	<string id="st_ui_number_of_uses">
+		<text>남은 수량</text>
+	</string>
+	<string id="st_ui_repair_parts_include">
+		<text>사용 가능한 재료</text>
+	</string>
+	<string id="st_ui_power">
+		<text>전력</text>
+	</string>
+	<string id="st_ui_amount">
+		<text>양</text>
+	</string>
+	<string id="st_ui_power_consumption">
+		<text>전력 소비률</text>
+	</string>
+	<string id="st_ui_info">
+		<text>정보</text>
+	</string>
+	<string id="st_ui_inventory_unpack">
+		<text>풀기</text>
+	</string>
+	<string id="st_ui_inventory_attach">
+		<text>장착</text>
+	</string>
+	<string id="st_ui_inventory_view">
+		<text>보기</text>
+	</string>
+	<string id="st_ui_container_remove">
+		<text>컨테이너에서 꺼네기</text>
+	</string>
+	<string id="st_ui_container_place">
+		<text>컨테이너에 넣기</text>
+	</string>
+	<string id="st_imm_swiss_open">
+		<text>따기</text>
+	</string>
+	<string id="st_item_place">
+		<text>놓기</text>
+	</string>
+	<string id="st_cap_companion_inv">
+		<text>아이템 교환</text>
+	</string>
+	<string id="st_ui_cook_fuel_usable">
+		<text>사용 가능한 연료</text>
+	</string>
+	
+
+	<!-- Workshop-->
+	<string id="st_tab_state">
+		<text>상태</text>
+	</string>
+	<string id="st_tab_repair">
+		<text>수리</text>
+	</string>
+	<string id="st_tab_upgrade">
+		<text>업그레이드</text>
+	</string>
+	<string id="st_tab_craft">
+		<text>제작</text>
+	</string>
+	<string id="st_cap_inventory">
+		<text>인벤토리</text>
+	</string>
+	<string id="st_cap_menu">
+		<text>제작 메뉴</text>
+	</string>
+	<string id="st_cap_recipes">
+		<text>알려진 조리법 및 가이드</text>
+	</string>
+	<string id="st_cap_craftables">
+		<text>제작 가능한 아이템 목록</text>
+	</string>
+	<string id="st_cap_components">
+		<text>구성품</text>
+	</string>
+	<string id="st_cap_result">
+		<text>결과</text>
+	</string>
+	<string id="st_cap_replace_parts">
+		<text>교체 부품</text>
+	</string>
+	<string id="st_cap_upgrades">
+		<text>업그레이드</text>
+	</string>
+	<string id="st_cap_req_toolkit">
+		<text>툴킷 필요</text>
+	</string>
+	<string id="st_ui_craft_device">
+		<text>전자장비</text>
+	</string>
+	<string id="st_ui_craft_equipment">
+		<text>야영장비 및 착용장비</text>
+	</string>
+	<string id="st_ui_craft_repair">
+		<text>수리도구</text>
+	</string>
+	<string id="st_ui_craft_upgrades">
+		<text>업그레이드 부품</text>
+	</string>
+	<string id="st_ui_craft_medical">
+		<text>의료품</text>
+	</string>
+	<string id="st_ui_craft_ammo">
+		<text>탄약</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_intro">
+		<text>워크밴치에서는 적절한 도구 모음을 사용하여 직접 수리, 업그레이드 및 제작할 수 있습니다.
+		\n위에 표시된 도구는 이 워크벤치에서 사용 가능한 기본 도구 모음을 나타내며 항목을 추가로 조정할 수 있습니다.
+		\n계속하려면 상단 탭 중 하나를 선택하십시오.
+		</text>
+	</string>
+	<string id="st_ui_workshop_owner">
+		<text>다음 인물이 소유함 : %s.</text>
+	</string>
+	<string id="st_ui_workshop_owner_nobody">
+		<text>없음</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_intro">
+		<text>교체 부품과 적절한 툴킷을 사용하여 무기나 의상의 손상된 부품을 교체할 수 있습니다.
+		\n인벤토리에서 수리할 항목을 선택하십시오.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_1">
+		<text>각 항목에는 고유한 부품 및 재료 세트가 있습니다.
+		\n회색 부품은 인벤토리에 동일한 대체 부품이 없음을 나타냅니다.
+		\n교체 부품과 사용 가능한 "%s"가 있는 경우 교체할 부품을 클릭하십시오.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_1">
+		<text>이 장비에 적합한 교체 부품이 없습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_1">
+		<text>교체 부품은 주로 의상과 무기를 분해하여 얻을 수 있습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_2">
+		<text>"%"가 없으면 이 장비의 부품을 교체할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_2">
+		<text>대부분의 정비공들 이러한 도구를 판매합니다. 다른 방법으로 얻을 수도 있습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_3">
+		<text>인벤토리에서 동일한 교체 부품을 선택할 수 있습니다.
+		\n상태가 더 좋은 부품만 항목을 개선하는 데 사용할 수 있습니다.
+		\n회색 부품은 아이템의 부품보다 상태가 더 나쁘다는 의미입니다. 교체에 적합하지 않습니다.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_3">
+		<text>귀하의 인벤토리에 있는 교체 부품 "%s"의 상태가 장비에 포함된 부품보다 상태가 더 나쁩니다. 사용할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_3">
+		<text>많은 도구는 해당 부품을 사용하여 이러한 부품을 수리할 수 있습니다. 대부분의 정비공은 이러한 도구를 판매합니다. 다른 방법으로 얻을 수도 있습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_4">
+		<text>교체 부품을 설치할 준비가 되었습니다. 선택한 교체 부품을 설치하려면 "수리" 버튼을 클릭하십시오.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgrade_intro">
+		<text>올바른 툴킷을 소유하고 있으면 무기와 의상에 대한 업그레이드를 설치할 수 있습니다.
+		\n인벤토리에서 업그레이드하려는 항목을 선택하세요.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_1">
+		<text>각 업그레이드를 완료하는 데 사용할 수 있는 "%s" 외에 동일한 유형의 특정 도구가 필요합니다.
+		\n업그레이드가 올바르게 설치되려면 추가 조건이 충족되어야 합니다.
+		\n선택한 항목에 설치하려는 업그레이드를 클릭하십시오.
+		\n업그레이드가 비활성화된 경우 마우스를 올리면 누락된 요구 사항이 모두 표시됩니다.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_1">
+		<text>"%s" 없이 이 장비에 업그레이드를 설치할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_1">
+		<text>대부분의 정비공은 이러한 도구를 판매합니다. 다른 방법으로 얻을 수도 있습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_2">
+		<text>설치할 수 있는 업그레이드가 없습니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_2">
+		<text>마우스를 올리면 누락된 요구 사항이 모두 표시됩니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_3">
+		<text>업그레이드를 설치할 준비가 되었습니다. 완료되면 "업그레이드" 버튼을 클릭하여 선택한 업그레이드를 설치합니다.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_intro">
+		<text>많은 재료를 사용하여 다양한 종류의 아이템을 만들 수 있습니다.
+		\n모험을 통해 획득한 레시피와 가이드는 더 많은 아이템을 제작하기 위한 더 많은 정보를 제공할 수 있습니다.
+		\n제작 가능한 항목을 보려면 제작 메뉴에서 항목을 선택하세요.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_1">
+		<text>제작할 아이템을 선택하세요.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_2">
+		<text>당신은 아직 "%s"을(를) 만드는 방법을 모릅니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_2">
+		<text>가이드북과 레시피에는 아이템에 대한 정보가 충분하므로 해당 아이템에 대해 자세히 알아볼 때 유용합니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_3">
+		<text>구성 요소를 사용하여 이 항목을 제작하려면 "%s"이(가) 필요합니다(플레이어 또는 정비공만 사용 가능).</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_3">
+		<text>이러한 도구는 일반적으로 드물기 때문에 여행을 하는 동안 이러한 세트를 주시하십시오.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_4">
+		<text>귀하의 인벤토리에는 이 아이템을 제작하는 데 필요한 일부 구성 요소가 부족합니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_4">
+		<text>필요 부품들은 주변의 다양한 아이템과 재료에서 얻을 수 있습니다. 유용한 부품을 얻기 위해서는 불필요한 아이템을 분해하는 것을 권장합니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_5">
+		<text>"%s"를 제작하는 데 필요한 모든 구성 요소가 있습니다. 계속하려면 "제작" 버튼을 선택하세요.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_1">
+		<text>워크밴치에서는 적절한 도구 모음을 사용하여 직접 수리, 업그레이드 및 제작할 수 있습니다.
+		위에 표시된 도구는 이 워크밴치에서 사용 가능한 기본 도구 모음을 나타내며 항목을 추가로 조정할 수 있습니다.
+		\n계속하려면 탭 중 하나를 선택하십시오.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_1">
+		<text>교체 부품과 적절한 툴킷을 사용하여 무기나 의상의 손상된 부품을 교체할 수 있습니다.
+		\n인벤토리에서 수리할 항목을 선택하십시오.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_2">
+		<text>각 항목에는 고유한 부품 및 재료 세트가 있습니다.
+		\n회색 부품은 인벤토리에 동일한 대체 부품이 없음을 나타냅니다.
+		\n교체 부품과 사용 가능한 "%s"가(이) 있는 경우 교체할 부품을 클릭하십시오.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_3">
+		<text>인벤토리에서 동일한 교체 부품을 선택할 수 있습니다.
+		\n상태가 더 좋은 부품만 항목을 개선하는 데 사용할 수 있습니다.
+		\n회색 부품은 아이템의 부품보다 상태가 더 나쁘다는 의미입니다. 교체에 적합하지 않습니다.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_4">
+		<text>교체 부품을 설치할 준비가 되었습니다. 선택한 교체 부품을 설치하려면 "수리" 버튼을 클릭하십시오.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgr_1">
+		<text>올바른 툴킷을 소유하고 있으면 무기와 의상에 대한 업그레이드를 설치할 수 있습니다.
+		\n인벤토리에서 업그레이드할 항목을 선택하십시오.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_2">
+		<text>각 업그레이드를 완료하는 데 사용할 수 있는 "%s" 외에 동일한 유형의 특정 도구가 필요합니다.
+		\n업그레이드가 올바르게 설치되려면 추가 조건이 충족되어야 합니다.
+		\n선택한 항목에 설치하려는 업그레이드를 클릭하십시오.
+		\n업그레이드가 비활성화된 경우 마우스를 올리면 누락된 요구 사항이 모두 표시됩니다.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_3">
+		<text>업그레이드를 설치할 준비가 되었습니다. 완료되면 "업그레이드" 버튼을 클릭하여 선택한 업그레이드를 설치합니다.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_1">
+		<text>많은 재료를 사용하여 다양한 종류의 아이템을 만들 수 있습니다.
+		\n모험을 통해 획득한 레시피와 가이드는 더 많은 아이템을 제작하기 위한 더 많은 정보를 제공할 수 있습니다.
+		\n제작 가능한 항목을 보려면 제작 메뉴에서 항목을 선택하세요.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_2">
+		<text>제작할 아이템을 선택하세요.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_3">
+		<text>이 아이템을 제작하려면 정해진 재료가 필요합니다.
+		\n일부 재료가 충족되지 않을 경우 빨간색으로 표시됩니다. 따라서 제작 절차가 진행되지 않습니다.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_4">
+		<text>이 항목을 제작하는 데 필요한 모든 구성 요소가 충족 되었습니다. 계속하려면 "제작" 버튼을 선택하세요.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_5">
+		<text>당신은 이 아이템을 만드는 방법을 모릅니다.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_6">
+		<text>이 아이템을 제작하려면 "%s"이(가) 이 워크밴치에 필요합니다.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_no_upgr_1">
+		<text>이 업그레이드를 설치하려면 "%s"이(가) 필요합니다.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_2">
+		<text>이 업그레이드를 설치하려면 "%s"이(가) 필요합니다.</text>
+	</string>
+	<!--string id="st_ui_workshop_no_upgr_3">
+		<text>The condition of this item is critical for this upgrade to be installed.</text>
+	</string-->
+	<string id="st_ui_workshop_no_upgr_3">
+		<text>이 워크벤치에는 이 업그레이드를 설치하는 데 필요한 도구가 없습니다.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_4">
+		<text>대체 업그레이드가 이미 설치되어 있습니다.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_5">
+		<text>이전 업그레이드를 설치하지 않고 이 업그레이드를 설치할 수 없습니다.</text>
+	</string>
+	
+	<string id="st_ui_upgr_required_con">
+		<text>최소 요구 조건</text>
+	</string>
+
+</string_table>

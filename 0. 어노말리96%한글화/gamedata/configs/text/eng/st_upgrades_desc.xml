@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Upgrades descriptions
+-->
+
+<string_table>
+
+<!--
+	Outfits upgrades
+-->
+	<string id="st_up_armor_1_name">
+		<text>케블라 방탄판</text>
+	</string>
+	<string id="st_up_armor_1_descr">
+		<text>방탄 성능이 증가하나 내구성은 특별할 것 없는 방탄판으로 교체합니다.</text>
+	</string>
+	<string id="st_up_armor_2_name">
+		<text>폴리카보네이트 방탄판</text>
+	</string>
+	<string id="st_up_armor_2_descr">
+		<text>폴리카보네이트 방탄판은 탄환 충격 흡수력이 좋아 케블라보다 더 신뢰할 수 있습니다.</text>
+	</string>
+	<string id="st_up_armor_3_name">
+		<text>추가 방탄판 레이어</text>
+	</string>
+	<string id="st_up_armor_3_descr">
+		<text>더 넓은 면적으로 충격을 퍼트리는 내부 레이어를 추가합니다.</text>
+	</string>
+	<string id="st_up_armor_4_name">
+		<text>이음매용 기동성 방탄판 설치</text>
+	</string>
+	<string id="st_up_armor_4_descr">
+		<text>기동성 방탄판은 총상으로부터 관절을 보호합니다.</text>
+	</string>
+	
+	
+	<string id="st_up_damage_1_name">
+		<text>분할 보호층</text>
+	</string>
+	<string id="st_up_damage_1_descr">
+		<text>얇은 시트를 추가하여 옷의 내마모성을 증가시킵니다.</text>
+	</string>
+	<string id="st_up_damage_2_name">
+		<text>알루미늄/티타늄 플레이트 추가</text>
+	</string>
+	<string id="st_up_damage_2_descr">
+		<text>티타늄 플레이트 수를 증가시키면 옷의 장갑의 내구성이 상당히 향상됩니다.</text>
+	</string>
+	<string id="st_up_damage_3_name">
+		<text>기동성 방탄판 추가</text>
+	</string>
+	<string id="st_up_damage_3_descr">
+		<text>기동성 방탄판은 총상으로부터 관절을 보호합니다.</text>
+	</string>
+	
+	
+	<string id="st_up_durability_1_name">
+		<text>두꺼운 가죽으로 교체</text>
+	</string>
+	<string id="st_up_durability_1_descr">
+		<text>이러한 삽입물이 탄환의 보호를 증가시키진 않지만, 더 나은 내구성을 보장합니다.</text>
+	</string>
+	<string id="st_up_durability_2_name">
+		<text>고내구성 보호 프레임</text>
+	</string>
+	<string id="st_up_durability_2_descr">
+		<text>의상의 내구성을 향상시키기 위해 사용됩니다.</text>
+	</string>
+	<string id="st_up_durability_3_name">
+		<text>강화 케블라 플레이트 삽입</text>
+	</string>
+	<string id="st_up_durability_3_descr">
+		<text>내구성을 향상시키기 위해 더 견고한 강화 플레이트를 삽입합니다.</text>
+	</string>
+	
+	
+	<string id="st_up_weight_1_name">
+		<text>탄소 섬유 프레임</text>
+	</string>
+	<string id="st_up_weight_1_descr">
+		<text>금속을 탄소 섬유로 대체하면 신뢰성을 저하시키지 않고 무게를 줄일 수 있습니다.</text>
+	</string>
+	<string id="st_up_weight_2_name">
+		<text>경량 알루미늄 프레임</text>
+	</string>
+	<string id="st_up_weight_2_descr">
+		<text>강철 프레임을 가벼운 알루미늄 프레임으로 대체하여 무게를 감소시킵니다.</text>
+	</string>
+	<string id="st_up_weight_3_name">
+		<text>경량 합성 플라스틱 설치</text>
+	</string>
+	<string id="st_up_weight_3_descr">
+		<text>옷의 무게를 줄이기 위해 가벼운 재료를 사용합니다.</text>
+	</string>
+	<string id="st_up_weight_4_name">
+		<text>경량 합성 폴리머</text>
+	</string>
+	<string id="st_up_weight_4_descr">
+		<text>장갑의 무게를 줄이기 위해 옷의 구성을 보다 가벼운 합성 재료로 대체합니다.</text>
+	</string>
+	
+		
+	<string id="st_up_carry_1_name">
+		<text>중량 배분 마운트 시스템</text>
+	</string>
+	<string id="st_up_carry_1_descr">
+		<text>마운트 시스템을 통해 무게가 전신에 보다 고르게 분산시킵니다.</text>
+	</string>
+	<string id="st_up_carry_2_name">
+		<text>중량 분배 후방 프레임</text>
+	</string>
+	<string id="st_up_carry_2_descr">
+		<text>후방 프레임은 어깨에 집중된 하중을 전신에 분산시켜 어깨의 무게를 덜어주어 최대 하중을 증가시킵니다.</text>
+	</string>
+	<string id="st_up_carry_3_name">
+		<text>추가 보조용 서보 모터</text>
+	</string>
+	<string id="st_up_carry_3_descr">
+		<text>추가적인 이동 장치를 달아 최대 운반 무게을 증가시킬 수 있습니다.</text>
+	</string>
+	
+	
+	<string id="st_up_shock_1_name">
+		<text>분리된 콘스탄탄 기반 내부 레이어</text>
+	</string>
+	<string id="st_up_shock_1_descr">
+		<text>콘스탄탄의 얇은 층은 전기에 대해 저항력을 증가시킬 수 있다.</text>
+	</string>
+	<string id="st_up_shock_2_name">
+		<text>콘스탄탄 기반 단열제</text>
+	</string>
+	<string id="st_up_shock_2_descr">
+		<text>콘스탄탄은 전기에 대해 절연할 수 있으며 녹는점 역시 매우 높다.</text>
+	</string>
+	<string id="st_up_shock_3_name">
+		<text>망가닌 삽입물이 있는 격리 바디 슈트</text>
+	</string>
+	<string id="st_up_shock_3_descr">
+		<text>니켈과 마그네슘 합금은 전기 충격을 방지할 수 있다.</text>
+	</string>
+	
+	
+	<string id="st_up_burn_1_name">
+		<text>내화성 처리 직물</text>
+	</string>
+	<string id="st_up_burn_1_descr">
+		<text>내화성 물질로 처리된 원단은 화재 물품을 찾는 스토커들 사이에서 인기가 있다.</text>
+	</string>
+	<string id="st_up_burn_2_name">
+		<text>마그네슘 플레이트</text>
+	</string>
+	<string id="st_up_burn_2_descr">
+		<text>마그네슘 삽입물은 착용자를 열 위험으로부터 보호합니다.</text>
+	</string>
+	<string id="st_up_burn_3_name">
+		<text>열섬유 유리 보호제 </text>
+	</string>
+	<string id="st_up_burn_3_descr">
+		<text>섬유유리는 자연재해대책팀이 입는 보디슈트에 사용된다.</text>
+	</string>
+	<string id="st_up_burn_4_name">
+		<text>니켈 삽입물이 있는 내화성 바디 슈트</text>
+	</string>
+	<string id="st_up_burn_4_descr">
+		<text>니켈은 차체 장갑에 사용할 수 있을 정도로 내화성이 높습니다.</text>
+	</string>
+	<string id="st_up_helm_burn_1_name">
+		<text>선더버드 콘스탄탄 삽입물</text>
+	</string>
+	<string id="st_up_helm_burn_1_descr">
+		<text>열 및 전기적 손상을 방지하기 위한 보호 합금 프레임.</text>
+	</string>
+	
+	
+	<string id="st_up_rad_1_name">
+		<text>고무 바디 슈트 원단</text>
+	</string>
+	<string id="st_up_rad_1_descr">
+		<text>고무는 약한 방사선 피폭으로부터 자신을 보호하는 기본적인 방법입니다.</text>
+	</string>
+	<string id="st_up_rad_2_name">
+		<text>방사선 방호를 위한 플렉시글라스 내부층</text>
+	</string>
+	<string id="st_up_rad_2_descr">
+		<text>플렉시글래스는 납보다 훨씬 가볍지만 두 가지 유형의 방사선을 흡수합니다.</text>
+	</string>
+	<string id="st_up_rad_3_name">
+		<text>납 추가 슈트</text>
+	</string>
+	<string id="st_up_rad_3_descr">
+		<text>납은 세 가지 유형의 방사선을 모두 흡수하기 때문에 방사선에 대한 신뢰할 수 있는 방어 수단입니다.</text>
+	</string>	
+	<string id="st_up_helm_rad_1_name">
+		<text>활성 필터</text>
+	</string>
+	<string id="st_up_helm_rad_1_descr">
+		<text>활성 필터는 방사성 입자에 저항력을 제공합니다.</text>
+	</string>
+	<string id="st_up_helm_rad_2_name">
+		<text>플렉시글라스 코팅</text>
+	</string>
+	<string id="st_up_helm_rad_2_descr">
+		<text>플렉시글라스 마스크는 방사선으로부터 부분적으로 보호할 수 있습니다.</text>
+	</string>
+	<string id="st_up_helm_rad_3_name">
+		<text>극지 환경용 강화 호흡 장치</text>
+	</string>
+	<string id="st_up_helm_rad_3_descr">
+		<text>정화용 코팅이 추가된 필터 및 독물 제거를 위한 호흡 장치입니다.</text>
+	</string>
+	
+	
+	<string id="st_up_chem_1_name">
+		<text>칸바스 바디 슈트</text>
+	</string>
+	<string id="st_up_chem_1_descr">
+		<text>비와 가성 물질이 피부에 닿지 않도록 하는 기본적인 보호 기능입니다.</text>
+	</string>
+	<string id="st_up_chem_2_name">
+		<text>밀폐 플라스틱 내부층</text>
+	</string>
+	<string id="st_up_chem_2_descr">
+		<text>간단하게 플라스틱을 추가하는 것 만으로도 화학적 위험으로부터 착용자를 보호할 수 있습니다.</text>
+	</string>
+	<string id="st_up_chem_3_name">
+		<text>코팅 바디 슈트 원단</text>
+	</string>
+	<string id="st_up_chem_3_descr">
+		<text>코팅된 직물로 화학 중독을 방지합니다.</text>
+	</string>
+	<string id="st_up_chem_4_name">
+		<text>유연한 납으로 구성된 라이프세이버 플렉시글라스 바디슈트</text>
+	</string>
+	<string id="st_up_chem_4_descr">
+		<text>납 메질은 이동성을 희생시키지 않고 화학적 보호층을 생성합니다.</text>
+	</string>
+	<string id="st_up_helm_chem_1_name">
+		<text>오염 지역용 필터</text>
+	</string>
+	<string id="st_up_helm_chem_1_descr">
+		<text>독극물 제거를 위한 추가 방지층이 있는 강화된 방청 코팅 필터입니다.</text>
+	</string>
+	<string id="st_up_helm_chem_2_name">
+		<text>코팅 호흡 마스크</text>
+	</string>
+	<string id="st_up_helm_chem_2_descr">
+		<text>독극물을 완전히 차단하기 위한 호흡기입니다.</text>
+	</string>
+	
+	
+	<string id="st_up_tele_1_name">
+		<text>철제 그릴로 만든 싸이 프로텍션</text>
+	</string>
+	<string id="st_up_tele_1_descr">
+		<text>폐쇄 밴드는 직접적인 정신파 폭풍에 대한 부분적인 보호를 제공하는 것으로 입증되었습니다.</text>
+	</string>
+	<string id="st_up_helm_tele_1_name">
+		<text>싸이 돔 밴드 설치</text>
+	</string>
+	<string id="st_up_helm_tele_1_descr">
+		<text>사하로프라는 과학자가 발명한 것으로 알려진 첨단 정신파 보호구입니다.</text>
+	</string>
+	
+	
+	<string id="st_up_arty_1_name">
+		<text>기본 장갑 부착 모듈</text>
+	</string>
+	<string id="st_up_arty_1_descr">
+		<text>장갑 부착 모듈을 설치합니다.</text>
+	</string>
+	<string id="st_up_arty_2_name">
+		<text>추가 장갑 부착 모듈</text>
+	</string>
+	<string id="st_up_arty_2_descr">
+		<text>추가 장갑 부착 모듈을 설치합니다.</text>
+	</string>
+	<string id="st_up_arty_3_name">
+		<text>2구획 장갑 부착 모듈</text>
+	</string>
+	<string id="st_up_arty_3_descr">
+		<text>2구획 장갑 부착 모듈을 설치합니다.</text>
+	</string>
+	
+	
+	<string id="st_up_stamina_1_name">
+		<text>내부 열 조절 시스템</text>
+	</string>
+	<string id="st_up_stamina_1_descr">
+		<text>인체공학적 개선. 차체 수트에 부착된 특수 마운트를 통해 운반 무게가 가벼워집니다.</text>
+	</string>
+	<string id="st_up_stamina_2_name">
+		<text>육상용 내장 시스템</text>
+	</string>
+	<string id="st_up_stamina_2_descr">
+		<text>실행 시스템의 실험 모델로, 높은 가격과 의심스러운 기능으로 인해 존 밖에서는 사용되지 않습니다.</text>
+	</string>
+	<string id="st_up_helm_stamina_1_name">
+		<text>증기 정화 및 호흡 필터</text>
+	</string>
+	<string id="st_up_helm_stamina_1_descr">
+		<text>호흡하기에 적합하지 않은 오염된 공기, 또는 너무 낮거나 너무 높은 공기 온도 조건에서 사용되는 필터 세트입니다.</text>
+	</string>
+	
+	
+	<string id="st_up_bleed_1_name">
+		<text>레이 해모듈레이터</text>
+	</string>
+	<string id="st_up_bleed_1_descr">
+		<text>이 작은 방사기는 등에 장착돼 지속적으로 혈액 응고 속도를 효과적으로 높여줍니다.</text>
+	</string>
+	<string id="st_up_bleed_2_name">
+		<text>하이드라 헤모글로빈 주입기</text>
+	</string>
+	<string id="st_up_bleed_2_descr">
+		<text>혈압이 현저히 떨어지면 정기적으로 혈액 속으로 응고제를 주입하는 B세대 주사기입니다.</text>
+	</string>
+	
+	
+	<string id="st_up_health_1_name">
+		<text>퓨리 아드레날린 인젝터</text>
+	</string>
+	<string id="st_up_health_1_descr">
+		<text>키예프의 한 연구소에 의해 개발된 A세대 주사기는 정기적으로 소량의 아드레날린을 혈류에 주입하는데, 위험할 수도 있지만 응급 상황에서 여러분의 생명을 구할 수도 있습니다.</text>
+	</string>
+	<string id="st_up_health_2_name">
+		<text>피닉스 복원 시스템</text>
+	</string>
+	<string id="st_up_health_2_descr">
+		<text>착용자의 건강을 모니터링하고 필요에 따라 비타민, 아드레날린 또는 동화 물질을 공급하는 통합 시스템입니다.</text>
+	</string>
+	<string id="st_up_health_3_name">
+		<text>생명유지장치 설치</text>
+	</string>
+	<string id="st_up_health_3_descr">
+		<text>이 파동방출기는 목에 장착돼 메커니즘과 작동방법은 불분명하지만 진정효과가 강합니다.</text>
+	</string>
+	
+	
+	<string id="st_up_run_1_name">
+		<text>유압 부스터 추가</text>
+	</string>
+	<string id="st_up_run_1_descr">
+		<text>유압 부스터는 4세대 외골격에 사용됩니다. 엑소 프레임 착용 후 달리기가 가능해 집니다.</text>
+	</string>
+
+</string_table>

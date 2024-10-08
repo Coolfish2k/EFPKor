@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON YANTAR MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Default Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_text">
+		<text>다음 임무를 받으러 가야 한다.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_about">
+		<text>뭐? 아 그래, 마침 잘됐군! 스토커, 좀 도와줘. 위치는 여기야! 네가 필요해!</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_finish">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Research Documents Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_1_name">
+		<text>사하로프의 연구 문서</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_text">
+		<text>사하로프 교수의 연구 논문 중 일부가 파견된 과학자가 돌연변이의 공격 때문에 장소에 남겨졌다. 서류를 회수하여 사하로프에게 돌려주어야 한다.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
+		<text>네가 여기 있어서 기쁘군. 제 연구원 중 한 명이 현장에서 막 돌아왔어. 다만 돌연변이들의 공격 받아서 연구자료를 놔두고 와야만 했지. 게다가 그곳으로 다시 돌아가는 것을 두려워하는 중이지. 그 자료가 필요해. 스토커, 부디 회수해 주게, 기꺼이 보상해 주겠네.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
+		<text>고맙네, 스토커! 받아.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_2_name">
+		<text>비정상적인 측정</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_0">
+		<text>사하로프 교수님께서 이상현상을 측정하는 데 도움을 요청하셨지만, 분실한 $item_1을 먼저 회수해야 한다.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_1">
+		<text>사하로프 교수가 이상 징후를 측정하는 데 도움을 요청했습니다.\n표시된 위치로 이동하자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_2">
+		<text>사하로프 교수가 이상 징후를 측정하는 데 도움을 요청했습니다.\n$item_1을 사용하여 측정하자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_3">
+		<text>사하로프 교수가 이상 징후를 측정하는 데 도움을 요청했습니다.\n$item_1과 기록된 결과를 그에게 반환하자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
+		<text>아, 잘 왔어. 기다리고 있었네. 스캐너에서 특정 이상 징후가 관찰되고 있어. 노련한 스토커가 가서 치수를 재왔으면 하는데, 딱 맞는 장치가 있어, 젊은이. 행운을 비네.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_finish">
+		<text>아, 좋아. 이제 연구를 시작할 수 있겠어! 고맙네. 잘 했어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Search Lab X-18 (Dark Valley) Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_3_name">
+		<text>X-18 연구소 수색하기</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_text">
+		<text>사하로프 교수는 검은 계곡의 X-18 실험실에 포함된 연구 문서가 필요합니다.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_about">
+		<text>마침 잘왔군! 중요한 일이 있어. X-18 연구실에서 중요한 연구가 수행됐었네. 하지만 그것을 분석하려면 자료가 필요해. 문제는 그 자료에 접근할 수 없었어. 회수해 줄 수 있겠나? 성공한다면 내가 후하게 보상하지.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_finish">
+		<text>잘 했어. 고맙네, 스토커!</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Plant Anomaly Scanner (Red Forest) Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_4_name">
+		<text>심비오트 이상현상 근처에 스캐너 설치하기</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text">
+		<text>사하로프 교수는 레드 포레스트의 심비오트 이상현상 근처에 스캐너를 설치하기를 원한다.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text0">
+		<text>사하로프 교수는 레드 포레스트의 심비오트 이상현상 근처에 스캐너를 설치하기를 원한다.\n스캐너를 먼저 회수하자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_0">
+		<text>사하로프 교수는 레드 포레스트의 심비오트 이상현상 근처에 스캐너를 설치하기를 원한다.\n스캐너를 이상현상에 가지고 가자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_1">
+		<text>사하로프 교수는 레드 포레스트의 심비오트 이상현상 근처에 스캐너를 설치하기를 원한다.\n스캐너를 이상현상에 가지고 가자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text2">
+		<text>사하로프 교수는 레드 포레스트의 심비오트 이상현상 근처에 스캐너를 설치하기를 원한다.\n스캐너를 설치하자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text3">
+		<text>사하로프 교수는 레드 포레스트의 심비오트 이상현상 근처에 스캐너를 설치하기를 원한다.\n결과를 보고하자.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_about">
+		<text>훌륭해! 이 새 스캐너를 한 번 보게. 우리는 비정상적인 활동들을 스캔하기 위해 이 장치들을 사용하지. 존에서 가장 흥미로운 이상 현상 중 하나는 붉은 숲 속 깊은 곳에서 발견된 심비오트 이상현상이네.  이 스캐너를 그 이상현상 근처에 설치해줘. 우리가 그 활동에 대해 더 많이 알 수 있도록 도와줄 게야.
+		\n위치는 위험하지만, 당신처럼 유능한 스토커에게는 문제가 되지 않는다고 믿네. 기기를 설치해 줘, 기꺼이 보상해 주지.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_finish">
+		<text>고맙네! 드디어 그 현상을 연구할 수 있겠어!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_name">
+		<text>과학 그리고 관료주의</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_text">
+		<text>사하로프는 17,000RU를 요구했다. 그래야 공식적인 생태학자가 되기 위해 필요한 모든 정부 서류를 제출할 수 있다고 말했다.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_about">
+		<text>아, 글쎄, 네가 훌륭한 현장 보조원이 될 거라고 확신하지. 하지만, 중요한 건, 필요한 서류 작업을 모두 끝내는 게, 돈이 좀 많이 들고, 동기부여가 없이는 더디게 진행된다는 거지. 이런식의 정부가 어떤식으로 일을 처리하는지 알잖나.\n\n영구 계약, 라이센스, ID...이 모든 비용을 지불하려면 적어도 17,000RU가 필요하겠어. 특히 영구 계약이라는 점이 말이야. 하지만 돈만 내준다면 자넬 과학자로 만들어줌세!</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
+		<text>좋아! 잘 했네. 편히 있다가게, 동료 생태학자.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
+
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>세메노프 연구 사냥</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>세메노프 부보안관이 새로운 돌연변이 조직 샘플을 가져와 분석할 수 있게 해 달라고 요청했다.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>돌연변이 제거하는 걸 좀 도와주실 수 있어? 판독값과 조직 샘플을 채취할 수 있게 말이야. 예를 들어... 다섯 개의 다른 돌연변이들. 내 목숨을 네 손에 맡길 테니 내 안전을 보장해줘. 그 노력에 보답하지.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>도와줘서 고마워. 필요한 조직 샘플은 다 가지고 있어. 여기. 다음에 또 와.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecog Trader) -->
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>얀타 벙커에 %s 조달</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>사하로프 교수의 최근 실험은 %s의 신선한 조직 샘플을 필요로 한다. 찾으면 바로 갖다 주자.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+		<text>노련한 스토커나 돌연변이 사냥꾼이 필요해. 가능한가?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>%s 조직 샘플에서 새 세포를 수집해야 해. 그러려면 샘플을 구해와야겠지. 동물학자들이 싫어할 거라는 건 알지만, 여긴 동물원이 아니야. 어쨌든, 필요한 샘플을 얻는 즉시 돌아오도록. 돌연변이 생물학에 대한 귀중한 통찰력을 제공할 수 있을 걸세!</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>고맙네. 친구. 연구에 큰 도움이 될 거야.</text>
+	</string>
+	
+	<!-- Collect New Artefact Task -->
+	<string id="yan_stalker_sakharov_task_2_name">
+		<text>이상현상 연구</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_text">
+		<text>사하로프 교수가 연구 자금을 지원할 "%s" 아티팩트를 찾아달라고 요청했다.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_about">
+		<text>연구를 좀 도와 주겠어? 보답하지.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_about">
+		<text>우리 연구팀이 또 다른 중요한 발견을 눈앞에 두고 있네만, 자금 지원과 실험을 계속하기 위해서는 더 많은 자료가 절실히 필요하네! %s 아티팩트 하나를 찾아 보내 주게. 우리가 조사를 계속하고 공급업자들에게 원료를 제공하기를 원한다면 그 샘플을 채취해야 해.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_finish">
+		<text>과학계를 대표해 고마움을 표하지. 약속한 대로 사례금.</text>
+	</string>
+
+	<!-- Classified Information Task -->
+	<string id="classified_information_task_name">
+		<text>기밀 정보</text>
+	</string>
+	<string id="classified_information_task_text">
+		<text>교수가 민감한 연구 자료를 구해 달라고 제게 부탁했다.</text>
+	</string>
+	<string id="classified_information_task_about">
+		<text>알려지지 않은 괴한이 우리 연구팀 중 한 명에게 접근했어. 다행히도, 탐험대의 일부가 살아서 잘 돌아왔지. 허나 불행하게도, 그들은 탈출하는 동안 다소 민감한 자료를 남겨야 했어.\n내 동료들의 미래 복지와 과학적인 발전을 위해, 이 데이터가 손실되거나 악한에게 넘겨지지 않기를 바라네. 이 좌표의 은닉처로 가게. 서두르면 아직 그대로 있을 거야. 이 서류들을 이곳 사무실로 가지고 오면, 자네의 재량권을 위해서, 합리적인 금액을 주지. 팀이 보관함에 두고 온 다른 물품도 마음데로 가져가도 좋아.</text>
+	</string>
+	<string id="classified_information_task_finish">
+		<text>고맙네, 스토커. 아니면 동료라고 해야 하나? 이제 연구는 순조롭게 계속될 수 있을거야 - 바라건대, 어떤 추가적인 에로사항도 없이 말이야.</text>
+	</string>
+	
+	<!-- yan_stalker_sakharov -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>정신 보호모 획득하기</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>사하로프 교수가 정신 보호 장비를 완전히 보정하는 데 동의했습니다. 약 이틀 후에 찾으러 오라고 합니다.</text>
+	</string>
+
+	<string id="brain_machine_deactivate_name">
+		<text>미라클 머신 끄기</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>미라클 머신을 너무 오랫동안 방관했다고 합니다. 얀타의 과학자들에게 문제거리인만큼 처리가 시급합니다. 일을 처리하면 사하로프 교수가 답례할 것입니다.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="mechanic_army_yan_mlr_task_1_name">
+		<text>페레그린에게 %s 찾아주기</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_text">
+		<text>얀타의 페레그린에게 %s를 찾아줘야 한다.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_about">
+		<text>아, 물론. HQ에서 코돈을 통해 벙커에 도착한 공구가 있다고 통보했지만, 그 패키지가 끝내 도착하지 못했어. 이 배달이 어디서 어떻게 끝났을까? 존만이 알고 있겠지. 물론, 상황은 변하지 않고, 여전히 더 많은 도구가 필요해. HQ는 이미 전달했다고 잡아떼는 중이고. 그래서 부탁이 있어. 만약 당신이 야생에서 기본적인 도구들을 찾는 데 성공한다면, 개인적으로 돈을 지불해 주지. </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_fetch_about">
+		<text>좋아. 부탁해. 그것들이 없으면 더 고급 자제들을 쓸 수 조차 없거든. 사냥 잘하고, 스토커.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_fetch_finish">
+		<text>자, 한 번 보자. 그래, 이거면 되겠는데? 이제 정비 말고 다른 것도 할 수 있을 것 같아. 여기! 상금. 도와줘서 고마워.</text>
+	</string>
+
+	<string id="mechanic_army_yan_mlr_task_2_name">
+		<text>페레그린에게 %s 찾아주기</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_text">
+		<text>얀타의 페레그린에게 %s를 찾아줘야 한다.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_about">
+		<text>음, 당신은 확실히 다른 공급자들보다 더 진취적이구만. 좋아. 저번보다 더 좋은 도구 세트가 필요해. 찾아주면 그 주머니에 돈이 슥 들어 있을 거라고 알려주지. </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_fetch_about">
+		<text>환상적이군. 사하로프도 분명 고마워할 거야, 눈 깜짝할 사이에 벙커에 자금을 대는 게 가능하 지겠지.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_fetch_finish">
+		<text>훌륭해! 장비 손볼 일이 있으면 언제든지 와. 덕분에 이제 어지간하면 다 뜯어 고칠 수 있을 거야.</text>
+	</string>
+
+	<string id="mechanic_army_yan_mlr_task_3_name">
+		<text>페레그린에게 %s 찾아주기</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_text">
+		<text>얀타의 페레그린에게 %s를 찾아줘야 한다.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_about">
+		<text>사하로프가 네가 우릴 도와준다는 걸 기뻐하고 있어. 추가로 전문적인 도구를 가져다 줄 수 있는 스토커에게 더 많은 답례를 하겠다고도 하더군. 우리가 여기에 보관하고 있는 과학 장비, 특히 유해 물질 보호복과 외골격 장비를 최대한 활용할 수 있게 해줄 거야. 마지막으로 날 위해 툴킷을 사냥하러 가줄래? </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_fetch_about">
+		<text>정말 고마워. 만약 그걸 가지고 돌아오면 적절한 현장 유지 관리 방법에 대한 요령도 한두 가지 알려줄게. 나만의 고마움의 표현이라 생각해. 행운을 빌어. </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_fetch_finish">
+		<text>당신이 보급부대에서 일하지 않는 게 안타깝단 말이지. 이제서야 그 망할 수화기를 고칠 수 있을지도 몰라. 넌 나의 존경을 얻을 자격이 있어. 이 벙커를 대신해, 여기. </text>
+	</string>
+	
+	
+	
+ 	<string id="yan_stalker_sakharov_task_4_name">
+		<text>추적 장치 복구</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_about">
+		<text>우리는 심장 박동수, 식습관, 수면 주기, 이동 시간 등 다양한 데이터를 측정하기 위해 돌연변이에게 여러 장치를 이식했네. 그러나 마지막 블로아웃 이후 장치 중 하나가 오작동을 시작했어. 이 장치는 여전히 움직임을 추적하지만 다른 유용한 데이터 전송을 중단하더군. 이 추적기는 상당히 값비싸서 말이야, 가능한 이 추적기를 회수해야 해. 어떤 수단을 써서든 돌연변이로부터 장치를 얻은 다음 우리에게 가져와주게. </text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_stage_0">
+		<text>돌연변이에게서 장치를 회수하라</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_stage_1">
+		<text>돌연변이에게서 장치를 회수하라</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_stage_2">
+		<text>돌연변이에게서 장치를 회수하라</text>
+	</string>
+	<string id="recover_mutant_data_device_desc">
+		<text>변이체의 움직임, 습성, 생명 징후를 관찰하기 위해 돌연변이에게 심어진 튼튼한 장치입니다. 부식 흔적이 보이고, 물린 자국과 긁힌 자국으로 덮여 있습니다.  </text>
+	</string>
+	<string id="recover_mutant_data_device_name">
+		<text>추적 장치</text>
+	</string>
+</string_table>

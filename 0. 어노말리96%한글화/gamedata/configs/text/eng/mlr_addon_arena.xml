@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="totaliz_pre_0">
+		<text>이번엔 뭐지?</text>
+	</string>
+	<string id="totaliz_pre_1">
+		<text>아무래도 네가 이 경기장에서 꽤 많은 명성을 얻은 거 같은데, 이젠 너도 돈을 걸고 싸움 구경을 할 수 있게 될 거야! 다른 큰 규모의 대금업들이랑 비슷한 거야, 네가 훌륭한 전사가 된 것에 대한 내 선물이라고 생각하라고. 거는 돈은 그다지 부담될 만큼은 아닐 거야, 1천 루블에서 시작해서 5천 루블까지라고, 그리고 네 상금은 참가자, 승자, 패자의 숫자에 따라 결정될 거야. 간단하게 요약하자면, 넌 네가 건 돈의 40퍼센트부터 세 배까지 얻을 수 있다는 거지.</text>
+	</string>
+
+	<string id="totaliz_begin_0">
+		<text>싸움을 구경해보고 싶어.</text>
+	</string>
+	<string id="totaliz_begin_1">
+		<text>어떤 경기를 보고 싶은지 선택해.</text>
+	</string>
+	<string id="totaliz_begin_2">
+		<text>스토커 대 스토커.</text>
+	</string>
+	<string id="totaliz_begin_6">
+		<text>어떤 경기를 할 수 있나 보자고.</text>
+	</string>
+
+		<string id="totaliz_begin_9">
+			<text>스토커 두 명.</text>
+		</string>
+		<string id="totaliz_begin_21">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_32">
+			<text>왼쪽에 있는 스토커.</text>
+		</string>
+		<string id="totaliz_begin_33">
+			<text>오른쪽에 있는 스토커.</text>
+		</string>
+
+	<string id="totaliz_begin_10">
+		<text>스토커 그룹 대 밴딧 그룹.</text>
+	</string>
+
+		<string id="totaliz_begin_22">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_34">
+			<text>스토커.</text>
+		</string>
+		<string id="totaliz_begin_35">
+			<text>밴딧.</text>
+		</string>
+
+	<string id="totaliz_begin_11">
+		<text>듀티 대원 대 프리덤 포로.</text>
+	</string>
+
+		<string id="totaliz_begin_23">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_36">
+			<text>듀티.</text>
+		</string>
+		<string id="totaliz_begin_37">
+			<text>프리덤.</text>
+		</string>
+
+	<string id="totaliz_begin_12">
+		<text>군인 대 스토커.</text>
+	</string>
+
+		<string id="totaliz_begin_24">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_38">
+			<text>군인.</text>
+		</string>
+		<string id="totaliz_begin_39">
+			<text>스토커.</text>
+		</string>
+
+	<string id="totaliz_begin_3">
+		<text>스토커 대 뮤턴트.</text>
+	</string>
+
+		<string id="totaliz_begin_7">
+			<text>어떤 경기를 할 수 있나 보자고.</text>
+		</string>
+		<string id="totaliz_begin_13">
+			<text>스토커 대 사칭견.</text>
+		</string>
+		<string id="totaliz_begin_25">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_40">
+			<text>스토커.</text>
+		</string>
+		<string id="totaliz_begin_41">
+			<text>사칭견.</text>
+		</string>
+
+	<string id="totaliz_begin_14">
+		<text>듀티 대원 대 좀비 한 무리.</text>
+	</string>
+
+		<string id="totaliz_begin_26">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_42">
+			<text>듀티.</text>
+		</string>
+		<string id="totaliz_begin_43">
+			<text>좀비.</text>
+		</string>
+
+	<string id="totaliz_begin_15">
+		<text>밴딧 한 쌍 대 블러드써커 한 마리.</text>
+	</string>
+
+		<string id="totaliz_begin_27">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_44">
+			<text>밴딧.</text>
+		</string>
+		<string id="totaliz_begin_45">
+			<text>블러드써커.</text>
+		</string>
+
+	<string id="totaliz_begin_16">
+		<text>군인 한 쌍 대 버러 한 마리.</text>
+	</string>
+
+		<string id="totaliz_begin_28">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_46">
+			<text>군인.</text>
+		</string>
+		<string id="totaliz_begin_43">
+			<text>버러.</text>
+		</string>
+
+	<string id="totaliz_begin_4">
+		<text>뮤턴트 대 뮤턴트.</text>
+	</string>
+
+		<string id="totaliz_begin_8">
+			<text>어떤 경기를 할 수 있나 보자고.</text>
+		</string>
+		<string id="totaliz_begin_17">
+			<text>스노크 대 스노크.</text>
+		</string>
+		<string id="totaliz_begin_29">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_48">
+			<text>왼쪽에 있는 스노크.</text>
+		</string>
+		<string id="totaliz_begin_49">
+			<text>오른쪽에 있는 스노크.</text>
+		</string>
+
+	<string id="totaliz_begin_18">
+		<text>블러드써커 대 블러드써커.</text>
+	</string>
+
+		<string id="totaliz_begin_30">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_50">
+			<text>왼쪽에 있는 블러드써커.</text>
+		</string>
+		<string id="totaliz_begin_51">
+			<text>오른쪽에 있는 블러드써커.</text>
+		</string>
+
+	<string id="totaliz_begin_19">
+		<text>키메라 대 키메라.</text>
+	</string>
+
+		<string id="totaliz_begin_31">
+			<text>누구한테 걸 거야?</text>
+		</string>
+		<string id="totaliz_begin_52">
+			<text>왼쪽에 있는 키메라.</text>
+		</string>
+		<string id="totaliz_begin_53">
+			<text>오른쪽에 있는 키메라.</text>
+		</string>
+
+	<string id="totaliz_begin_54">
+		<text>얼마나 걸 거야?</text>
+	</string>
+
+		<string id="totaliz_begin_55">
+			<text>천 루블.</text>
+		</string>
+		<string id="totaliz_begin_56">
+			<text>2천 5백 루블.</text>
+		</string>
+		<string id="totaliz_begin_57">
+			<text>5천 루블.</text>
+		</string>
+		<string id="totaliz_begin_58">
+			<text>돈이 없어.</text>
+		</string>
+
+	<string id="totaliz_begin_20">
+		<text>관심 없어.</text>
+	</string>
+	<string id="totaliz_begin_5">
+		<text>생각이 바뀌었어.</text>
+	</string>
+
+	<string id="total_reward_dialog_1000_0">
+		<text>상금이 있어?</text>
+	</string>
+	<string id="total_reward_dialog_1000_1">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_2">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_3">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_4">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_5">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_6">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_7">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_8">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_9">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_10">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_11">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_12">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_13">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_14">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_15">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_16">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_17">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_18">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_19">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_20">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_21">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_22">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_1000_23">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_24">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_25">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_26">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_27">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_28">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_29">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_30">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_31">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_32">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_33">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_34">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_35">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_36">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_37">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_1000_38">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+
+	<string id="total_reward_dialog_2500_0">
+		<text>상금은?</text>
+	</string>
+	<string id="total_reward_dialog_2500_1">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_2">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_3">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_4">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_5">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_6">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_7">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_8">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_9">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_10">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_11">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_12">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_13">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_14">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_15">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_16">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_17">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_18">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_19">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_20">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_21">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_22">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_2500_23">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_24">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_25">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_26">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_27">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_28">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_29">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_30">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_31">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_32">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_33">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_34">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_35">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_36">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_37">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+	<string id="total_reward_dialog_2500_38">
+		<text>없어. 넌 졌다고.</text>
+	</string>
+
+	<string id="total_reward_dialog_5000_0">
+		<text>상금은?</text>
+	</string>
+	<string id="total_reward_dialog_5000_1">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_2">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_3">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_4">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_5">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_6">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_7">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_8">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_9">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_10">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_11">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_12">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_13">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_14">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_15">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_16">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_17">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_18">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_19">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_20">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_21">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_22">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_23">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_24">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_25">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_26">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_27">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_28">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_29">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_30">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_31">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_32">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_33">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_34">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_35">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_36">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_37">
+		<text>상금을 받아.</text>
+	</string>
+	<string id="total_reward_dialog_5000_38">
+		<text>상금을 받아.</text>
+	</string>
+</string_table>

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<!--===========================================================
+<
+< QUEST ITEMS TEXT  STRINGS
+<	CoC 1.4.07 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 06, 2016
+<
+<===========================================================-->
+
+
+<string_table>
+
+	<!-- DRX Storyline Documents Quest Item -->
+	<string id="drx_sl_quest_item_1_name">
+		<text>서류</text>
+	</string>
+	<string id="drx_sl_quest_item_1_desc">
+		<text>중요한 서류들이다. 보상을 받기 위해 건네주자.</text>
+	</string>
+
+	<!-- DRX Storyline 잠겨진 상자 Quest Item -->
+	<string id="drx_sl_quest_item_2_name">
+		<text>잠겨진 상자</text>
+	</string>
+	<string id="drx_sl_quest_item_2_desc">
+		<text>잠겨진 상자이다. 안에 무엇이 들어있는지는 모르지만 꽤 무겁다. 들고 갈 만한 가치가 있기를 바랄 뿐이다.</text>
+	</string>
+
+	<!-- DRX Storyline PDA Quest Item -->
+	<string id="drx_sl_quest_item_3_name">
+		<text>PDA</text>
+	</string>
+	<string id="drx_sl_quest_item_3_desc">
+		<text>암호화된 PDA이다. 의뢰인에게 돌려주면 보상을 받을 것이다.</text>
+	</string>
+
+	<string id="bad_psy_helmet_desc">
+		<text>과학자들이 사람들을 정신파 에미션으로부터 보호하기 위해 만들어진 프로토타입이다. 교정이 필요하다.</text>
+	</string>
+	<string id="bad_psy_helmet_name">
+		<text>교정되지 않은 정신파 보호 헬멧</text>
+	</string>
+
+	<string id="good_psy_helmet_desc">
+		<text>과학자들이 사람들을 정신파 에미션으로부터 보호하기 위해 만들어진 프로토타입이다.</text>
+	</string>
+	<string id="good_psy_helmet_name">
+		<text>정신파 보호 헬멧</text>
+	</string>
+
+	<string id="cit_doctors_key_short_desc">
+		<text>프리피야트에 있는 비밀 은닉처를 여는 닥터의 열쇠이다.</text>
+	</string>
+	<string id="cit_doctors_key_name">
+		<text>닥터의 열쇠</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>측면에 "호텔 폴리샤 - 26호실" 이라고 쓰여 있는 열쇠이다.</text>
+	</string>
+
+	<string id="item_docs_hiden_pri_name">
+		<text>스트렐록의 원고</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>가죽 표지로 된 낡은 원고이다. 스트렐록이 직접 썼다.\n제목만 보고 판단했을 때는, 존의 비밀들 중 일부가 설명되어 있는 듯하다.</text>
+	</string>
+
+	<string id="cit_doctors_pda_name">
+		<text>닥터의 쪽지</text>
+	</string>
+	<string id="cit_doctors_pda_desc">
+		<text>"그저 늙은이가 주장하는 음모론을 적어두었을 뿐이라네.".\n\n아그로포롬 시설이 2006년의 그 사건이 일어나기 전에 한 비공식 연구소의 위장 기관으로 쓰여졌다는 소문이 있다네. 그 연구소에서는 다수의 매우 의심스러운 실험이 진행되었다고 하네. 상인들이 이런 연구시설에 대한 많은 정보를 파헤쳐 왔다네. 내가 전에 바텐더를 만났을 때, 그가 말하길 듀티 정찰대를 X-18이라고 불리는, 검은 계곡 속의 지하실 안으로 보냈었는데, 그들이 사라졌다고 하더군. 또한 "싸이-브레인"이라고 불리는 메커니즘과 관련된 다른 소문도 있다네. 안타 호수 주변의 모든 곳은 그 쓰레기같은 것의 영향력이 미치고 있다네. 그건 일정 범위 안으로 들어가는 모든 사람들을 좀비로 만들어 버린다고 하더군. 붉은 숲에 있는 레이더 기지 지하에는 X19 연구소라 불리는 다른 기계장치도 있다네, 그리고 그곳이 바로 브레인 스코처일 가능성이 가장 높은 곳이지. 브레인 스코처의 존재 자체가 북쪽으로 가는 길을 고의적으로 막고 있다는 것을 암시하는 증거가 있긴 하지만, 아무도 그게 정확히 어떤 것인지 알지는 못한다네. 바텐더는 브레인 스코처를 인간이 만들었고, 그곳의 메커니즘은 언제나 전력으로 가동되는 것은 아니라고 생각하더군. 그는 브레인 스코처가 잠시 열을 식히는 동안에는 동력이 낮아질 때가 있을 거라고 생각한다네. 이제 존에 있는 모든 지하 연구소를 찾아가 그것들이 숨기고 있는 비밀이 무엇인지 밝혀내야만 하네. 안타깝게도, 난 이런 짓거리를 하기엔 너무 늙었다네. 스트렐록이 아직 여기에 있었으면 좋았으련만, 제기랄, 이미 몇 년 전에 사라져 버렸다네.</text>
+	</string>
+
+	<string id="item_decoder_desc">
+		<text>강력한 전자 문따개이다. 이상하게도, 이 물건은 순전히 도둑질 용도로만 사용되는 도구는 아닌 것으로 보인다. 오히려, 이 물건은 특수한 전자적 자물쇠만 열도록 설계된 것으로 보이며 그 밖의 다른 것들을 해제하는 데 쓰이지는 못한다.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>해독기</text>
+	</string>
+
+	<string id="pri_decoder_docs_conclusion_txt">
+		<text>문서에는 팽과 스트렐록이 어떻게 숨겨진 실험실에 침투했으며 거기서 어떤 일들을 했는지에 대한 짧은 보고서가 실려있다. 또한 체르노빌 원자력 발전소 안과 주변에 있는 거대한 모노리스 세력에 대해서도 언급되어 있다. 발전소를 덮은 콘크리트 석관 아래에 대해서도 더욱 자세히 셜명되어 있으며, 또한 그곳이 모노리스의 작전 본부이나 무언가를 숨기려는 의도도 존재한다는 가설을 제시했다. 그 뒤에는 그들이 발전소 아래쪽으로부터 더 북쪽으로 간 지점에 있는 숨겨진 연구소를 찾아냈다는 사실이 언급되어 있지만, 문서가 쓰여질 당시에는 출입에 필요한 해독기가 없었기 때문에 들어갈 수 없었다고 적혀있다.</text>
+	</string>
+
+	<string id="item_quest_case_02_desc">
+		<text>군용 문서 및 아그로프롬 근처에서 수행된 조사들의 보고서들이 들어있는 방화 서류가방이다. 보고서에는 시설로부터 기계장치들과 장비들이 어떻게 사라졌으며, 그 장비들이 어디에 있는지에 대한 조사 결과가 어떻게 조작되었는지에 대한 자세한 정보들이 서술되어 있다.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>군용 문서들</text>
+	</string>
+
+	<string id="item_doc_x18_name">
+		<text>생명활동 연구 보고서</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>이 보고서에는 X-18 연구소에서 보내진 생물학적 표본 연구의 세부적인 정보들이 쓰여 있다. 표본들은 다양한 강도의 정보 필드 효과에 노출되었다. 보고서는 에미션에 노출되었을 때 생명체가 어떻게 변이되는지를 상세하게 설명해놓았다.</text>
+	</string>
+
+	<string id="item_doc_x16_desc">
+		<text>보고서는 생체 연구 과정에서의 부차적인 발견들 중 하나를 언급하였는데, 특히 생명체가 유도된 정신파 에미션을 만들어낼 수 있다는 발견에 대해 서술하였다. 생체적인 필드 방출기, 특히 거대한 두뇌 같은 것들은 X16 연구소에서 진행되는 연구의 일부분이 되었다.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>정신파 연구 서류</text>
+	</string>
+
+	<string id="item_doc_x10_desc">
+		<text>서류에는 안테나의 기술적인 특징들 및 기존에 계획되었던 설계에서 어떤 점이 달라졌는지가 서술되어 있다. 서류의 반대쪽에는 이러한 서류들이 X19 연구소에서 만들어졌다는 사실을 나타내는 노트가 있다.</text>
+	</string>
+	<string id="item_doc_x10_name">
+		<text>레인보우 방출기 서류</text>
+	</string>
+
+	<string id="item_doc_x8_desc">
+		<text>서류에는 연구팀과 모든 장비들을 인간의 지적 활동으로부터의 영향력과 관련된 연구를 수행하게 될 북쪽 멀리 떨어진 곳에 있는 다른 연구소로 이동시킨다는 내용이 담겨 있다. 연구소에 들어가려면, 사고가 일어난 날짜를 암호로 입력해야 한다 (ddmmyyyy; 일-월-년도).\n \n연구팀은 다음 인물로 구성되어 있다: N.A. 레베데프, E.F. 칼란차 그리고 V.I. 수슬로프.</text>
+	</string>
+	<string id="item_doc_x8_name">
+		<text>전근 명령서</text>
+	</string>
+
+	<string id="item_doc_jup_ug_desc">
+		<text>이 공책에는 정신파 필드의 효과가 지구 반대편에 있는 물체에 어떠한 영향을 미치는지 에 대한 실험의 세부적인 사항들이 적혀 있다. 캐리비안 지역에 있는 과학자들이 신호를 받았지만, 그 신호는 왜곡되어 있었다. 신호는 마치 누군가에 의해 조작된 것처럼, 이상한 방식으로 바뀌어 있었다. 이에 대한 유효한 설명으로 인간의 지적 활동이 일어나는 이론이 맞았고 신호의 변화가 인간의 지적 활동에 의해 만들어졌다는 것이 제시되었다.</text>
+	</string>
+	<string id="item_doc_jup_ug_name">
+		<text>실험용 공책</text>
+	</string>
+
+	<string id="item_doc_mon_con_name">
+		<text>프로토타입 무기 보고서</text>
+	</string>
+	<string id="item_doc_mon_con_name_desc">
+		<text>좀 더 진보된 전자기 장치의 작동 방식과 주된 기술적 특징이 적혀 있는 문서들이다.\n문서에 포함된 노트에는 다음과 같은 내용이 적혀 있었다: "문서들은 반드시 X8, 중앙 연구소에 돌려주어야 함. 나는 바쁘기 때문에, 직접 전달할 것. - N. 레베데프"</text>
+	</string>
+
+	<string id="quest_package_name">
+		<text>소포</text>
+	</string>
+	<string id="quest_package_desc">
+		<text>소포의 내용물은 알 수 없다.\n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 개인 소지품
+		%c[0,100,100,255] * 가치있는 물건
+		</text>
+	</string>
+	
+	<string id="st_jup_b32_scanner_device_name">
+		<text>이상현상 활동 스캐너</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_desc">
+		<text>이 상자 안에는 아티팩트 감지기와, 건전지 그리고 강력한 수신기가 들어 있다. 이 장치는 이상현상을 스캔하여 어떤 아티팩트가 몇 개 정도 나올지를 확인해 준다. 이렇게 얻은 모든 정보들은 자동으로 과학자의 벙커에 전달된다.\n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적인 물품\n
+		</text>
+	</string>
+	
+
+	<!-- MLR -->
+	<string id="mlr_strelok_item_01">
+		<text>낡은 공책</text>
+	</string>
+	<string id="mlr_strelok_item_01_desc">
+		<text>스트렐록이 가지고 있었던 것으로 보이는 공책이다. X-18 이라고 불리는 지하 연구 단지에 어떻게 들어가는지에 대한 자세한 정보가 적혀있다.</text>
+	</string>
+	
+	<string id="blackbox_mlr">
+		<text>비행 정보 기록기</text>
+	</string>
+	<string id="blackbox_mlr_descr">
+		<text>"블랙박스"라고도 불리는 비행 정보 기록기이다. 비행 정보 기록기는 비행기의 내부 정보와 승무원들의 대화를 기록하고, 사고가 났을 경우에 기체 상태의 정보를 제공해 준다. 존에서는, 스토커들과 군인들 모두 이런 장치에 관심이 있다.</text>
+	</string>
+	
+	<string id="item_pda_map_mlr_name">
+		<text>PDA</text>
+	</string>
+	<string id="item_pda_map_mlr_descr">
+		<text>다양한 지역으로 가는 길의 정보가 담겨 있을 지도 모르는 PDA이다.</text>
+	</string>
+	
+	
+	<!-- Strelok notes -->
+	<string id="strelok_notes_name">
+		<text>스트렐록의 공책</text>
+	</string>
+	<string id="strelok_notes_desc">
+		<text>이 공책은 스트렐록이 가지고 있었던 것으로 보인다. 잠깐 읽어 보았을 때 이 공책에는 다소 일관성이 없고 암호처럼 보이는 글귀들이 쓰여 있는 것으로 보인다. 이 스토커는 몇년 전에 그 자신이 했던 중요한 결정과 관련된 위기를 맞이하였고, 존의 북쪽 지역에서 답을 찾음으로써 그의 선택이 옳았다는 것을 증명하고자 했던 것으로 보인다.</text>
+	</string>
+	
+	
+	<!-- DRX -->
+	<string id="drx_x8_documents_name">
+		<text>안테나 설치 관련 서류</text>
+	</string>
+	<string id="drx_x8_documents_desc">
+		<text>문서에는 거대한 레이더 설치 작업처럼 보이는 것들에 대한 언급이 되어 있다. 아마도 브레인 스코처의 구조와 통제 시스템에 관련된 것으로 보인다.</text>
+	</string>
+	
+	<string id="drx_x16_documents_name">
+		<text>생물학적 연구 보고서</text>
+	</string>
+	<string id="drx_x16_documents_desc">
+		<text>쥐나 다른 동물들을 대상으로 한 실험들에 대한 언급이 적혀 있는 오래된 일련의 문서들이다.</text>
+	</string>
+	
+	<string id="drx_x18_documents_name">
+		<text>실험 보고서: B0-D4</text>
+	</string>
+	<string id="drx_x18_documents_desc">
+		<text>정신파 공명과 방출과 관련된 실험에 대한 내용이 적힌 오래된 문서들이다.</text>
+	</string>
+	
+	<string id="drx_x19_documents_name">
+		<text>통신 기록 / 21.03.2006</text>
+	</string>
+	<string id="drx_x19_documents_desc">
+		<text>연구시설의 과학자들 사이에 오고간 전파 송수신 기록을 프린트한 전문이다.</text>
+	</string>
+	
+	<string id="drx_agr_u_documents_name">
+		<text>아그로프롬 시설 문서</text>
+	</string>
+	<string id="drx_agr_u_documents_desc">
+		<text>상당한 양의 쪽지, 사진 그리고 아그로프롬으로 보이는 하나의 표식이 찍힌 지도이다. 아마도 스트렐록이 이 주변을 돌아다니며 작성한 것으로 보인다.</text>
+	</string>
+	
+	<string id="drx_jup_u_documents_name">
+		<text>운송 기록</text>
+	</string>
+	<string id="drx_jup_u_documents_desc">
+		<text>이 문서들은 주피터에 있는 공장으로의 기계 장비 및 도구 운송에 대한 오래된 기록이 적혀 있다. 또한 동쪽으로 향하는 터널의 기하학적 설계도가 포함되어 있다.</text>
+	</string>
+	
+	<string id="lx8_history_documents_name">
+		<text>실험 기록 (11.04.2005)</text>
+	</string>
+	<string id="lx8_history_documents_desc">
+		<text>이 기록 문서에는 새로운 형태의 정신파 방출기에 대한 오래 전의 실험 결과가 나타나 있다.</text>
+	</string>
+	<string id="lx8_history_2_documents_name">
+		<text>실험 기록 (24.09.2005)</text>
+	</string>
+	<string id="lx8_history_2_documents_desc">
+		<text>이 기록 문서에는 정신파의 활용에 대한 오래 전의 실험 결과가 나타나 있다.</text>
+	</string>
+	<string id="lx8_history_3_documents_name">
+		<text>실험 기록 (02.05.2006)</text>
+	</string>
+	<string id="lx8_history_3_documents_desc">
+		<text>이 기록 문서에는 생물학적 실험에 대한 결과가 나타나 있다.</text>
+	</string>
+</string_table>

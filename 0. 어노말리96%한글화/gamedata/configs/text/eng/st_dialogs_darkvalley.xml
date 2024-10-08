@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Olivius (Bandit Trader) -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+		<text>이봐! 네게 판매할 물건들이랑 관심있어할 만한 일거리를 좀 가지고 있어. 내가 바로 여기 있는 녀석들이 한탕 한 뒤에 호주머니를 비우러 찾아오는 놈이라고!</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+		<text>이봐. 필요한 게 있어? 일을 좀 찾는 거야?</text>
+	</string>
+	
+	<string id="information_about_stash_7_4_bandit_trader_0">
+		<text>은닉처의 정보를 찾고 있는데. 좀 있어?</text>
+	</string>
+	<string id="information_about_stash_7_4_bandit_trader_1">
+		<text>젠장, 어떻게 알았냐? 다른 녀석들이라면 아직 찾아내지도 못할 정보들을 갖고 있지. 뭐든지, 7천 루블만 내면 모두 네 거야.</text>
+	</string>
+
+	<string id="information_about_stash_7_4_bandit_trader1_0">
+		<text>내가 갖겠어. [7000 RU]</text>
+	</string>
+	<string id="information_about_stash_7_4_bandit_trader1_1">
+		<text>열심히 해봐.</text>
+	</string>
+
+	<string id="bandit_trader_st_0">
+		<text>왜 네 별명은 그따위야?</text>
+	</string>
+	<string id="bandit_trader_st_1">
+		<text>남 말 하네! 빌어처먹을 애송이들, 지들이 터프한 줄만 알아가지곤... 넌 그 놈들을 만나보지 않았지, 그 놈들은 오줌쌀 때 조준도 똑바로 못하는 놈들이라고. 만약 네가 한 번 만나본다면, 그 놈들은 병신들처럼 행동할 거니까, 곧 니 입에서도 그런 소리가 나오게 될 거야.</text>
+	</string>
+	<string id="bandit_trader_st_2">
+		<text>이봐, 진정해, 특별한 감정을 가지고 말한 건 아니라고. 뭐라 해야 할 지 모르겠군.</text>
+	</string>
+	<string id="bandit_trader_st_3">
+		<text>그래, 어쨌든... 사과는 받을게. 네가 나이를 먹어서 신경이 맛이 가게 된다면 삶이 쉽지만은 않을 거야.</text>
+	</string>
+	<string id="bandit_trader_st_4">
+		<text>알았어. 왜 그런 이름을 갖게 된 거야?</text>
+	</string>
+	<string id="bandit_trader_st_5">
+		<text>네가 떠들어대지 않겠다고 한다면 말해 줄게. 내 이야기는 소련 시절부터 시작되었지, 처음으로 내가 감옥에 가기 전 말이야. 난 잘 살아보고 싶었어... 물건들을 좀 거래하다가, 어느 날 잡혀버리고 말았지. 그리고 나서 내가 출소했을 때, 난 새로운 연줄을 만들어서 장물을 팔아치우기 시작했어. 그 짓거리를 3년 동안 하다가, 또다시 감옥에 갇혀버렸지. 출소했을 때는, 소련이 해체되어 버렸어... 가장 당황스러웠던 일이 뭐였는지 알아?</text>
+	</string>
+	<string id="bandit_trader_st_6">
+		<text>아니. 내가 사리분별을 할 수 있는 나이가 된 다음에는 소련을 본 적이 없었거든.</text>
+	</string>
+	<string id="bandit_trader_st_7">
+		<text>내가 처음으로 감옥에 갇혔을 때, 그걸 구 소련의 언어로 "사업"... 아니면 "이윤 추구" 라고 불렀지. 지금은, 성공한 사람들이라도 감방에 갈 수 있지. 거기야말로 네 똥구멍에 불이 나는 기분을 느낄 수 있는 곳이라고.</text>
+	</string>
+	<string id="bandit_trader_st_8">
+		<text>[계속...]</text>
+	</string>
+	<string id="bandit_trader_st_9">
+		<text>내가 두 번째로 출소했을 때, 모든 것이 무너져 버렸어. 소득은 전혀 없었고, 나같은 짓거리를 했던 사람들이 수없이 많았어. 존이 세상에 모습을 드러냈을 때, 난 직접 가보기로 했어.</text>
+	</string>
+	<string id="bandit_trader_st_10">
+		<text>[계속...]</text>
+	</string>
+	<string id="bandit_trader_st_11">
+		<text>그리고, 사람들이 내게 직접 가져오는 물건들을 내가 시험하는 경향이 있다고 나를 올리비우스라고 부르더군. 난 물건의 품질과 상태를 중요하게 여기는 사람이다 이 말이야.</text>
+	</string>
+	<string id="bandit_trader_st_12">
+		<text>역사적인 교훈을 알려줘서 고마워. 다시 한 번 사과하지.</text>
+	</string>
+
+	
+<!-- (Bandits Mechanic) -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+		<text>오늘은 뭐가 필요해서 왔나, 형씨? 네 물건을 바로 고쳐줄게. 그리고, 암호화된 PDA를 찾아낸다면, 내가 사 가겠어.</text>
+	</string>
+	
+	<string id="bandit_mechanic_st_0">
+		<text>네 이야기를 말해 봐, 형씨.</text>
+	</string>
+	<string id="bandit_mechanic_st_1">
+		<text>날 고발이라도 하시려는 거야? 뭐 됐어, 편하게 들으라고.</text>
+	</string>
+	<string id="bandit_mechanic_st_2">
+		<text>[계속...]</text>
+	</string>
+	<string id="bandit_mechanic_st_3">
+		<text>내 얼굴이 계속해서 우수자 명단에 올라갔던 시절이 있었지... 나는 한 공장에서 기계 정비사로 일했고 회사에서 그 분야의 가장 뛰어난 스페셜리스트로 인정받았었지. 난 회사에서 여러 상이랑 자격증을 받았어.</text>
+	</string>
+	<string id="bandit_mechanic_st_4">
+		<text>아마도 뭔가 일탈같은 걸 저지르고 싶었나 봐?</text>
+	</string>
+	<string id="bandit_mechanic_st_5">
+		<text>이야기하는데 끼어들지 마... 분위기가 늘어졌잖아.</text>
+	</string>
+	<string id="bandit_mechanic_st_6">
+		<text>설마 네 아래쪽에 달린 그게 축 늘어져서 사람들이 림피드 (늘어진) 라고 부르는 거냐?</text>
+	</string>
+	<string id="bandit_mechanic_st_7">
+		<text>진짜 재미있는 친구구만. 어쨌든, 난 오랜 근무가 끝난 다음에 내 동료들과 같이 놀러 다녔지. 술을 좀 너무 많이 마셨는데... 그걸 사장이 봐버렸고, 난 멍청한 패배자마냥 해고되어 버렸지.</text>
+	</string>
+	<string id="bandit_mechanic_st_8">
+		<text>삶이란 참 씹년 같은 거지.</text>
+	</string>
+	<string id="bandit_mechanic_st_9">
+		<text>아무래도 진짜 씹지랄 같은 걸 못본 모양이군. 그래서 평범한 열쇠공으로 다시 일을 시작했고 비트카라는 새로운 친구를 사귀었어. 그렇게 많이 벌지는 못했지만, 다행히도 가끔씩 한 두 잔 정도 걸칠 만큼은 벌어들였어. 어느 날 우리들은 술에 취해서 돌아다녔는데... 지금도 왜 그런 짓거리를 했는지 모르겠네. 어쨌든, 난 그 녀석을 스크류드라이버로 찔러버렸지, 다행인 점은 그 녀석이 즉사하지는 않았다는 거야. 몇 년 동안을 극도의 보안 상태에서 썩어야 했고, 내 와이프 씨발년은 모든 걸 팔아버리고 도망갔지. 풀려났을 때, 난 모든 돈을 술에 꼴아박고 슬럼가에 처박히게 되었어... 그러다 존이 생겨났을 때 여기로 왔지. 자, 여깄는 모두들은 똑같아. 우린 모두 부랑자들이야. 난 쓰레기장에 있는 녀석들을 만났어. 그 녀석들은 내 기술을 쓸만하다고 생각해서 거기 머물도록 했어. 내 생애 최고의 순간이라 할 만하지... 총과 보드카가 산더미인 곳이라.</text>
+	</string>
+	<string id="bandit_mechanic_st_10">
+		<text>여긴 쓰레기장이 아닌데.</text>
+	</string>
+	<string id="bandit_mechanic_st_11">
+		<text>제발 그 빌어먹을 끼어들기 좀 그만하지 그래. 그 큼지막한 에미션이 엉덩이로 우리를 깔아뭉개는 바람에, 우리들은 어린 소녀들처럼 숨어야만 했었어. 그 악몽같은 게 끝났을 때, 우리들은 대체 어떤 곳으로 갈지에 대해 이야기를 나눴어. 쓰레기장은 그런 에미션을 막아주기에는 너무 부실한 은신처였기 때문이지. 우리들은 거길 놔두고 작은 그룹으로 나뉘어서 각자 다른 길을 통해 여기로 왔어, 바로 이 검은 계곡에 말이지.</text>
+	</string>
+	<string id="bandit_mechanic_st_12">
+		<text>굉장한 이야기군.</text>
+	</string>
+
+
+<!-- Sultan -->
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>기억해 둬. 나는 술탄이야. 여기서 벌어지는 모든 일은 내 통제하의 일이거나 곧 그렇게 될 거다. 여기서 괜찮은 생활을 하고 싶다면, 날 도와서 일을 해야 할 거야. 그렇지 않으면, 좆같은 삶을 살게 되겠지. 이게 우리가 굴러가는 방식이야, 형씨.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>여기에서의 네 생활에 대해 말해줘.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>그냥 공원에서 산책하는 거랑은 많이 다를 거라 장담하지... 네가 정확히 알고 싶은 게 뭐야?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>여기서 뭘 하고 있는 거야?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>우린 스토커들을 감시하고 있어. 너 같은 녀석들의 절반은 그냥 어린애와 다를 바 없다는 걸 인정해야 할 거야. 넌 아마 몇몇 부질없는 소망을 이루고 싶거나, 영웅이 되고 싶거나, 아니면 그냥 삶이 고달파서 존으로 왔을 거야. 여기서 널 기다리고 있는 게 어떤 건지 상상도 못해 봤겠지. 대부분은, 저승사자나 다를 바 없어. 그게 우리들이 신경쓰고 있는 일이야. 우리가 쓰레기장에서 한 놈을 발견하면, 그 녀석의 장비를 가져가고 코돈으로 돌려보내지. 똑똑한 몇몇 친구들은 다시 바깥 세상으로 빠져나가지. 여기로 다시 돌아올 정도로 배짱이 좋은 놈들은, 우리 보호하에서 관리하면서 세금을 걷지. 단언컨대, 누구도 우리 영역 안에서 개짓거리를 할 수 없을 거야. 군인들도, 용병들도, 심지어 뮤턴트라고 해도 말이지.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>어떻게 존의 중심으로 가게 된 거야?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>걸어서 갔지. 우린 스토커 때문에 여기 와 있는데, 다른 이유가 뭐가 있겠나? 우리가 주변에서 질서를 유지하지 않으면 그저 완전한 혼돈만이 찾아올 거야. 물론 넌 전리품을 챙겨서 가져갈 수 있겠지, 하지만 그럼 누가 네게 세금을 바치게 되겠어? 내 말은, 평화유지세랑 안전세 말이야. 마치 우리들이 경비를 서면서, 뮤턴트들을 가둬놓는 동안 너희같은 녀석들 중 하나가 이상현상에서 우유를 짜내는 것처럼 말이지. 그 녀석이 멀쩡히 살아 나오면, 우리들은 거기서 우리 몫을 떼는 거야... 질서 유지를 위해 말야, 알아듣겠지.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>어떻게 두목이 되었지?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>어디서부터 시작해야 할까... 아마도 고등학교 때로 돌아가야 할 것 같군. 내겐 좋은 친구가 하나 있었어, 절친이라고 생각해도 좋아. 우린 같이 놀러다녔고, 담배피고, 술마시고, 기타 잡다한 것들을 하고 다녔지. 단지, 그는 더욱 더 많은 스릴을 원했어. 그는 마약에 빠져들었어. 그 녀석이 돈을 좀 벌기 시작했을 때부터 처음에는 대마초, 그 다음은 헤로인, 그리고 코카인 순이었지. 난 이렇게 말했어, "당장 그딴 건 그만두는게 좋아, 톨얀, 너무 늦기 전에 그만둬." 하지만 그는 말을 듣지 않았지. 그 녀석은 어느 날 질 나쁜 곳에 손을 댔고, 결국 그렇게 되고 말았지. 난 마약 딜러를 찾아냈고 내 친구의 복수를 해주었어... 난 사진이 찍혔고, 그때부터 지옥문이 열렸어. 감방, 패싸움, 배에 꽃힌 칼... 출소하고, 사업을 시작하다, 다시 잡혀들어가고... 내가 다시 출소했을 때, 난 모든 것들을 남겨두고 존에서 활동하기로 했어. 몇 달 동안 고군분투한 끝에, 결국 승급했지. 이제 지금은 내가 이 곳의 주도권을 잡았고, 질서를 유지하고 있어.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>스토커에 대해 어떻게 생각해?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>그 녀석들은 모두 달라. 마치, 몇몇 녀석들은 여기에 일주일도 채 있지 않았고, 다른 녀석들은 여기서 벌어먹고 살 정도는 되고... 그리고 다른 녀석들은, 아직까지는 코돈에 있는 양대 세력으로부터 쫒겨난 괜찮은 녀석들이지. 우리들은 첫 번째 부류에게는 바가지를 씌우고, 두 번째 부류에게는 세금을 걷지. 마지막 부류로 말할 것 같으면... 뭐, 그저 서로가 가는 길에 간섭하지 않으려 노력하고 있어. 안타깝게도 지금 당장은 그 녀석들을 구분하는 게 쉽지는 않을 거야...</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>왜... 그런 곳에 앉아있는 거야?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>네 엄마 얼굴의 창녀가 예약이 한 달쯤 밀려있어서 그런 거라고 해두지. 좀 더 바보같은 질문들을 하고 싶나?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1116">
+		<text>오, 신경쓰지 마. 이저버려.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11161">
+		<text>맘대로 해.</text>
+	</string>
+	
+	<string id="sultan_st_0">
+		<text>당신은 누구야?</text>
+	</string>
+	<string id="sultan_st_1">
+		<text>축하해. 그 정도의 기억력이라면, 다음번 스트렐록이 될 수 있겠군. 잘 들어. 난 여기 두목이고, 내 이름 정도는 알게 될 거야. 난 예전에 자톤에 있다가, 내 부하들과 함께 여기로 왔어. 우리들은 뮤턴트들을 기지 밖으로 내쫒았고 다시 재건해서 굴리는 중이야. 몇몇 골칫덩이들이 들어와서, 우리 일원인척 하다가 배신했었지. 거기서 내빼야만 했다고.</text>
+	</string>
+	<string id="sultan_st_2">
+		<text>그 까마귀같은 놈들은 상도덕이란 것도 몰라서, 우리 단원들을 그렇게 체포해 버렸지. 그 멍청이의 이름이 뭐든 간에, 그 놈을 잡아서 고문해 주겠어.</text>
+	</string>
+	<string id="sultan_st_3">
+		<text>그 놈의 이름이 사셴카였던가 했을 거야, 그 녀석의 뒤꽁무니는 피하는게 좋을 거야. 니 좆은 작고, 그 놈의 똥구멍은 강철로 된 미로와도 같으니까 말야.</text>
+	</string>
+	<string id="sultan_st_4">
+		<text>알았어. 존의 다른 것들에 대해 조언해줄 수 있어?</text>
+	</string>
+	<string id="sultan_st_5">
+		<text>간단해. 소매에 해골이 그려진 우리 단원들 말고는 아무도 믿지 마. 다른 녀석들 상당수가 적대적이니까, 기억해 둬. 혼자서 문제를 해결하려고 노력해 봐. 만약에 뭔가 잘못된 거 같으면, 거기서 당장 빠져나가.</text>
+	</string>
+	<string id="sultan_st_6">
+		<text>알았어. 내가 머무를만한 안전한 곳이 있어?</text>
+	</string>
+	<string id="sultan_st_7">
+		<text>존에 그렇게 안전한 곳은 없어, 형씨, 하지만 이 조언만은 잘 들어두도록 해. 우리들의 북쪽에는 트럭 묘지가 있는데, 우리 단원들이 오래된 거점과 군 창고로 통하는 통로를 점거하고 있어. 한밤중에는 가능하면 트럭 묘지를 돌아다니지 말고, 오래된 차량에는 절대 가까이 가지 마. 방사능은 네 아들을 불알까지 늘어뜨리기에 충분할 정도로 높고, 괴생명체들이나 이상현상들은 말힐 필요도 없지. 서쪽에는 쓰레기장이 있는데, 완전히 혼돈 그 자체나 다름없어. 다른 건 말해줄 수 없지만, 북쪽에는 듀티가 점거한 거점이 있어. 남쪽에는 검은 풍경이라고 불리는 거대한 숲이 있어. 정말로 야성이 넘치는 곳이고, 가끔씩 군인들이 순찰을 돌거나 로너들이 돌아다니는 걸 볼 수 있을 거야. 꽤 커다란 미로와도 같은 곳이지. 그리고, 검은 풍경으로 가는 길목에는 스토커가 몇 놈 있으니까, 쓸데없이 거기에서 돌아다니지 마. 그 숲에는 큰 이점이 하나 있는데, 바로 코돈으로 통하는 길목이라는 거지. 거기에 있는 차고에서 우리 친구들을 쉽게 볼 수 있을 거야.</text>
+	</string>
+	<string id="sultan_st_8">
+		<text>그거 참 무섭군.</text>
+	</string>
+	<string id="sultan_st_9">
+		<text>그럼 대체 뭘 기대한 거야, 이 친구야? 햇살과 무지개가 떠 있는 아름다운 광경은 없어, 이게 현실이야.</text>
+	</string>
+	<string id="sultan_st_10">
+		<text>그래, 어쨌든. 도와줘서 고마워, 두목.</text>
+	</string>
+
+	
+<!-- (Bandit guide) -->
+	<string id="meet_guid_dv_bandit_0">
+		<text>여기서 뭘 하고 있는 거야?</text>
+	</string>
+	<string id="meet_guid_dv_bandit_1">
+		<text>눈깔이 삐었냐? 난 이 지역 가이드야. 널 트럭 묘지에 있는 우리 전초기지나, 주피터에 있는 창고로 데려다 줄 수 있어. 돈이 좀 들거야.</text>
+	</string>
+
+	<string id="travel_guid_dv_bandit_0">
+		<text>가자.</text>
+	</string>
+	<string id="travel_guid_dv_bandit_1">
+		<text>어디로 가?</text>
+	</string>
+	<string id="travel_guid_dv_bandit_2">
+		<text>트럭 묘지로. [1500 RU]</text>
+	</string>
+	<string id="travel_guid_dv_bandit_3">
+		<text>주피터의 컨테이너 창고로. [8000 RU]</text>
+	</string>
+	<string id="travel_guid_dv_bandit_4">
+		<text>생각이 바뀌었어.</text>
+	</string>
+
+</string_table>

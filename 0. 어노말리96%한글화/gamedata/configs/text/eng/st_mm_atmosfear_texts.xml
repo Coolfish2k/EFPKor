@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_cap_af_weather_options">
+		<text>날씨</text>
+	</string>
+	<string id="st_cap_af_event_options">
+		<text>사건</text>
+	</string>
+	<string id="st_cap_af_moon_options">
+		<text>야간</text>
+	</string>
+	<string id="st_cap_af_default_options">
+		<text>효과</text>
+	</string>
+	<string id="st_cap_af_blowout">
+		<text>에미션</text>
+	</string>
+	<string id="st_cap_af_fallout">
+		<text>낙진</text>
+	</string>
+	<string id="st_cap_af_psi_storm">
+		<text>정신파 폭풍</text>
+	</string>
+	<string id="st_cap_check_enable_blowout">
+		<text>에미션 활성화</text>
+	</string>
+	<string id="st_cap_check_enable_fallout">
+		<text>낙진 활성화</text>
+	</string>
+	<string id="st_cap_check_enable_psi_storm">
+		<text>정신파 폭풍 활성화</text>
+	</string>
+
+	<string id="st_cap_fate">
+		<text>NPC의 운명</text>
+	</string>
+	<string id="st_cap_warning">
+		<text>경고</text>
+	</string>
+	<string id="st_cap_task">
+		<text>임무</text>
+	</string>
+	<string id="st_cap_freq">
+		<text>빈도</text>
+	</string>
+	
+	<string id="st_list_freq_12">
+		<text>6 - 12 시간마다</text>
+	</string>
+	<string id="st_list_freq_24">
+		<text>12 - 24 시간마다</text>
+	</string>
+	<string id="st_list_freq_48">
+		<text>1 - 2 일마다</text>
+	</string>
+	<string id="st_list_freq_96">
+		<text>2 - 4 일마다</text>
+	</string>
+
+	<string id="st_list_fate_killatend">
+		<text>종료 시 사망</text>
+	</string>
+	<string id="st_list_fate_killatwave">
+		<text>파동이 휩쓸 시 사망</text>
+	</string>
+	<string id="st_list_fate_turntozombie">
+		<text>좀비화</text>
+	</string>
+	<string id="st_list_fate_explode">
+		<text>산산조각</text>
+	</string>
+	<string id="st_list_fate_poison">
+		<text>방사능 및 화학적 요소에 중독</text>
+	</string>
+	<string id="st_list_fate_none">
+		<text>무사함</text>
+	</string>
+	<string id="st_list_fate_kill">
+		<text>볼텍스 폭발로 사망</text>
+	</string>
+	<string id="st_list_fate_killorturn">
+		<text>사망 또는 좀비화</text>
+	</string>
+	<string id="st_list_warning_radio_siren">
+		<text>라디오와 사이렌</text>
+	</string>
+	<string id="st_list_warning_radio">
+		<text>라디오</text>
+	</string>
+	<string id="st_list_warning_siren">
+		<text>사이렌</text>
+	</string>
+	<string id="st_list_warning_none">
+		<text>경고 없음</text>
+	</string>
+	<string id="st_list_task_give">
+		<text>임무 부여</text>
+	</string>
+	<string id="st_list_task_none">
+		<text>임무를 부여받지 않음</text>
+	</string>
+	<string id="st_cap_moon_phases">
+		<text>달의 모양</text>
+	</string>
+	<string id="st_cap_night_brightness">
+		<text>달빛의 밝기</text>
+	</string>
+	<string id="st_list_night_brightness_dark">
+		<text>어두컴컴한 밤</text>
+	</string>
+	<string id="st_list_night_brightness_slight">
+		<text>조금 밝은 밤</text>
+	</string>
+	<string id="st_list_night_brightness_medium">
+		<text>적당히 밝은 밤</text>
+	</string>
+	<string id="st_list_night_brightness_bright">
+		<text>아주 밝은 밤</text>
+	</string>
+	<string id="st_cap_weather_presets">
+		<text>프리셋:</text>
+	</string>
+	<string id="st_cap_weather_balance_presets">
+		<text>날씨의 균형</text>
+	</string>
+	<string id="st_cap_weather_length_presets">
+		<text>주기</text>
+	</string>
+	<string id="st_period_length_2h">
+		<text>2h</text>
+	</string>
+	<string id="st_period_length_3h">
+		<text>3h</text>
+	</string>
+	<string id="st_period_length_4h">
+		<text>4h</text>
+	</string>
+	<string id="st_period_length_5h">
+		<text>5h</text>
+	</string>
+	<string id="st_period_length_6h">
+		<text>6h</text>
+	</string>
+	<string id="st_period_length_7h">
+		<text>7h</text>
+	</string>
+	<string id="st_period_length_8h">
+		<text>8h</text>
+	</string>
+	<string id="st_period_length_9h">
+		<text>9h</text>
+	</string>
+	<string id="st_period_length_10h">
+		<text>10h</text>
+	</string>
+	<string id="st_period_length_11h">
+		<text>11h</text>
+	</string>
+	<string id="st_period_length_12h">
+		<text>12h</text>
+	</string>
+	<string id="st_period_length">
+		<text>주기</text>
+	</string>
+	<string id="st_cap_moon_cycle_length">
+		<text>달의 주기</text>
+	</string>
+	<string id="st_cap_moon_cycle_length_8">
+		<text>8 일</text>
+	</string>
+	<string id="st_cap_moon_cycle_length_28">
+		<text>28 일</text>
+	</string>
+	<string id="st_cap_moon_static">
+		<text>바뀌지 않고 다음 모양으로:</text>
+	</string>
+	<string id="st_cap_moon_phase_0">
+		<text>삭</text>
+	</string>
+	<string id="st_cap_moon_phase_1">
+		<text>초승달</text>
+	</string>
+	<string id="st_cap_moon_phase_2">
+		<text>상현달</text>
+	</string>
+	<string id="st_cap_moon_phase_3">
+		<text>상현달 (망 직전)</text>
+	</string>
+	<string id="st_cap_moon_phase_4">
+		<text>보름달</text>
+	</string>
+	<string id="st_cap_moon_phase_5">
+		<text>하현달 (망 직후)</text>
+	</string>
+	<string id="st_cap_moon_phase_6">
+		<text>하현달</text>
+	</string>
+	<string id="st_cap_moon_phase_7">
+		<text>그믐달</text>
+	</string>
+	<string id="st_list_weather_balance_preset_default">
+		<text>전반적인 균형</text>
+	</string>
+	<string id="st_list_weather_balance_preset_good">
+		<text>대개 좋음</text>
+	</string>
+	<string id="st_list_weather_balance_preset_bad">
+		<text>대개 나쁨</text>
+	</string>
+	<string id="st_list_weather_balance_preset_custom">
+		<text>사용자 정의</text>
+	</string>
+	<string id="st_list_weather_length_preset_default">
+		<text>전반적인 주기</text>
+	</string>
+	<string id="st_list_weather_length_preset_short">
+		<text>짧음</text>
+	</string>
+	<string id="st_list_weather_length_preset_long">
+		<text>김</text>
+	</string>
+	<string id="st_list_weather_length_preset_custom">
+		<text>사용자 정의</text>
+	</string>
+	<string id="st_list_periods_clear">
+		<text>맑음</text>
+	</string>
+	<string id="st_list_periods_clear_foggy">
+		<text>맑음 / 안개</text>
+	</string>
+	<string id="st_list_periods_foggy">
+		<text>안개</text>
+	</string>
+	<string id="st_list_periods_foggy_rainy">
+		<text>안개 / 비</text>
+	</string>
+	<string id="st_list_periods_rainy">
+		<text>비</text>
+	</string>
+	<string id="st_list_periods_stormy">
+		<text>폭풍</text>
+	</string>
+	<string id="st_btn_load_color_balance">
+		<text>기존의 색감 균형 및 밝기 설정 불러오기</text>
+	</string>
+	<string id="st_btn_load_default_settings">
+		<text>기존의 날씨, 사건 및 달 설정 불러오기</text>
+	</string>
+	<string id="st_msg_after_save">
+		<text>설정은 다음 세이브에 저장될 것입니다</text>
+	</string>
+	<string id="st_msg_load_user">
+		<text>기존의 색감 균형 및 밝기 설정을 불러오시겠습니까?</text>
+	</string>
+	<string id="st_msg_load_default_settings">
+		<text>기존의 날씨, 사건 및 달 설정을 불러오시겠습니까?</text>
+	</string>
+	<string id="st_msg_load_user_done">
+		<text>기존의 색감 균형 및 밝기 설정을 불러왔습니다</text>
+	</string>
+	<string id="st_msg_load_default_settings_done">
+		<text>기존의 날씨, 사건 및 달 설정을 불러왔습니다</text>
+	</string>
+	
+	<string id="st_cap_weather_occurrence">
+		<text>발생 빈도</text>
+	</string>
+	<string id="st_cap_weather_period">
+		<text>유지 시간</text>
+	</string>
+	<string id="st_occurrence_rare">
+		<text>희귀함</text>
+	</string>
+	<string id="st_occurrence_zero">
+		<text>없음</text>
+	</string>
+	<string id="st_occurrence_regular">
+		<text>보통</text>
+	</string>
+	<string id="st_wthr_clear">
+		<text>맑음</text>
+	</string>
+	<string id="st_wthr_partly">
+		<text>대체로 흐림</text>
+	</string>
+	<string id="st_wthr_cloudy">
+		<text>흐림</text>
+	</string>
+	<string id="st_wthr_rain">
+		<text>비</text>
+	</string>
+	<string id="st_wthr_storm">
+		<text>폭풍</text>
+	</string>
+	<string id="st_wthr_foggy">
+		<text>안개</text>
+	</string>
+	
+	<string id="st_cap_af_eff_tiny">
+		<text>역동적인 먼지 효과</text>
+	</string>
+	<string id="st_cap_af_eff_fog">
+		<text>역동적인 안개 효과</text>
+	</string>
+	<string id="st_cap_af_eff_wind">
+		<text>역동적인 바람 소리</text>
+	</string>
+	<string id="st_cap_af_eff_rain">
+		<text>역동적인 빗소리</text>
+	</string>
+</string_table>

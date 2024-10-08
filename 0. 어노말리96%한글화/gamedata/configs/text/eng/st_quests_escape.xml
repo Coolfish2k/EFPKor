@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON ESCAPE (CORDON) MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Default Storyline Task -->
+
+	<string id="drx_sl_esc_m_trader_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_text">
+		<text>시도르비치가 임무가 들어온 연락처를 제공했습니다. 그를 기다리게 해서는 안 된다.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_about">
+		<text>몇가지 다른 곳에서 들어온 임무들이 있긴 한데 말이야. 맵에 표시해 주지. 가보라고.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_finish">
+		<text>행운을 빌지.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Mutant Safari Storyline Task -->
+
+	<string id="drx_sl_esc_m_trader_task_1_name">
+		<text>사파리 투어</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_text">
+		<text>돌연변이 사냥에서 관광객 그룹을 이끄는 임무를 받았습니다.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_about">
+		<text>한 무리의 관광객이 찾왔어. 놈들은 돌연변이를 죽이는 것이 어떤 것인지 직접 보고 싶어하는 미친놈들이지. 뭐, 돈은 되니까 사냥터에 데려가서 스릴을 선사해주라고. 돈은 그 놈들이 들고 있으니까 나가서 자기 머리에 대고 총이나 쏘지 않도록 주의시켜 달라고. 그건 비즈니스에 좋지 않으니까.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_finish">
+		<text>돌아왔나? 좋아. 여기 보수.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Rookie Initiation Storyline Task- -->
+
+	<string id="drx_sl_esc_m_trader_task_2_name">
+		<text>입문 지도</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_text">
+		<text>초보자 그룹을 존으로 데려가 생존 기술을 보여주기로 했습니다.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_about">
+		<text>캠프의 새로운 신인들은 항상 도움을 필요로 하지. 솔직히 존에서 하루도 버티지 못할 것 같아 걱정이야. 그놈들이 죽어 버리면 사업에 좋지 않으니까, 알겠지? 고객이 적어지면 곤란하단말이야. 나는 네가 존에서 살아남는 법을 알려 줬으면 해. 그들에게 무엇을 조심해야 하는지, 이상현상을 보여주고, 기술을 가르쳐 줘.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_finish">
+		<text>아, 내 소중한 고객들이 잘 살아있군. 이제 내게서 더 많은 탄약을 사가겠지. 헤헤. 스토커, 고마워. 여기.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_text">
+		<text>제노테크가 부탁할 일을 가지고 있다. 찾아가 보자.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_about">
+		<text>내 친구가 당신의 서비스를 원하고 있어. 지도에 그의 위치를 표시해주지.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_finish">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Rescue Missing Stalker Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>실종된 스토커 찾기</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>스토커가 실동 됐다. 그를 찾아야 한다.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>도움이 필요해. 내 캠프의 스토커가 보급품을 찾으러 나갔다가 돌아오지 않고 있어. 무슨 일이 생긴 것 같아. 지도에 마지막으로 알려진 위치를 표시해 줄게. 확인해 줘.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_finish">
+		<text>구했구나! 잘했어. 여기 보상이야. 너무 고마워.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Track Wounded Attacker Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>부상당한 적 추적</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>군인이 제노테크의 캠프를 공격하고 사람들을 살해했습니다. 공격자 중 한 명은 탈출에 성공했습니다. 그를 추적해 달라는 요청을 받았습니다.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>어디 갔었어? 군부대가 이곳을 휩쓸었었어. 그 빌어먹을 헬리콥터 사이에서 캠프에 있는 거의 모든 사람들을 쓸어버렸다고! 그래도 분전한 덕에 그들 중 대부분을 죽일 수 있었지만 그 중 하나는 가까스로 탈출했습니다. 부상을 입었을 거야. 혈흔을 따라가 봐.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_finish">
+		<text>고마워. 그 빌어먹을 놈들. 여기 보상.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_esc_m_trader_cf_task_1_name">
+		<text>불타는 다리</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_text">
+		<text>시도르비치가 지금의 세력에서 10,000 RU을 내면 꺼내준다고 약속했다.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_about">
+		<text>그래, 적절한 곳에 잧아 왔군. 난 존에서 많은 인맥을 가지고 있지. 네 파벌에서 벗어나게 해줄 수는 있지만 저렴하지는 않을 거야. 손바닥에 기름칠을 좀 해야 하거든. 어디보자,... 10,000 루블. 그럼 내가 방법을 알아봐 주지.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_finish">
+		<text>아, 좋아. 이제 자유 스토커로서의 삶을 즐겨보라고.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
+
+	<string id="esc_m_trader_task_1_name">
+		<text>주차장 습격</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+		<text>주차장을 공격하고 그 위치를 점유하고 있는 밴딧들을 제거하세요.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+		<text>밴딧들이 오래된 주차장을 차지했어. 그 새끼들은 캠프 안팎으로 길을 이용하는 사람을 습격하거나 죽이고 있다고. 그건 내 고객과 피난처를 찾는 스토커의 활동을 방해하고 있어. 사업을 망치고 있다고! 난 네가 그들을 '돌봐줬으면'해. 도움이 필요하면 파나틱과 상담해봐.</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+		<text>훌륭해, 스토커! 계속 그래주면 넌 내 가장 친한 친구이자 고객이 될거야! 보통은 후자 겠지만. 아무튼, 여기 내가 약속한 거.</text>
+	</string>
+
+	<string id="esc_m_trader_task_2_name">
+		<text>청부 살인</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+		<text>시도로비치의 눈엣가시를 제거하는 데 동의했습니다. 일을 마치면 보상을 받으러 돌아가야 합니다.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+		<text>처리해야 할 두둑한 현상금 목록이 있어. 보통 흉계꾼, 사기꾼, 중상 모략꾼인 경향이 있다고 해두지. 그들 중 많은 사람들이 과거에 내 택배를 가로채거나 내 관광객을 괴롭히기도 했지. 다시 말해, 그것들은 모두 사업에 좋지 않다는 소리야.\n \n이 쓰레기중 하나를 골라줄 테니 깔끔하게 지워줘. 나는 행복해 하겠고 존은 더 깨끗한 곳이 될 것이고, 넌 좋은 급여를 받게 될 거야. 모두가 승리자인 거지!</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+		<text>그 더러운 괴물을 제거했나? 좋아! 여기 내가 약속한 거. 그리고 나가서 시도로비치 삼촌이 일에 대해 보상하지 않는다는 말만 하고 다니지 마.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Decimate the Enemy Task -->
+
+	<string id="esc_m_trader_task_3_name">
+		<text>깡패 패주기</text>
+	</string>	
+	<string id="esc_m_trader_task_3_text">
+		<text>시도르비치가 적 리더에게 일종의 메시지를 보내고 싶어합니다. %s을(를) 가지고 오십시오.</text>
+	</string>		
+	<string id="esc_m_trader_task_3_about">
+		<text>들어봐, 스토커. 이곳은 신인들에겐 안전하게 존에 대해 배우는 곳이여야 해. 다만 최근엔 그 교육의 끝이 밴딧의 총자루에서 끝이나고 있다고. 깡패놈들이 우리의 경로를 방해하고 전리품을 훔쳐가지. 가서 그들에게 교훈을 가르쳐 주겠어?</text>
+	</string>		
+	<string id="esc_m_trader_task_3_fetch_about">
+		<text>최근에 다크 밸리에 있는 멋진 밴딧의 군주가 내 사업을 다시 방해하기로 작정했더군. 자기를 무슨 술타나? 같은 그지같은 이름으로 부르던데. 다음은 뭐야? 리슬링? 머스캐딘?\n \n그 불어터진 포도 같은 놈에게 메시지를 보냈으면 해. 진정한 보스가 누구인지 말이야. 그의 부하들이 몰래 숨어들어 오고 있다는 걸 알고 있어. 그들은 보통 검은 풍경나 초원 지대를 통해 코돈으로 내려와 신인들을 괴롭히고 내 경로를 방해하지. 그들 중 몇 명을 없애 줘. 그런 다음 %s를 가져오면 나머지는 제가 정리하지. </text>
+	</string>		
+	<string id="esc_m_trader_task_3_fetch_finish">
+		<text>아, 드디어 돌아왔군. 여기 보상. 나머지는 내가 처리하지.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) -->
+	
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+		<text>코돈에서 뮤턴트 위협을 제거하기</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+		<text>울프가 뮤턴트 둥지를 쓸어버리기로 했습니다. 그러면 분명히 코돈의 스토커들이 훨씬 더 편하게 지낼 수 있을 겁니다. 이 일을 완수하면 보상을 받기 위해 울프에게 돌아가야 합니다.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+		<text>여기가 존의 경계에 불과하다지만, 초짜들은 여기에서조차 힘들어 하지. 밴디트들도 큰 문제지만 - 적어도 러시아어는 알아듣지. 그런데 뮤턴트들은, 정말 힘든 일이지. 너가 괜찮은 사냥꾼이라면, 여기서 멀지 않은 곳에 쓸어버려야 할 뮤턴트 둥지가 있어. 너가 이 일을 맡겠다면, 난 너에게 신세지는게 되는 거야.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>고마워, 스토커. 이번 기회에 아마 여기 신참들도 돼지 밥이 되기 전에 한두 가지 더 배우게 되겠지. 아, 맞아. 신세 진거라고 했었잖아. 여기 보수야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_2_name">
+		<text>배달부 구하기</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_text">
+		<text>시도르비치의 배달부 중 한명이 강도들에게 납치되었다. 나는 그를 구하고 울프에게 데려오기로 했다.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_about">
+		<text>또 시도르비치의 배달원중 한명이 곤경에 빠졌고, 구출 계획을 세워달라고 요청 받았어. 그가 어디에 잡혀 있는지는 알지만, 악당 녀석들로부터 그를 구출하고 안전하게 캠프까지 데려올 수 있는 유능한 전사가 필요해. 너가 할래? 아니면 내가 직접 가야 할 텐데 경비가 부족한 마을을 떠나고 싶지 않단 말이지.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_finish">
+		<text>잘했어, 스토커. 시도르비치의 부하녀석 굉장히 진이 빠져보이더군. 이제 자기 보스한테 깨질 시간일텐데 말이야. 넌 일을 잘 끝냈어. 여기 보상이야.. </text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_3_name">
+		<text>사파리 관광</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_text">
+		<text>울프는 나를 믿어주어 몇몇 관광객들의 뮤턴트 사냥 가이드 일을 맡겼다.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_about">
+		<text>몇몇 외국인 관광객들은 시도르비치에게 상당한 돈을 주고 존에서 가벼운 사냥을 체험하지. 그들의 사격 실력은 나쁘지 않지만, 이 근처에 어떤 이상현상들이 존재하고 또 어떤 괴물들이 있는지 전혀 알지 못하고 있어. 내가 다른 사람들 돌보느라 바쁜데도 말이야.\n \n 너가 그놈들 가이드 좀 해줄래? 딱히 엄청난 것도 없어 - 이런 관광객들은 코돈좀 거닐다가 마지막에 약간 총좀 쏘면 즐거워하거든. 그들이 어리석은 짓만 하지 않도록 확실히 해줘. 그럼 내 머리가 지끈거리는 것도 좀 나아질 테고, 간단한 일이지만 충분한 보수를 줄게.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_finish">
+		<text>좋아, 보아하니 그 관광객들은 자신들이 원하던 바를 이뤘나 보군. 시도르비치가 기뻐하겠네. 이건 네 몫이야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Find Weapon Task -->
+
+	<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>님블이 특정 총기를 찾아달라고 요청했습니다. 상태가 좋아야만 합니다. 찾으면 그에게 돌아가십시오.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>특정 총기를 찾고 있는 고객이 있는데 찾는 데 도움을 줄 사람이 필요해. 관심이 있으시면 자세히 알려 주지. 어때?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>%s... 그걸 구해줘. 상태가 좋아야만 해. 클라이언트가 상당한 돈을 지불하고 있고 결정적인 순간에 탄이나 걸리는 녹슨 고철은 원하지 않아. 난 수수료만 먹으면 그만이니 값의 대부분을 주지. 찾으면 돌아와.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>좋은 무기구만. 고객도 좋아할 거야. 여기 보수.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+
+	<string id="esc_2_12_stalker_nimble_task_2_name">
+		<text>님블에게 PDA 가지고 오기</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_text">
+		<text>님블이 PDA 회수해 주길 원합니다.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_about">
+		<text>PDA를 회수해 줬으면 해. 맵에 표시해 주지.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_finish">
+		<text>고마워!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>제노테크에게 %s 찾아주기</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>%s가 제노테크의 기본 장비를 업그레이드를 하는 데 필요합니다.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>부탁이 있어. 많은 스토커들이 이곳에 와서 무기를 개조할 수 있는지 묻지만 지금은 곤란해. 밴딧랑 군대 사이에서 모든 수리 도구를 잃어 버렸거든. 도구를 구해준다면 - 심지어 기본적인 거도 말이야 - 개조를 시작할 수 있고 코돈이 초보자들을위한 이상 적인 장소가 될 수도 있겠지. 날 좀 도와줄래?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+		<text>고마워! 프리미엄 가격을 지불하지. 시도르비치나 다른 상인에게 판매하는 것보다 훨씬 더 많은 금액일거야. 일단 물건을 얻게된다면, 내게 팔아.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>드디어! 내가 얼마나 이걸 가지길 고대했는지 모를거야. 여기. 감사의 표시로 받아줘.</text>
+	</string>
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text> 제노테크에게 %s 찾아주기</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>%s가 제노테크의 장비를 업그레이드를 하는 데 필요합니다.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>네가 가져온 도구 덕분에 내 사업이 약간 성장하기 시작했지만 수요를 따라가려면 더 나은 도구가 필요해. 이미 괜찮은 도구를 가져다 준건 알지만 이젠 진짜가 필요해. 고급 도구 키트를 찾아와 줘.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+		<text>정말 호의로 가득 차 있구만. 안 그래? 몸조심해.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>그래, 그래! 이게 내가 필요했던 거야! 여기 약속된 돈. 정말 고마워.</text>
+	</string>
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
+		<text>제노테크에게 %s 찾아주기</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>%s가 제노테크의 장비를 업그레이드를 하는 데 필요합니다.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
+		<text>내 사업은 지금 호황을 누리고 있어. 점점 더 많은 스토커들이 무기를 미세 조정하려고 내게 찾아 오긴 하는데 아직은 부족해. 니가 내게 고품질의 키트를 가져다 준건 알지만, 더 높은 품질의 세트가 필요해. 전문가에게 어울리는 도구 세트 말이야. 찾아 줄 수 있겠어?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
+		<text>고마워, 스토커. 교정 작업을 위한 전문 도구라는 것을 기억해. 시도우자이언트한테 얻어맞고 망가지지 않게 해줘. 말하지만 진지하게 동의해 줘서 고마워. 조심해.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>넌 내 진정한 친구야. 앞으로는 내 작업실은 니 거나 다름 없다고. 자주 찾아와.</text>
+	</string>
+	
+	
+<!-- (Military Trader - Southern Outpost) -->
+	<string id="esc_3_16_military_trader_task_1_name">
+		<text>코돈 부패 척결</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_text">
+		<text>검문소 사령관인 주로프 소령이 %s을(를) 데려오라고 했습니다. 스토커에게 누구를 존중해야하는지 알게 해줄 수 있을 겁니다.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_about">
+		<text>상관이 비공식 프로젝트를 시작했네. 동참하겠나? 증거로 범죄자들의 패치를 제출하면 되네.</text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_about">
+		<text>높으신 분께서 비공식 프로젝트를 시작했네. 명령으로 인근 마을은 피하라는 요청을 받았다곤 하나 우리야 말로 존경받고 복종해야 하는 세력임을 지역 주민들에게 보여줘야 해. 눈에 보이는 불법 행위를 모두 저지하고 증거로 패치를 수집해 오게. 충분한 증거를 제출하면 급여에 보너스를 받을 수 있을 게야. </text>
+	</string>
+	<string id="esc_3_16_military_trader_task_1_fetch_finish">
+		<text>귀감이 될 만한 결과군. 자, 자랑스럽게 여기게.</text>
+	</string>
+
+	
+<!-- (Military Mechanic - Southern Outpost) -->
+	<string id="army_south_mechan_mlr_task_1_name">
+		<text>세르요가에게 %s 찾아주기</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_text">
+		<text> 군 기술자 세르요가가 %s를 찾아달라고 했다.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_about">
+		<text>하나 있어. 얼마 전 우리 모든 도구가 얀타에 있는 연구 단지로 가서 지금은 BTR조차 수리할 수 없어. 도구가 필요해. 기본 도구말이야. 도와줄 수 있어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_about">
+		<text>하나 있어. 얼마 전 우리 모든 도구가 얀타에 있는 연구 단지로 가서 지금은 BTR조차 수리할 수 없어. 도구가 필요해. 기본 도구말이야. 도와줄 수 있어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_1_fetch_finish">
+		<text>어디 보자... 이야, 이것들은 정말 기본도구 맞지? 뭐, 그래도 우리 병참장이 내게 남긴 것보다는 낫네. 고마워.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_2_name">
+		<text>세르요가에게 %s 찾아주기</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_text">
+		<text>군 기술자 세르요가가 %s를 찾아달라고 했다.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_about">
+		<text>슬프게도, 그 도구만으로는 충분하지 않아. 그건 가장 기본적인 업그레이드에만 작동하니까. 더 고급 도구가 필요해. 다음 지원 물자에서 그 품목을 넣을 수 있을 지 모르겠어. 내게 찾아 줄 수 있어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_about">
+		<text>슬프게도, 그 도구만으로는 충분하지 않아. 그건 가장 기본적인 업그레이드에만 작동하니까. 더 고급 도구가 필요해. 다음 지원 물자에서 그 품목을 넣을 수 있을 지 모르겠어. 내게 찾아 줄 수 있어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_2_fetch_finish">
+		<text>좋아, 한 번 보자... 좋아, 괜찮네. BTR을 고치기엔 아직 충분하지 않지만 이젠 신병들을 위한 옷 정도는 강화할 수 있겠어. 사기가 올라겠군. 바람만 불어도 죽을만한 복장으로 돌아 다니니고 싶어하는 녀석들은 없거든. 보상은 여기. 잘했어.</text>
+	</string>
+
+	<string id="army_south_mechan_mlr_task_3_name">
+		<text>세르요가에게 %s 찾아주기</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_text">
+		<text>군 기술자 세르요가가 %s를 찾아달라고 했다.</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_about">
+		<text>좋아. 나쁜 소식은 이 타입의 BTR을 되살릴 수 없다는 거야. 좋은 소식은, 애초에 그럴 필요가 없다는 거였고. 일부 밀리터리 스토커가 내 작업에 관심을 보이고 있어. 우리 친구들이 적절한 장비를 갖추도록 할 때야. 하지만 그렇게 하려면 존에서 가장 좋은 도구인 보정 도구가 필요해. 구해 줄 수 있어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_about">
+		<text>좋아. 나쁜 소식은 특정 타입의 BTR을 되살릴 수 없다는 거야. 좋은 소식은, 애초에 그럴 필요가 없다는 거였고. 일부 밀리터리 스토커가 내 작업에 관심을 보이고 있어. 우리 친구들이 적절한 장비를 갖추도록 할 때야. 하지만 그렇게 하려면 존에서 가장 좋은 도구인 보정 도구가 필요해. 구해 줄 수 있어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_3_fetch_finish">
+		<text>이런 정교한 장비를 다시 사용할 수 있는 날이 올 줄은 몰랐는데. 존의 모든 군대를 대신하여 고맙다는 말을 전하지. 오늘 너의 기여는 틀림없이 많은 생명을 구할 거야.</text>
+	</string>
+
+	
+<!-- Fanatic -->
+	<string id="task_fanat_training_1_1">
+		<text>훈련의 나날: 멧돼지 사냥</text>
+	</string>
+	<string id="task_fanat_training_1_3">
+		<text>훈련의 나날: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_1_4">
+		<text>훈련의 나날: 이상현상 지대에 도착하기</text>
+	</string>
+	<string id="task_fanat_training_1_5">
+		<text>훈련의 나날: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_1_9">
+		<text>훈련의 나날: 해파리 아티팩트 얻기</text>
+	</string>
+	<string id="task_fanat_training_1_6">
+		<text>훈련의 나날: 마을로 돌아가기</text>
+	</string>
+	<string id="task_fanat_training_1_7">
+		<text>훈련의 나날: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_1_8">
+		<text>훈련의 나날: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_1_10">
+		<text>훈련의 나날: 해파리 아티팩트를 납 컨테이너에 집어넣기</text>
+	</string>
+	<string id="task_fanat_training_1_descr">
+		<text>파나틱은 마을에서 경험 많은 스토커 중 한 명인 것 같습니다. 그는 몇가지 생존 기술을 가르쳐 주기로 했습니다.</text>
+	</string>
+	
+	<string id="task_fanat_training_2_1">
+		<text>훈련의 나날 - 도전: 은닉처 찾기</text>
+	</string>
+	<string id="task_fanat_training_2_2">
+		<text>훈련의 나날 - 도전: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_2_descr">
+		<text>다음 도전은 주의력을 요할거야. 마을 어딘가에 있는 은닉처를 찾아. 난 그걸 "둥지 알"이라고 부르지. 힌트가 될까?</text>
+	</string>
+	
+	<string id="task_fanat_training_3_1">
+		<text>훈련의 나날 - 통과 의례: 해당 위치 정리하기</text>
+	</string>
+	<string id="task_fanat_training_3_2">
+		<text>훈련의 나날 - 통과 의례: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_3_3">
+		<text>훈련의 나날 - 통과 의례: 마을로 돌아가기</text>
+	</string>
+	<string id="task_fanat_training_3_4">
+		<text>훈련의 나날 - 통과 의례: 파나틱에게 말걸기</text>
+	</string>
+	<string id="task_fanat_training_3_descr">
+		<text>파나틱이 준 마지막이자 가장 중요한 임무다. 함께 차량 스테이션을 점거한 밴디트들을 제거해야 한다.</text>
+	</string>
+
+
+	<string id="esc_2_12_stalker_fanat_task_1_name">
+		<text>돌연변이 은신처 파괴</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_text">
+		<text>코돈의 스토커를 위해 돌연변이 은신처를 파괴하기로 했습니다.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_about">
+		<text>해결해야 할 문제가 있어. 코돈은 존에서 가장 안전한 장소 중 하나로 여겨지지만 여기서 멀지 않은 곳에 새로운 돌연변이 소굴이 생겼어. 커지기 전에 제거해야 해야 해. 그렇지 않으면 여기의 신인들은 아마 끔찍한 시간을 보낼 되겠지. 그래서, 어떻게 할래? 네가 할래?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_1_finish">
+		<text>훌륭해. 너 덕분에 신인들이 숨을 돌릴 수 있는 여유가 생겼을 거야. 여기 의뢰비. 모두가 약간씩 보탰어. </text>
+	</string>
+
+	<string id="esc_2_12_stalker_fanat_task_2_name">
+		<text>파나틱을 위한 베터리 아티팩트 찾기</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_text">
+		<text>파나틱은 오랜 친구들이 존을 빠져나가게 하는 대가로 군인들에게 줄 뇌물용 아티팩트가 필요합니다.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_fetch_about">
+		<text>상황은 이래. 이 마을에서 군인들에게 방해 받지 않고 생활 하려면 더러운 일을 좀 해야 해. 시도로비치는 이런 식으로 마을 자체를 안전하게 지켰지만, 여길 떠나고 싶어하는 친구들이 몇 명 있어, 다만 그들에게 진정한 탈출구는 없다는 게 문제지.\n \n그것은 군대의 국경 순찰대가 하는 일이야. 그놈들은 여기로 사람이 들어오는 건 딱히 신경쓰지 않아. 하지만 나가는 건 좀 다르지. 그냥 바로 죽여버릴 테니까. 그래서 내 친구들이 여기에 갇혀있어.\n \n우리가 배터리 아티팩트로 뇌물을 주지 않는 한 검문소 경비원들은 그들을 산 채로 통과시키지 않을 거야. 배터리라고 들어 봤어? 전기 이상현상에서 찾을 수 있는 건데 매우 드물지. 찾을 수 있는 모든 스토커를 보내봤지만 아무도 돌아오지 않았어. 도와줄래?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_task_2_fetch_finish">
+		<text>뭐? 배터리를 찾았어? 훌륭해! 동료들에게 소식을 전할게. 그들을 몹시 그리워질 테지만, 나가서 평범한 삶을 살 수 있는 건 또 다른 기회를 얻는 거겠지. 고마워.</text>
+	</string>
+
+	
+<!-- Hip -->
+	<string id="toz34_sk2_return">
+		<text>힙에게 TOZ-34 "비존"과 탄약 주기</text>
+	</string>
+	<string id="toz34_sk2_find">
+		<text>힙의 의뢰인을 위한 TOZ-34 "비존"과 탄약 주기</text>
+	</string>
+	<string id="toz34_return_descr">
+		<text>힙은 자신의 부유한 의뢰주가 TOZ-34 "비존"과 20개의 12x70 라운드에 엄청난 금액을 지불할 용의가 있다고 말했습니다. 문제는 장벽 남쪽의 상인들은 일반적으로 그 물건을 취급하지 않는 것 같다는 것입니다.</text>
+	</string>
+	
+	<string id="artefacts_to_sidor_return">
+		<text>시도르비치에게 아티팩트 전달하기</text>
+	</string>
+	<string id="artefacts_to_sidor_find">
+		<text>시도르비치에게 아티팩트 전달하기</text>
+	</string>
+	<string id="artefacts_to_sidor_return_descr">
+		<text>힙과 나는 시도로비치를 위해 공동으로 유물을 찾고 있습니다. 변형체, 화염구 및 달빛를 가져오길 원합니다.</text>
+	</string>
+
+	<string id="go_to_barmen_1">
+		<text>바텐더 방문하기</text>
+	</string>
+	<string id="go_to_barmen_2">
+		<text>바텐더 방문하기</text>
+	</string>
+	<string id="go_to_barmen_descr">
+		<text>힙은 바텐더을 방문하여 존에서 더 많은 인맥을 얻길 원합니다. 일이 급한 것 같으니 서둘러야 합니다.</text>
+	</string>
+	
+	<string id="go_to_lukash_1">
+		<text>루카쉬 만나기</text>
+	</string>
+	<string id="go_to_lukash_2">
+		<text>루카쉬 만나기</text>
+	</string>
+	<string id="go_to_lukash_descr">
+		<text>힙은 장벽 북쪽에 약을 전달하는 방법에 대해 루카쉬를 만나고 싶어합니다. 긴급한 일처럼 들리므로 시간을 낭비해서는 안 됩니다.</text>
+	</string>
+	
+	<string id="go_to_boroda_1">
+		<text>비어드에게 아티팩트 컨테이너 가져가기</text>
+	</string>
+	<string id="go_to_boroda_2">
+		<text>비어드에게 아티팩트 컨테이너 가져가기</text>
+	</string>
+	<string id="go_to_boroda_descr">
+		<text>바텐더는 스카도브스크에 있는 비어드에게 아티팩트 컨테이너를 전달하기를 원합니다.</text>
+	</string>
+	
+	<string id="go_to_loki_1">
+		<text>약이 든 가방을 로키에게 가져가기.</text>
+	</string>
+	<string id="go_to_loki_2">
+		<text>약이 든 가방을 로키에게 가져가기.</text>
+	</string>
+	<string id="go_to_loki_descr">
+		<text>루카쉬는 주피터의 야노브 역에 로키라는 인물에게 약을 배달해 주기를 원합니다.</text>
+	</string>
+	
+	<string id="army_south_mechan_mlr_task_4_about">
+		<text>어떤 미친놈이 계속 스피커를 향해 총을 쏘고 있어. 마을의 스토커인지, 아니면 여기 있는 누군가인지는 알 수 없어. 어쨌든 수리하려면 부품이 필요해. 찾아 줄 수 있겠어?</text>
+	</string>
+	<string id="army_south_mechan_mlr_task_4_name">
+		<text>세르요가 수리 부품 찾기</text>
+	</string>
+	
+</string_table>

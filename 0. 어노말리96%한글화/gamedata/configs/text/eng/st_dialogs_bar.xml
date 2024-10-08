@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- 바텐더 -->
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+		<text>오, 안녕. 무슨 일이야?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+		<text>필요한게 뭔가, 스토커?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+		<text>이봐, 스토커. 술이 필요한가? 아마 그 시큰둥한 표정을 바꿔줄 걸.</text>
+	</string>
+	
+	<string id="barkeep_100rads_0">
+		<text>이 장소에 대해 말해줘.</text>
+	</string>
+	<string id="barkeep_100rads_1">
+		<text>이 지옥 속에서 내 작은 오아시스인 100 Rads Bar에 온 걸 환영하지. 듀티 덕분에 이 동네가 존에서 가장 안전하다구. 차분하게 행동하기만 하면 너도 안전할거야. 온갖 곳에서 온 스토커들이 먹고, 쉬고, 이야기하고, 정보를 찾거나 일거리를 찾기 위해 여길 들르지. 그래, 넌 뭘 찾고 있나? 이 늙은이 바텐더이 오늘은 뭘 해줄까?</text>
+	</string>
+	
+	<string id="information_about_stash_barmen_0">
+		<text>팔고 있는 은닉처 정보가 좀 있어?</text>
+	</string>
+	<string id="information_about_stash_barmen_1">
+		<text>아, 그래... 가끔씩 스토커들이 술을 마시러 올 때, 거하게 취해서 은닉처 정보를 흘릴 때가 있지. 그들이 거기에 뭘 숨겨놓았는지는 모르지만, 물건의 가치 정도는 알고 있어. 7천 루블만 내면 너에게 건네줄게.</text>
+	</string>
+
+	<string id="information_about_stash_barmen1_0">
+		<text>그래. 여기 있어. %c[d_orange][7000 RU]</text>
+	</string>
+	<string id="information_about_stash_barmen1_1">
+		<text>정말 고마워.</text>
+	</string>
+	
+	<string id="devushka_4_help_0">
+		<text>안녕 바텐더. 너가 보고싶어할 만한 사람을 데려왔어.</text>
+	</string>
+	<string id="devushka_4_help_1">
+		<text>어-어. 아, Hip. 여기 술 한잔 서비스로 줄게, 친구. 그녀랑 사적으로 얘기 좀 할 동안 마시고 있으라고.</text>
+	</string>
+	
+	<string id="devushka_help_0">
+		<text>고마워 그럼 기다리지...</text>
+	</string>
+	<string id="devushka_help_1">
+		<text>...좋아. 힙은 이제 뭘 해야 하는지 알게 됐고, 그녀가 준비할동안 나보고 너에게 말해달라더군; 그녀는 the Barrier를 넘어 Zaton으로 갈거야, Beard에게 아티팩트 보관함을 전달해야 하거든.  너도 들었겠지만 아티팩트는 Skadovsk의 생명줄이지. 오, 그리고 Hip은 이 배달에 너가 함께하길 원하던데. 자, 너는 준비 됐어?</text>
+	</string>
+	<string id="devushka_help_2">
+		<text>그래, 난 준비 됐어. 우리가 그 보관함을 맡겠어.</text>
+	</string>
+	<string id="devushka_help_3">
+		<text>거의. 전부 정리할 시간을 조금만 더 줘.</text>
+	</string>
+	
+	
+<!-- GARIK -->
+	<string id="request_go_to_nimble_0">
+		<text>좀 지나가야 겠는데.</text>
+	</string>
+	
+	
+<!-- 보로닌 (Duty Leader) -->
+	<string id="story_dolg_0">
+		<text>장군, 현재 상황이 어떻습니까?</text>
+	</string>
+	<string id="story_dolg_1">
+		<text>지금 우리에겐 4개의 적들이 있다. 프리덤, 모노리스, 용병, 그리고 밴딧들. 4개 중에서 가장 걱정되는 2개는 모노리스랑 도적들이지. 후자는 매일 점점 더 조직화되고 있고, 놈들의 수 뿐만 아니라 일반적인 인성의 결여를 고려할 때, 이것은 심각한 위협이 될 수 있다.  \n \n 모노리스는 최근 갑작스럽게 다시 돌아왔다. 올해 초 그들의 부활로 야노브에서의 우리의 영향력이 상실되었고, 우리는 로스토크의 전반적인 안전을 보장하기 위해 몇 가지 중대한 희생을 치러야 했다.\n \n 프리덤과 파란 옷 입은 용병들에 관한 한, 모든 것이 편안하다. 오해하지는 마라 - 그들은 존경할 만한 적들이고, 우리의 스파이들은 그들을 예의 주시해야만 한다. 하지만, 그들은 현재 우리나 우리의 동맹세력에 직접적으로 대항할 움직임을 보이지 않고 있고, 우리의 숨통을 트이게 하고 있다. </text>
+	</string>
+	<string id="story_dolg_2">
+		<text>듀티는 좀 어떻습니까, 장군?</text>
+	</string>
+	<string id="story_dolg_3">
+		<text>듀티의 최근 모병 말인가? 5점 만점에 3점이라고 할 수 있다. 대단하진 않지만, 끔찍하지도 않아. 페트렌코 덕분에 우리는 새로운 전사들의 건강한 유입을 이끌어 내고 있지만, 그들이 지금까지 보여준 상식 부족에 약간 실망하고 있다는 것을 인정하겠다.\n \n 규율 훈련이 더 나을 수도 있으나, 우리는 현재 신병들이 그 멍청한 무모함을 버리도록 훈련시킬 수 있는 장교들이 부족하다. 나는 머지않아 듀티가 완전히 회복하기를 기대한다... 하지만 시간이 걸릴 것이다.</text>
+	</string>
+	<string id="story_dolg_4">
+		<text>어떻게 야노브를 잃었는지 질문해도 되겠습니까, 장군?</text>
+	</string>
+	<string id="story_dolg_5">
+		<text>...굳이 숨길 필요는 없겠군. 우리는 연계가 약했다. 반역자. 모건이라는 이름의 어리석은 장교가, 우리가 말살하려는 밴딧들에게 무기를 파는 것이 발견되었다. 그리고 그보다 더욱 나쁘게 돌아간 일은, 그를 현장에서 붙잡은 것은 우리 듀티 부대원들이 아니라 중립 스토커 무리였다. 결과적으로, 우리가 잃었던 신뢰를 회복하는 데는 수년간의 노력이 필요했다. 단 한 사람의 잘못 때문에.\n \n 이것은 우리가 모노리스의 최근 귀환에 대항하는 입장에서 끔찍한 결과를 가져왔다. 내가 야노브에 임명한 용감한 지휘관 Shulga 중령은 암울한 희생을 치러야 했고 결국 목숨을 잃었다. 그가 이끄는 분견대 중에서 Gavrilenko만이 무사히 로스토크로 돌아올 수 있었다. 심지어 처음 도착했을 때 그 불쌍한 대원은 거의 말도 할 수 없는 상태였고, 결국 그가 보고한 것은... 불안한 것이었다. 만약 그를 만나게 된다면, 그냥 그를 가만히 놔두라고 충고하지.</text>
+	</string>
+	<string id="story_dolg_6">
+		<text>잘 알겠습니다. 이해했습니다.</text>
+	</string>
+	
+	<string id="st_bar_dolg_leader_life_ask">
+		<text>듀티에 대해서 더 알고싶은데, 좀 말해주겠어?</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_1">
+		<text>음, 우리를 위해 일하는 모든 사람들이 제복을 입거나 배지를 달고 다니는 것은 아니다. 듀티는 종종 중립적인 스토커를 보조원이나 정보원으로 고용한다. 비록 우리의 목표가 원대하고, 많은 대원들이 있다 하더라도 모든 곳에 동시에 존재할 수 있다고 생각하는 것은 오만일 것이다. 소속에 상관없이, 모든 스토커들은 먹어야 산다. 인류의 미래를 지키기 위하는 우리와 함께 일하는 것이 그들이 먹을 빵을 마련하는 방법이라면, 더욱 더 좋은 것이다. \n \n만약 일거리를 찾고 있는 사람을 알게 되면, 반드시 그들을 페트렌코 대령에게 보내라. 그는 그들이 명예로운 생활을 하도록 기꺼이 도울 것이다.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_2">
+		<text>존에 대한 우리의 증오를 생각하면 직관적이지 않을 수도 있겠지만, 듀티는 생태학자들과 특별한 관계를 유지하고 있다. 우리는 남들과는 달리 특별한 적과 싸운다; 자연의 혐오스러운 힘으로서 존재하는 적 말이다. 이런 형태의 전쟁은 지식 없이는 이길 수 없다. 그리고 우리의 적을 생태학자들 보다 더 잘 아는 이가 있겠는가? 지금 당장은, 그들은 순진하게 인류의 발전을 위해 존을 이용하려고 하고 있지만, 프리덤처럼 착각하고 있지는 않다. 언젠가 그들은 존을 파괴하는 것이 유일한 선택이라는 것을 깨닫게 될 것이다. 그들의 엄청난 지식은 듀티의 용맹과 기술이 뒷받침되어 존의 종말이 될 것이다. 한편으로는, 그들이 연구하기 위한 아티팩트를 기증하든, 범죄자들로부터 그들을 보호하기 위해 무장한 경비원들을 제공하든, 그들이 필요로 할 만한 모든 것을 제공하는 것이 인류의 이익이다.  지금은 상황이 조용하지만, 과거 프리덤과 용병들은 틈만 나면 정부 과학자들을 공격하곤 했다. 오늘날 이 세 집단이 평화를 유지하는 것은 오직 듀티의 보복 위협 덕분이다.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_3">
+		<text>음, 우리 제복에 대해 궁금한 것 같군?\n \n제정신을 가진 병사들이 왜 검고 붉은 옷을 입고 전투에 뛰어드는지 궁금하겠지. 잠깐 우리의 진정한 적이 누구인지 생각해 보길 바란다. 용병들? 아니. 밴딧들? 성가시긴 하지만, 아니. 프리덤? 위험한 바보들이지만, 여전히 아니다. 심지어 모노리스도 우리의 진정한 적은 아니다. 우리의 진정한 적은 존 그 자체다.\n \n공기를 통해 우리의 심장 박동을 감지할 수 있는 블러드서커를 위장으로 속일 수 있을거라 생각하나? 후각과 생물음파를 사용하는 개들은 어떤가? 아니면 생각을 읽는 컨트롤러는?\n \n 우리의 진정한 적들 상대로는, 위장이 무용지물이다. 그렇다면, 전우를 잘 볼 수 있도록 적나라한 색깔로 옷을 입히고 싶다. 특히 검붉은 색은 더 용감하고 더 치열하게 싸우게 만들 것이다. 뮤턴트에 비하면 다른 모든 것은 그저 쉬운 일일 뿐이다.\n \n 그래도, 인간 적들과 싸울때는 위장이 좋다고 생각할 수 있다, 잘 보이지 않는 것을 죽일 수는 없는 법이니 . 그러나 온갖 지옥같은 상황을 겪은 뒤, 잘 보이는 듀티는 무서운 존재라는 것을 범죄자들이 깨닫게 하는 것이 더 옳다는 것을 알았다.</text>
+		</string>
+	<string id="st_bar_dolg_leader_life_4">
+		<text>프리덤과 듀티의 차이점을 가르치기 위해 짧은 이야기를 하나 들려주겠다.\n \n 2006년, 로스토크는 야생 그 자체였다. 오늘날의 무법지대가 상대적으로 안전해 보일 정도로. 하지만 듀티는 로스토크가 한때 산업 공장이었다는 것을 알고 있었고, 우리는 그것을 복구하는데 단호했기 때문에, 이곳을 기지로 선택했다.\n 우리가 여기 도착했을 때, 사냥개 무리로부터 절뚝거리며 필사적으로 살아남고자 애쓰는 스토커를 발견했다. 우리는 그를 구하고, 치료하고, 그에게 물었다. "젊은 친구, 자네 같이 젊은 사람이 이런 곳에서 뭘 하고 있나?"\n 그리고 그가 내게 말했다. "저는 바텐더였습니다만, 공갈범들에게 쫓겨났습니다. 그래서 저는 그들을 피해 살아남기 위해 이곳에 왔습니다."\n \n그리고 나는 이 소년이 손을 너무 떨어 총조차 쥐지 못하는 것을 보고, 말했다. "제대로 찾아 왔네."\n 이 소년이 바텐더이 되었고, 우린 함께 로스토크를 오늘날의 모습으로 회복시킨 것이다. 우리는 스토커들과 협력하여 존에 거의 남지 않은 좋은 것들을 되찾고자 최고의 기술을 발휘한다.\n \n아, 프리덤이 어디서 오는 것인지도 궁금하겠군.  자, 2011년에 프리덤은 이미 그들의 오래된 기지를 더럽혔고, 그래서 그들은 나가서 새로운 기지를 훔치기로 결정했다.\n 그들은 이상현상들이 로스토크를 존의 나머지 지역들과 단절시킬 때까지 기다렸고, 그 기회를 이용하여 주권 정부 영토인 군 창고를 공격했고 그것의 정당한 소유자들로부터 빼앗았다. 그리고 그 이후로 군 창고는 어떻게 되었는가? 프리덤이 통제한 이후, 한때 자랑스러웠던 그 요새는 그저 총알과 무정부상태로 변했고, 미지의 영역을 용감히 견뎌내던 탐사 차량들은 오래 전에 녹슬어 썩어 버렸다.\n \n프리덤은 자유를 약속하지만, 장기적으로는 파멸만을 가져온다. 그 기지가 소진되는 것도 시간 문제일 뿐이다.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_5">
+		<text>듀티의 맹세를 알려줄 수 있겠군. 아주 간단하다. \n \n"나, 보로닌이라는 스토커는,\n 듀티의 목표와 이상을 방어한다. 존의 위험으로부터 지구를 보호하고, 존에서 발생하는 모든 것을 찾아 파괴한다.\n 어떠한 불순분자들과도 싸우기 위해서, \n 그리고 지구상의 정의와 질서의 이름으로 내 목숨을 바치기 위해서!"\n \n내가 페트렌코와 함께 수년 전에 처음으로 듀티에 가입했을 때 맹세했던 말이다. 그렇기 때문에 우리는 사익을 위해 아티팩트를 구하지 않고, 대신 아티팩트 다루는 데 가장 신뢰할만한 사람들인 생태학자들이나 바텐더에게 기부한다. 그래서 우리가 순진하게 존의 "선물"을 아무런 예방조치나 생각 없이 세상에 퍼뜨리는 밴딧, 용병, 프리덤에 맞서 싸우는 것이다. 비록 우리가 평범한 스토커들이 그런 범죄를 저지르는 것을 묵인해주지는 않지만, 적어도 유죄가 입증될 때까지는 무죄라고 믿는다. Kuznetsov 대령의 지휘 하에 사람 쏴죽이는 것만 생각하는 군인들과는 다르게 말이지.\n \n 하지만 사람과 싸우는 것은 우리의 진정한 목표인 존을 억제하고 소멸시키는 것에 있어 부차적인 것일 뿐이다. 뮤턴트를 죽이고, 매우 위험한 아티팩트를 파괴하고, 가능한 이상현상들을 소멸시키는 것이 더 먼저라는 것이다.\n \n미래 세대를 위해서, 우리는 기꺼이 상인들이 아티팩트를 적절히 다루고 위험을 줄일 수 있는 취급기준을 유지하도록 돕고 있다... 이윤을 위해 절차를 무시하는 용병들과는 다르게 말이다.\n \n 우리 행동강령의 마지막 부분은 더 큰 전체로서의 인류 안에서 각자의 위치를 강조한다; 우리는 모두 듀티에서 더 높은 대의명분을 위해 일하고 있고, 인류의 방위에 봉사하기 위해 한 사람의 삶을 바치는 것은 가치있고 합리적이다.\n \nShulga 중령은 그 누구보다도 이 부분을 잘 이해했었다.</text>	</string>
+	<string id="st_bar_dolg_leader_life_6">
+	<text>우리 북쪽에 있는 아나키스트들과는 달리, 듀티는 스스로의 규율의 가치를 이해하고 있고, 승진을 희망하는 모든 대원들은 규율과 내부 청렴도에 대한 확고한 신념이 주입되어 있다.\n \n 우리의 시선에는, 나쁜 행동이 좋은 것을 덮을 수 없으며... 좋은 행동도 나쁜 것을 덮지 못한다. 좋은 행동과 나쁜행동은 서로 나란히 존재하며, 우리는 있는 그대로 그것들을 판단해야 한다.\n \n따라서, 수년 전 Zaton에서 있었던 수치스러운 사건처럼 우리가 스스로의 규율을 지키지 못한다면, 우리는 최선을 다해 이에 대한 책임을 진다.\n \n경우에 따라서는 심지어 우리의 적에게도 책임을 진다. 수년 전, 특출난 듀티 분대가 젊은 프리덤 그룹을 포로로 잡고 심문하기 위해 로스토크로 데려왔다. 해당 분대는 칭찬받을 만 했지... 우리 수사관들이 분대 내의 심각한 위법 행위를 밝혀내기 전까지는 말이다. 그래, 듀티와 프리덤은 전쟁 중이지만, 그 분대가 포로들에게 한 짓은... 그 벌레같은 자식들이 한 짓은 용서할 수 없는 것이었다.\n \n 이와 관련된 대원들은 불명예 제대되었고, 우리는 PDA 네트워크에서 그 분대가 죄수들에 대해 기록한 기만적인 오점을 없애기 위해 최선을 다했고, 정의는 실현되었다. 듀티는 신뢰의 상징이고, 비록 때때로 전략적 이점을 희생하는 한이 있더라도, 그 신뢰는 옳은 일을 하려는 우리의 의지를 통해 얻는 것이다. 존은 우리 모두 안에 내제된 악의가 투영된 것이다. 우리 내면의 악을 없애 존을 약화시키는 것이 우리가 싸우는 방식이다.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_7">
+		<text>가끔은,  듀티에 왜 병사가 더 필요하냐고, 왜 여전히 우리가 이 세상에 필요하냐고 불평하는 목소리를 듣는다. 나는 이 질문을 들을때마다 항상 같은 대답을 한다.\n \n예전에는, 위험한 뮤턴트들은 그저 지하에만 서식했기 때문에 그저 신화 속 괴물들일 뿐이었다. 그러나 지금은, Dark Valley에 스노크들이 돌아다닌다는 보고도 들어오고, 컨트롤러들이 지상을 활보한다는 보고도 들어온다. 심지어 Cordon에서 블러드서커가 발견되기도 한다. 존은 성장하고 있고, 이 확장이 억제되지 않는 한, 존의 공포는 질병처럼 전세계로 퍼질 것이다.군대는 어떠한 것도 존의 경계를 뚫고 나오게 하지 않겠다고 다짐하지만, 대부분의 군인들은 진정한 위협과 싸우는 대신 불쌍한 스토커를 괴롭히며 시간을 낭비한다. 우리 나라 국군이 점점 잘못되어 부패함에 따라, 존으로부터 세계를 보호해야 하는 부담은 우리에게 고스란히 떨어졌다. 우리가 아니라면, 또 누가 하겠는가?</text>
+		</string>
+	<string id="st_bar_dolg_leader_life_end">
+		<text>지금은 더 이상 자네에게 알려주고 싶은 것이 없다.</text>
+	</string>
+
+	
+<!-- Mangun (Duty Mechanic) -->
+	<string id="story_dolg_m_0">
+		<text>너에 대해 얘기해줘.</text>
+	</string>
+	<string id="story_dolg_m_1">
+		<text>흠, 그래 알았어. 뭐 안될거 있나?\n \n나는 승진하기 전에는 아그로프롬 연구소에서 근무했었어. 그 보다 전에는, 그러니까 존이 생기기 전에는 자동차 정비공이었지. 내가 여기 잠시 머무르는 동안 듀티는 내 기술에 주목했고, 결국 나를 이곳의 기술자로 임명하더군. 난 중화기나 돌격 소총을 만지는 걸 좋아해. 저격총들, 특히 Nato 저격총들을 다루는 것은 싫어하고.</text>
+	</string>
+	<string id="story_dolg_m_2">
+		<text>이게 무슨 냄새야? 듀티가 폭음을 허용한다고 생각하진 않았는데.</text>
+	</string>
+	<string id="story_dolg_m_3">
+		<text>야, 술 한잔, 아니 몇 잔도 안 마시고는 버틸 수가 없어...  모노리스가 야노브를 습격했을때 내가 도울 수 있었으면 좋았을 텐데... 하지만 말야, 만약 내가 여기에 머물도록 명령받지 않았다면, 나는 아마 살아있지 못했을 거야. 그 곳을 지키느라 선량한 사람들이 많이도 죽었지...허, 우리 얘기가 많이 빗나간 것 같군. 어쨌든, 부끄러워하지 말고 고쳐야 할 장난감 있으면 보여줘 봐.</text>
+	</string>
+	<string id="story_dolg_m_4">
+		<text>고쳐야 될 만한 게 있는지 봐볼게.</text>
+	</string>
+
+	
+<!-- 스니치 (Informer) at the Bar -->
+	<string id="talk_to_inf_trader_0">
+		<text>당신은 누구지?</text>
+	</string>
+	<string id="talk_to_inf_trader_1">
+		<text>난 이지역 정보상이야, 너에게 모든 종류의 서비스를 제공할 수 있지. 지금 난 다양한 종류의 정보와 다양한 장소로 가는 경로를 가진 지도를 가지고 있어. 내 정보원은 존에서 가장 믿을 만 하지만, 기밀을 지키기 위해서는 살인도 서슴치 않아. 그러니 어디서 이런 걸 알아왔는지 묻지 말길 바라. - 좋은 대답이 나오진 않을 테니까.</text>
+    </string>
+	
+	<string id="talk_to_maps_0">
+		<text>이 주변에 관해 알려줄 수 있는 공짜 정보라도 있어?</text>
+	</string>
+	<string id="talk_to_maps_1">
+		<text>보통이라면 정보는 내 생계 유지 수단이지만, 어쨌든 지금은 모든 게 잠잠한 상황이니까 너에게 약간 알려줄 수 있지. 서비스로 말이야.</text>
+	</string>
+	<string id="talk_to_maps_2">
+		<text>잘 듣고 있어.</text>
+	</string>
+	<string id="talk_to_maps_3">
+		<text>음, 아마 여기보다 남쪽은 이미 전부 익숙할거고... 지금 여기는 로스토크 야. 듀티와 사이가 좋다면 완전히 안전한 곳이지. 동쪽은 트럭 묘지야. 쓰레기장같은 곳인데, 훨씬 더 크고, 훨씬 더 방사능이 많고, 훨씬 더 위험하지. 서쪽은 무법지대야. 로스토크의 일부지만 듀티조차 정기 순찰은 꿈도 못꾸는 곳이지. 그곳은 정말 악몽 같은 곳이고, 대부분의 스토커들은 얀타에 가려는게 아닌 이상 피하라고 권고하지. 북쪽은 듀티의 "절친"인 프리덤이 소유한 군 창고야. 그보다 더 먼 북쪽은 무자비한 광신도들이랑 뇌를 녹이는 이상현상 지대가 보호하고 있는, 모노리스 영토야.</text>
+	</string>
+	<string id="talk_to_maps_4">
+		<text>모노리스에 관해서는 뭘 말해줄 수 있어?</text>
+	</string>
+	<string id="talk_to_maps_5">
+		<text>알려지기로는, 그들은 '위시 그랜터'(Wish Granter)로 알려진 고대 외계 크리스탈의 수호자들이야. 모노리스들은 이 크리스탈이 존을 만들었다고 믿고 있어, 그리고 그것이 자격을 갖춘 사람들에게 소원을 들어줄 것이라고 믿고 있지. 결국, 그놈들은 군 창고에 있는 베리어보다 북쪽으로 감히 발을 들이려는 자들을 맹렬히 공격할거야.  물론 '위시 그랜터'의 자격을 갖춘 사람이 있었다는 전설도 있지만, 다 헛소리야. 부자가 되는 데는 더 쉬운 방법이 있다고. 너 지금 누군가 뮤턴트들이 사라지게 해달라거나, 질병을 없애달라거나, 심지어 세계평화를 소원으로 빌었을 거라고 생각하는 모양인데... 하하! 하지만 '위시 그랜터'에 도착할 때쯤이면 다른 사람은 어찌되든 신경도 안 쓸 걸. </text>
+	</string>
+	<string id="talk_to_maps_6">
+		<text>정보 고마워.</text>
+	</string>
+
+	<string id="buy_information_from_trader_0">
+		<text>새로운 정보라도 좀 있어?</text>
+	</string>
+	<string id="buy_information_from_trader_1">
+		<text>늪지대 의사에 관한 정보가 있어. 너도 알다시피, 전설적인 치유의 힘을 가진 미친 늙은이 말이야. 적어도 소문은 그렇지. 나는 너에게 진실을 알려줄 수 있어, 7천 루블만 내면.</text>
+	</string>
+		<string id="buy_information_from_trader_6">
+			<text>듣고 있어.</text>
+		</string>
+		<string id="buy_information_from_trader_11">
+			<text>뭐 너도 알겠지만, 그는 늪지대에 살아. 왜 거기에 있는지는 아마 너도 모를걸. 그는 오랜 친구인 스트렐록을 계속 기다리고 있어. 스트렐록이 돌아왔다는 소문에, 많은 사람들이 닥터를 만나고 싶어하지만, 대부분은 그를 찾아내지 못하지. 사실 굉장히 쉬운데 말이야 - 늪지대 북서쪽의 철조망 펜스가 뚫린 곳을 찾아. 그리고 가는 길에 방사능이랑 이상현상들을 조심해. </text>
+		</string>
+		<string id="buy_information_from_trader_2">
+			<text>최근에 CNPP를 습격했던 스토커들에 대한 정보가 있어, 1만 루블만 내면 알려줄게.</text>
+		</string>
+		<string id="buy_information_from_trader_7">
+			<text>듣고 있어.</text>
+		</string>
+		<string id="buy_information_from_trader_12">
+			<text>그게, 모노리스가 화가 나서 다시 한 번 본격적으로 궐기하기 전에, 이 스토커는 값진 물건을 챙기기 위해 석관을 탐험하던 중 - 이거 봐봐 - 완전히 특별한 아티팩트를 발견했어! 분명 이건 위시 그랜터의 파편인 것 같아! 하지만 모노리스는 그걸 좌시하지 않았고, 그는 모노리스의 추적을 멈추기 위해 그것을 거기에 남겨둘 수 밖에 없었어. 모두가 그게 얼마나 가치있을까 궁금해하지...</text>
+		</string>
+		<string id="buy_information_from_trader_3">
+			<text>스트렐록의 그룹에 조명이 집중될 만한 정보가 있어, 1만 5천 루블만 내면 알려줄게.</text>
+		</string>
+		<string id="buy_information_from_trader_8">
+			<text>말해봐.</text>
+		</string>
+		<string id="buy_information_from_trader_13">
+			<text>모두가 스트렐록이 최근에 새 팀을 꾸렸다는 걸 알지, 하지만 아무도 팀원들이 누군지 몰라. 그 팀은 특출난 실력자들이 모였지 - 스티치, 패스파인더, 로그 그리고 스코프야. 각각 전투의무병, 천부적인 길잡이, 군대 탈영병, 일급 저격수야. 사람들은 그들이 지금 어디에 있는지, 무엇을 하고 있는지 궁금해 할 수 밖에 없지. </text>
+		</string>
+		<string id="buy_information_from_trader_4">
+			<text>2만 4천 루블을 주면 발생기를 탐험한 신비로운 스토커의 모험담과 관련된 정보를 넘겨 줄게.</text>
+		</string>
+		<string id="buy_information_from_trader_9">
+			<text>넘겨 줘.</text>
+		</string>
+		<string id="buy_information_from_trader_14">
+			<text>발생기에 대해 들어본 적 있어? 최근까지만 해도, 그저 신화 속 이야기로만 여겨져 왔어... 하지만 존의 중심에서 스트렐록의 두 번째 작전이 끝난 이후에는, 그게 진짜로 존재한다는 거에는 이견의 여지가 없지. 그게 대체 뭔지에 대한 논란은 계속해서 있어왔지만, 오래된 인공위성이 찍은 사진에 따르면 이 지역의 이름의 유래가 된 이상하게 생긴 구조물이라고 해. 이곳이 바로 모노리스가 존의 영역과 관련된 모든 중요한 명령과 일처리를 수행하는 곳이야. 자, 그 스토커는 이미 거기에 가 있고 꽤나 진지한 것 같아. 그 녀석이 끼어든 것 때문에 존에 커다란 충격이 발생할 지도 몰라. 몇몇 세력의 리더들은 이러한 정보를 보고받은 뒤에 불편함을 드러냈다고 하더군.</text>
+		</string>
+	<string id="buy_information_from_trader_5">
+		<text>지금은 아냐.</text>
+	</string>
+	<string id="buy_information_from_trader_10">
+		<text>관심 없어.</text>
+	</string>
+
+	<string id="st_top_10_task_about_dialog_0">
+		<text>요즘 여기서 재미 좀 보나?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_1">
+		<text>재미? 여긴 무지 빠른 속도로 지루해지고 있다고, 형씨. 요즘 고객들은 흥미로운 건 거의 찾지 않아. 그냥 아티팩트나 손에 넣고 싶어하는 아마추어들 뿐이지, 무슨 말인지 알지?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_2">
+		<text>원래 그렇게 흘러가는거지, 안그래?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_3">
+		<text>그래, 하지만 뭔가 특별하고, 뭔가 전설적인 그런 일을 이뤄낼 꿈을 꾸는 사람이 없을까? 너처럼 말이야, 예를 들면 - 넌 좀 베테랑 같은데. 사람들이 절대 잊지 못할 그런 업적을 이뤄보고 싶지 않아? </text>
+	</string>
+	<string id="st_top_10_task_about_dialog_4">
+		<text>계속해봐...</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_5">
+		<text>스토커 10명만 죽이면 어마어마한 보상을 주겠다는 특별한 제안이 있어. 5만루블, 전리품도 네꺼고. 간단한 현상금 리스트에는 과분한 돈이지, 안그래? 흥미로운 부분은 지금부터야: 네 타겟은 존에서 상위 랭킹 10위 안에 드는 스토커들이야. 즉 로너, 듀티, 용병, 심지어는 그 망할 모노리스놈들 일 수도 있다는 거지! 원한다면 네 PDA에서 그 명단을 확인할 수 있어. 그 제안자는 이들 모두가 죽길 원해, 방법은 상관없고.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_61">
+		<text>뭐? 미쳤군! 그딴 걸 누가 원한다는 거야?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_62">
+		<text>내가 해야겠군.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_63">
+		<text>고맙지만 사양하지.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_7">
+		<text>나도 그 제안자한테 똑같이 물어봤었지. 글쎄, 끝내주는 총과 값비싼 방어구를 입은 걸어다니는 '전함'이 전부 다 쓸어버리고 다니는거에 지쳤다나? 평범한 사람들한테 더 많은 기회를 주고 싶대. 어쨋든, 보수가 어마어마하니까, 누가 신경쓰겠어?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_8">
+		<text>아주 좋아! 네 첫번째 타겟을 PDA에 표시해둘게. 네가 한명씩 죽일 때마다, 다음 타겟의 위치가 표시될거야. 그럼 즐기라구.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_9">
+		<text>마음대로 해. 마음만 바뀐다면 그 제안은 언제든지 유효하단 걸 알아둬.</text>
+	</string>
+	
+	<string id="st_top_10_task_finish_dialog_0">
+		<text>좋아, 스니치. 다 끝냈어. 10명의 타겟은 전부 죽었다.</text>
+	</string>
+	<string id="st_top_10_task_finish_dialog_1">
+		<text>정말 엄청난 일을 해냈군, 친구! 우리 고객이 아주 만족스러워 하고 있어. 약속한대로, 여기 네 보수야. 네가 결국 그걸 해내다니 기쁘네 - 지금도, 사람들이 네가 한 일에 대해 떠들고 다니는 걸 들을 수 있어. 전설의 살인자! 이러면 판이 좀 뒤바뀔 거야, 헤헤헤...</text>
+	</string>
+	
+<!-- modified by Tronex -->
+	<string id="inf_trader_buy_transitions_0">
+		<text>몇몇 샛길에 대한 정보를 좀 사고 싶어.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_1">
+		<text>알겠어. 이게 내가 알고 있는 곳들이야.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_2">
+		<text>군 창고에서 레이더로. %c[d_orange][7000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_9">
+			<text>좋아, 돈은 있어?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_11">
+			<text>그래, 여기 있어.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_3">
+		<text>레이더에서 아래에 있는 벙커까지. %c[d_orange][11,000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_12">
+			<text>돈은 있지?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_13">
+			<text>물론. 여기.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_4">
+		<text>레이더에서 프리피야트로. %c[d_orange][9000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_14">
+			<text>현금은 가져왔지?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_15">
+			<text>여기 있어.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_5">
+		<text>프리피야트 중심지에서 프리피야트 외곽으로. %c[d_orange][9000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_16">
+			<text>먼저 돈을 좀 확인해야겠어.</text>
+		</string>
+		<string id="inf_trader_buy_transitions_17">
+			<text>그래, 여기 있어.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_6">
+		<text>프리피야트에서 체르노빌 발전소로. %c[d_orange][30,000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_18">
+			<text>돈은 가져온 거지?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_19">
+			<text>응, 여기 있어.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_7">
+		<text>체르노빌 발전소의 남쪽과 북쪽을 잇는 길. %c[d_orange][35,000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_20">
+			<text>선불이야.</text>
+		</string>
+		<string id="inf_trader_buy_transitions_21">
+			<text>여기 있어.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_10">
+		<text>돈이 없군.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_8">
+		<text>생각이 바뀌었어.</text>
+	</string>
+
+
+<!-- Guide -->
+	<string id="meet_guid_bar_0">
+		<text>네가 길잡이야?</text>
+	</string>
+	<string id="meet_guid_bar_1">
+		<text>음, 이름은 네비게이터야. 적절한 가격으로 몇몇 지역으로 데려다줄 수 있어. 대부분은 신참들이 내 주된 고객들이지만, 경험있는 스토커들도 데려다줄 수 있어. 절대 부끄러운 일이 아니야. 요약하자면, 넌 돈을 내고, 나는 네가 원하는 곳 어디든지 널 데려다 준 다음에 다시 여기로 돌아오는 거야. 얀타, 늪지대, 군 창고, 쓰레기장, 코돈, 주피터 에 데려다 줄 수 있어.</text>
+	</string>
+
+	<string id="meet_guid_bar_list_0">
+		<text>미안하지만, 어디로 데려다줄 수 있다고 했지?</text>
+	</string>
+	<string id="meet_guid_bar_list_1">
+		<text>7백 루블에 쓰레기장, 1천 루블에 군 창고, 3천 루블에 코돈에 있는 루키 마을, 3천5백 루블에 얀타, 6천 루블에 주피터의 야노브역 또는 늪지대야.</text>
+	</string>
+	
+	<string id="travel_guid_bar_0">
+		<text>어딘가에 가야 할 일이 생겼어.</text>
+	</string>
+	<string id="travel_guid_bar_1">
+		<text>그래, 어디로 갈 거야?</text>
+	</string>
+	<string id="travel_guid_bar_2">
+		<text>코돈으로. %c[d_orange][3000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_3">
+		<text>쓰레기장로. %c[d_orange][700 RU]</text>
+	</string>
+	<string id="travel_guid_bar_4">
+		<text>군 창고로. %c[d_orange][1000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_5">
+		<text>얀타로. %c[d_orange][3500 RU]</text>
+	</string>
+	<string id="travel_guid_bar_6">
+		<text>주피터로. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_7">
+		<text>늪지대로. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_8">
+		<text>생각이 바뀌었어.</text>
+	</string>
+
+<!-- Medic -->
+	<string id="bar_dolg_medic_talking_0">
+		<text>당신은 누구지?</text>
+	</string>
+	<string id="bar_dolg_medic_talking_1">
+		<text>내가 이 지역 외과의야. 비록 예전엔 응급구조원이었지만. 소스트라도프 소위가 내 이름인데 여기 스토커들은 그냥 "아스피린"이라고 불러. 그래, 정말이야. 난 지난 몇 년 동안 다양한 질병과 부상을 치료하는 데 꽤 능숙해졌지. 또 레지던트 약사로서도 활동 한다구 - 살아 돌아와서 적절한 치료를 받고 싶다면 현장에서 쓸 약을 좀 챙겨놓아야 할 거야. </text>
+	</string>
+	<string id="bar_dolg_medic_talking_2">
+		<text>어떻게 듀티의 의무관이 된 거야?</text>
+	</string>
+	<string id="bar_dolg_medic_talking_3">
+		<text>누가 듀티에 가입할까? 존에게 뭔가를 빼앗긴 사람들이지. 그리고 시간이 걸려서 다시, 그리고 또 다시 빼았기는 거야. 존 자체 말고는 남은 게 없을 때까지. 의무관이든 아니든 그게 스토커가 듀티에 들어가게 되는 과정이야. 우리는 이 지옥에서 모든 것을 잃었지만, 다른 사람들이 같은 운명을 겪지 않도록 하기 위해 옆을 지키는 사람들이다. 물론, 대부분의 듀티 대원들은 존을 죽이려고 노력함으로써 사람들을 보호하길 선택하지. 나는 아니야. 나는 존이 사람들에게 남기는 모든 상처를 치료하기 위해 여기에 있어. 이 마을의 스토커들이 하루라도 더 살 수 있도록 하기 위해서 말이지. 걔들 친구들은 어떤 어리석은 탐험을 떠나 피투성이가 된 몸을 끌고 거리를 돌아다니는 동안 말이야. 네가 살아서 여기 돌아오는 한, 나는 너를 새것처럼 치료해 줄 거야. 여기 있는 다른 상인들과는 달리, 너에게 바가지를 씌우지도 않을거라구.</text>
+	</string>
+	<string id="bar_dolg_medic_talking_4">
+		<text>고마워, "아스피린".</text>
+	</string>
+	
+<!-- ARENA -->
+	<string id="bar_arena_man_job_0">
+		<text>누구랑 싸우면 되지?</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>그래, 네 첫 번째 싸움 말인가? 네놈 상대는 너랑 똑같은 고깃덩어리야. 그 녀석은 빚 때문에 여기에 왔고 오직 두 가지 선택지만이 남아 있지. 나가서 싸우거나, 나가서 가장 가까운 이상현상 속으로 뛰어들거나. 그 녀셕은 궁지에 몰린 짐승이 된 것처럼 싸울 거라고. 오늘의 장비는... 생각해 볼까... 너네들 둘 다 기본적인 권총만 가지고 싸우는 게 어때, 두 탄창 정도의 총알이면 충분할 거야. 그 녀석을 걷어 차 주지 않으면 우리가 네 시체를 개들한테 먹이게 될 거야, 그다지 선택지가 많지 않다고. 이제 가 봐.</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>네 지난 번 싸움은 별 볼일 없었어, 넌 아직 이전처럼 고깃덩이일 뿐이고 정신이 똑바로 박혀 있는 사람은 네게 한 탄창을 투자할 가치도 없다고 생각하겠지. 만약에 이걸로 돈을 좀 만져보고 싶다면 이 아레나에서 좀 더 인상깊은 모습을 보여야 할 거야. 네 새로운 상대도 첫 번째 경기를 통과했고, 그 녀석의 싸움 실력은 너보다 더 거칠었지. 솔직히 말하면 그 녀석이 썩 마음에 들지는 않아, 너무 빨리 상대를 죽이는 바람에 관중들이 좋아하지 않았거든. 자, 나가서 네가 뭘 할 수 있는지 보여봐! 이 싸움이 끝나면 배당금이 늘어나게 될 거야, 네가 할 일은 그저 살아있는 것 뿐이지. 어서 움직여!</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>그래, 그래... 넌 처음 봤던 것처럼 계집애처럼 구는 녀석은 아니었던 모양이로군. 이제 진짜 싸움터에서 널 시험할 시간이 왔어. 너는 두 녀석을 상대하게 될 거야. 첫 번째 녀석은 Swede라고 불리고 두 번째 녀석의 이름은 잘 기억나지 않는군. 그 녀석들은 서로 찢어 죽일 것처럼 굴어서 일부러 한 팀으로 묶어 놓았으니까 그 녀석들이 팀워크를 발휘할까 걱정하지는 말라고. 오히려 서로를 쏘고 싶어할 걸. 오늘은 소총을 쏘는 날이니까 그 녀석들과 너무 가까이 붙지 마, 안 그러면 우리가 조각조각난 네 시체를 주워야 할 지도 모르니까. 배당율은 10:1이니까 네가 이기면 상당한 금액을 받게 될 거야. 어서 가!</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>그래, 이제 널 싸움꾼, 진짜 싸움꾼으로 부를 수 있겠군. 이번에는 팀 경기야. 너는 두 명의 신참들과 - 둘이 형제라던데- 함께 싸우게 될 거야. 그 녀석들은 아직까지 제대로 싸워본 적이 없지만 서로 형제니까, 그 녀석들을 팀 경기에 넣었어. 만약 내가 너였다면 그 녀석들한테 어떤 도움도 기대하지 않겠지. 너는 경험있는 팀에 맞서 싸우게 될 거야, 그 녀석들은 이번 시즌의 우승 경쟁자이기도 하지. 꽤나 위험할 거야. 그 녀석들은 다양한 무기를 쓰지만 그 중에서 한 명은 자동 샷건을 쓰고 있으니까, 그 녀석을 특히 조심하라고. 행운을 빌어, 친구... 정말로 행운이 필요할 거야.</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>오늘은 특별한 싸움을 하게 될 거야. 무려 내무군까지 네 소문을 듣게 됐다고! 그렇게 놀라지는 말라고, 그 녀석들도 여기 싸우러 온 거니까. 관중들 중에 장군이 하나 있었거든. 이 친구들은 스페츠나츠나 OMON(=특수기동대)에서 왔지. 잘 무장되어 있고 네가 기대하는 만큼 튼튼한 방어구를 걸치고 있어. 그래도 걱정은 하지 마, 널 그 아수라장 속에 그냥 내버려둘 생각은 없으니까. 넌 프리덤이 사용하던 방탄조끼를 받게 될 거야. 가벼워서 움직임이 방해되지 않을 거야. 가 봐, 가서 스토커가 그저 희생양이 아니라는 걸 보여줘. 행운을 빌어!</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>네가 뭘 할 수 있는 지 보여줄 시간이 왔어. 듀티가 로스토크 근방에서 스토커들에게 해코지를 하는 밴딧들을 잡아왔어. 듀티가 그들을 밤에 급습한 덕에 대부분의 밴딧들이 생포되었지. 그 녀석들은 어차피 모두 처형될 운명이었으니까 내가 듀티한테 그 놈들에게 기회를 좀 달라고 설득했었지. 만약에 그들 중 누구라도 살아남는다면, 그 녀석들은 여기서 죽는 대신에 존 바깥에 있는 교도소로 가게 될 거야. 그 녀석들은 그다지 잘 무장하고 있지 않아, 아마도 권총 몇 자루나 소드 오프 샷건 정도겠지. 하지만 여섯 명이니까 조심하라고. 이제 가 봐!</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>좋아, 너는 거의 결승전 문턱까지 와 있어. 이제 너는 진짜 스토커와 싸우게 될 거야. 그는 혼자서 참전했지만 돌격 소총과 방탄복을 착용하고 있지. 반짝하고 쏘면 네가 걸레짝이 되겠지. 그리고 내가 말해주지 않았던 깜짝 선물도 준비되어 있을 거야... 충고를 하나 해 줄게. 마음의 준비를 해, 힘든 싸움이 될 거야. 이 경기의 승자가 결승전으로 갈 거야. 필사적으로 싸워봐, 가!</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>축하해, 드디어 결승전에 왔군! 이번 마지막 경기는 만인의 만인에 대한 죽음의 투쟁이 될 거야. 경기장에는 네 명의 다른 스토커들이 있을 거야. 모두 외골격을 입은 프로들이지만 이번에는 좀 더 공정한 싸움이지. 넌 그들이 가진 장비들과 똑같은 장비를 입고 싸우게 될 거야. 한 가지 주의할 게 있다면, 너는 메디킷이나 붕대를 받지 않고 죽거나 죽일 때까지 싸우게 된다는 거지. 준비됐어? 네가 최고라는 걸 증명해 봐, 가라!</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>준비가 됐어.</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>아직 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_start_111112">
+		<text>이봐! 나한테 대전료를 내고 그냥 가버리면 어떡해!</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>이봐! 새로운 경기가 준비되었어.</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>뭐라도 좀 마시고 와. 아직 경기 준비가 안 됐어.</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>넌 이미 프로야!!!</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>네가 이겼어! 여기 상금이야.</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>넌 아직 이 싸움을 할 만큼 경험을 쌓지 않았어.</text>
+	</string>
+	<string id="bar_arena_manager_game_0">
+		<text>내가 할 만한 도전이 뭐지?</text>
+	</string>
+	<string id="bar_arena_manager_game_1">
+		<text>아직 싸울 만한 게 없어, 우리가 뮤턴트를 더 잡아왔을 때 다시 와.</text>
+	</string>
+	<string id="bar_arena_manager_game_100">
+		<text>대전료를 받고 있어. 1,000 루블이야.</text>
+	</string>
+	<string id="bar_arena_manager_game_101">
+		<text>좋아, 여기 대전료야.</text>
+	</string>
+	<string id="bar_arena_manager_game_105">
+		<text>돈이 없군.</text>
+	</string>
+	<string id="bar_arena_manager_game_1051">
+		<text>그럼 여기서 나가, 스토커.</text>
+	</string>
+	<string id="bar_arena_manager_game_110">
+		<text>대전료로 2,000 루블이야.</text>
+	</string>
+	<string id="bar_arena_manager_game_111">
+		<text>좋아, 여기 대전료야.</text>
+	</string>
+	<string id="bar_arena_manager_game_11111112">
+		<text>이미 돈을 냈잖아!</text>
+	</string>
+	<string id="bar_arena_manager_game_115">
+		<text>돈이 없군.</text>
+	</string>
+	<string id="bar_arena_manager_game_1151">
+		<text>그럼 너무 많은 질문은 삼가했으면 좋겠군.</text>
+	</string>
+	<string id="bar_arena_manager_game_120">
+		<text>대전료로 3,000 루블을 내면 블러드서커는 네 몫이야.</text>
+	</string>
+	<string id="bar_arena_manager_game_121">
+		<text>좋아. 여기 대전료 받아.</text>
+	</string>
+	<string id="bar_arena_manager_game_125">
+		<text>그만큼은 없군.</text>
+	</string>
+	<string id="bar_arena_manager_game_1251">
+		<text>내 시간을 낭비하지 마, 스토커.</text>
+	</string>
+	<string id="bar_arena_manager_game_130">
+		<text>기다려봐. 대전료는 4,000 루블이야.</text>
+	</string>
+	<string id="bar_arena_manager_game_131">
+		<text>좋아. 여기 돈이야.</text>
+	</string>
+	<string id="bar_arena_manager_game_135">
+		<text>돈이 없군.</text>
+	</string>
+	<string id="bar_arena_manager_game_1351">
+		<text>거지처럼 굴지는 말라고.</text>
+	</string>
+	<string id="bar_arena_manager_game_140">
+		<text>대전료는 5,000 루블이야.</text>
+	</string>
+	<string id="bar_arena_manager_game_141">
+		<text>좋아. 여기 대전료 받아.</text>
+	</string>
+	<string id="bar_arena_manager_game_145">
+		<text>돈이 없군.</text>
+	</string>
+	<string id="bar_arena_manager_game_1451">
+		<text>맞춰 볼까. 누가 네 지갑이라도 털었나?</text>
+	</string>
+	<string id="bar_arena_manager_game_2">
+		<text>시우도독 한 마리야. 큰 녀석이지만, 꽤 많이 얻어맞았지. 그렇지만 아주 사나운 녀석이야, 마치 내 장모를 떠올리게 하는구먼.</text>
+	</string>
+	<string id="bar_arena_manager_game_200">
+		<text>좋아. 네가 싸우기 전에 죽이기까지 걸리는 시간이 얼마나 될 지 배당을 해야 해. 만약 시간 내로 죽이는 데 성공하면 네가 건 돈보다 좀 더 많은 돈을 벌 수 있을 거야.</text>
+	</string>
+	<string id="bar_arena_manager_game_201">
+		<text>30초, 배당금은 세 배야.</text>
+	</string>
+	<string id="bar_arena_manager_game_202">
+		<text>1분 30초, 배당금은 두 배야.</text>
+	</string>
+	<string id="bar_arena_manager_game_203">
+		<text>시간 제한 없이. 배당금의 절반을 얹어서 줄 거야.</text>
+	</string>
+	<string id="bar_arena_manager_game_204">
+		<text>생각이 바뀌었어.</text>
+	</string>
+	<string id="bar_arena_manager_game_2041">
+		<text>꽤나 터프하군, 배당이 되었어.</text>
+	</string>
+	<string id="bar_arena_manager_game_21">
+		<text>그 정도야 할 수 있지. 네가 준비한 개와 싸우겠어.</text>
+	</string>
+	<string id="bar_arena_manager_game_22">
+		<text>개 한마리? 그게 다야?</text>
+	</string>
+	<string id="bar_arena_manager_game_221">
+		<text>오, 우리 숙녀분께서 귀여운 강아지가 무서우신가? 화내지 말라고.</text>
+	</string>
+	<string id="bar_arena_manager_game_3">
+		<text>스노크라 불리는 방독면을 쓴 괴짜야. 말라 비틀어졌고 약해 보이지만 상당히 날렵하지.</text>
+	</string>
+	<string id="bar_arena_manager_game_300">
+		<text>훌륭해, 모든 것들을 준비하고 있을게. 경기장으로 들어가.</text>
+	</string>
+	<string id="bar_arena_manager_game_31">
+		<text>어서 해보자고. 네가 준비한 스노크와 싸우겠어.</text>
+	</string>
+	<string id="bar_arena_manager_game_32">
+		<text>내 속을 뒤집어 놓는군. 안 해.</text>
+	</string>
+	<string id="bar_arena_manager_game_321">
+		<text>반쯤 썩은 저 방독면 쓴 괴짜가 무서운 거야?</text>
+	</string>
+	<string id="bar_arena_manager_game_4">
+		<text>이번에는 정말 운이 좋았어. 어린 블러드서커를 잡아왔어. 여전히 멍청하지만, 이미 질 나쁜 매너를 갖추었지.</text>
+	</string>
+	<string id="bar_arena_manager_game_41">
+		<text>해보자고, 블러드서커를 준비해 줘.</text>
+	</string>
+	<string id="bar_arena_manager_game_42">
+		<text>블러드서커? 좆까!</text>
+	</string>
+	<string id="bar_arena_manager_game_421">
+		<text>뭐야? 블러드서커랑 사랑에라도 빠진 건가? 대체 너 언제 프리덤에 가입한 거야?</text>
+	</string>
+	<string id="bar_arena_manager_game_5">
+		<text>이번에는 검은 코트를 입은 뚱뚱한 난쟁이를 데려왔지. 사람들은 버러라고 부르더군.</text>
+	</string>
+	<string id="bar_arena_manager_game_51">
+		<text>살찐 난쟁이 말이지? 쉽군. 해보겠어.</text>
+	</string>
+	<string id="bar_arena_manager_game_52">
+		<text>그 녀석에 대한 이야기는 많이 들어봤지. 넘기겠어.</text>
+	</string>
+	<string id="bar_arena_manager_game_521">
+		<text>그 녀석은 네 허리에도 거의 안 닿을 텐데. 그게 그렇게 무서웠나?</text>
+	</string>
+	<string id="bar_arena_manager_game_6">
+		<text>오늘은 특별한 날이야. 어디서 찾아냈는지는 모르겠지만... 그 녀석을... 하지만 진짜로 짐승이지.</text>
+	</string>
+	<string id="bar_arena_manager_game_61">
+		<text>좋아. 그 녀석의 불행을 끝내주지.</text>
+	</string>
+	<string id="bar_arena_manager_game_62">
+		<text>벌써 죽고 싶지는 않은데, 다른 사람을 알아보라고.</text>
+	</string>
+	<string id="bar_arena_manager_game_621">
+		<text>뭐, 솔직히 나도 그 짐승이 무섭기는 해. 하지만 내가 경기장에서 싸우는 것도 아닌데, 누가 신경쓰겠어?</text>
+	</string>
+	<string id="bar_arena_manager_info_0">
+		<text>물어볼게 좀 있어.</text>
+	</string>
+	<string id="bar_arena_manager_info_1">
+		<text>해봐.</text>
+	</string>
+	<string id="bar_arena_manager_info_10">
+		<text>신경쓰지 마.</text>
+	</string>
+	<string id="bar_arena_manager_info_11">
+		<text>이 시설은 뭐지?</text>
+	</string>
+	<string id="bar_arena_manager_info_111">
+		<text>여기는 아레나이고, 내 작은 사업이라고 할 수 있지. 스토커들이 자신들의 패기를 시험하고 존의 공포와 맞서 싸우는 일로 명성을 쌓는 곳이야.</text>
+	</string>
+	<string id="bar_arena_manager_info_12">
+		<text>뮤턴트를 어떻게 잡아오는 거야?</text>
+	</string>
+	<string id="bar_arena_manager_info_121">
+		<text>우리들은 듀티와 거래를 했어, 그들이 찾아내는 모든 뮤턴트들을 죽이는 대신 약한 것들을 생포해오면 보상금과 바꾸는 식이지. 듀티는 돈을 받고, 뮤턴트들이 죽으면 내가 돈을 받는 거지. 모두에게 이득이라고.</text>
+	</string>
+	<string id="bar_arena_manager_info_13">
+		<text>당신은 어디 출신이지?</text>
+	</string>
+	<string id="bar_arena_manager_info_131">
+		<text>나는 여러 곳을 돌아다녔어. 이 작은 깡촌에 대한 소문을 들었고 내가 여기서 돈을 좀 만져볼 수 있겠다고 생각했지. 그래서 여기 와 있는 거야.</text>
+	</string>
+	<string id="bar_arena_manager_rules_0">
+		<text>규칙은 어떻지?</text>
+	</string>
+	<string id="bar_arena_manager_rules_1">
+		<text>아, 규칙은 꽤 간단해. 내가 고안해 냈지. 도전으로 말할 것 같으면, 우리가 하나 있고, 뮤턴트가 그 안에서 돌아다니지. 너는 돈을 낸 뒤에 괴물을 죽이기 위해 필요한 시간을 말해주면 돼. 죽이는 데 성공하면 네가 이기는 거고, 그렇지 않으면 내가 이기는 거야.\n하지만 이 곳의 주요 행사는 바로 듀티가 잡아온 밴딧이나 부랑자들이 죄를 씻기 위해 아레나에서 싸우는 거야. 그 중 일부는 범죄자가 아니라 그저 싸움을 좋아하는 스토커들이지만, 최후에 아레나을 떠나는 자에겐 상당한 보상이 준비되어 있지. 그들이 싸움에서 계속 이긴다면, 더 많은 스토커들이 보러 올 거고, 참가자들은 더 많은 보상을 받게 될 거야.</text>
+	</string>
+	<string id="bar_arena_manager_start_11">
+		<text>만나서 반갑군 스토커, 아레나에 온 걸 환영해.</text>
+	</string>
+	<string id="bar_arena_manager_start_21">
+		<text>자, 뭘 망설이는 거야? 우리 속으로 들어가.</text>
+	</string>
+	<string id="bar_arena_manager_start_31">
+		<text>미안하지만, 아직은 싸울 상대가 없군. 새로운 뮤턴트를 잡을 때까지 하루나 이틀 정도 기다리라고.</text>
+	</string>
+	<string id="bar_arena_manager_start_41">
+		<text>여기 있었군! 잘했어! 여기 네 상금이야. 만약 돈을 벌기 위해 다시 싸우고 싶다면 언제든지 들러 줘.</text>
+	</string>
+	<string id="bar_arena_manager_start_51">
+		<text>미안하군, 형씨, 넌 패배했어. 원한다면 나중에 다시 오라고.</text>
+	</string>
+
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
+		<text>또 다른 스토커가 이 늙은 "맨건"을 보러 왔군? 어, 좋아. 뭐가 고장났는지 보여줘, 내가 고쳐줄게. 부품 대금을 지불할 수 있길 바라. </text>
+	</string>
+</string_table>

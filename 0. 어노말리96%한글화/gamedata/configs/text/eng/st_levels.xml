@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Level Names -->
+	<string id="l03_agroprom">
+		<text>아그로프롬</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>아그로프롬 지하</text>
+	</string>
+	<string id="l07_military">
+		<text>군 창고</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>체르노빌 원자력 발전소 (북쪽)</text>
+	</string>
+	<string id="l12_stancia">
+		<text>체르노빌 원자력 발전소 (남쪽)</text>
+	</string>
+	<string id="l01_escape">
+		<text>코돈</text>
+	</string>
+	<string id="k01_darkscape">
+		<text>검은 풍경</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>검은 계곡</text>
+	</string>
+	<string id="l09_deadcity">
+		<text>죽은 도시</text>
+	</string>
+	<string id="l11_hospital">
+		<text>병원 폐허</text>
+	</string>
+	<string id="fake_start">
+		<text>가짜 출발지</text>
+	</string>
+	<string id="l02_garbage">
+		<text>쓰레기장</text>
+	</string>
+	<string id="l13_generators">
+		<text>발생기</text>
+	</string>
+	<string id="k00_marsh">
+		<text>늪지대</text>
+	</string>
+	<string id="jupiter">
+		<text>주피터</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>주피터 지하</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>X16 연구소 (얀타)</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>X18 연구소 (검은 계곡)</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>X19 연구소 (레이더)</text>
+	</string>
+	<string id="labx8">
+		<text>X8 연구소 (프리피야트 외곽)</text>
+	</string>
+	<string id="l10_limansk">
+		<text>리만스크</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>모노리스 제어 센터</text>
+	</string>
+	<string id="l13u_warlab">
+		<text>모노리스 전쟁연구소</text>
+	</string>
+	<string id="pripyat">
+		<text>프리피야트 외곽</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>프리피야트</text>
+	</string>
+	<string id="l10_radar">
+		<text>레이더</text>
+	</string>
+	<string id="l10_red_forest">
+		<text>붉은 숲</text>
+	</string>
+	<string id="l05_bar">
+		<text>로스토크</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>석관</text>
+	</string>
+	<string id="k02_trucks_cemetery">
+		<text>트럭 묘지</text>
+	</string>
+	<string id="l06_rostok">
+		<text>무법지대</text>
+	</string>
+	<string id="l08_yantar">
+		<text>얀타 호수</text>
+	</string>
+	<string id="zaton">
+		<text>자톤</text>
+	</string>
+	<string id="y04_pole">
+		<text>초원 지대</text>
+	</string>
+
+	<!-- Level Changers -->
+	<string id="mar_space_restrictor_to_agroprom_descr">
+		<text>아그로프롬으로</text>
+	</string>
+	<string id="space_restrictor_to_agr_ug_desc">
+		<text>아그로프롬 지하로</text>
+	</string>
+	<string id="space_restrictor_to_military_desc">
+		<text>군 창고로</text>
+	</string>
+	<string id="gen_space_restrictor_to_aes2_descr">
+		<text>체르노빌 원자력 발전소로</text>
+	</string>
+	<string id="ds_space_restrictor_to_escape_descr">
+		<text>코돈으로</text>
+	</string>
+	<string id="esc_space_restrictor_to_darkscape_descr">
+		<text>검은 풍경으로</text>
+	</string>
+	<string id="ds_space_restrictor_to_darkvalley_desc">
+		<text>검은 계곡으로</text>
+	</string>
+	<string id="space_restrictor_to_deadcity_desc">
+		<text>죽은 도시로</text>
+	</string>
+	<string id="space_restrictor_to_hospital">
+		<text>폐허가 된 병원으로</text>
+	</string>
+	<string id="esc_space_restrictor_to_garbage_descr">
+		<text>쓰레기장으로</text>
+	</string>
+	<string id="aes2_space_restrictor_to_gen_descr">
+		<text>발생기로</text>
+	</string>
+	<string id="mar_teleport_from_base_to_north_descr">
+		<text>늪지대로</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_desc">
+		<text>주피터로</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_ug_desc">
+		<text>주피터 지하로</text>
+	</string>
+	<string id="space_restrictor_to_labx16_desc">
+		<text>X16 연구소로</text>
+	</string>
+	<string id="space_restrictor_to_labx18_desc">
+		<text>X18 연구소로</text>
+	</string>
+	<string id="space_restrictor_to_labx10_desc">
+		<text>X19 연구소로</text>
+	</string>
+	<string id="space_restrictor_to_labx8_desc">
+		<text>X8 연구소로</text>
+	</string>
+	<string id="space_restrictor_to_limansk_desc">
+		<text>리만스크로</text>
+	</string>
+	<string id="space_restrictor_to_secret_lab_desc">
+		<text>모노리스 제어 센터로</text>
+	</string>
+	<string id="space_restrictor_to_warlab_desc">
+		<text>모노리스 전쟁연구소로</text>
+	</string>
+	<string id="space_restrictor_to_cop_pripyat_desc">
+		<text>프리피야트 외곽으로</text>
+	</string>
+	<string id="space_restrictor_to_pripyat_desc">
+		<text>프리피야트로</text>
+	</string>
+	<string id="space_restrictor_to_radar_desc">
+		<text>레이더로</text>
+	</string>
+	<string id="mil_space_restrictor_to_red_1_descr">
+		<text>붉은 숲으로</text>
+	</string>
+	<string id="space_restrictor_to_bar_desc">
+		<text>로스토크로</text>
+	</string>
+	<string id="space_restrictor_to_sarcophagus_desc">
+		<text>석관 지역으로</text>
+	</string>
+	<string id="space_restrictor_to_tc_desc">
+		<text>트럭 묘지로</text>
+	</string>
+	<string id="space_restrictor_to_rostok_desc">
+		<text>무법지대로</text>
+	</string>
+	<string id="space_restrictor_to_yantar_desc">
+		<text>얀타 호수로</text>
+	</string>
+	<string id="space_restrictor_to_zaton_desc">
+		<text>자톤으로</text>
+	</string>
+	<string id="pol_space_restrictor_to_esc_1_descr">
+		<text>코돈으로</text>
+	</string>
+	<string id="pol_space_restrictor_to_val_1_descr">
+		<text>검은 계곡으로</text>
+	</string>
+	<string id="esc_space_restrictor_to_pol_1_descr">
+		<text>초원 지대로</text>
+	</string>
+	<string id="val_space_restrictor_to_pole_1_descr">
+		<text>초원 지대로</text>
+	</string>
+</string_table>

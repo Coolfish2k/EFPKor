@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="voronin_operation_afterglow_0">
+		<text>호출 받았습니다. 새로운 임무가 있습니까, 장군님?</text>
+	</string>
+	<string id="voronin_operation_afterglow_1">
+		<text>그래, 일손이야 항상 부족하지. 우리의 전방 정찰팀이 자톤의 철의 숲 이상현상 지역에서 미확인 무선 송신을 감지했네. 그러나 그들은 암호를 해독하는 데 필요한 장비를 지니고 임무활동 중이 아니였지. 그걸 조사해 주길 바라네.</text>
+	</string>
+	<string id="voronin_operation_afterglow_2">
+		<text>알겠습니다.</text>
+	</string>
+	<string id="voronin_operation_afterglow_21">
+		<text>죄송합니다. 현재 임무 수행 준비가 되지 않았습니다.</text>
+	</string>
+	<string id="voronin_operation_afterglow_3">
+		<text>훌륭하군. 이 라디오를 가져 가게. 우리 기술자가 훌륭하게 손본 거지. 가능한 한 빨리 조사 결과를 보고해주게. CNPP 근처에서 무슨 일이 일어나고 있는지 파악해 놔야하니까.</text>
+	</string>
+	
+	<string id="voronin_operation_afterglow_transmission_report_0">
+		<text>임무 복귀했습니다.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_1">
+		<text>뭔가 있었나?</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_2">
+		<text>네, 장군님. 나는 덱타레프 대령이 이끄는 군사 작전에 잠시 참여했습니다. UNISG라고 하는 외국 특작부대 그룹이 이 존의 최근 사건을 조사하고 있는 것 같습니다. 군대는 그들이 너무 많이 발견하는 것을 원하지 않습니다.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_21">
+		<text>특별히 없습니다, 사령관님. 그냥 의미없는 잡음이었습니다.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_3">
+		<text>알겠네. 참으로 흥미로운 발견이군. 해당 지역을 더 자세히 관찰해야겠어. 그동안 자유롭게 일상 활동을 재개할 수 있도록. 해산.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_31">
+		<text>확인해줘서 고맙네. 당장은 그게 끝이야. 해산하게.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_4">
+		<text>알겠습니다.</text>
+	</string>
+	
+	<string id="dushman_operation_afterglow_0">
+		<text>미스터리한 무선 전송에 대한 메시지를 받았는데. 특별 계약이라도 있는거야?</text>
+	</string>
+	<string id="dushman_operation_afterglow_1">
+		<text>물론. 자톤에 있는 우리 팀이 자톤의 철의 숲 이상현상 지역 주변에서 간헐적으로 전송되는 무선 전송을 확인했어. 문제는 그들이 들은 게 뒤죽박죽된 소음뿐이었다는 거야. 그곳에 가서 적당한 장비로 무슨 일이 일어나고 있는지 확인했으면 해.</text>
+	</string>
+	<string id="dushman_operation_afterglow_2">
+		<text>그래.</text>
+	</string>
+	<string id="dushman_operation_afterglow_21">
+		<text>미안, 지금은 해야할 일이 있어서.</text>
+	</string>
+	<string id="dushman_operation_afterglow_3">
+		<text>좋아, 정보도 돈 이지. 이 라디오를 가져가. 호그가 고급 암호 해독 장치를 장착시켜놨어. 무엇이든 알게 되면 다시 돌아와.</text>
+	</string>
+	
+	<string id="dushman_operation_afterglow_transmission_report_0">
+		<text>돌아왔어.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_1">
+		<text>뭐였어?</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_2">
+		<text>그게, 한 덱타레프라는 대령이 블랙 옵스 임무를 돕기 위해 나를 고용했어. UNISG라고 불리는 호기심 많은 외국 군사 그룹이 존의 더러운 비밀에 대해 찔러대지 못하게 하려고 노력하더군.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_21">
+		<text>아니 별거 없던데.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_3">
+		<text>유엔이 벌써 왔다고? 그들의 정찰병 중 한 명이 들어오는 길에 내게서 정보를 얻기로 되어 있었지만 끝내 오지 못했어. 이제야 왜 그랬는지 알겠군. UN은 좋은 고객들이야. 즉, 이 일은 너에게 달려 있는걸 명심하라고 ... 서구 기업과 정부 권력 사이의 복잡한 음모 덕분에 우리는 짭짤한 이익을 보는 중이거든.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_31">
+		<text>흠, 거짓으로 판명된 것 같군. 뭐, 일단 여기까지야. 가봐.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_4">
+		<text>그럼.</text>
+	</string>
+	
+	<string id="sidorovich_operation_afterglow_0">
+		<text>미스터리한 무선 전송에 대한 메시지를 받았는데. 일 있어?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_1">
+		<text>항상 밥 벌어먹으랴 열심히구만, 안 그래? 맞아, 최근에 들어온 일이 있지. 비어드를 통해 스토커들이 자톤의 철의 숲 이상현상 지역에서 들리는 이상한 라디오 소음에 대한 정보를 받았어. 뭐, 그냥 이상현상이라고 하면 다 퉁쳐진다쳐도 한번 가서 확인해봐, 어때?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_2">
+		<text>그래, 시드. 내가 좆빠지게 존을 가로지르는 동안 거기서 엉덩이나 붙이고 있으라고.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_21">
+		<text>아직. 준비 좀 하고.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_3">
+		<text>역시 자네답군. 여기 라디오. 니 치아에 도청장치 같은게 있는게 아니면 필요할거야. 뭐라도 발견하면 다시 오라고.</text>
+	</string>
+	
+	<string id="sidorovich_operation_afterglow_transmission_report_0">
+		<text>갔다왔어.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_1">
+		<text>뭐가 있었나?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_2">
+		<text>어, 덱타레프 대령이라는 사람이 존 중앙에서 일급 비밀 작전을 수행하고 있었어. 그는 존의 더러운 사실들을 폭로하려는 외국 특수부대인 UNISG라는 그룹과 싸우고 있었고.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_21">
+		<text>별로, 솔직히 무음이나 잡으려고 존을 가로질렀나 싶어서 좀 개같던데.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_3">
+		<text>좋은 소식이군, 스토커. 이미 알고 있듯이 정보는, 특히 일급 비밀인 경우엔 더, 많은 가치가 있지. 내가 이것으로 무엇을 할 수 있는지 볼까, 헤헤. 어쨌든, 이제 돌아가 봐.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_31">
+		<text>아 젠장, 뭐 스토커들이 꾸며낸 이야기일 거라 예상했어. 어쨌든, 이제 가봐.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_4">
+		<text>그래.</text>
+	</string>
+	
+	<string id="cold_operation_afterglow_0">
+		<text>미스터리한 무선 전송에 대한 메시지를 받았는데. 무슨 일이야?</text>
+	</string>
+	<string id="cold_operation_afterglow_1">
+		<text>응, 조사할 수 있는 것이 조금 있어. 생태학자들을 통해 자톤의 철의 숲 이상현상 지역에서 신비한 무선 전송이 발생하고 있다는 소식을 들었어. 알아, 알아. 존의 반대편에 있는거. 그래도 CNPP가 그런 곳과 너무 가깝다는 점을 감안하면 충분히 조사해볼만한 가치가 있다고 생각해.</text>
+	</string>
+	<string id="cold_operation_afterglow_2">
+		<text>그래, 안 그래도 다시 북쪽으로 올라갈 의향이었어.</text>
+	</string>
+	<string id="cold_operation_afterglow_21">
+		<text>미안. 너무 멀어서 준비 좀 하고.</text>
+	</string>
+	<string id="cold_operation_afterglow_3">
+		<text>또 모험에 떠나겠네, 하하. 그건 그렇고, 노비코브가 만든건데 가로챌 수 있는 모든 무선 전송을 해독해 줄거야. 좋은 사냥 되길.</text>
+	</string>
+	
+	<string id="cold_operation_afterglow_transmission_report_0">
+		<text>갔다왔어.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_1">
+		<text>뭐, 있었어?</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_2">
+		<text>응. 거기서 군사용 무전을 듣고 덱타레프 대령이라는 사람과 함께 블랙 옵스 임무에 합류하게 됐어. 그들은 UNISG라는 외국 특작 부대에서 보낸 팀을 제거하려고 하더라고. 이 부대가 존을 너무 철저하게 조사하다보니 SSU의 심기를 건드렸나봐.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_21">
+		<text>별로. 아무것도 없던데.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_3">
+		<text>오호라. 꽤 흥미롭군. 니가 잠시 동안이나마 비밀 첩보원 플레이를 즐겼기 바래. 보상으로 뒤통수에 총알이나 맞지 않았으니 다행이란 소리야. 아무튼, 이제 이 정보로 무엇을 할 수 있는지 알아볼게.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_31">
+		<text>아, 칼란차라도 관심이 있을지 모르겠네. 알아 봐 줘서 고마워. 가봐.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_4">
+		<text>나중에 보자.</text>
+	</string>
+	
+	<string id="lukash_operation_afterglow_0">
+		<text>미스터리한 무선 전송에 대한 메시지를 받았는데. 무슨 일이야?</text>
+	</string>
+	<string id="lukash_operation_afterglow_1">
+		<text>한 자리에 발붙이고 앉아있는 타입은 아니시구만? 니의 그 모험적인 열정 보기좋아. 로키가 자톤의 철의 숲 이상현상 근처에서 완전히 전에 듣지 못한 소음이 발생했다고 해. 소리를 내는 이상현상일 수도 있고, 스페나츠 부대의 일급 비밀 무선 통신일 수도 있겠지. 가서 확인해 줄 수 있겠어?</text>
+	</string>
+	<string id="lukash_operation_afterglow_2">
+		<text>좋아.</text>
+	</string>
+	<string id="lukash_operation_afterglow_21">
+		<text>미안, 먼저 해야할 일이 있어서.</text>
+	</string>
+	<string id="lukash_operation_afterglow_3">
+		<text>그 정신이야. 아, 맞다, 이 라디오 받아. 니 머리에 금속판이 삽입되 있는게 아니라면 말이지. 흥미로운 점을 찾으면 알려줘.</text>
+	</string>
+	
+	<string id="lukash_operation_afterglow_transmission_report_0">
+		<text>자톤에서 돌아왔어.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_1">
+		<text>뭐 찾은거 있어?</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_2">
+		<text>오, 믿을 수 없을걸! 난 일급 비밀 군사 작전에 가담했다고! 덱타레프라는 사람이 UNISG 요원을 제거하기를 원했어. 존을 조사해온 일종의 국제 공작원들인데, 그러니까 군대가 그걸 막으려고 한 걸 내가 도왔다고!</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_21">
+		<text>아니, 별거 없더라고. 이상현상의 잡음을 듣고 지루해져서 그냥 돌아왔어.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_3">
+		<text>하, 두 정부 세력이 존의 비밀을 놓고 서로 겨룬다고? 재밌네! 덱타레프가 여전히 돌아다니고 있다는 소식을 들으니 반갑네. 군대가 다 개자식인건 틀림없지만 그놈만큼은 다르다고. 만약 다시 그 사람을 보면 야노브역에 좀 있어달라고 부탁해봐. 알겠지? 거기 점점 더 일이 거칠어진다고 들었어.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_31">
+		<text>자, 존의 노래를 듣는 것도 재밌었지? 아니야? 신경 쓰지 마. 가서 더 재미있는 일을 찾아봐. 지루해 죽게 하고 싶지 않으니까. 존에서 죽을 수 있는 방법도 가지가지니까 ...</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_4">
+		<text>다시 보자.</text>
+	</string>
+	
+	<string id="sakharov_operation_afterglow_0">
+		<text>무선 전송에 대한 메시지를 받았습니다.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_1">
+		<text>오, 그래, 젊은이. 헤르만 교수를 아나? 북쪽에 있는 그의 벙커는 자톤의 철의 숲 이상현상 근처에서 흥미로운 무선 전송이 발생했다고 보고했네. 이는 해당 지역에서 두드러진 이상현상을 고려할 때 특히 흥미로워. 나는 자네가 그 위치에서 연구를 수행하기를 바라네. 우리가 무엇을 발견할지 기대가 되는군.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_2">
+		<text>알겠습니다, 교수님.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_21">
+		<text>죄송합니다. 지금은 준비가 필요합니다.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_3">
+		<text>고맙네. 자, 이 장치를 가지고 가져가. 자네가 가로챌 수 있는 주파수를 해독하고 기록하려고 시도할 거네. 행운을 빌어.</text>
+	</string>
+	
+	<string id="sakharov_operation_afterglow_transmission_report_0">
+		<text>돌아왔습니다.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_1">
+		<text>뭔가 발견했나?</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_2">
+		<text>네, 교수님. 저는 군용 무선 전송을 들었고 덱타레프 대령에 의해 일시적으로 일급 비밀 임무에 징집되었습니다. 그리고 존의 비밀을 조사하려 온 외국 특수 요원 UNISG가 파견한 태스크 포스와 싸웠습니다.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_21">
+		<text>이렇다할 결과가 없었습니다, 교수님. 국부적으로 이상현상, 그리고 약간의 정적이 전부더군요.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_3">
+		<text>알 겠어요. 존 자체와 그 현상들을 연구하는 것은 참으로 가치가 있지만, 존의 생성과 관련된 정보가 잘못된 손에 넘어가는 것은 몸서리쳐 지는 사실이지. 고맙네, 젊은이, 이제 가도 좋네.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_31">
+		<text>저런. 허먼의 가설을 기각해야 할 것 같군.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_4">
+		<text>그럼 가보겠습니다.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_psycho_0">
+		<text>으... 내... 머리... 머리가...</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_0">
+		<text>어이, 터프 가이.</text>
+	</string>
+	
+	<string id="stalker_rogue_repair_oa_0">
+		<text>로그? 아직 툴킷 가지고 있지?</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_help_psycho_0">
+		<text>저기... 여기서 뭐해, 친구?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_1">
+		<text>내... 머리가... 시발... 정신 이상현상... 필요해... 약을... 좀... 부... 해...</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_2">
+		<text>젠장, 여기서 기다려 내가 찾아올게!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_20">
+		<text>정신차려! 맞서싸워! 넌 할 수 있어!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_21">
+		<text>으윽... 도와... 줘...</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_22">
+		<text>빌어먹을, 정신차려!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_23">
+		<text>그만... 소리쳐... 난... 으... 으으... 위대한 모노리스시여.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_24">
+		<text>씨발!</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_heal_psycho_0">
+		<text>약 가지고 왔어!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_1">
+		<text>고, 고마워. 큰일날 뻔했어</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_2">
+		<text>어떻게 된거야?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_3">
+		<text>으윽... 우리 팀은 모노리스 병사와 싸우면서 갈라졌어. 나는 최대한 시간을 끌며 후퇴하고 있었고, 광신자들을 막기 위해 진압 사격을 가했는데... 실수로 정신 이상현상에 발을 들여놓았고, 그 모든 목소리가 내 머릿속에서 속삭이기 시작했어. 모노리스는 나를 여기로 끌온다음 사라졌어. 아마 나를 개종시키고 싶어했다고 생각해. 차라리 이상현상 속으로 뛰어들고 싶었어... 뒤지는 게 더 나았다고. 염병.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_4">
+		<text>정신보호모는 어쨌어?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_5">
+		<text>젠장, 그게 내 머리사이즈랑 항상 안 맞아서 좆같았단 말이지. 스코쳐가 꺼진 상태에서 그게 필요하지 않을 거라 생각했어. 그 결과 이 꼴이지만. 어쨌든 빨래방으로 돌아가자. 재편성해야 해.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_6">
+		<text>그래 가자.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_saved_0">
+		<text>도착했어.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_saved_1">
+		<text>고마워, 터프 가이. 넌 날 죽음보다 더 끔찍한 운명에서 구해준거야. 평생 잊지 않을 게.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_saved_2">
+		<text>별말씀을.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_join_0">
+		<text>서둘러 가야해.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_join_1">
+		<text>불길한 예감이 드는 걸.</text>
+	</string>
+	
+	<string id="pri_a17_strelok_dialogue_0">
+		<text>스트렐록. 모노리스는 잘 때려 잡고 있어?</text>
+	</string>
+	<string id="pri_a17_strelok_dialogue_1">
+		<text>고마워요, 네가 올 줄은 몰랐는 걸. 이곳은 안전하지 않아. 빨래방에 가자, 이야기할 게 있어.</text>
+	</string>
+	<string id="pri_a17_strelok_dialogue_2">
+		<text>그래 돌아가자.</text>
+	</string>
+	
+	<string id="pri_a16_strelok_dialogue_0">
+		<text>무슨 일이야? 나머지는?</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_1">
+		<text>우리는 모노리스 보급선을 끊기 위해 들어갔어. 결국 그놈들이 우리를 상대하기 위해 전담 분대를 구성했고. 우리는 전투 중에 찢어졌어. 이 지역에서 장거리 메시지를 보내는 것은 위험하고, 로그와 스티치를 직접 찾기에는 지금은 너무 지쳤어. 버려진 병원 근처에서 헤어졌고 아마 근처에 있겠지. 주변을 둘러보고 그들을 좀 찾아줘.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_2">
+		<text>좋아. 여기서 기다려 내가 찾아오지.</text>
+	</string>
+	
+	<string id="pri_a18_rogue_fallen_0">
+		<text>나는 유치원에서 이상한 동상에 기도하는 로그를 발견했어. 정신 이상현상에 노출된 것 같아.</text>
+	</string>
+	<string id="pri_a18_rogue_fallen_1">
+		<text>젠장. 그는 존의 그 어떤 것도 자길 죽일 수 없다고 자랑했는데. 뮤턴트도 모노리스도 아닌... 고작 이상현상에 의해 머리가 튀겨지다니. 그가 평화롭게 쉬기를.</text>
+	</string>
+	<string id="pri_a18_rogue_fallen_2">
+		<text>평화롭게 쉬길.</text>
+	</string>
+	
+	<string id="pri_a28_stitch_fallen_0">
+		<text>프로메테우스 극장 근처에서 스티치를 찾았어. 미안, 살려올 수 없었어.</text>
+	</string>
+	<string id="pri_a28_stitch_fallen_1">
+		<text>그가 없는 존은 훨씬 더 어두운 곳이 될 거야. 그가 평화롭게 쉬기를.</text>
+	</string>
+	<string id="pri_a28_stitch_fallen_2">
+		<text>평화롭게 쉬길.</text>
+	</string>
+	
+	<string id="pri_a16_strelok_dialogue_team_0">
+		<text>프리피야트는 항상 비슷하구만.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_1">
+		<text>네. 다행히 팀이 다시 모였어. 다시 동료를 내 손으로 땅에 묻긴 싫었거든.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_100">
+		<text>로그 그녀석 참 터프하단 말이지. 전투에서 그녀석의 확고한 지원 없이는 고군분투할게 분명해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_110">
+		<text>스티치는 훌륭한 동료야. 그 유머 감각 없이 싸워나갈 수 있다는 생각이 안 드니까.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_120">
+		<text>거의 대부분의 친구들이 존에서 길을 잃었지... 또 말이야. 다음은 뭐가 될까? 흥, 이젠 거의 남지도 않았지만.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_2">
+		<text>괜찮아, 스트렐록. 내가 도와줄게.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_200">
+		<text>정말 로그가 전투에서 죽을 거라고 상상하지 못했어.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_210">
+		<text>스티치 같이 쾌활한 녀석이, 정말 죽다니. 젠장.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_220">
+		<text>존은 정말 좆같은 곳이구만. 그래도 그 죽음이 헛되었다고 생각하진 않아... 사신놈도 그들이 무엇과 마주하다 죽었는지 알게될거야.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_3">
+		<text>계속 나아가는 것 외에는 선택의 여지가 없군. C-의식체가 죽은 후에도 우리는 모노리스와 씬에 치명적인 타격을 가했고 모든 정신파 시설을 비활성화했지만... 존은 계속 존제하지. 난 이 공포를 정말로 파괴할 순 있는지 궁금해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_4">
+		<text>존은 계속 남아 있을 것같다는 생각이 들어, 좋던 나쁘던.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_5">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 듀티의 일원이라는 것을 알고 있으니까 쉽게 떠날 수는 없겠지만 내 동료가 되어보지 않을래? 고려해봐. 최대한 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_51">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 더쉬맨과 계약을 파기하기 힘들다는 건 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 최대한 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_52">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 자유로운 스토커라는 건 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 최대한 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_53">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 클리어 스카이 소속이라는 걸 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 최대한 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_54">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 프리덤 소속이라는 걸 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 최대한 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_55">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 과학자 소속이라는 걸 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 최대한 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_500">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 듀티의 일원이라는 것을 알고 있으니까 쉽게 떠날 수는 없겠지만 내 동료가 되어보지 않을래? 고려해봐. 팀이 사라졌으니... 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_501">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 더쉬맨과 계약을 파기하기 힘들다는 건 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 팀이 사라졌으니... 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_502">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 자유로운 스토커라는 건 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 팀이 사라졌으니... 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_503">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 클리어 스카이 소속이라는 걸 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 팀이 사라졌으니... 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_504">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 프리덤 소속이라는 걸 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 팀이 사라졌으니... 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_505">
+		<text>그래. 좀 쉬고 나서 다음에 무엇을 할지 생각해 볼게. 니가 과학자 소속이라는 걸 알고 있지만 내 동료가 되어보지 않을래? 고려해봐. 팀이 사라졌으니... 도움이 필요해.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_6">
+		<text>그래, 고려해볼게.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_61">
+		<text>미안, 다른 약속들을 너무 많아서. 미안.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_7">
+		<text>그래, 또 보자.</text>
+	</string>
+	
+	<string id="strelok_finale_dialogue_0">
+		<text>SSU 요원 덱타레프 대령이. 당신을 정부 구금시설로 데려가거나... 제거하라는 부탁을 받았어.</text>
+	</string>
+	<string id="strelok_finale_dialogue_1">
+		<text>더 이상 군대에서 일하고 싶지 않아. 그들은 사고가 나도 아무 일도 일어나지 않은 척하고 철저히 비밀로 유지하는 것을 선호하지. 상황을 고치는 건 너무 많은 노력과 돈 낭비라며. 좆이나 까라지.</text>
+	</string>
+	<string id="strelok_finale_dialogue_2">
+		<text>나도 알아, 스트렐록. 하지만 내 말 잘 들어.</text>
+	</string>
+	<string id="strelok_finale_dialogue_3">
+		<text>뭔데?</text>
+	</string>
+	<string id="strelok_finale_dialogue_4">
+		<text>나는 덱타레프의 신뢰를 얻고있어. 우리가 빠르고 정밀하게 선제공격한다면 그의 부하들을 놀라게 할 수 있을지도 몰라. 솔직히 정말로 그렇게 하고 싶진 않은데, 당신을 붙잡아가게 두진 않을 거야.</text>
+	</string>
+	<string id="strelok_finale_dialogue_400">
+		<text>당신은 정말 수많은 일을 해냈잖아. 덱타레프랑 타협할 여지가 있을 거야. 지금부터 존에 대한 지식을 숨기고 비밀로 유지하는 데 동의하면 아마 당신을 놓아줄지도 몰라. 나는 당신을 지지해.</text>
+	</string>
+	<string id="strelok_finale_dialogue_401">
+		<text>당신은 정말 수많은 일을 해냈잖아. 덱타레프랑 타협할 여지가 있을 거야. 지금부터 존에 대한 지식을 숨기고 비밀로 유지하는 데 동의하면 아마 당신을 놓아줄지도 몰라. 나는 당신을 지지해.</text>
+	</string>
+	<string id="strelok_finale_dialogue_402">
+		<text>당신은 정말 수많은 일을 해냈잖아. 덱타레프랑 타협할 여지가 있을 거야. 지금부터 존에 대한 지식을 숨기고 비밀로 유지하는 데 동의하면 아마 당신을 놓아줄지도 몰라. 나는 당신을 지지해.</text>
+	</string>
+	<string id="strelok_finale_dialogue_5">
+		<text>좋아. 결국 이렇게 되는군. 그럼, 종지부를 찍자고.</text>
+	</string>
+	<string id="strelok_finale_dialogue_500">
+		<text>원래도 그렇게 할 거였긴 했는데. 동의한다고 전해줘.</text>
+	</string>
+	<string id="strelok_finale_dialogue_6">
+		<text>좋아. 그럼 따라와.</text>
+	</string>
+	
+	<string id="strelok_finale_fight_dialogue_0">
+		<text>대령은 죽었군. 아마 한동안 군대가 쫓아오진 않을 거야.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_1">
+		<text>썩 괜찮은 사람이었어. 군대가 그 없이 임무를 계속할 것인지 의심스럽군. 내편에 서줘서 고마워.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_100">
+		<text>유감이지만 적어도 우리의 신용을 되찾았으니 됐지. 고마워.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_2">
+		<text>그 모든일을 같이 헤쳐나왔잖아. 이게 내가 할 수 있는 최소한의 일이야.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_3">
+		<text>그래, 정말 함께 많은 일을 겪었지, 그렇지? 이번 여행이 이렇게 끝나서 슬프지만 그래도 한편으론 다시 이런식으로 여행을 할 수 있었던 것도 나쁘진 않았어. 난 다시 은신처로 돌아가서 아직 밝혀지지 않은 지하 기지들을 찾아내야 해. 아마 오랫동안 서로를 보지 못하겠지. 마침내 닥터를 방문하게 될 수도. 뭐, 잘 하면 그 사람이랑 같이 떠날 수도 있겠네. 아직은 정해진 게 없지만. 그럼... 가볼게. 존을 배회하다보면, 혹시 알아? 다시 보게 될지.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_4">
+		<text>그래, 잘가. 스트렐록. 몸 조심하고.</text>
+	</string>
+	
+	<string id="strelok_finale_negotiator_dialogue_0">
+		<text>결국엔 군인들이 널 놔줄거 같은데? </text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_1">
+		<text>상황이 많이 달라졌을 수도 있지만 덱타레프가 올 것 같은 예감이 들었어. 그래도 이만한 게 다행이야. </text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_100">
+		<text>그래. 내 팀이 전부 살아서 이 결과를 봤으면 더 좋았을 텐데. 그래도 이게 최선이었겠지.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_101">
+		<text>그래. 내 팀이 전부 살아서 이 결과를 봤으면 더 좋았을 텐데. 그래도 이게 최선이었겠지.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_102">
+		<text> 스티치와 로그가 그렇게 가다니 끔찍하군. 그들을 팽과 고스트의 곁에 묻어줘야겠어. </text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_2">
+		<text>그래, 상황이 급변했지. 그래도 도움이 될 수 있어서 기뻐. </text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_202">
+		<text>스트렐록, 그들도 아마 전설로 기억될 거야. </text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_3">
+		<text>그래, 정말 함께 많은 일을 겪었지, 그렇지? 난 다시 은신처로 돌아가서 아직 밝혀지지 않은 지하 기지들을 찾아내야 해. 아마 오랫동안 서로를 보지 못하겠지. 마침내 닥터를 방문하게 될 수도. 뭐, 잘 하면 그 사람이랑 같이 떠날 수도 있겠네. 그 이후로는 ... 글쎄, 오직 존만이 알고 있겠지. 아무튼 우리 모두가 해낸 거 같군... 정말 고마워. 너 없이는 이렇게 성공적으로 일을 끝마치지 못했을 거야. 정말 깊이 고마움을 표할게. 그럼 이제 가볼게.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_300">
+		<text>스티치랑 난 이제 떠나려고. 그래, 정말 함께 많은 일을 겪었지, 그렇지? 난 다시 은신처로 돌아가서 아직 밝혀지지 않은 지하 기지들을 찾아내야 해. 아마 오랫동안 서로를 보지 못하겠지. 마침내 닥터를 방문하게 될 수도. 뭐, 잘 하면 그 사람이랑 같이 떠날 수도 있겠네. 그 이후로는 ... 글쎄, 오직 존만이 알고 있겠지. 아무튼 우리 모두가 해낸 거 같군... 정말 고마워. 너 없이는 일을 끝마치지 못했을 거야. 정말 깊이 고마움을 표할게. 그럼 이제 가볼게.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_301">
+		<text>로그와 나는 이제 떠나려고. 그래, 정말 함께 많은 일을 겪었지, 그렇지? 난 다시 은신처로 돌아가서 아직 밝혀지지 않은 지하 기지들을 찾아내야 해. 아마 오랫동안 서로를 보지 못하겠지. 마침내 닥터를 방문하게 될 수도. 뭐, 잘 하면 그 사람이랑 같이 떠날 수도 있겠네. 그 이후로는 ... 글쎄, 오직 존만이 알고 있겠지. 아무튼 우리 모두가 해낸 거 같군... 정말 고마워. 너 없이는 일을 끝마치지 못했을 거야. 정말 깊이 고마움을 표할게. 그럼 이제 가볼게.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_302">
+		<text>그래, 정말 함께 많은 일을 겪었지, 그렇지? 난 다시 은신처로 돌아가서 아직 밝혀지지 않은 지하 기지들을 찾아내야 해. 그 둘을 잃게 될 줄이야. 제길. 하아. 그래, 마침내 닥터를 방문하게 될 수도. 뭐, 잘 하면 그 사람이랑 같이 떠날 수도 있겠네. 그 이후로는 ... 글쎄, 오직 존만이 알고 있겠지. 아무튼... 그럼 이제 가볼게.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_4">
+		<text>다시 만나자, 스트렐록. </text>
+	</string>
+        
+	<string id="stalker_stitch_dialog_oa_0">
+		<text>젠장. 도대체 어쩌다가 이렇게 된 거야? </text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_1">
+		<text>그래 우리는 모노리스가 개떼처럼 쏟아지고 미친듯이 싸우고 있었지. 총알이 사방에 날아다니고 수류탄이 터지고 모노리스 놈들이 개헛소리를 지르고 ... 난 필사적으로 극장으로 도망쳤어. 문제는 이곳이 좀비들로 가득 차 있다는 것을 깨달았고 거기서 도망치자마자 또 다른 좀비 무리를 만났어. 정말 잘 와줬어... 이제 빨래방으로 가도 될까? 제발? </text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_2">
+		<text> 물론. 가자. </text>
+	</string>
+        
+	<string id="stalker_stitch_dialog_oa_saved_0">
+		<text> 휴. 어디 물린건 아니지? 막 이상한 기분이 들면 바로 말하라고. 총알은 많으니까.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_saved_1">
+		<text> 하! 내가 지금 손이 떨리지만 않는다면 비웃어 줬을 텐데... 휴우. 도와줘서 진짜 고마워. 빚을 졌어. </text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_saved_2">
+		<text>천만에, 스티치. </text>
+	</string>
+        
+	<string id="stalker_stitch_dialog_oa_join_0">
+		<text>서둘러야 하니까 가자. </text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_join_1">
+		<text>물론. </text>
+	</string>
+        
+	<string id="degtyarev_start_0">
+		<text>일정이 빡빡하니까 빨리 진행하지. </text>
+	</string>
+        
+	<string id="degtyarev_start_jup_0">
+		<text>안녕. </text>
+	</string>
+        
+	<string id="degtyarev_start_pri_0">
+		<text> 아, 당신이군. 더 이상 관여하지 않는 것이 좋다고 해두지. </text>
+	</string>
+        
+	<string id="degtyarev_transmission_0">
+		<text>당신은 누구야? </text>
+	</string>
+	<string id="degtyarev_transmission_1">
+		<text>그건 내 대사야, 스토커. 우리가 불필요한 관심을 끌었던 것 같군. 난 덱타레프 대령이다. 낭비할 시간이 없어. 거절할 수 없는 제안이 하나 있어. 내 부대가 적을 제거할 수 있도록 도와줬으면 좋겠어. 듀티라면 사명감과 일처리가 훌륭하리라 믿어. </text>
+	</string>
+	<string id="degtyarev_transmission_100">
+		<text>그건 내 대사야, 용병. 우리가 불필요한 관심을 끌었던 것 같군. 난 덱타레프 대령이다. 낭비할 시간이 없어. 거절할 수 없는 제안이 하나 있어. 내 부대가 적을 제거할 수 있도록 도와줬으면 좋겠어. 보수는 당연히 훌륭하다고 약속하지.</text>
+	</string>
+	<string id="degtyarev_transmission_110">
+		<text>그건 내 대사야, 스토커. 우리가 불필요한 관심을 끌었던 것 같군. 난 덱타레프 대령이다. 낭비할 시간이 없어. 거절할 수 없는 제안이 하나 있어. 내 부대가 적을 제거할 수 있도록 도와줬으면 좋겠어. 보수는 당연히 훌륭하다고 약속하지. </text>
+	</string>
+	<string id="degtyarev_transmission_120">
+		<text>그건 내 대사야, 스토커. 우리가 불필요한 관심을 끌었던 것 같군. 난 덱타레프 대령이다. 낭비할 시간이 없어. 거절할 수 없는 제안이 하나 있어. 내 부대가 적을 제거할 수 있도록 도와줬으면 좋겠어. 클리어 스카이라면 어떤 비밀은 숨겨져야만 한다는 사실을 잘 알고 있을 테지? </text>
+	</string>
+	<string id="degtyarev_transmission_130">
+		<text>그건 내 대사야, 스토커. 우리가 불필요한 관심을 끌었던 것 같군. 난 덱타레프 대령이다. 낭비할 시간이 없어. 거절할 수 없는 제안이 하나 있어. 내 부대가 적을 제거할 수 있도록 도와줬으면 좋겠어. 프리덤이 군을 좋아하지 않는다는 건 알고 있어. 하지만 야노브역에 우리가 군사적으로 지원해 줬던 빚을 갚아 달라고 이야기 할 수도 있겠군.</text>
+	</string>
+	<string id="degtyarev_transmission_140">
+		<text>그건 내 대사야, 과학자. 우리가 불필요한 관심을 끌었던 것 같군. 난 덱타레프 대령이다. 낭비할 시간이 없어. 거절할 수 없는 제안이 하나 있어. 내 부대가 적을 제거할 수 있도록 도와줬으면 좋겠어. 당신이 연구원이라는 건 알고 있어, 하지만 씬을 처리한 방식으로 보건데 이런 일 정도는 우습게 처리 할 수 있어 보이는데? 보상은 충분히 하지.</text>
+	</string>
+	<string id="degtyarev_transmission_2">
+		<text>좋아. 도와주지. </text>
+	</string>
+	<string id="degtyarev_transmission_21">
+		<text>관여하지 않는게 낫다고 생각되는데. </text>
+	</string>
+	<string id="degtyarev_transmission_3">
+		<text> 좋아. 적은 현재 남동쪽에 버려진 레인저 스테이션에 주둔하고 있어. 지점을 확보해줘. 내 부대와 내가 바로 뒤에 붙지. </text>
+	</string>
+	<string id="degtyarev_transmission_31">
+		<text>당신은 이미 이 일에 연루되어 있다는 걸 기억해. 만약 우리를 도와준다면 내가 상관들에게 보고할 때 당신이 우리를 '우연히' 만났다는 사실을 보고하는 걸 '소홀히' 할 수 있어. 잘 고려해봐. </text>
+	</string>
+	<string id="degtyarev_transmission_4">
+		<text>좋아, 대령. 가자. </text>
+	</string>
+	<string id="degtyarev_transmission_41">
+		<text>하아, 그래. 처음부터 그렇게 말하지 그랬어. </text>
+	</string>
+        
+	<string id="degtyarev_rally_point_middle_0">
+		<text>다 처리했어. 이젠 어떻게 할까? </text>
+	</string>
+	<string id="degtyarev_rally_point_middle_1">
+		<text>우린 보초를 처리한 것 뿐이야. 곧 나머지 분대가 정찰에서 돌아올 거야. </text>
+	</string>
+	<string id="degtyarev_rally_point_middle_2">
+		<text>몇 명? </text>
+	</string>
+	<string id="degtyarev_rally_point_middle_3">
+		<text>잘 무장한 병사 9명. 분대 리더는 외골격을 가지고 있으니까 힘든 전투에 대비하는 게 좋을거야.</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_4">
+		<text>매복할 수 있다는 게 그나마 다행이군. </text>
+	</string>
+        
+	<string id="degtyarev_rally_point_0">
+		<text>휴우, 이제 정말 끝난거지? </text>
+	</string>
+	<string id="degtyarev_rally_point_1">
+		<text> 시체를 수색해봐. 리더가 PDA를 달고 있을 거야. 그걸 살펴보고 싶어. </text>
+	</string>
+	<string id="degtyarev_rally_point_2">
+		<text>그래, 그래. </text>
+	</string>
+        
+	<string id="degtyarev_rally_point_pda_0">
+		<text>여기, PDA. </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_1">
+		<text>좋아, 다음 움직임을 예측하는 데 도움이 될 거야. </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_2">
+		<text>이놈들은 뭐하는 놈들이야? </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_3">
+		<text>유니폼에 있는 패치 못봤어? </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_4">
+		<text>아니, 그건 알지. "UNISG"라고 적혀있지만 이놈들이 과학자라면 난 버러다.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_5">
+		<text>하아, 아마 처음 설립된 건 2011년으로 돌아가야겠지. 다만 최근의 혼란, 씬과의 전쟁, 얼마 전부터 엄청난 에미션을 감안할 때 UN이 특별 정찰 부대를 재편성할 필요성을 느꼈던 것 같아. 내가 잡은 정찰병들은 여전히 ​​생태학자들처럼 이 지역을 연구한다고 주장하지만, 존의 기원에 대해서도 궁금해한다는 것을 알고 있지. 군은 어떤건 미스터리로 남아 있는 것이 좋다고 생각하고. </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_6">
+		<text>와, 정말 말해 주는구나? 그럼 이제 난 여기서 죽는 거야? </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_7">
+		<text> 걱정하지 마. 솔직히 현지인들과 작업한 게 이번이 처음이 아니야. 도와줘서 고마워. 답례야. 그리고 난 당신의 참여를 비밀로 할 거고. 그러니 친절하게 경고하는데 이 작전에 대해 언급을 줄여. 말만 적게 하면 다시 일을 부탁하러 찾아갈 게. </text>
+	</string>
+	<string id="degtyarev_rally_point_pda_8">
+		<text>그래. 알겠어. 그럼 안녕, 대령.</text>
+	</string>
+        
+	<string id="degtyarev_further_cooperation_special_delivery_0">
+		<text>의외인데. 야노브에서 뭐 하고 있어? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_1">
+		<text> 그냥. 알다시피, 탐험하고, 사냥하고, 세상에서 가장 위험한 일도 좀 하고.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_2">
+		<text>다른 스토커들이 널 엄청 신경 쓸 텐데? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_3">
+		<text>당연하지. 사실 난 이 근처에 도움을 준 중립적인 스토커로, 꽤 좋게 기억되고 있는 것 같아서. 그대로 이미지가 유지되는 편이 더 좋기도 하고. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_4">
+		<text> 그렇군. 근데 왜 쪽지 보냈어? 네가 여행 동반자가 필요하다고는 생각되지 않는데. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_5">
+		<text>알다시피, 난 바쁜 사람이야. 그리고 동시에 처리해야 할 일이 많지. 당신은 존에 있는 정말 동안 많은 것을 성취했지? 당신이 날 도와준다면 감사와 함께 큰 보상을 받을 하지. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_6">
+		<text>뭐가 필요한데? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_7">
+		<text>친구에게 소포를 배달해야 해. 여기서 멀지 않은 곳에서 기다리고 있을 거야. 문제는 그 녀석 "깡패" 들 한테 쫓기고 있다고 보고했어. 따라서 배달은 빠르고 은밀해야 해야해. 가능하겠어? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_8">
+		<text>그래, 갔다오지. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_9">
+		<text>기대할게. </text>
+	</string>
+        
+	<string id="degtyarev_further_cooperation_undercover_agent_0">
+		<text>배송에 대해 ... </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_1">
+		<text>어때? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_11">
+		<text>너 정도면 별 문제 없었을 거라 생각하는데? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_2">
+		<text>아무것도 아니야. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_20">
+		<text>성공적으로 잘 배달했어. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_200">
+		<text>친구는 어쩔 수 없었어. 내가 도착했을 때 그는 이미 죽어 있더군. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_210">
+		<text>미안. 시간을 지키지 못했어. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_3">
+		<text>좋아. 여기 보상. 그리고 또 다른 작업이 남았어. 알다시피, 내 또 다른 친구가 "깡패" 분대에 잠입해있어. 그놈들의 행동을 관찰하고 있지. 그에게 직접 접촉해서 정보를 얻어와 줘. 알다시피 나는 그놈들에겐 유명인사라서 말이야.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_4">
+		<text>그런데 그 "깡패"들 괜찮아? 나를 보는 즉시 쏘진 않을까? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_5">
+		<text>그들이 처한 상황을 감안할 때, 이곳에 있는 다른 세력과 최대한 마찰을 빗으려고 하진 않을거야. 중요한건 니가 거기에 찾아간 이유를 알아차리지 못하게 해야겠지만. 그건 그렇고, 그 친구가 널 보면 그 지역의 위험한 돌연변이에 대해 당신에게 물어볼 거야. 그럼, 잘 기억해 '눈먼 개떼에게 공격을 받았다'고 말해. 잘 기억해. '눈먼 개떼에게 공격을 받았다'.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_6">
+		<text>알겠어. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_300">
+		<text> 젠장, 나쁘게 돌아가는군. 소포를 배달하려면 다른 계획을 세워야해. 그래도 노력에 대한 작은 보상을 받을 자격은 있겠지.알다시피, 내 또 다른 친구가 "깡패" 분대에 잠입해있어. 그놈들의 행동을 관찰하고 있지. 그에게 직접 접촉해서 정보를 얻어와 줘. 알다시피 나는 그놈들에겐 유명인사라서 말이야. </text>
+	</string>
+        
+	<string id="degtyarev_further_cooperation_search_unit_0">
+		<text>친구에 대해 ... </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_1">
+		<text>응? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_2">
+		<text>아무것도 아니야. 미안 </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_20">
+		<text>펜드라이브를 가지고 왔어. 아무도 의심하지 않았고. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_200">
+		<text>펜드라이브를 가지고 왔어. 그런데 말이야, 일이 조금 꼬였어. 내가 암구호를 기억을 못해서 말이야. 그, 전부, 쓸어버릴 수밖에 없었었어. 미안. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_3">
+		<text> 잘했어. 작업이 순조롭게 진행되 가서 다행이야. 한 가지 더. "깡패"가 오래된 주피터 공장을 철저히 수색하고 있는 것 같아. 그곳이야 예전에 비었지만 아직 비밀이 남아 있는 경우를 대비해서 손을 써야겠어. 유비무환이지. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_4">
+		<text>그렇다면. 어서 가자. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_300">
+		<text>뭐? 하아... 젠장, 아니 간단한 암호 문구였잖아! 하아, 그래 니가 거의 단신으로 광신도를 쓸어버렸다는 게 정말이긴 하군. 그래도 가지고온 정보는 여전히 유효해. 이쪽 작업은 거의 다 마친거나 다름없지. 한 가지 더. "깡패"가 오래된 주피터 공장을 철저히 수색하고 있는 것 같아. 그곳이야 예전에 비었지만 아직 비밀이 남아 있는 경우를 대비해서 손을 써야겠어. 유비무환이지. </text>
+	</string>
+        
+	<string id="degtyarev_further_cooperation_search_unit_middle_0">
+		<text>시체산이 점점 높이 쌓여가는데 그래? 이제 끝난거 맞지?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_middle_1">
+		<text> 즉각적인 위협은 사라졌어. 이제 남은 문서가 없나 공장을 탐색해야지. 사실 내가 몇 년 전에 이곳을 방문하긴 했는데 한 곳을 놓쳤을 수도 있어서. 그땐 참 바빴지. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_middle_2">
+		<text> 그래, 내가 피칠갑이 되는 모습을 잘 봐두라고. 갔다온다.</text>
+	</string>
+        
+	<string id="degtyarev_further_cooperation_final_0">
+		<text>여기 문서. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_1">
+		<text>아주 좋아. 주피터에선 이제 볼일이 없어. 이제야 떠날 수 있겠군. 작전명 에프터 글로우는 아직 진행 중이야. 프리피야트 외곽에 일이 좀 있지만 니가 개입할 이유는 없겠지. 도와줘서 고마워. 다음에 만나자. </text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_2">
+		<text>그래.</text>
+	</string>
+        
+	<string id="degtyarev_further_cooperation_final_bad_0">
+		<text> 너무 늦었어! 여기에 있는 것이 알려지면 UNISG 연구원들이 쏟아질거야. 이제 어떻게 할까? </text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_bad_1">
+		<text>일이 점점 더 어려워지는군, 어쩔 수 없지. 어쨌건 주피터에서 할 일이 끝났거니 이젠 떠나야겠어. 작전이 남아있으니까. 프리피야트 외곽에 일이 좀 있지만 니가 개입할 이유는 없겠지. 도와줘서 고마워. 다음에 만나자.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_bad_2">
+		<text>그래, 덱타레프. </text>
+	</string>
+        
+	<string id="degtyarev_finale_dialogue_0">
+		<text>무슨 일이야. 여기서 뭐해, 대령? </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_1">
+		<text> 다시 말하지만 난 우크라이나 보안국의 장교야. 존에는 잘 숨겨져 있어야만 하는 많은 비밀이 있지. 그러나 일부 사람들은 이미 너무 많은 것을 발견했어. 스트렐록이 그런 사람들 중 하나라는 건 당연하고 UNISG도 이걸 알고 있지. 내 주요 목표는 민감한 정보가 잘못된 사람에게 누출되는 것을 방지하는 거야. 그렇게 되면 남는건 스트렐록을 정부의 보호 아래 다시 둬서 공식 연구 고문으로 일을 하게 하거나 ... 그를 제거하는 거겠지. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_2">
+		<text>진심으로 스트렐록을 죽이려는 거야? 그 사람은 존에서 가장 경험 많은 스토커 중 한 명이라고! 그 사람은 몇 년 동안 모노리스와 싸워왔고, 심지어 이겨왔어!</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_3">
+		<text>에프터 글로우 작전은 사실상 실패에 가까워. UNISG는 이미 존의 국제적 병합을 정당화할 만큼 충분한 자료들을 발견했어. 상황은 이미 촌각을 다추고 있다는 소리야. 그리고 우리가 할 수 있는 최소한은 작전을 복구하기 위한 피해 통제지. 우린 스트렐록에게 사절을 보내 최후의 통첩을 해야 할 거 같아. 여기엔 당신이 포함되어 있고. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_300">
+		<text>에프터 글로우 작전은 지금까지 큰 성공을 거뒀어. 우리는 UNISG로부터 모든 비밀을 지킬 수 있었고, 그들이 떠나지 않을 거라면 최소한 비무장시킬 명분은 충분하겠지. 상황은 안정적이고 그럼, 매듭을 지어야 겠지. 어쩔 수 없어. 스트렐록에게 사절을 보내 최후의 통첩을 해야 할 거 같아. 여기엔 당신이 포함되어 있고. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_310">
+		<text>에프터 글로우 작전의 결과는 실망스러웠어. UNISG는 UN으로부터 추가 자금과 지원을 확보할 수 있을 만큼 충분히 자료를 가지고 있지. 상황이 심각해. 더 이상 실패는 없어야해. 우린 스트렐록에게 사절을 보내 최후의 통첩을 해야 할 거 같아. 여기엔 당신이 포함되어 있고. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_320">
+		<text>에프터 글로우 작전은 일단 성공적이었어. UNISG가 자료를 몇개 발견 했지만, 1~2년 이상 유지 관리를 위한 명분으로 정당화하기엔 충분하지 않겠지. 상황이 좋아, 그럼 매듭을 지어야 겠지. 어쩔 수 없어. 스트렐록에게 사절을 보내 최후의 통첩을 해야 할 거 같아. 여기엔 당신이 포함되어 있고. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_4">
+		<text>별로 도움이 되지 못한건 미안해. 그래도 정말 꼭 이래야해? </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_400">
+		<text>널 도울 수 있어서 기뻐. 대가는 언재쯤 받을 수 있을까? </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_410">
+		<text>상황이 나쁘지 않다며, 그럴 필요는 없잖아! </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_420">
+		<text>널 도울 수 있어서 기뻐. 대가는 언재쯤 받을 수 있을까? </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_5">
+		<text> 그래, 나도 마찮가지야. 하지만 유감스럽게도 너또한 군이 "실수를 덮기"에 휘말리지 않고 싶다면 협조하는 편이 좋다고 생각해. 개인적인 조언이야.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_500">
+		<text>비록 당신이 성공에 크게 기여했지만 이건 군사 작전이라는 걸 기억해줘. 어떤 종류의 "호의"를 염두하고 있지? </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_510">
+		<text>그래, 나도 마찮가지야. 하지만 유감스럽게도 너또한 군이 "실수를 덮기"에 휘말리지 않고 싶다면 협조하는 편이 좋다고 생각해. 개인적인 조언이야.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_520">
+		<text>이건 군사 작전이라는 걸 기억해줘, 우리가 어떤 "호의"를 줄 수 있는 지 확신할 수 없지만 ... 말 해봐. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_6">
+		<text> 젠장, 선택의 여지가 없는 것 같군. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_61">
+		<text>난 이제 이런 짓에 질렸어, 덱타레프. 처음에 그랬어야 했던 것처럼 내가 해야만 하는 일을 해주지. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_600">
+		<text>너도 알겠지만 스트렐록이 순순히 오고 싶어하지 않을 건 알거야. 그 대신, 내가 타협을 하도록 설득해 볼게. 당신이 그 사람을 풀어주는 대가로 그 사람은 함구한 채 존에 숨어 있는 거지. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_7">
+		<text>합당한 거래로 들리는 군. 군 관계자들은 별로 좋아하지 않을 테지만, 작전의 전반적인 성공률을 고려할 때 그를 '도망치게' 할 여유가 충분하다고 생각해. 좋아. 시간을 10분 주지. 그 사람을 설득해 봐. </text>
+	</string>
+	<string id="degtyarev_finale_dialogue_8">
+		<text> 고마워, 대령. 모두에게 가장 좋은 결과라고 생각해. </text>
+	</string>
+        
+	<string id="degtyarev_finale_military_dialogue_0">
+		<text> 약속 했어. 스트렐록은 다시는 어떤 비밀도 공개하지 않을 거야. </text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_1">
+		<text>최선의 해결책은 아니었지만 선택의 여지가 거의 없었어. 적어도 지금 에프터 글로우 작전은 완전히 실패 하진 않았으니까... 그러니까 당신이 입 다문다고 맹세하면 여길 떠날 수 있어. 우리가 당신을 지켜보고 있다는 걸 기억해줘. </text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_100">
+		<text>최선의 해결책은 아니었지만 선택의 여지가 거의 없었어. 에프터 글로우 작전은 제법 성공 했다고 할 수 있으니까... 그러니까 당신이 입 다문다고 맹세하면 여길 떠날 수 있어. 우리가 당신을 지켜보고 있다는 걸 기억해줘. </text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_2">
+		<text>난 너와 니의 장난감 병정들이 내 궁둥짝을 더듬지 않게 하려고 동의했을 뿐이야. 맹세하지. 존에 대해 알게 된 걸 아무에게도 말하지 않을 거다. 약속이야. </text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_3">
+		<text> 아주 좋아. 미안하지만, 다시는 만나지 않기를 바라지. </text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_300">
+		<text> 아주 좋아. 미안하지만, 다시는 만나지 않기를 바라지. 생각해보면 당신에게 어울리는 결과기도 하군. 존을 돌아다니는 스토커라.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_4">
+		<text>그럼.</text>
+	</string>
+        
+	<string id="degtyarev_finale_negotiator_dialogue_0">
+		<text>UNISG 분대가 궤멸했어. 더는 폭력이 필요하진 않겠지. 스트렐록이라면 아마 자길 찾게 내버려두지도 않겠지만. </text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_1">
+		<text>잘 했어. 이제 스트렐록은 떠날 수 있어. 우리는 더 이상 그를 쫓지 않을 거고. 당신도 마찬가지야. </text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_100">
+		<text> 잘 했어. 계속 주시하긴 하겠지만 이제 스트렐록은 떠날 수 있어. 우리는 더 이상 그를 쫓지 않을 거고. 당신도 마찬가지야. </text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_2">
+		<text>충분해. 당신과 함께 일할 수 있어서 정말 좋았어. </text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_3">
+		<text>다시 한 번 말하지만, 정말 훌륭한 작품이군. 우리는 언젠가 다시 협력할 수도 있을 거 같은데. 그럼 그때까지 잘 지내라고.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_300">
+		<text> 당신은 꽤 임무를 잘 수행했어. 그럼 이제 자유롭게 이동해서 일상적인 활동을 재개하도록 해. 그럼 이만. </text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_4">
+		<text>그래, 대령. </text>
+	</string>
+        
+	<string id="army_lt_jup_special_delivery_0">
+		<text> 응? 뭐 볼일 있어? </text>
+	</string>
+	<string id="army_lt_jup_special_delivery_1">
+		<text>덱타레프 대령으로부터 소포를 받았다. </text>
+	</string>
+	<string id="army_lt_jup_special_delivery_2">
+		<text>좋아, 이리 줘. </text>
+	</string>
+	<string id="army_lt_jup_special_delivery_3">
+		<text>그게 다야? </text>
+	</string>
+	<string id="army_lt_jup_special_delivery_4">
+		<text>응, 낭비할 시간이 없어. 가도 되. </text>
+	</string>
+	<string id="army_lt_jup_special_delivery_5">
+		<text>즐거운 여행 되길. </text>
+	</string>
+        
+	<string id="army_isg_spy_undercover_agent_0">
+		<text>여기서 뭐하는거야, 스토커? 오늘 캠프는 약간 긴장 상태라고. 문제가 되지 않으면 떨어져. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_1">
+		<text> 난 메신저일 뿐이야. 그냥 저쪽 지역의 돌연변이 활동에 대해 알려주려고. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_2">
+		<text> 아, 좋아. 어땠어? 주변에 위험한 게 있었어? </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_3">
+		<text>눈먼 개떼에게 공격을 받았어. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_301">
+		<text>중간에 눈먼 개떼에게 공격을 받았다. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_30">
+		<text>중간에 시도우독에게 공격 받았어. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_31">
+		<text>중간에 시도우자이언트에게 공격을 받았어. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_40">
+		<text>어, 확실해? </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_50">
+		<text>젠장, 이 멍청아! 이것을 가지고 당장 떠나! </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_4">
+		<text> 음, 맞아. 조심해야겠네. 고마워. 이걸 가지고 가. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_5">
+		<text>안녕. </text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_60">
+		<text>젠장. </text>
+	</string>
+        
+	<string id="military_tarasov_dialog_start_0">
+		<text>존의 또 다른 임무에 관해 ... </text>
+	</string>
+	<string id="military_tarasov_dialog_oa_join_0">
+		<text>가자. </text>
+	</string>
+	<string id="military_tarasov_dialog_oa_join_1">
+		<text>그 스토커는 몇 년 전에 우리를 도와줬어. 하지만, 명령은 명령이야.</text>
+        	</string>
+</string_table>

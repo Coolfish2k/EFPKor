@@ -1,0 +1,1971 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Trading / Repair dialog -->
+	<string id="st_stalker_trade_dialog_init">
+		<text>뭐 팔만한 거 있어? %c[d_orange][거래]</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_1">
+		<text>별로 좋은 건 없는데. 여기 봐봐.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_2">
+		<text>그래.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_3">
+		<text>어... 그래 좋아.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_1">
+		<text>별로. 다른사람을 구해봐.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_2">
+		<text>미안, 나는 내가 가진게 좋은걸.</text>
+	</string>
+	
+	<string id="st_trader_dialog_init">
+		<text>장비를 좀 사고 싶은데. %c[d_orange][거래]</text>
+	</string>
+	<string id="st_trader_dialog_reply_1">
+		<text>그러지.</text>
+	</string>
+	<string id="st_trader_dialog_reply_2">
+		<text>둘러봐봐.</text>
+	</string>
+	<string id="st_trader_dialog_reply_3">
+		<text>여길 한번 봐봐.</text>
+	</string>
+	
+	<string id="st_mechanic_dialog_init">
+		<text>내 장비를 좀 고쳐야겠어. %c[d_orange][수리/업그레이드]</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_1">
+		<text>알겠어, 장비를 보여줘. 그리고 돈도.</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_2">
+		<text>고칠 게 더 있어? 나는 좋지.</text>
+	</string>
+	<string id="st_mechanic_dialog_reply_3">
+		<text>좋아, 일거리가 더 있군.</text>
+	</string>
+	
+	<string id="st_medic_dialog_init">
+		<text>의약품이 필요해. %c[d_orange][거래]</text>
+	</string>
+	<string id="st_medic_dialog_reply_1">
+		<text>물품이 좀 적긴 한데, 일단 봐봐.</text>
+	</string>
+	<string id="st_medic_dialog_reply_2">
+		<text>제길, 빨리 이딴 곳에서 벗어나야 겠어... 쨌든, 여기.</text>
+	</string>
+	<string id="st_medic_dialog_reply_3">
+		<text>좋아, 너무 낭비하지는 말라고.</text>
+	</string>
+	
+	<string id="st_bartender_dialog_init">
+		<text>뭘 팔고 있나? %c[d_orange][거래]</text>
+	</string>
+	<string id="st_bartender_dialog_reply_1">
+		<text>음식, 음료, 담배... 뭘 원하나?</text>
+	</string>
+	<string id="st_bartender_dialog_reply_2">
+		<text>배가 고프나? 마침 좋은 게 있지...</text>
+	</string>
+	<string id="st_bartender_dialog_reply_3">
+		<text>오늘은 뭘 마시겠나? 보드카, 아니면 푸틴카(=보드카)?</text>
+	</string>
+
+<!-- Selling important documents -->
+	<string id="st_trade_important_documents_0">
+		<text>낡은 문서를 좀 찾았는데, 흥미 있어?</text>
+	</string>
+	<string id="st_trade_important_documents_1">
+		<text>물론! 뭘 가지고 있는지 볼까?</text>
+	</string>
+	<string id="st_trade_important_documents_2">
+		<text>자 여기.</text>
+	</string>
+	<string id="st_trade_important_documents_4">
+		<text>좋아.</text>
+	</string>
+	<string id="st_trade_important_documents_5">
+		<text>생각해 보니까 지금은 내가 가지고 있을게...</text>
+	</string>
+	<string id="st_trade_important_documents_7">
+		<text>음, 그러던지.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_esc_m_trader">
+		<text>네가 이걸 어디서 얻었는지 묻지 않을게. 그런 문서는 특별하니까. 나를 포함해서 거의 모든 사람들이 혜택을 받을 거야. 지금 당장 %s RU을 줄게. 거기에 창고에 남는 물건을 좀 얹어 주지. 어때?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_esc_m_trader">
+		<text>훌륭해! 비슷한 것을 찾으면 즉시 나에게 가져와. 대가로 좋은 걸 줄게... 히히.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_bar_visitors_barman_stalker_trader">
+		<text>뭐야... 좋아, 잘 들어. 넌 모르겠지만 이 문서는 정말 고가지의 물건이야, 존와 관련된 실험과 그 정보가 포함되어 있다고. 내가 너라면 그게 엉뚱한 사람한테 흘러들어가는 걸 주의 할 거야. 내 제안은 이래. %s RU. 이정도면 이런 문서에 대한 꽤 좋은 가격이라고 생각해. 다른 물건도 더 얹어 주지. 만약 이런 다른 서류를 가지고 오면 합당한 돈을 마련해 오지. 어떻게 생각해?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_bar_visitors_barman_stalker_trader">
+		<text>종아! 이런걸 더 찾으면 말 안 해도 알지?</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_zat_b7_bandit_boss_sultan">
+		<text>이것 봐라? 어쩌다 이런 걸 주워먹은 용감한 작은 영웅 행차시구만. 내가 오늘은 좀 친절하려고 해서 말인데, '작은' 디테일은 무시하도록 할게. 내가 말이지, 그런 문서를 얻으려고 사람 같은건 아랑곳 하지않고 죽여대는 그런 사람들을 좀 알아서 말이야. 존나 오랬동안 자취를 감췄던 거라서. %s RU. 신중하게 생각해라.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_zat_b7_bandit_boss_sultan">
+		<text>잘했다 꼬마야. 다음에도 그걸 '찾게'된다면, 날 찾아오라고.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_mar_smart_terrain_base_stalker_leader_marsh">
+		<text>이 문서에는 우리에게 있어서 귀중한 정보가 포함되어 있어. 문제는 현재 상황이 좋지 않아. 이제 막 자리를 잡아가려는 참이라. %s RU만 제공할 수 있어. 미안.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_mar_smart_terrain_base_stalker_leader_marsh">
+		<text>고마워! 그런 귀중한 정보에 충분치 않은 값인 건 알아. 나는 우리 상인과 상의해 볼게. 만약 문서를 더 가져오면 남는 장비를 제공해 줄게. 우리 상황이 나아지면 정보에 대해 훨씬 더 많은 비용을 지불할 수 있을 거야. 약속해!</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_bar_dolg_leader">
+		<text>흥미롭군... 이렇게 하지... %s RU정도면 합당하겠어. 요즘 듀티의 상황이 좋지 않다는 건 말할 것도 없겠지. 이 문서 덕분에 우리는 필요한 장비를 배송할 수 있을 거야. 당신도 얻을 게 있다고 생각하는데. 동의하나?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_bar_dolg_leader">
+		<text>오늘 즉시 군과의 협상을 시작할 거야. 긍정적인 결과를 볼 수 있을 거라 여겨지는군. 다음에 그런 서류를 가져다 주시면 더 합당한 보상을 주도록하지. 여기. "듀티"의 감사가 담긴 대가네!</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
+		<text>흥미롭군... 매우 흥미로워. 네가 갑자기 이런 문서를 발견했다는 그 사실은 무시하도록 하지. 어쨌든, 내게 더 좋은 아이디어, 아니 오히려 사업 제안이 있는데. 그래서 이 문서들을 나에게 넘기고 넌 이 사실을 잊어버리는 거야. 만약 더 찾으면 여기로 가져와. 중개인 없이 개인적으로. 알겠어? 즉시 현금으로 지불하지. 모든 문서에 %s RU. 어때?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
+		<text>그래, 동의한거지? 여기 주머니에 돈있어. 성내지 말고.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_cit_killers_merc_trader_stalker">
+		<text>정말 재미있군... 존의 실험에 대한 문서라... 획기적인 시기에 중요 고객 중 일부는 엄청난 액수를 제공할 거야. 시대가 달라졌고, 특히 이 가난한 실정에 우리가 필요로 하는 건 아니지만, 이 정보들은 충분히 가치가 있단 말이지. 흠... 이렇게 하지. 지금 %s RU로 우리가 갖을게. 어때?</text>
+	</string>
+	<string id="st_trade_important_documents_answer_cit_killers_merc_trader_stalker">
+		<text>괜찮아. 동일한 종류의 문서를 찾으면 꼭 가져와. 부끄러워하지 말고.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_yan_stalker_sakharov">
+		<text>정말 흥미로운 물건이야! 이 항목은 우리의 전문 분야는 아니지만 우리 연구의 많은 부분을 밝힐 수 있겠어. 게다가 후원자들이 후원금을 받는 데 매우 관심을 가질 것이라고 믿어 의심치 않아. 이 기회에 우리와 특별한 거래를 하는 거 어때? 이런 문서의 경우 당사로부터 금전적인 보상을 받을 수 있으니까. 이 문서에 대해 %s RU를 준비하겠어.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_yan_stalker_sakharov">
+		<text>고마워! 우리의 새로운 협력에 매우 만족하네.</text>
+	</string>
+	
+	<string id="st_trade_important_documents_ask_mil_smart_terrain_7_7_freedom_leader_stalker">
+		<text>하, 이 종이는 어디서 났어? 알겠지만, 이런 종류의 정보는 세상을 뒤집을 수 있어! 난 그걸 숨기지 않을 거야. 과거에 불법 실험이 있었다면 진실을 알아야 하니까. 그리고 당신의 손에 있는 "이것"은 시작에 불과해. %s RU를 제안하지. 그리고 거절하기 전에 생각해. 이렇게 잘 진행되면 3배로 돌아올 거라는거.</text>
+	</string>
+	<string id="st_trade_important_documents_answer_mil_smart_terrain_7_7_freedom_leader_stalker">
+		<text>완벽해! 도움이 될 만한 다른 걸 추가로 찾으면 더 고맙겠어.</text>
+	</string>
+	
+	
+<!-- Swap items with Companions -->
+	<string id="st_companion_inv_show_gui">
+		<text>네가 들고 있는 물건을 관리하고 싶어.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items">
+		<text>내 전리품들을 들어줬으면 해.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_dummy"> <!-- NPC will refuse -->
+		<text>내 전리품들을 들어줬으면 하는데.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_accept_1">
+		<text>그래, 물건들을 가져가고 싶을 때 다시 말해줘.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_accept_2">
+		<text>어... 나한테 무거운 물건을 들고 다니게 하려는 거지? 알았어.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_refuse_1">
+		<text>잠깐만... 나도 들고 다니는 짐이 있어! 그 잡동사니들을 한번에 들고 다닐 수는 없어.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_refuse_2">
+		<text>미안, 이미 배낭이 가득 차서.</text>
+	</string>
+	<string id="st_companion_inv_take_all_my_items_response_refuse_3">
+		<text>날 뭘로 보는 거야? 나귀라도 되는 줄 알아?! 이미 내 배낭도 터질 것만 같다고, 이 친구야...</text>
+	</string>
+	<string id="st_companion_inv_give_me_back_all_items">
+		<text>내가 맡긴 물건들을 돌려줘.</text>
+	</string>
+	<string id="st_companion_inv_give_me_back_all_items_response">
+		<text>그래, 여깄어.</text>
+	</string>
+
+<!-- Paid Companions -->
+	<string id="st_paid_companion_dialog_text_0">
+		<text>날 엄호해줄 사람들이 필요한데, 관심있어?</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_1">
+		<text>미리 돈을 좀 내 주면, 널 보호해 줄 수 있어. 24 시간에 %s 이고, 48 시간은 %s 이야. 만약 네가 적이 득시글대는 곳으로 가면, 특히 모노리스 놈들이 있는 지역으로 가면 일을 그만둘 거라는 걸 알아둬. 그렇게나 죽고 싶다면, 혼자만 가보라고. 거래하겠어?</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_2">
+		<text>미안, 우리들은 다른 할 일이 있어.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_3">
+		<text>24 시간 정도면 충분해 [%s RU].</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_4">
+		<text>이틀 동안 부탁할게 [%s RU].</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_5">
+		<text>사실은... 마음이 변했어.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_6">
+		<text>움직이자.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_7">
+		<text>움직이자.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_8">
+		<text>알았어.</text>
+	</string>
+	<string id="st_paid_companion_dialog_text_9">
+		<text>좋아.</text>
+	</string>
+	<string id="st_paid_companion_contract_timeout_1">
+		<text>계약은 끝났어. 지금부터는 혼자 힘으로 다니길 바라, 조심히 다니길.</text>
+	</string>
+	<string id="st_paid_companion_contract_timeout_2">
+		<text>이제 계약 기간이 끝났으니, 이만 가볼게. 몸조심해.</text>
+	</string>
+	<string id="st_paid_companion_danger_1">
+		<text>이건 우리들이 동의한 일이 아니야. 미안하지만, 오늘은 자살할 생각이 없어. 계약은 끝났어.</text>
+	</string>
+	<string id="st_paid_companion_danger_2">
+		<text>진심이야?! 네가 우리들의 도움을 받기로 했을 때 내가 뭐라고 말했는지 기억나? "만약 네가 적이 득시글대는 곳으로 가면, 특히 모노리스 놈들이 있는 지역으로 가면 일을 그만둘 거라는 걸 알아둬" 라고 말했을텐데. 계약은 끝났어.</text>
+	</string>
+
+<!-- Medic general -->
+	<string id="st_dm_medic_general_text_0">
+		<text>의료 지원이 필요해.</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_0">
+		<text>1,850 루블을 내면 모든 상처를 치료해 줄게. 널 금방이라도 치료해 줄 수 있는 아주 좋은 혈청을 가지고 있어. 네 몸 주위를 날아다니는 반짝이는 방사능 입자들은 어떻냐고? 아니, 이 혈청으로는 방사능을 고쳐줄 수는 없어. 하지만 1,480 루블을 내면 방사능을 치료해 줄 수 있어. 그럼 내가 네 몸에서 그 엿같은 것들을 다 빼내 줄게. 좋아, 어떤 치료를 받고 싶어?</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_1">
+		<text>아, 그래. 당장이라도 쓰러질 것 같이 보이는군. 어디 보자...</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_2">
+		<text>응? 그래, 이쪽으로 와.</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_3">
+		<text>그래, 치료해 줄게... 돈만 낸다면.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_0">
+		<text>넌 부상이나 방사능 중독에 걸린 것처럼 보이지는 않는데. 가봐도 될 것 같아.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_1">
+		<text>어디 보자... 흠... 괜찮아 보이는데.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_2">
+		<text>흠... 손이랑 발은 멀쩡하고... 거시기도 잘 붙어 있고... 그래, 넌 괜찮아 보여.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_3">
+		<text>이봐 친구, 넌 블러드써커보다 건강하다고.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_4">
+		<text>농담하지마. 괜찮구만.</text>
+	</string>
+	<string id="st_dm_medic_general_text_2">
+		<text>내 상처를 치료해 줘. [1,850 RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_3">
+		<text>방사능을 치료해 줘. [1,480 RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_4">
+		<text>됐어, 난 완벽하게 치료받고 싶어. [3,350 RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_5">
+		<text>그거 알아, 의사양반? 너나 치료해!</text>
+	</string>
+	
+	<string id="st_dm_medic_general_text_6">
+		<text>다 됐어, 다음에는 안전하게 다니라고.</text>
+	</string>
+	<string id="st_dm_medic_general_text_7">
+		<text>편하실 대로.</text>
+	</string>
+
+
+<!-- Unlock PDAs -->
+	<string id="st_encrypted_pda_text_0">
+		<text>잠긴 PDA를 가지고 있는데, 이 고물덩어리가 반응하지 않는군. 고쳐줄 수 있어?</text>
+	</string>
+	<string id="st_encrypted_pda_text_1">
+		<text>돈을 좀 줄 수 있다면, 그러지. PDA 하나당 500 루블만 내면 열어 줄게.</text>
+	</string>
+	<string id="st_encrypted_pda_text_2">
+		<text>괜찮네, 여기.</text>
+	</string>
+	<string id="st_encrypted_pda_text_3">
+		<text>됐어...</text>
+	</string>
+	<string id="st_encrypted_pda_text_4">
+		<text>여기, 이제부터는 확인해볼 수 있을거야. 잘 써봐.</text>
+	</string>
+	<string id="st_encrypted_pda_text_5">
+		<text>알았어.</text>
+	</string>
+	
+	
+<!-- Faction bribe -->
+	<string id="st_bribe_text_0">
+		<text>너 연줄 좀 있지? 몇몇 세력들이랑 잘 지내는 걸 좀 도와줄 수 있을까.</text>
+	</string>
+	<string id="st_bribe_text_1">
+		<text>아마도. 누구랑 지내보고 싶은데?</text>
+	</string>
+	
+	<string id="st_bribe_text_2">
+		<text>우크라이나 내무군이랑 문제가 꽤 있어.</text>
+	</string>
+	<string id="st_bribe_text_21">
+		<text>난 군에 있는 몇몇 고위 간부들을 좀 알지, 몇 년 전에 거래를 했었어. 5,000 루블로 그들이 하루나 이틀 동안 눈감아주게 만들 수 있어. 10,000 루블 정도면 4일 동안 가만있게 만들 수 있지. 선택해봐.</text>
+	</string>
+	
+	<string id="st_bribe_text_3">
+		<text>밴딧들이 날 가만히 내버려두지 않는데.</text>
+	</string>
+	<string id="st_bribe_text_31">
+		<text>밴딧들 말야? 그 개새끼들은 언제나 개짓거리할 물건이나 사람들을 찾아다니지. 그 놈들은 믿을만한 족속이 아니지만, 돈이 좀 있다면 좀 다뤄볼 수 있지. 5,000 루블이 있으면 그 놈들이 널 하루나 이틀 동안은 무시할 거야. 10,000 루블 정도면 4일 동안은 만족할 거야. 어떻게 할 거야?</text>
+	</string>
+	
+	<string id="st_bribe_text_4">
+		<text>클리어 스카이 놈들, 내 앞길을 막고 있어.</text>
+	</string>
+	<string id="st_bribe_text_41">
+		<text>난 군에 있는 몇몇 고위 간부들을 좀 알지, 몇 년 전에 거래를 했었어. 5,000 루블이 있으면 그들이 널 하루나 이틀 동안은 무시할 거야, 10,000 루블 정도면 4일 동안 가만있게 만들 수 있지. 네가 선택해.</text>
+	</string>
+	
+	<string id="st_bribe_text_5">
+		<text>듀티가 일이 그대로 흘러가는 걸 가만 두지 않는군.</text>
+	</string>
+	<string id="st_bribe_text_51">
+		<text>까다로운 녀석들이군. 만약 군인들 정도가 빡세다고 생각한다면, 듀티들은 그 두 배 정도로 심각하다고 보면 돼. 5,000 루블이 있으면 그 놈들이 널 하루나 이틀 동안은 무시할 거야, 10,000 루블이면 4일 동안이지.</text>
+	</string>
+	
+	<string id="st_bribe_text_6">
+		<text>과학자들과 호위병.</text>
+	</string>
+	<string id="st_bribe_text_61">
+		<text>과학자들을 설득하는 건 쉬울 거라 장담하지. 5,000 루블만 있으면, 하루나 이틀 정도는 괜찮을 거야. 10,000 루블이면 4일 동안이지.</text>
+	</string>
+	
+	<string id="st_bribe_text_7">
+		<text>프리덤 대원들이 나한테 화난 것 같아.</text>
+	</string>
+	<string id="st_bribe_text_71">
+		<text>프리덤? 그들은 요즘 조심스럽게 움직이고 있어서 비용이 꽤 들거야. 5,000 루블이 있으면 그 놈들이 널 하루나 이틀 동안은 무시할 거야, 10,000 루블이면 4일 동안이지.</text>
+	</string>
+	
+	<string id="st_bribe_text_8">
+		<text>용병. 이 친구들은 심각해.</text>
+	</string>
+	<string id="st_bribe_text_81">
+		<text>돈만 많이 받는다면, 용병들은 잠깐 동안은 널 무시할 거야. 하루나 이틀 정도를 안전하게 보내려면 5,000 루블이 필요해. 10,000 루블이면 4일 동안이지. 준비가 됐어?</text>
+	</string>
+	
+	<string id="st_bribe_text_9">
+		<text>로너들. 정말 이곳저곳에 다 있어!</text>
+	</string>
+	<string id="st_bribe_text_91">
+		<text>네가 스토커들한테 그렇게 위협적인 존재가 아니라면 그렇게 문제는 안 될텐데, 뭐 좋아. 5,000 루블을 내면 이틀 정도까지는 널 내버려두도록 설득할 수 있어. 4일에는 10,000 루블이야. 거래하겠어?</text>
+	</string>
+	
+	<string id="st_bribe_text_13">
+		<text>여기, 이틀 정도면 충분해.</text>
+	</string>
+	<string id="st_bribe_text_14">
+		<text>좋아, 나흘 정도 부탁할게.</text>
+	</string>
+	
+	<string id="st_bribe_text_10">
+		<text>생각이 바뀌었어.</text>
+	</string>
+	<string id="st_bribe_text_11">
+		<text>좋아.</text>
+	</string>
+	<string id="st_bribe_text_12">
+		<text>나는 일을 처리하러 그들을 만날 테니까, 그들이 생각을 바꾸기 전에 일을 끝마치길 바라. 그리고 반드시 거리를 두는 걸 잊지 마. 네가 지나치게 가까이 접근한다면, 곧 반응할 테니까.</text>
+	</string>
+	
+<!-- Guide Job -->
+	<string id="st_jg_1">
+		<text>네 메세지 봤어. 가이드가 필요해?</text>
+	</string>
+	<string id="st_jg_1_alt">
+		<text>일과 관련해서 말인데...</text>
+	</string>
+	<string id="st_jg_2">
+		<text>그래, 도와줄꺼야?</text>
+	</string>
+	<string id="st_jg_2_alt">
+		<text>뭔데?</text>
+	</string>
+	<string id="st_jg_3">
+		<text>자세히 말해봐라고.</text>
+	</string>
+	<string id="st_jg_4">
+		<text>좋아, 가자고.</text>
+	</string>
+	<string id="st_jg_5">
+		<text>앞장서, 스토커! 약속된 곳에 도착하면, 나에게 다시 말을 걸어줘. 그러면 내가 보수를 지불할게.</text>
+	</string>
+	<string id="st_jg_6">
+		<text>미안하지만, 넌 일이 계획대로 흘러가지 않을 때 나한테 보상해줄 만큼의 금액을 가지고 있지 않은 것 같네.</text>
+	</string>
+	<string id="st_jg_mlr_1">
+		<text>누군지도 모를 사람한테 안내를 맡길 수는 없지. 미안해, 스토커.</text>
+	</string>
+	<string id="st_jg_7">
+		<text>다시 알려줘, 어디로 가야 하지?</text>
+	</string>
+	<string id="st_jg_8">
+		<text>도착했어.</text>
+	</string>
+	<string id="st_jg_9">
+		<text>드디어! 고마워, 스토커. 훌륭한 솜씨였어. 여기 보수야.</text>
+	</string>
+	<string id="st_jg_10">
+		<text>생각이 바뀌었어. 일을 취소하고 싶어.</text>
+	</string>
+	<string id="st_jg_11">
+		<text>정말? 확실한 거야?</text>
+	</string>
+	<string id="st_jg_12">
+		<text>그래, 확실해.</text>
+	</string>
+	<string id="st_jg_13">
+		<text>아니, 신경쓰지 마.</text>
+	</string>
+	<string id="st_jg_14">
+		<text>%s (으)로 데려다 줄 경험있는 스토커를 찾고 있어. 지금, 나는 %s 에 있어. 이름은 %s (이)야.</text>
+	</string>
+	<string id="st_jg_15">
+		<text>너무 늦게 도착했어. 미안하지만 이건 계약 위반이니까, 완전한 보수를 주지는 못하겠네.</text>
+	</string>
+	<string id="st_jg_16">
+		<text>이게 계약 내용이야: %s 시간 안에, %s 쪽으로 가야 해. 이 일을 마치면 %s 루블을 보수로 줄 수 있지만, 시간 안에 도착하지 못하면 완전한 보수를 받지 못하게 된다는 걸 알아둬.</text>
+	</string>
+	<string id="st_jg_17">
+		<text>나는 이 장소로 가야 해:</text>
+	</string>
+	<string id="st_jg_18">
+		<text>그럼 여기서부터는 혼자서 갈 테니, 보증금을 가져가겠어. 안타깝군.</text>
+	</string>
+	<string id="st_jg_19">
+		<text>시작 지점과 목적지까지의 거리:&#032;</text>
+	</string>
+	<string id="st_jg_29">
+		<text>스토커가 가야 하는 장소:&#032;</text>
+	</string>
+	
+	<string id="st_jg_cancel_1">
+		<text>멋지군. 참 고맙군 그래.</text>
+	</string>
+	<string id="st_jg_cancel_2">
+		<text>안타깝군.</text>
+	</string>
+	<string id="st_jg_cancel_3">
+		<text>내 시간을 날려줘서 고마워.</text>
+	</string>
+	
+<!-- Debt / Loan -->
+	<string id="debt_register_0">
+		<text>%s, 돈을 좀 빌리고 싶어.</text>
+	</string>
+	<string id="debt_register_1">
+		<text>내 돈을 빌리는 데는 그럴듯한 이유가 있어야 할 거야, 나도 그렇고. 내가 빌려준 돈에다가 50%를 더 얹어서 돌려주길 바라, 그리고 네가 빚을 지고 있는 동안 내 물건을 너한테 팔 수 없을 거라는 걸 명심해.</text>
+	</string>
+	<string id="debt_register_2">
+		<text>나는 5,000 루블이 필요해 [5,000 RU].</text>
+	</string>
+	<string id="debt_register_3">
+		<text>좋아. 1만 루블 [10,000 RU].</text>
+	</string>
+	<string id="debt_register_4">
+		<text>15,000 루블 부탁해 [15,000 RU].</text>
+	</string>
+	<string id="debt_register_5">
+		<text>좋아. 20,000 루블을 빌리겠어 [20,000 RU].</text>
+	</string>
+	<string id="debt_register_6">
+		<text>신경쓰지 마...</text>
+	</string>
+	<string id="debt_register_7">
+		<text>여기 있어. 다음에 만날 때는 [%s RU] 를 가져와야 할 거야.</text>
+	</string>
+	<string id="debt_register_8">
+		<text>그래.</text>
+	</string>
+	<string id="debt_register_10">
+		<text>누가 여기 올때마다 돈을 집어던지라 했어? 내 대답은 아니오야.</text>
+	</string>
+	
+	<string id="debt_pay_off_0">
+		<text>내가 빌렸던 돈 말인데...</text>
+	</string>
+	<string id="debt_pay_off_1">
+		<text>돈을 갚으러 온 거야?</text>
+	</string>
+	<string id="debt_pay_off_2">
+		<text>그래 여기 네 돈이야 [%s RU].</text>
+	</string>
+	<string id="debt_pay_off_3">
+		<text>음... 아직 준비하고 있어.</text>
+	</string>
+	<string id="debt_pay_off_4">
+		<text>훌륭해, 네 빚은 이제 청산됐어.</text>
+	</string>
+	<string id="debt_pay_off_5">
+		<text>서두르는 게 좋을 거야.</text>
+	</string>
+	
+	<string id="st_debt_no_trade_1">
+		<text>그렇게 생각하지 않는데. 나한테 빚진 거 기억나? 빨리 빚을 갚는 게 좋을 거야.</text>
+	</string>
+
+<!-- purchase extra equipment -->
+	<string id="buy_extra_items_0">
+		<text>특별한 물건 있어?</text>
+	</string>
+	<string id="buy_extra_items_1">
+		<text>어떤 걸 원하지?</text>
+	</string>
+	<string id="buy_extra_items_2">
+		<text>추가적인 장비를 구입하고 싶은데.</text>
+	</string>
+	<string id="buy_extra_items_3">
+		<text>가능은 한데, 아무도 너한테는 어떤 거라도 더 팔고 싶어하지 않을 거야. 좀 더 신뢰도와 경험을 쌓고 와, 그 다음에는 모든 장비를 구입할 수 있을 거야.</text>
+	</string>
+	<string id="buy_extra_items_4">
+		<text>추가적인 장비를 구입하고 싶은데.</text>
+	</string>
+	<string id="buy_extra_items_5">
+		<text>어떤 물건들에 관심이 있어?</text>
+	</string>
+		<string id="buy_extra_items_6">
+			<text>의료 지원품.</text>
+		</string>
+		<string id="buy_extra_items_7">
+			<text>식료품.</text>
+		</string>
+		<string id="buy_extra_items_8">
+			<text>탄약.</text>
+		</string>
+		<string id="buy_extra_items_9">
+			<text>선택해.</text>
+		</string>
+		<string id="buy_extra_items_10">
+			<text>선택해.</text>
+		</string>
+		<string id="buy_extra_items_11">
+			<text>선택해.</text>
+		</string>
+	<string id="buy_extra_items_12">
+		<text>생각이 바뀌었어.</text>
+	</string>
+	
+	<string id="buy_extra_items_txt">
+		<text>%s [%s RU]</text>
+	</string>
+
+
+<!-- Purchase routes -->
+	<string id="st_buy_route_0">
+		<text>숨겨진 통로에 대한 정보를 구입하고 싶어.</text>
+	</string>
+	<string id="st_buy_route_1">
+		<text>정보를 몇 개 정도 가지고 있어. \n대부분의 일반적인 지역에 대한 정가는 8천 루블이고, 신중하게 가야 할 지역은 1만 루블, 그리고 숨겨진 지역으로 가는 길은 2만 루블이야. \n만약 관심이 있으면 특별한 "비밀" 통로에 대한 정보를 나눠줄 수 있어. 4만 루블에, 할인은 안돼.</text>
+	</string>
+	<string id="st_buy_route_2">
+		<text>나한테는 좀 비싸군.</text>
+	</string>
+	<string id="st_buy_route_3">
+		<text>상관없어, 필요해지면 다시 찾아와.</text>
+	</string>
+	<string id="st_buy_route_4">
+		<text>여기 있어.</text>
+	</string>
+	<string id="st_buy_route_dialog">
+		<text>* %s - %s [%s RU]</text>
+	</string>
+	
+	<string id="st_route_open_title">
+		<text>새로운 길 발견</text>
+	</string>
+	<string id="st_route_open_msg">
+		<text>%c[255,160,160,190](%s) , (%s) 사이를 잇는 새로운 길이 발견되었습니다</text>
+	</string>
+	<string id="st_route_unknown">
+		<text>알려지지 않은 통로</text>
+	</string>
+
+	<string id="st_route_aes1">
+		<text>체르노빌 남쪽</text>
+	</string>
+	<string id="st_route_aes2">
+		<text>체르노빌 북쪽</text>
+	</string>
+	<string id="st_route_agr">
+		<text>아그로프롬</text>
+	</string>
+	<string id="st_route_bar">
+		<text>로스토크</text>
+	</string>
+	<string id="st_route_cit">
+		<text>죽은 도시</text>
+	</string>
+	<string id="st_route_dsc">
+		<text>검은 풍경</text>
+	</string>
+	<string id="st_route_esc">
+		<text>코돈</text>
+	</string>
+	<string id="st_route_gar">
+		<text>쓰레기장</text>
+	</string>
+	<string id="st_route_gen">
+		<text>발생기</text>
+	</string>
+	<string id="st_route_jup">
+		<text>주피터</text>
+	</string>
+	<string id="st_route_kat">
+		<text>폐허가 된 병원</text>
+	</string>
+	<string id="st_route_lim">
+		<text>리만스크</text>
+	</string>
+	<string id="st_route_mar">
+		<text>늪지대</text>
+	</string>
+	<string id="st_route_mil">
+		<text>군 창고</text>
+	</string>
+	<string id="st_route_out">
+		<text>외곽지역</text>
+	</string>
+	<string id="st_route_pol">
+		<text>초원 지대</text>
+	</string>
+	<string id="st_route_pri">
+		<text>프리피야트</text>
+	</string>
+	<string id="st_route_rad">
+		<text>레이더</text>
+	</string>
+	<string id="st_route_red">
+		<text>붉은 숲</text>
+	</string>
+	<string id="st_route_ros">
+		<text>무법지대</text>
+	</string>
+	<string id="st_route_trc">
+		<text>트럭 묘지</text>
+	</string>
+	<string id="st_route_val">
+		<text>검은 계곡</text>
+	</string>
+	<string id="st_route_yan">
+		<text>얀타 호수</text>
+	</string>
+	<string id="st_route_zat">
+		<text>자톤</text>
+	</string>
+	<string id="st_route_x8">
+		<text>X-8 연구소</text>
+	</string>
+	<string id="st_route_x16">
+		<text>X-16 연구소</text>
+	</string>
+	<string id="st_route_x18">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_route_x19">
+		<text>X-19 연구소</text>
+	</string>
+	<string id="st_route_mar_h">
+		<text>클리어 스카이 비밀통로</text>
+	</string>
+	<string id="st_route_agr_u">
+		<text>아그로프롬 지하</text>
+	</string>
+	<string id="st_route_jup_u">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_route_sar">
+		<text>석관 지역</text>
+	</string>
+	<string id="st_route_s_lab">
+		<text>모노리스 제어 센터</text>
+	</string>
+	<string id="st_route_w_lab">
+		<text>모노리스 전쟁 연구소</text>
+	</string>
+	
+	<!-- Travel - unused -->
+	<string id="ka_travel_dialog_ask">
+		<text>어딘가로 이동하고 싶은데... 내게 안내해줄 수 있는 지역이 있어?</text>
+	</string>
+	<string id="ka_travel_dialog_response">
+		<text>그래. 어디로 가고 싶어?</text>
+	</string>
+	<string id="ka_travel_dialog_nevermind">
+		<text>신경 쓰지 마.</text>
+	</string>
+	<string id="ka_travel_dialog_accept">
+		<text>멋지군.</text>
+	</string>
+	<string id="ka_travel_dialog_change">
+		<text>실은, 다른 데로 가고 싶은데...</text>
+	</string>
+	<string id="ka_travel_dialog_deny">
+		<text>너무 비싸군.</text>
+	</string>
+	<string id="ka_travel_dialog_cost">
+		<text>거기는 %s 루블이야.</text>
+	</string>
+	
+	<string id="ka_travel_dialog_zaton">
+		<text>자톤의 스카도브스크.</text>
+	</string>
+	<string id="ka_travel_dialog_jupiter">
+		<text>주피터의 야노브 역.</text>
+	</string>
+	<string id="ka_travel_dialog_yantar">
+		<text>얀타 호수의 과학 연구소.</text>
+	</string>
+	<string id="ka_travel_dialog_cordon">
+		<text>코돈의 초보자 마을.</text>
+	</string>
+	<string id="ka_travel_dialog_bar">
+		<text>로스토크의 바.</text>
+	</string>
+	<string id="ka_travel_dialog_warehouses">
+		<text>군 창고의 프리덤 기지.</text>
+	</string>
+	<string id="ka_travel_dialog_city">
+		<text>죽은 도시의 용병 기지.</text>
+	</string>
+	<string id="ka_travel_dialog_agroprom">
+		<text>아그로프롬의 군 기지.</text>
+	</string>
+	<string id="ka_travel_dialog_swamp">
+		<text>늪지대의 클리어 스카이 기지.</text>
+	</string>
+	
+	<!-- About Quests Bandit -->
+	<string id="about_quests_dialog_bandit_0">
+		<text>최근에 들어본 소식 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_1">
+		<text>어떤 거?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_10">
+		<text>님블에 대해서 어떻게 생각해?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_101">
+		<text>님블? 언젠가는 그 약삭빠른 얼간이 새끼를 조용한 데서 슥삭해버리고 싶군!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_11">
+		<text>오아시스에 대해 들어본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_111">
+		<text>그래, 언젠가 웃긴 이야기를 들어본 적이 있어. 처음에, 쓰레기장에 있는 친구들이 오아시스가 어디 있는지에 대한 소문을 만들어냈고, 그건 꽤 그럴싸하게 들리더군. 그리고, 그 장소로 가서 기다렸지. 그래, 어떻게 됐냐고? 곧바로 그걸 믿은 수많은 멍청이들이 자기들 물건을 기부하러 와서 소문을 만들어낸 녀석들이 그걸 챙겨서 존을 떠났다고 해. 괜찮지 않아? 그 친구들은 새로운 삶을 찾아 떠났다고. 오직 한 명 만이 존에 남았지, 요가라고 불리는 친구가...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_112">
+		<text>네가 거기 갈 수만 있다면 모든 문제들이 해결될 거야... 그걸 찾아낸다면 꽤나 쓸모있을 거라 생각하는데, 더 이상 숙취나 출혈로 고생할 필요가 없는 거잖아! 그걸 찾아서, 리조트를 세워서 돈을 쓸어담는 거야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_113">
+		<text>왜 내가 그런 헛소리를 듣고 있어야 하는 거야? 그런 건, 루저들이나 하는 시간 때우기용 잡담이라고... 진정한 남자라면 그딴 건 믿지 않는 법이라 이 말이야. 너도 알다시피, 네가 바에서 시원한 걸 손에 들고 있을 때 스토커들이 모여서 오아시스가 어디 있었는 지 떠들어대고 있었겠지. 그리고 그 병신들은 모두들 자기가 그 장소를 알고 있다고 허풍을 떨고 있다고... 왜인지는 모르겠지만 그 새끼들마다 다 이야기가 다르더라고.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_12">
+		<text>맥파이라고 불리는 스토커를 만난 적이 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_121">
+		<text>당연하지... 그 녀석을 본 사람 한 명이 그가 완전히 병신이라는 이야기를 해 주었고 다른 스토커들도 그 녀석이 완전히 개새끼라고 하는 걸 들었어. 그치만 그 새끼가 어디에 있는지는 모르겠네... 네가 그 새끼를 쫒고 있다면 직접 찾아봐야 할 거야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_122">
+		<text>어... 그 이름은 처음 듣는데, 친구.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_13">
+		<text>누가 개인 보관함에서 물건을 훔쳐갔는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_131">
+		<text>쥐새끼지. 나보다는 야노프에 있는 보스들한테 물어보는 게 좋을 텐데, 왜냐면 쥐새끼들을 잘 사냥하는 걸로 유명하니까 말야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_14">
+		<text>이 근처에서 암호를 해독할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_141">
+		<text>보자, 야노프에 있는 니트로가 잘 한다던데. 확실히, 그가 듀티를 위해 일하고 있지 않을 때 우리 친구들이 스토커의 PDA들을 해킹해 달라고 몇 번이나 찾아갔었다고... 아, 그리운 날들이었지...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_143">
+		<text>나한테 그런 과학적인 걸 물어보지 말라고, 이 친구야. 그런 일을 처리하려면 해커를 만나야 할 거야. 내가 밖에서 소일거리나 하고 있을 때 감방 안에서 한 사람을 만나긴 했지만 그게 내가 아는 유일한 사람이야. 내가 출소했을 때도 그 사람은 아직 감방에 있었지...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_15">
+		<text>듀티 암상인의 PDA가 있어. 이 물건에 관심이 있을 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_151">
+		<text>스카도브스크에 아울이라는 상인이 있어. 그는 꽤 괜찮은 가격에 사가서 동료들이 스토커들한테 얻어온 PDA를 많이 팔았었지. 게다가 그는 그다지 많은 질문을 하지도 않아서, 꽤 괜찮았지.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_152">
+		<text>누구나 관심이 있겠지, 이 친구야. 생각해봐. 듀티 놈들은 그 좆빠는 새끼를 산채로 묻어버릴 거고, 다른 세력들한테 주면 신나서 떠들어대겠지만, 자톤에 있는 아울은 그 PDA를 아주 잘 세탁해줄 수 있을 거야. 한 가지 문제는, 오직 아울만이 나중에 그 PDA가 어디서 나타날지를 알고 있다는 거겠지... 선택은 네 몫이야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_16">
+		<text>이 근처에 도구를 찾을 만한 장소가 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_165">
+		<text>그래, 만약 수술 도구가 필요하다면 병원이나 응급실을 찾아보면 될 거야. 건설용 도구가 필요하다면, 주피터의 채석장을 찾아봐. 작은 도구들을 찾는다면, 오래된 작업장을 찾아보면 될 거야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_166">
+		<text>내가 그걸 어떻게 아냐? 너도 알다시피 난 스토커들이 정보를 술술 뱉도록 설득하는 데 도구같은 건 필요 없다고... 긴장 풀어, 농담이야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_17">
+		<text>메모리 모듈의 잠금을 풀 수 있는 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_171">
+		<text>좋은 질문이야! 내 말은 이게 내 전문이라는 거야, 그렇지? 하! 너 바보냐? 그건 기술자나 과학자들이 전문이라고... 정말로 내가 그따위 것들을 다룰 거라고 생각한 건 아니지?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_172">
+		<text>솔직히 말할게. 내가 메모리 모듈같은 것들의 잠금을 풀었던 적은 학교에서 병신같은 플로피 디스크를 썼을 때밖에 없다고. 전문가를 찾아가서 불알이라도 걷어차주는게 나을 거야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_18">
+		<text>누가 강철 상자를 부술 수 있는지 알아?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_181">
+		<text>스카도브스크의 카르단을 알고 있냐고? 음, 그 녀석은 여느 때와 같이 널부러져 있다가 빠루를 들고 주변을 돌면서 그 새끼를 쫒기 시작하더군. 난 카르단이 그 빠루를 좀 더 유용한 데에 쓰거나 필요하다면 물건이라도 부수는 데 쓰는 게 더 낫다고 생각하는데.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_182">
+		<text>음, 적절한 도구만 있다면 나라도 할 수 있겠지만, 그럼 누가 존으로 장비들을 가져 오겠어? 기술자들을 찾아가보라고, 친구. 그런 일을 하는 데는 전문가들이니까.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_19">
+		<text>스내그라고 불리는 스토커를 찾고 있어. 어디서 찾을 수 있는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_191">
+		<text>누가 알고 있냐고? 스카도브스크의 술탄을 찾아가 봐. 보스는 보통 어디에 사기꾼들이 있는지 알고 있으니까.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_193">
+		<text>그래, 그 멍청이에 대한 이야기를 들어본 적이 있어. 그는 보통 자톤 근처를 돌아다니니까, 이 주변에는 찾을 수 없을 거야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_2">
+		<text>추락한 헬리콥터에 대해 아는 게 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_20">
+		<text>듀티의 창립자에 대한 정보에 관심가질 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_201">
+		<text>난 거기에 관심이 없을 만한 사람이 누군지를 모르겠는데! 그건 값진 정보라고, 친구, 그러니 가장 좋은 방법은 스카도브스크의 아울한테 가는 거야. 그럼 돈도 벌고 적을 만들지 않을 수 있으니까 말야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_22">
+		<text>아니. 생각해봐, 나는 왼쪽에 듀티가 있고, 오른쪽에 프리덤, 그리고 내 궁둥이 쪽에 스토커들이 있는데, 그럼 나보고 하늘만 쳐다보고 있으란 말이야?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_23">
+		<text>그래, 친구들이 말하길 철의 숲의 케이블에 하나가 걸려 있는 걸 보았다던데, 너는 거기 있는 것들보다 더 많은 걸 보게 될 거야... 아마도 이상현상 안으로 돌진하거나 폴터가이스트한테 뇌가 박살나게 되겠지.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_24">
+		<text>응, 몇몇 친구들이 저 언덕 위에 하나가 추락했다는데 위쪽으로 올라갈 방법이 없어... 걔네들이 말하길 헬기가 나는 모습이 너무 이상해서 파일럿이 약이라도 빨고 운전하는 것처럼 보였다고 하던데.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_26">
+		<text>한 헬리콥터가 늪지의 물 속으로 곧바로 추락했다고 들었어. 꽤나 빠르게 땅으로 곤두박칠쳤다고 하는데, 거기 있는 물은 네 건강에도 별로 좋지 않을 거야. 독이나, 화학적인 것들이나 뭐 그따위 것들이지.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_3">
+		<text>주변에서 군인을 본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_30">
+		<text>자톤과 주피터 사이의 지역 지도에 관심있어할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_301">
+		<text>내가 기억하기로는, 파일럿이야. 이 주변 지역의 메인 가이드이지. 그가 지금처럼 별을 보면서 방향을 파악하는 대신에 지도를 본다면 더 좋을 거야...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_31">
+		<text>친구들이 말하길 용병 캠프에서 남쪽으로 곧장 내려간 곳에 있는 언덕에 군인 한 분대가 내려왔다고 해. 그 고철덩이가 거의 터지기 직전처럼 보여서, 서둘러 떠났다고 했어.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_32">
+		<text>나는 어떻게 그 바퀴벌레 같은 군바리들이 늪지대에 쳐박힌 헬기에서 도망쳐 나오려고 했는지에 대한 이야기를 들었어. 상상해 봐, 다섯 명의 군복입은 군바리 친구들이 젖지 않으려고 애쓰며 늪지대를 뛰어다니는 모습을...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_33">
+		<text>한 친구가 말하길 그가 한 스토커의 물건들을 얻어내려고 따라가다가 갑자기 총성이랑 엿 같은 소리를 들었다는군. 밝혀진 바로는 군인이랑 용병들이 싸우고 있는 소리였대. 그 친구는 숨어서 총격전이 끝나기를 기다렸지만, 그 사이에 스토커가 도망쳤대. 운도 지지리도 없지?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_34">
+		<text>그래, 어떤 친구가 꽤나 웃긴 장면을 보았다고 말해줬어. 위에 풍차가 얹어진 방주가 있고 노아가 옆에서 소리지르면서, 분위기가 끓어오르는 차에, 열 명의 군바리 친구들이 노아가 기르는 개한테서 가능한 저 멀리로 달아나는 광경을 생각해 봐. 음, 이걸 알려준 친구는 크게 웃었고 그 장관을 그대로 남겨 놓은 채로 자리를 떴어.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_35">
+		<text>아니, 여긴 정말로 개같이 위험한 곳이고 모든 친구들이 총이랑 좆같은 것들을 들고 다니니까... 그게 군인이었는지 듀티였는지는 자세히 확인할 시간이 없었어.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_4">
+		<text>프리피야트로 가는 길을 알아?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_40">
+		<text>과학자들을 경호하기 위해 고용할만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_403">
+		<text>하하, 나랑 내 친구들이 바로 적임자라고! 지금까지 경험해보지 못한 수준의 경호 서비스를 제공해주겠어! 스토커들이나 뮤턴트들이 감히 접근조차 못할 곳으로 만들어 줄게, 날 믿으라고! 매주마다 수고비만 좀 쥐어준다면 시키는 대로 다 할게. 크리스마스 상여금도 잊지 말라고!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_41">
+		<text>걸어서 가지, 이 친구야. 주피터로 가서 거기서도 물어봐봐, 자톤에서 프리피야트로 가는 직행 통로가 없다는 건 과학적 근거가 있는 사실이라구.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_43">
+		<text>이봐 친구, 내가 무슨 가이드처럼 보이냐? 내 말은, 내 이마에 무슨 "멍청한 질문 좀 해주세요" 같은 문신이라도 보이는 거야? 파일럿한테 가 봐, 그딴 걸 물어봤을 때 답해주는 걸로 돈을 벌고 있으니까.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_44">
+		<text>아니... 근데 내가 왜 그런 데를 갈 거라고 생각하는 거야? 거기서 찢겨져 죽고 싶은 스토커들은 없을 걸!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_5">
+		<text>프리피야트까지 같이 갈 만한 어딘가에 얽매여있지 않는 사람들을 좀 추천해줄 수 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_51">
+		<text>프리피야트는 우리같은 사람들이 갈만한 곳이 아냐. 생각해봐, 거기는 뮤턴트들이랑 이상현상으로 가득한 데라구... 존의 나머지 지역들처럼 말야... 하지만 털어먹을 만한 스토커들은 없지. 프리피야트에서 스토커들이 돌아다니면 우리들한테 알려줘, 그럼 거기로 질서 유지를 하러 갈 테니까.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_57">
+		<text>잘 모르겠어, 친구. 미안해.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_6">
+		<text>내가 이상한 총을 하나 찾았어. 누구 알만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_62">
+		<text>그래, 나라면 기술자들한테 물어볼 거야. 내 말은, 그딴 걸 아는 게 그 놈들 일이라는 거야, 알겠어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_63">
+		<text>모르겠는데, 하지만 스카도브스크에 있는 스토커들은 카르단이 천재 기술자인가 뭔가라고 하더라고. 원한다면 그를 만나 봐... 그저 늙다리 술꾼일 뿐이겠지만...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_7">
+		<text>과학자들의 조사를 돕기 위해 고용할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_73">
+		<text>쉬운 질문이구만, 우리 친구들이 해줄 수 있어. 내 말은 걔내들이 학교 같은 건 별로 다니지 않았지만 네가 원하는 사람들을 잡아와서 그들을 "조사"해주는 건 참 잘 한단 말이지. 조사가 끝나면, 더 필요한 건 괜찮은 무덤 뿐이니까 문제 없을 거야!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_8">
+		<text>아주 이상한 아티팩트를 찾아냈어. 이걸 살 만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_81">
+		<text>이상한 아티팩트라고 했어? 한번 보자고... 더 잘 볼 수 있게 좀 넘겨주지 않을래... 하하, 긴장 풀어 친구, 농담한 거야. 하지만 내가 너였다면 사람들이 안 보이는 곳으로 그걸 숨겨두었을 거야. 다른 사람들은 나처럼 유머감각이 좋지 않을지도 모르니까.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_83">
+		<text>그 아티팩트를 대놓고 보여줄 만큼 배짱이 좋군 그래. 존중할게. 답해줄게, 그런 물건을 취급하는 사람은 스카도브스크에 있는 베어드야. 우리들은 어떻게 그가 아티팩트를 존 밖으로 가지고 나가는지 아직은 잘 모르니까, 아무 문제 없이 네 아티팩트를 팔 수 있을 거야.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_9">
+		<text>근처에 있는 블러드써커 소굴을 발견했어. 어떻게 하면 좋을까?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_91">
+		<text>에, 뭘 해야 하냐고? 당연히 좆빠지게 튀어야지, 안 그래!</text>
+	</string>
+	<string id="about_quests_dialog_bandit_98">
+		<text>알겠어, 잊어버려.</text>
+	</string>
+
+	<!-- About Quests Duty -->
+	<string id="about_quests_dialog_dolg_0">
+		<text>최근에 들어본 소식 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_1">
+		<text>어떤 거?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_10">
+		<text>님블에 대해서 어떻게 생각해?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_101">
+		<text>님블? 들어본 적 없어. 아마 다른 분대에 있거나 그런 사람이야?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_11">
+		<text>오아시스에 대해 들어본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_111">
+		<text>스토커식 동화야. 그리고 그게 바로 스토커가 하는 일이고. 사실이 아닌 헛소리를 만들어낸 다음 '모두 모여서 찾아보세요!' 내가 당신이라면 그 물건을 무시할 거야. 그것은 관문 신화와 같아. 믿게되면 오래지나지 않아 위시그랜터도 있다고 믿게 될 거야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_112">
+		<text>아, 상처가 저절로 아물고 기력이 마법처럼 채워지는 곳? 내가 당신을 위한 소식을 가지고 있어, 친구. 그건 존재하지 않아. 스토커들은 존이 실제보다 덜 위험하다고 여기고 싶어서 쓰레기 같은 소문을 '발명'하지만, 존에는 안전한 장소가 없다는 것이 가혹한 현실이야. 그리고 그 현실을 확고하게 파악하는 편이 좋을 거야 친구. 몽상가 유형은 존에서 오래 가지 못하니까.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_113">
+		<text>맞아, 그리고 거기에 있는 모든 아티팩트는 모두 금으로 되어있고 은 접시에 담긴 채 네가 발을 문지르는 동안 바닥에 진상되지... 당연히 농담이야. 그런게 존재한다면 좋겠지만 존재하는지조차 의심스러워. 그런게 있다면 의사 없이 병원을 세울 수도 있을 거야. 사람들이 그곳에 와서 치료를 하는거지. 젠장, 존나 헛된 꿈이구만.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_12">
+		<text>맥파이라고 불리는 스토커를 만난 적이 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_121">
+		<text>듀티에 있는 모든 사람들을 기억하기 위해 고군분투하는데 나한테 스토커에 대해 묻는 거야? 그들은 스카도프스크가 기지를 가지고 있습니다. 거기에 가서 물어봐.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_122">
+		<text>아니 없어.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_13">
+		<text>누가 개인 보관함에서 물건을 훔쳐갔는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_131">
+		<text>후우! 좋아! 듀티의 기지에서는 절대 이런 일이 없겠지만 이곳은 프리덤 펑크들로 가득 차 있다구.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_14">
+		<text>이 근처에서 암호를 해독할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_141">
+		<text>야노브 역에 니트로라는 기술자가 있습니다. 그는 전자공학에 꽤 능숙하죠. 한 번 내 PDA의 암호를 잊어버렸고 그는 5초 만에 암호를 풀었다니까요!</text>
+	</string>
+	<string id="about_quests_dialog_dolg_143">
+		<text>야노브로 가봐 - 니트로를 찾아봐, 이런 거에 능숙해.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_15">
+		<text>듀티 암상인의 PDA가 있어. 이 물건에 관심이 있을 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_151">
+		<text>듀티의 상인? 불가능해! 그리고, 정보가 있으면 슐가 중령에게 전달하고 처리하도록.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_16">
+		<text>이 근처에 도구를 찾을 만한 장소가 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_163">
+		<text>근처에 공장 하나가 통째로 있어. 물론 지금쯤이면 이미 약탈당했을 수도 있지만, 내가 너라면 여전히 공장 창고를 확인해봤을 거야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_165">
+		<text>내가 당신이라면 오래된 작업장을 볼 거에요. 상점에서 무언가를 찾을 수도 있을 지도요.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_166">
+		<text>여기엔 돌연변이와 이상현상만 있을 뿐이야. 하! 나는 이상현상은 거들떠 보지도 않을 거고 버러와 컨트롤러도 널 돕지 않을 거야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_169">
+		<text>사실 여기 다리 밑에 기차가 있어요. 일반적으로 기술 인력을 수송하는 데 사용되므로 그곳에서 도구를 찾을 수 있을 겁니다.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_17">
+		<text>메모리 모듈의 잠금을 풀 수 있는 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_171">
+		<text>니트로 - 그는 야노브역에서 그런 일을 하는 유일한 사람이야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_172">
+		<text>기술자한테 가봐. 주변에 괜찮은 기술자는 야노브의 니트로로뿐이지만.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_18">
+		<text>누가 강철 상자를 부술 수 있는지 알아?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_181">
+		<text>스토커 중에 기술자가 있다고 합니다. 항상 술에 취해있지만 자신이 뭘 하는지는 잘 알고 있습니다. 그와 이야기하십시오.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_182">
+		<text>하, 금고를 가지고 다니다니. 확실히 니트로가 그걸 도와줄 수는 없을 텐데... 전자식 잠금장치가 있었다면 이야기가 달라졌을지도 모르겠지만...</text>
+	</string>
+	<string id="about_quests_dialog_dolg_19">
+		<text>스내그라고 불리는 스토커를 찾고 있어. 어디서 찾을 수 있는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_191">
+		<text>다른 스토커에게 물어봐. 스내그라는 이름을 들어본 적이 없어.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_2">
+		<text>추락한 헬리콥터에 대해 아는 게 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_20">
+		<text>듀티의 창립자에 대한 정보에 관심가질 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_201">
+		<text>물론, 우리 사령관 슐가에게 당신이 알고 있는 모든 것을 보고하면 듀티의 감사를 받을 거야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_22">
+		<text>응, 정찰병들은 군용 헬리콥터가 주피터의 예비 기지를 향해 추락하는 것을 봤어. 계속해서 항로를 바꾸라고 신호를 보냈다고 하더라고. 하지만 조종사들은 다른 걱정거리가 있었던 것 던데. 그 육군 놈들이 지뢰밭에서 무사히 빠져나왔는지 궁금해.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_23">
+		<text>이 근처엔 없어. 여기서 우리 입지는 제한되어 있어... 야노브 근처의 우리 사람들에게 물어봐.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_25">
+		<text>우리 순찰대가 군용 헬리콥터가 주피터 공장 근처에서 비상 착륙을 시도했다고 보고했어. 불행하게도, 헬리콥터는 작업장 바로 위의 지붕에 추락했어. 아마도 생존자는 없을 것입니다. 순찰대는 충돌 후 조난 신호를 받지 못했으니까.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_3">
+		<text>주변에서 군인을 본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_30">
+		<text>자톤과 주피터 사이의 지역 지도에 관심있어할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_301">
+		<text>그걸 좋아할 사람을 알고 있지. 파일럿이라고 있거든. 야노브랑 스카도프스크의 벙커 사이의 경로에 대한 안내자야. 아마 그 사람은 그 지도가 유용하다는 것을 알아보겠지. 그건 확실해.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_31">
+		<text>군대? 이 근처에서 본 적이 없지만 애초에 난 이 지역에서 많은 시간을 보내지 않아서.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_35">
+		<text>최근 지뢰밭에서 군인의 시신이 발견됐어. 그는 아마도 그 헬기에 타고 있던 친구들 중 하나일 거야. 헬기에는 승무원 외에 최대 8명이 탑승할 수 있어서 탈출구를 찾았을 거지만 나머지가 어디로 갔는지 아무도 몰라.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_36">
+		<text>과학자들의 벙커에서 군인이 목격됐는데 막 그곳에 도착한거 같았어. 자세한 내용은 몰라.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_37">
+		<text>얼마 전 군복을 입은 어떤 남자가 볼코프 AA 단지 옆 건물에 들어가는 것이 목격됐어. 다만 병사로 오인된 좀비일 가능성이 커.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_38">
+		<text>스토커들이 주피터 공장 근처에서 군대를 발견했어. 설명으로 보아 특수부대였다나. 그들은 정체불명의 스토커와 함께 프리피야트로 향했데. 믿을 수도 있겠지만 경험에 따르면 그러한 정보는 일반적으로 거짓말이더라고.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_4">
+		<text>프리피야트로 가는 길을 알아?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_40">
+		<text>과학자들을 경호하기 위해 고용할만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_401">
+		<text>아마 듀티가 제공하는 것보다 더 나은 보호자를 찾진 못할 거야. 야노브에 있는 슐가 중령을 만나봐. 뭔가 해결해줄 거라고 확신해.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_402">
+		<text>아니. 프리덤 사람들이 있는 이상, 그 장소에서 멀리 떨어져 있을 거야. 그 멍청이들의 병신같은 농담을 하루 종일 들을바엔 쳐뒤져버리고 말지.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_42">
+		<text>현재로선 듀티가 프리피야트로 가는 길을 찾을 이유는 없지만 어쨌든 정보는 수집하고 있어. 주피터 공장 아래의 터널이 프리피야트로 이어진다는 확인되지 않은 보고가 있긴 하지만. 이 정보를 확인하려면 공장 지역의 모든 것을 철저히 탐색해야 하겠지.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_43">
+		<text>아니. 그런 종류의 정보가 필요하면 민간인 가이드와 이야기해. 우리 정찰병은 자기 할일로 바쁘다고.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_44">
+		<text>우리 정찰병들은 정기적으로 프리피야트로 가는 안전한 경로를 찾기 위해 존을 탐색하지만 아직까지 결과는 나오지 않았어.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_5">
+		<text>프리피야트까지 같이 갈 만한 어딘가에 얽매여있지 않는 사람들을 좀 추천해줄 수 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_51">
+		<text>이 지역에서 듀티의 존재는 제한적이야. 야노브에서 우리 사람들과 이야기해.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_52">
+		<text>과학자들의 벙커에 군인이 있다는 소문이 있어. 하지만 탈출구가 많지 않아. 알다시피, 과학자들은 그곳에서 12개월에서 18개월 동안 머물렀고 그는 걸어서 그리고 혼자서 구역의 가장자리에 도달하진 못할 거야. 그걸 고려하면 그가 관심을 가질 거야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_53">
+		<text>모험을 추구하는 사람들 에게 물어보는 걸 추천하지. 예를 들어 야노브역에 바노오버라는 스토커가 있어. 그 인간은 어떤 개엿같은 상황에 처하더라도 상관하지 않더라고. 그 인간은 눈을 감고도 이상현상 사이를 헤쳐나갈 수 있을거야.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_54">
+		<text>글쎄, 일단 정신 병원에 가서 모집 캠페인을 벌이는거지 ... 아니면 좋은 대안을 알고 있지 모노리스 전사들. 말하자면, 그들 중 한 분대는 AA 단지 근처에서 발견되었고 아마도 프리피야트까지가는 길도 알고있을 거야 ... 이봐, 심각하게 받아들이진 않겠지?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_56">
+		<text>듀티에서 자원봉사자를 찾아요. 예를 들어 스트라이더. 그는 아직 임무를 수행하지 않았으므로 중령이 그를 당신과 함께 보낼 수도 있을 것 같습니다.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_57">
+		<text>듀티에 최고의 파이터가 있다는 것은 누구나 알고 있지만... 현재로서는 바쁜가봐.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_6">
+		<text>내가 이상한 총을 하나 찾았어. 누구 알만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_62">
+		<text>글쎄, 난 알거 같은데! 그것은 대포야 맞지? 직접 만들었어? 아니면 정말 찾으신 거야? 처음보네... 기술자에게 한번 물어봐.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_7">
+		<text>과학자들의 조사를 돕기 위해 고용할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_71">
+		<text>그것은 어리석은 질문이구만 - 물론 듀티지. 우린 경험이 있는 많은 사람들을 가지고 있고 이전에 과학자들과 함께 일한 적도 있다고. 슐가 중령을 만나러 가 그가 일할 분대를 찾아 줄 거라고 확신하지.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_72">
+		<text>벙커가 프리덤에게 보호된다면 누가 그곳에서 일하고 싶겠어? 그 천박한 평화주의자들, 대부분은 굳어가지고 서로 쏴 재낄 걸.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_8">
+		<text>아주 이상한 아티팩트를 찾아냈어. 이걸 살 만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_81">
+		<text>아티팩트는 모두 이상해. 너도 그런걸 들고 다니지 않는 편이 좋을걸. 전문가에게 넘기고 끝내.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_83">
+		<text>스토커들에게 보여줘. 그런 종류의 전문가들이니까. 더 나은 방법은 아티팩트를 판매하는 사람에게 보여 주는 거겠고.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_9">
+		<text>근처에 있는 블러드써커 소굴을 발견했어. 어떻게 하면 좋을까?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_91">
+		<text>듀티 분대는 현재 이 지역에서 정화 작업에 참여하고 있지 않아. 기다려야 해.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_98">
+		<text>알겠어, 잊어버려.</text>
+	</string>
+
+	<!-- About Quests Freedom -->
+	<string id="about_quests_dialog_freedom_0">
+		<text>최근에 들어본 소식 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_1">
+		<text>어떤 거?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_10">
+		<text>님블에 대해서 어떻게 생각해?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_101">
+		<text>들어본 적이 없어... 스토커들에게 물어보는 것이 좋을 거야. 걔네 중 한 명이지, 맞지?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_11">
+		<text>오아시스에 대해 들어본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_111">
+		<text>세상에... 좋은 이야기야, 좋아. 그건 확실해. 모래 속의 궁전, 안개 속의 섬, 하늘의 성... 샹그릴라, 에덴... 오아시스. 모든 자유로운 사람에게는 꿈이 있고 그런걸 믿는다고 비난하지 않겠어.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_112">
+		<text>글쎄, 나는 한 스토커로부터 흥미로운 이야기를 들었어. 나에게 오아시스를 언급한 사람은 그가 처음인 것 같아. 전설에 따르면 그곳에서 모든 상처가 치유되고 마치 당신이 그곳에 없는 것처럼 고요하고 편안해진다고 말했어. 그 이후로 그를 본 적이 없어... 그가 떠난 후에야 그가 원래 다리를 절뚝거리며 걷던 것이 기억났지. 그런데 그땐 그는 똑바로 걷고 있었고 훨씬 젊어 보였어.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_113">
+		<text>Yes, free stalkers gave me the coordinates... Ten different sets of coordinates. Putting them together gives us an area from the Scorcher to the CNPP with the 야노브 bar somewhere near the center. It's entirely possible that we're in the Oasis right now, so enjoy it!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_12">
+		<text>맥파이라고 불리는 스토커를 만난 적이 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_121">
+		<text>Nah. I don't know many free stalkers around here.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_122">
+		<text>Magpie? Nah, but that's a cool name.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_13">
+		<text>누가 개인 보관함에서 물건을 훔쳐갔는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_131">
+		<text>Nah, there's no one like that here. We've got folk who'll snatch a bite of your bread or a sip of your drink when you're not looking, but no outright thieves...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_14">
+		<text>이 근처에서 암호를 해독할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_141">
+		<text>I heard that 니트로 at 야노브 is a fan of combinations and algorithms. I'm not sure though, I've never really spoken to him - he's working for Duty, so he ain't got much time for us free folk.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_143">
+		<text>I'm not much of an expert on local experts... Ask our boys over at 야노브 next time you're there - they'll know for sure.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_15">
+		<text>듀티 암상인의 PDA가 있어. 이 물건에 관심이 있을 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_151">
+		<text>That sounds interesting! I'd give it to Loki, our leader at 야노브. He'll make sure that free stalkers know what kind of folk Duty recruit into their ranks.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_16">
+		<text>이 근처에 도구를 찾을 만한 장소가 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_163">
+		<text>At the plant, dude, where else? It's not exactly lively in there, but the warehouses will cheer you up. It's a bit safer and you're bound to find some decent tools in there.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_165">
+		<text>That's a good question, man. Let's think about this one. Where do you find tools outside the Zone? Now, if you got half a brain, you buy them in a store... If you don't, you look for the tools and a brain in a workshop. Right? It's the same thing in the Zone - you have to look in the same places. It's that simple, stalker!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_166">
+		<text>Tools? Listen, man, is that code for something? There's no pigs here or anything, you can speak freely... Oh, you're serious? In that case I really don't know.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_169">
+		<text>Well, I heard that one of our boys was looking for tools and he got into the train under the bridge. Apparently, there's a Tesla there... Anyway, he said it wasn't fun in there... Why am I telling you this? Well, he said he saw tools lying around, but decided to leave them 'cause it wasn't safe.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_17">
+		<text>메모리 모듈의 잠금을 풀 수 있는 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_171">
+		<text>Well, Tukarev in the scientists' bunker can do it. He's fast, good and polite. There's also 니트로 at 야노브, the Duty hanger-on. He's cheap and shitty, but he'll probably do the job.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_172">
+		<text>A skilled technician, I guess. The local one is more about mechanical stuff, so unless you need your memory module's barrel rifled, I suggest you ask at Jupiter.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_18">
+		<text>누가 강철 상자를 부술 수 있는지 알아?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_181">
+		<text>Well, Cardan at 스카도프스크 is supposed to be good. People say he knows what he's doing, even though he's drunk most of the time. He might be able to help you crack that container.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_182">
+		<text>Anyone who breaks into steel containers for a living? 니트로 the local technician won't do, though. I hear he's more into breaking into other people's electronics.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_19">
+		<text>스내그라고 불리는 스토커를 찾고 있어. 어디서 찾을 수 있는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_191">
+		<text>Never heard of him... I'd ask other free stalkers if I were you.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_2">
+		<text>추락한 헬리콥터에 대해 아는 게 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_20">
+		<text>듀티의 창립자에 대한 정보에 관심가질 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_201">
+		<text>Loki, no question about it. He's our leader here at 야노브. Even if he doesn't know what to do with the info - the main thing is that Duty doesn't get its hands on it. Can you imagine how much propaganda bullshit that'll generate? I get a friggin' headache just thinking about it.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_22">
+		<text>Yeah, you heard that story about the chopper in the mine field? Basically, the jar-heads crashed onto the reserve landing pad which their fellow jar-heads mined six years back. Now some folks say they did it out of stupidity, but I figure there's more to it than that. Look at it like this: nobody is gonna go there, so once the army boys complete their mission they can return to the chopper, patch it up a bit and off they go. I'd love to know what their mission is...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_23">
+		<text>I ain't a local buddy, I don't know shit. Pop in to see us at 야노브 - our boys will tell you everything you want to know and everything you don't for good measure.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_25">
+		<text>Yeah, some boys spotted a chopper flying real messy like the other day. It didn't land in a good place either - right onto one of the Jupiter roofs. The said it crashed and then went through the roof into the building, dragging all kinds of crap down with it.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_3">
+		<text>주변에서 군인을 본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_30">
+		<text>자톤과 주피터 사이의 지역 지도에 관심있어할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_301">
+		<text>Pilot for sure, man. He's the main free stalker guide around here - if you want to talk maps, he's the one you want.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_31">
+		<text>Chill, dude. There ain't no cops, no jar-heads and no friggin' militia around here - you're as safe as can be in the Zone.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_35">
+		<text>No, but some fellas told me they saw an army unit crawling through the mine field by the helipads. Those fellas thought about helping them but decided against it. The jar-heads are an unpredictable breed, you never know when they'll snap and shoot you in the back.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_36">
+		<text>I ain't seen any myself but rumour has it that there's a jar-head at the scientists' bunker. Ozersky, the biologist, said that he's from that chopper which crashed into the plant... The joke doing the rounds is that the nerds have got themselves a pet soldier.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_37">
+		<text>Not personally, but I heard some things from free stalkers. They said that a jar-head was spotted by the Volkhov AA complex. Gotta be a ghost or a zombie that's woken up... what do you reckon?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_38">
+		<text>Nah. This one fella was sayin' that he saw seven soldiers following a free stalker past the radio plant towards Pripyat. There ain't been any weed in the Zone for a while, so I figure that's gotta be crazy talk, pure and simple.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_4">
+		<text>프리피야트로 가는 길을 알아?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_40">
+		<text>과학자들을 경호하기 위해 고용할만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_401">
+		<text>Freedom, us in other words. We work with the scientists all the time, so guarding them would be piece of cake for us. Talk to our boss Loki over at 야노브 - he'll agree for sure.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_402">
+		<text>I ain't sure, friend, 'cause from what I've been hearing, the eggheads hired a Duty squad to work for them... We'd love to guard the scientists, but staring at those constipated Duty faces every day just ain't worth it.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_42">
+		<text>They say you can get there from Jupiter... I mean the plant, not the planet... Hah! That's a good one, you gotta admit!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_43">
+		<text>You know, I ain't got a clue. Just can't find the time to go there... I'd ask Pilot in the camp, yeah? He's a free stalker and knows the area better than anyone.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_44">
+		<text>Bro, if I knew I'd have gone there a long time ago. Getting away from Duty, the jar-heads and all this fighting would be worth it...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_5">
+		<text>프리피야트까지 같이 갈 만한 어딘가에 얽매여있지 않는 사람들을 좀 추천해줄 수 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_51">
+		<text>Sorry, friend, I don't know anyone at Zaton... Take my advice and ask our boys at 야노브.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_52">
+		<text>You know the scientists' bunker? Well, they've got a situation on their hands over there. First Garry, the stalker, decided to make for Pripyat and now the jar-head who's there got the same idea. Garry is a loner and proud of it, but that jar-head is exactly what you're looking for.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_53">
+		<text>Vano at 야노브 is as good as any. He's a decent fella and he could have joined Freedom any time if he wanted. I gather he ain't keen on our struggle with Duty... or any kind of struggle, for that matter. That's his view of things and we respect it!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_54">
+		<text>Sure thing. One of our guys spotted a squad by the dry lake. They're bound to know Pripyat like the back of their hands and they don't seem to be working for anyone. They're sure to be brave, too, 'cause they're Monolith fighters!</text>
+	</string>
+	<string id="about_quests_dialog_freedom_55">
+		<text>Yeah. Strider, the leader of our new recruits... it seems he feels uneasy in our ranks. His boys have adapted just fine but he's not all that happy here... Speak to him - I hate to see a good man being where his heart don't lie...</text>
+	</string>
+	<string id="about_quests_dialog_freedom_57">
+		<text>Nah, no clue.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_6">
+		<text>내가 이상한 총을 하나 찾았어. 누구 알만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_62">
+		<text>You didn't find a manual to go along with it, did you? No? No idea then.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_7">
+		<text>과학자들의 조사를 돕기 위해 고용할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_71">
+		<text>I reckon our boys could do the job. Freedom has its share of smart folks and if we don't know something we'll ask at the bunker. We'd love the opportunity to help science! Speak to Loki at 야노브 - I'm sure he'll say the same.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_72">
+		<text>Me and the boys would love to do it, but Duty's guarding the bunker these days. Popping in to see the scientists is a problem as it is, but being there every day just wouldn't be healthy, that's for damn sure.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_8">
+		<text>아주 이상한 아티팩트를 찾아냈어. 이걸 살 만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_81">
+		<text>You need a collector, buddy. You won't find one at 야노브 , seeing as even some stalkers are afraid of coming here. You'd best ask at Zaton, it's a bit quieter in those parts.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_83">
+		<text>You know Beard, the barman in the free stalker camp? He buys up artefacts and don't rip you off too much either. A nice fella, whichever way you look at it. It's a pity he don't work for us, really.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_9">
+		<text>근처에 있는 블러드써커 소굴을 발견했어. 어떻게 하면 좋을까?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_91">
+		<text>Man, you gotta warn the free stalkers - they've got their main camp around here, after all. The Zone's wildlife is valuable, to be sure, but I'm more concerned about the people in this place.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_98">
+		<text>알겠어, 잊어버려.</text>
+	</string>
+
+	<!-- About Quests Stalker -->
+	<string id="about_quests_dialog_stalkers_0">
+		<text>최근에 들어본 소식 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_1">
+		<text>어떤 거?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_10">
+		<text>님블에 대해서 어떻게 생각해?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_101">
+		<text>I ain't had the pleasure... You'd best ask some 스카도프스크 regulars.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_11">
+		<text>오아시스에 대해 들어본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_111">
+		<text>I've heard everything about the Oasis! It's a legend, a myth... every stalker expects something different from it and every damn one of them claims to know the exact location. It's a pity the only thing those locations have in common is that they're friggin' hard to reach.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_112">
+		<text>Well, they say that wounds heal instantly there and your energy is replenished in minutes... They say no disease or sickness can last in the Oasis, not even radiation poisoning! The one thing I know for sure, though, is its whereabouts... Wanna know? It's in the center of the Zone! But you gotta keep this between us, not a word to anyone!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_113">
+		<text>I heard that any mutant you meet there will just walk on by without so much as looking at you. They also say that there's an artefact there called the Heart of the Oasis... Nobody knows what it does exactly, but one thing's for sure: you shouldn't touch it. Anyone who takes it won't have no place in the Zone no more... Location? Man, everyone knows it's in Pripyat under the Ferris wheel! I mean, where else would it be?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_12">
+		<text>맥파이라고 불리는 스토커를 만난 적이 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_121">
+		<text>Sure have... No idea where he is now though.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_122">
+		<text>Hrm... Never heard of him...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_13">
+		<text>누가 개인 보관함에서 물건을 훔쳐갔는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_131">
+		<text>Err, no? Ask the senior folk at 야노브, they might be able to help you out.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_14">
+		<text>이 근처에서 암호를 해독할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_141">
+		<text>니트로 at 야노브, who else? He loves that complicated technology shit... a lot more than he loves dealing with shooters.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_143">
+		<text>Nobody I know. Ask at 야노브 - they've got an expert there of some kind.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_15">
+		<text>듀티 암상인의 PDA가 있어. 이 물건에 관심이 있을 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_151">
+		<text>You know Owl at 스카도프스크? I reckon he'd be glad to get his hands on it. He likes to get involved in sensitive business...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_152">
+		<text>There used to be a fella called Owl on 스카도프스크 over at Zaton. He deals in information... your PDA might be of interest to him.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_16">
+		<text>이 근처에 도구를 찾을 만한 장소가 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_161">
+		<text>A stalker told me that his old man was working in the substation workshops before 86. He said they had all kinds of equipment there, so I'm guessing there will be tools, too. It's probably all rusted to shit by now, but it might be worth a look anyway.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_162">
+		<text>You know the sawmill in the wood on the hill? There should be some tools there, unless someone got to them first, that is. I doubt that, though: the closer you get to that place the more you feel like shitting your pants and running the hell away. It ain't even the radiation that's scary, I'll leave it at that...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_163">
+		<text>Well, the Jupiter plant is right here and there's bound to be some tools in there. Personally, I wouldn't go near the plant itself... that place gives me the creeps. You could have a look in the Jupiter warehouses, the ones on the side of the plant.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_164">
+		<text>I heard there's a couple of places in Pripyat where you can find all kinds of technical junk. One of them is supposed to be the old Soviet department store. It was pretty much the only place that had anything useful for sale back in the day.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_165">
+		<text>How am I supposed to know? Check in old workshops or stores, there could be something usable there.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_166">
+		<text>To be honest, the last place I saw decent tools was in Sidorovich's bunker at the Cordon. Sure, you have to pay for them, but they're new and not all that expensive either.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_167">
+		<text>You know, buddy, I didn't come to the Zone to search for tools. Think about it, how much use is a radioactive hammer?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_168">
+		<text>I heard a rumour that you can pick up bits and pieces at the old service center... You might be able to find tools there, too. But just as with anything else: the only way to get the good stuff is to get to it first.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_169">
+		<text>좋은 질문이야... I'd check in the old train under the bridge if I were you. Don't ask why... My gut tells me you might find something.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_17">
+		<text>메모리 모듈의 잠금을 풀 수 있는 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_171">
+		<text>Let me think... Well, 니트로 at 야노브 will be able to do it for sure. Other than that, there's also Tukarev, the scientists' technician and a real pro. You gotta think about what you want though, 'cause 니트로 is a lot cheaper.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_172">
+		<text>Well, you'll need a technician, but the only one around here is Cardan. Thing is, after that many years at the bottom of a bottle, he's not exactly safe around complex electronics. I'd ask around at Jupiter if I were you - they've got the right experts there.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_18">
+		<text>누가 강철 상자를 부술 수 있는지 알아?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_181">
+		<text>Cardan at 스카도프스크, I guess. I mean, the way he cuts through padlocks is a joy to watch.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_182">
+		<text>A technician of some kind, I suppose. 니트로 probably won't do it though - he's not into the rough stuff.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_183">
+		<text>Hah, you're asking that in Pripyat?! Take my advice and look for someone a bit further away from the center of the Zone.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_19">
+		<text>스내그라고 불리는 스토커를 찾고 있어. 어디서 찾을 수 있는 지 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_191">
+		<text>Better ask Beard, the barman over at 스카도프스크. He usually knows where stalkers are.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_193">
+		<text>Snag? 내가 그걸 어떻게 아냐? You'd best ask at Zaton, he hangs around there a lot of the time.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_2">
+		<text>추락한 헬리콥터에 대해 아는 게 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_20">
+		<text>Who's interested in information about Duty's founder?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_201">
+		<text>I'd have a chat with Owl, the information trader at 스카도프스크. You can bet your ass he'll be interested in credible info on a legend like that.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_21">
+		<text>I saw one myself... It didn't look like it crashed but it wasn't flying good either. It was swinging from side to side until it landed on a plateau in the south of Zaton... It'd be interesting to see whether anyone survived... If we only knew a way to get up there. Actually, I heard Noah from the psycho barge might know...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_22">
+		<text>I heard about a few military choppers crashing not far from here... People say different things, but there's one I remember clearly. They said it landed on the reserve helipad that jar-heads themselves mined back in the day. Can you believe the irony in that shit? My old man used to say: 'Don't dig a hole for another, 'cause you'll be the one that falls in it.' True, ain't it?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_23">
+		<text>A buddy of mine told me this story... He went to the Iron Forest to get some artefacts and as soon as he got there he heard this crash behind him. He turned to see what it was and saw a chopper coming towards him at full speed, taking down pylons and shit on its way. He bolted the hell outta there... I'm surprised he made it out without landing in an anomaly. You won't have much trouble finding the Iron Forest - you can see it from miles off. It's full of friggin' poltergeists, too, so keep your wits about ya.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_24">
+		<text>I heard one landed on the southern plateau but getting up there ain't easy. The other thing I heard is that someone spotted Noah on the edge of that plateau, which means that psycho knows a way of getting to it.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_25">
+		<text>I've not seen any myself but rumour has it that one crashed right into the plant... Nobody wants to check it out though - the place is just too dangerous.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_26">
+		<text>One stalker told me he saw several military helis getting into some trouble... He saw the engine on one light up and then it went straight down into a swamp full of anomalies. You'll be able to get there easy enough, but the swamp itself is a friggin' nightmare... It's no place for humans, believe you me.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_3">
+		<text>주변에서 군인을 본 적 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_30">
+		<text>자톤과 주피터 사이의 지역 지도에 관심있어할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_301">
+		<text>Pilot, who the hell else? He's a guide, you know? Constantly making trips between 스카도프스크 and 야노브, so he'll find a use for your maps sure enough.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_302">
+		<text>This ain't Zaton or Jupiter, so these maps are useless here, right? Ask around in those places and you might have more luck!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_31">
+		<text>I didn't see any myself but I heard a story about some soldiers getting down from the southern plateau on the sewerage works side. Apparently they tried to get down all proper at first, using cables and shit. But then gave up and slid down on their asses, hah! Zone bobsled - gotta love it!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_32">
+		<text>I heard a conversation at 스카도프스크 about five or so jar-heads who were spotted coming out of a drainage tunnel by the swamp. They said the soldiers were dirty as hell, and one of them you couldn't even tell from a swamp bloodsucker, covered in slime from head to toe.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_33">
+		<text>Not personally, but a friend of mine saw a military unit engage a group of mercs by the processing station. But by the time he found a nice spot to enjoy the show it was over 'cause the jar-heads fell back. No casualties on either side either... typical, ain't it?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_34">
+		<text>Apparently ten or so jar-heads were spotted hanging around Noah's barge. Now, given that the psycho was alive at this point, he probably came to some sort of agreement with them... which is just like him. Obviously nobody wanted to ask Noah about what happened - you never know what to expect from that crazy son of a bitch.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_35">
+		<text>I heard something explode at night and then someone at 야노브 told me that they saw a dead jar-head in the old mine field and an abandoned army chopper behind him. Seems they couldn't tell where they landed in the dark and went straight across the mines. Nobody knows how many of them made it out of there, but I doubt he flew that chopper in on his own.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_36">
+		<text>I've not really seen any military... but I've heard rumours that a jar-head is hanging around with the scientists. The story goes that Garry, a stalker, found him when he went into the missile complex to look for his buddies. Now, the complex is crawling with zombies who aren't exactly friendly to stray humans, so Garry basically saved him from certain death.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_37">
+		<text>No, but I heard that a jar-head was spotted by the Volkhov AA complex. I don't really believe it though... They could be lying or maybe they just can't tell a zombie from a soldier.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_38">
+		<text>Military? Well, I heard people saying that 'a whole military unit lead by a stalker' was making its way past the Jupiter plant, but I didn't pay much attention to that gossip.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_4">
+		<text>프리피야트로 가는 길을 알아?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_40">
+		<text>과학자들을 경호하기 위해 고용할만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_401">
+		<text>You know Spartacus and his squad? You know, the stalkers at Zaton? They're good people and decent fighters - they've been there, done that and got the T-shirt. I have a feeling they'd like the idea of guarding the scientists.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_402">
+		<text>Did you run into Hatchet's squad by the substation workshops at Zaton? They've got their problems, like all mercs, but at least they ask questions first and shoot later. I'm guessing if you manage to sign them up for this job, the scientists will be pleased and stalkers can relax a little, too. Everyone's happy, right?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_403">
+		<text>Erm... Nothing comes to mind... No, sorry.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_41">
+		<text>What I know for sure is that there's no way of getting there from Zaton. Everyone who was bursting to get to Pripyat headed towards Jupiter, so you should ask around in those parts.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_42">
+		<text>Well, rumour has it that there are secret tunnels to Pripyat underneath the Jupiter plant... The thing is, these rumours usually get told after the second round, and then Jupiter is such a friggin' nightmare that nobody dares goes near it.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_43">
+		<text>How should I know, dude? You got any easier questions for me? All I can say is that you should find Pilot and talk to him - if anyone can help you, it's him.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_44">
+		<text>Hah, if I knew the way to Pripyat I wouldn't be here. Why do you think I went towards the center of the Zone? Pripyat is full of artefacts, man! Whoever gets there first is gonna be living the high life!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_5">
+		<text>프리피야트까지 같이 갈 만한 어딘가에 얽매여있지 않는 사람들을 좀 추천해줄 수 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_51">
+		<text>I don't think there's anyone like that around here. Everyone who wanted to be closer to the center of the Zone left for Jupiter. That's where I'd ask if I were you.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_52">
+		<text>You heard about the jar-head who's with the scientists at the moment? I reckon he ain't got much to lose by going with you. The scientists are not leaving any time soon, he can't reach the Cordon on his own, so he just might be dumb enough to go to Pripyat with you!</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_53">
+		<text>You know Vano over at 야노브 station? He's an honest fella, a good stalker and gullible as hell. Now there's a cat who's better off around anomalies than people - so long as he's here there will always be someone to take advantage of him.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_54">
+		<text>Listen man, I heard that a squad was spotted by the dry lake south of the AA complex... Apparently they're not the usual stalkers or Freedom or Duty - they're Monolith men! So if you need someone to go to Pripyat with, they're just the ticket. Haha, you do realize I'm kidding, right?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_55">
+		<text>You know Strider, the leader of the new Freedom squad? If you saw his miserable kisser, you'd know for yourself that 야노브 ain't the place for him. You should try speaking to him. He might actually go for it.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_56">
+		<text>You know Strider, the leader of the new Duty squad? If you saw his miserable kisser, you'd know for yourself that 야노브 ain't the place for him. You should try speaking to him. He might actually go for it.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_57">
+		<text>흠... 잘 모르겠는데.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_6">
+		<text>내가 이상한 총을 하나 찾았어. 누구 알만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_62">
+		<text>누가 알고 있냐고? 전문가 한테 물어봐야겠지... 그러니까, 음, 기술자라던가...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_63">
+		<text>I reckon asking Cardan at 스카도프스크 won't hurt, buddy. He deals with weapons and he's good... He might even have a brain cell or two left despite his boozing...</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_7">
+		<text>과학자들의 조사를 돕기 위해 고용할 만한 사람을 알고 있어?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_71">
+		<text>You know Gonta the hunter? I'm thinking he and his boys wouldn't object to working for the scientists. I mean, if mutants become a nuisance, those boys are exactly what you need to deal with them.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_72">
+		<text>You heard of Grizzly, Torba and Mitay, the stalkers at 야노브? They work as a trio and they're shit hot! I think they're right for that kind of work... as long as Mitay has managed to stay out of trouble for once.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_73">
+		<text>No clue, fella. We got enough of our own shit to worry about here.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_8">
+		<text>아주 이상한 아티팩트를 찾아냈어. 이걸 살 만한 사람이 있을까?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_81">
+		<text>Don't think so. People around here go for the familiar. Ask around Zaton, it's closer to the edge of the Zone and all that.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_83">
+		<text>I'd show it to Beard, the barman at 스카도프스크. They say he works with collectors from the outside world and those cats always go nuts for strange stuff.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_9">
+		<text>근처에 있는 블러드써커 소굴을 발견했어. 어떻게 하면 좋을까?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_91">
+		<text>Wow, you gotta tell Beard at 스카도프스크 about that... 'cause either we deal with them or they'll tear us a new one.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_98">
+		<text>알겠어, 잊어버려.</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_0">
+		<text>Where's the nearest stalker camp around here?</text>
+	</string>
+	<string id="about_skadovsk_dialog_bandit_1">
+		<text>What are you, stupid? I don't know about stalker camps, but the nearest camp around here is 스카도프스크. I'll give you the coordinates and I'll even do it for free. Nice, ain't I?</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_0">
+		<text>Where's the nearest stalker camp around here?</text>
+	</string>
+	<string id="about_skadovsk_dialog_stalkers_1">
+		<text>I'll upload the coordinates to your PDA... 스카도프스크 is the only major camp around here.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_27">
+		<text>I heard about a few crashing... I don't know the details - gossip ain't my thing. Sorry if that doesn't help you much.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_28">
+		<text>Man, I've got other shit to worry about without your choppers... I mean, I bet crashing a heli hurts like hell, but other than that I don't know what to say.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_27">
+		<text>What are you talking about, punk? You have to smoke some real hardcore shit to see a chopper around here, cause real ones don't got nothin' to do in this place.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_27">
+		<text>Huh? Nah, man, I don't concern myself with shit like that. It don't help with my mission of disseminating knowledge one bit, you know what I mean?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_27">
+		<text>Our patrol watched the helicopters descending, but the details of this were reported to the Lieutenant Colonel personally. It's on a need-to-know basis, and I really don't need to know this stuff.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_50">
+		<text>Where can I find a suit with a closed-cycle respiratory module?</text>
+	</string>
+	<string id="about_quests_dialog_bandit_501">
+		<text>Not sure about find, but the right amount of coin will work wonders - if you know where to invest it. Have a chat with Nimble... If you agree on the details, he'll get your rags somehow. I hope you do... we'd enjoy a few days without him here on 스카도프스크...</text>
+	</string>
+	<string id="about_quests_dialog_bandit_502">
+		<text>Hell should I know? I ain't been here long myself... You'd best ask at Zaton, our brothas there do their own networking.</text>
+	</string>
+	<string id="about_quests_dialog_bandit_503">
+		<text>Not a clue. Why, you planning on sticking your nose into an anomaly? Look, if you come into any artefacts, give us a holler. We'll be right there in a jiffy... To congratulate you on a job well done!</text>
+	</string>
+	<string id="about_quests_dialog_dolg_50">
+		<text>Where can I find a suit with a closed-cycle respiratory module?</text>
+	</string>
+	<string id="about_quests_dialog_dolg_501">
+		<text>How am I supposed to know? Wait... there's this one dude here on 스카도프스크, they say he can get you whatever you need. Sits on the upper deck, name's Nimble.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_502">
+		<text>Nah, no one's coming all the way out here with an extra suit like that... You'd better ask at Zaton - a step closer to civilization.</text>
+	</string>
+	<string id="about_quests_dialog_dolg_503">
+		<text>I have no idea where you'd look for one... Suits like that are rare even among Duty members. They issue 'em only for special distinction in battle or running operations in highly anomalous areas.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_50">
+		<text>Where can I find a suit with a closed-cycle respiratory module?</text>
+	</string>
+	<string id="about_quests_dialog_freedom_501">
+		<text>I heard some stalkers talk about this man with connections, Nimble or something. He can get you almost anything. You know: gear, shooters, shit like that... not dope. Hangs out at 스카도프스크, if you need him.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_502">
+		<text>A good question, man... We don't ever wear those here in Freedom... I'd ask stalkers at Zaton if I were you. There might be someone there who runs that sort of business.</text>
+	</string>
+	<string id="about_quests_dialog_freedom_503">
+		<text>Heh, whatcha need that crap for? It ain't no good in action. Then again... I guess it can be of some use. Makes breathing easier, and the sun doesn't get in your eyes as much... I might go for one of those myself. Hey, do you know where I could get one?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_50">
+		<text>Where can I find a suit with a closed-cycle respiratory module?</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_501">
+		<text>Well, my bet would be Nimble. Third deck at 스카도프스크. That dude can get you snow in a friggin' desert... His services aren't easy on the pocket though.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_502">
+		<text>Let me think... There used to be a man like that over at Zaton, went by Nimble. Try and see if he's still there. I heard he specializes in up-scale items.</text>
+	</string>
+	<string id="about_quests_dialog_stalkers_503">
+		<text>Dude, you talk about it like it's office supplies or something... No one knows for sure. Pieces like that are few and far between... Consider yourself lucky if you snatch one.</text>
+	</string>
+
+	<!-- Call of Chernobyl -->
+	<string id="dm_dialog_add_trade">
+		<text>그래서... 내가 듣기론 네가 부업으로 무언가를 거래하고 있다던데.</text>
+	</string>
+	<string id="dm_dialog_add_repair">
+		<text>당신이 도구를 잘 다룬다는 소문을 들었어. 내 장비를 수리해줄 수 있을까?</text>
+	</string>
+	<string id="dm_dialog_character_history">
+		<text>당신에 대해 알려줘.</text>
+	</string>
+
+	<!-- General -->
+	<string id="actor_break_dialog_0">
+		<text>잘 가.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>나중에 봐.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>안녕히.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>안녕.</text>
+	</string>
+
+	<!-- Wish Granter -->
+	<string id="st_wish_1">
+		<text>존이 사라지게 해 줘!</text>
+	</string>
+	<string id="st_wish_2">
+		<text>인류는 부패했어. 인류는 통제되어야 해!</text>
+	</string>
+	<string id="st_wish_3">
+		<text>세계를 평화롭게 만들어 줘!</text>
+	</string>
+	<string id="st_wish_4">
+		<text>존에 있는 모든 보물들을 원해!</text>
+	</string>
+	<string id="st_wish_5">
+		<text>나를 불사신으로 만들어 줘!</text>
+	</string>
+	<string id="st_wish_99">
+		<text>[아무 말도 하지 않는다]</text>
+	</string>
+
+	<!-- Alundaio -->
+	<string id="axr_phrase_npc_start_wounded">
+		<text>도와... 줘.</text>
+	</string>
+	<string id="axr_phrase_actor_has_medkit">
+		<text>내가 도와줄게.</text>
+	</string>
+	<string id="axr_phrase_actor_dont_has_medkit">
+		<text>미안. 도와줄 수 없어.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_trade">
+		<text>장비를 교환하고 싶어.</text>
+	</string>
+	<string id="dm_dialog_become_companion_greeting">
+		<text>너 여기서 뭔가 할 일이라도 있는 것처럼 보이는데.</text>
+	</string>
+	<string id="dm_dialog_companion_I_have_a_question">
+		<text>응? 아마도... 질문이 있어.</text>
+	</string>
+	<string id="dm_dialog_companion_question_answer_1">
+		<text>뭔데?</text>
+	</string>
+	<string id="dm_dialog_companion_question_answer_2">
+		<text>다른 혼자 있는 녀석에 대해 물어보고 싶어.</text>
+	</string>
+	<string id="dm_dialog_actor_answer_1">
+		<text>흥미롭군...</text>
+	</string>
+	<string id="dm_dialog_actor_answer_2">
+		<text>어... 말을 끊어서 미안한데, 난 가야겠어.</text>
+	</string>
+	<string id="dm_dialog_companion_can_i_come_with_1">
+		<text>같이 여행하자. 관심 있어?</text>
+	</string>
+	<string id="dm_dialog_companion_can_we_come_with_2">
+		<text>나랑 내 친구들이 존을 헤쳐나가는 데 도움이 좀 필요해. 함께 해도 될까?</text>
+	</string>
+	<string id="dm_dialog_companion_can_i_come_with_2">
+		<text>팀을 만들어서 계속 돌아다니자고. 관심 있어?</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_1">
+		<text>그 총으로 엉뚱한 데를 조준하지만 않는다면야, 좋아.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_2">
+		<text>좋아. 하지만 네가 죽으면, 니 물건은 내가 다 가져갈 거야.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_3">
+		<text>아니. 관심 없어.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_4">
+		<text>꺼져!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_1">
+		<text>고마워, 친구. 방해가 되지 않도록 노력할게.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_2">
+		<text>멋지군. 정말로 누가 도와줬으면 하길 바라고 있었어.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_3">
+		<text>상남자구만. 고마워.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_alone_1">
+		<text>알았어. 어쨌든 고마워...</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_alone_2">
+		<text>우와, 이봐! 너 대체 뭐야?</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_1">
+		<text>정말 좋은 소식이군! 가자, 친구들아!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_2">
+		<text>좋아. 이봐, 친구들, 이 스토커가 우리들을 데려다 줄 거야. 따라가자.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_3">
+		<text>어서 움직이자고. 우리들을 안내해줄 사람을 찾았어.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_1">
+		<text>뭐든지.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_2">
+		<text>이 새낄 죽여!</text>
+	</string>
+	<string id="axr_phrase_companion_ask_for_command">
+		<text>필요한 게 있어?</text>
+	</string>
+	<string id="axr_phrase_actor_give_command">
+		<text>[지시를 내린다]</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat">
+		<text>전술에 대해서...</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_camper">
+		<text>전투에서 좀 더 신중하게 행동했으면 해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_default">
+		<text>전투에서 평소에 하던 것처럼 해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_monolith">
+		<text>보이는 모든 적들을 죽여!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stay_close">
+		<text>가까이 와서 내 뒤를 지켜줘.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_keep_distance">
+		<text>내게서 좀 떨어져 있어줘.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stealth">
+		<text>쉬이이잇... 몸을 숙이고 은밀하게 행동해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stop_stealth">
+		<text>좋아, 평소대로 움직이자.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_relax">
+		<text>잠깐 쉬고 있자고. 다시 출발할 때가 되면 말해줄게.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_relax_over">
+		<text>좋아. 다시 움직이자.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_leave">
+		<text>여기서부터는 나 혼자 움직여야 해.</text>
+	</string>
+	<string id="axr_phrase_companion_are_you_sure">
+		<text>정말이야?</text>
+	</string>
+	<string id="axr_phrase_actor_acknowledge_1">
+		<text>응.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_wait">
+		<text>여기 기다리면서 이 곳을 지켜줘.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_follow">
+		<text>나를 따라왔으면 해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_ignore_combat">
+		<text>지금은 누구에게도 사격하지 말아줘.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_dont_ignore_combat">
+		<text>시야에 보이는 적들만 공격해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
+		<text>날 공격하게 전에는 누구도 공격하지 마.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_1">
+		<text>좋았어.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_2">
+		<text>알겠어, 친구.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_3">
+		<text>좋아, 내가 뭘 해줄까?</text>
+	</string>
+	<string id="axr_phrase_companion_goodbye_1">
+		<text>같이 다녀서 즐거웠어. 나중에 보자.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_nevermind">
+		<text>신경쓰지 마.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_hide_in_cover">
+		<text>빨리! 엄폐할 곳을 찾아!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_menu">
+		<text>지역을 순찰해 줬으면 해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_start_patrol">
+		<text>순찰을 시작해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stop_patrol">
+		<text>순찰을 멈춰.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_remove_waypoints">
+		<text>순찰 지점들은 이제 다 잊어버려도 돼.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_add_waypoints">
+		<text>이 지점을 현재 순찰 지점에 추가해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_gather_items">
+		<text>주변에 있는 모든 장비들을 주워, 쓸모있을 거야.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_loot_corpses">
+		<text>시신을 수색해서 쓸만한 것들을 가져가.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_gather_items_stop">
+		<text>보이는 장비들은 다 무시해.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_loot_corpses_stop">
+		<text>시신은 그냥 무시해.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_ask_join">
+		<text>이봐, 팀을 이루어서 돌아다니자고. 존을 헤쳐나가는 데 서로 도와줄 수 있을 거야.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_answer_join">
+		<text>그래, 좋은 생각이야! 앞장서.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_ask_join_hostage">
+		<text>네 동료를 구하는 데 같이 갈래?</text>
+	</string>
+	<string id="axr_phrase_friend_companion_answer_join_hostage">
+		<text>그래, 걔는 우리 도움이 필요할 거야! 앞장서.</text>
+	</string>
+</string_table>

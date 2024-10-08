@@ -1,0 +1,1293 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_agr_secret_0000_descr">
+		<text>이제 우리들의 비밀 은닉처는 터널 안에 있어. 괜찮은 곳이지. 아는 사람도 별로 없고, 이상현상이 다른 녀석들의 접근도 막아줄거야.</text>
+	</string>
+	<string id="st_agr_secret_0000_name">
+		<text>세리의 비밀 은닉처</text>
+	</string>
+	<string id="st_agr_secret_0001_descr">
+		<text>난 터널 옆에 있는 나무둥치에 물건을 숨겨두었어. 물건 숨기기에 딱 좋은 구멍이 있더군.</text>
+	</string>
+	<string id="st_agr_secret_0001_name">
+		<text>구멍이 난 나무둥치</text>
+	</string>
+	<string id="st_agr_secret_0002_descr">
+		<text>수풀 옆의 십자가 아래에 물건들을 숨겨두었어.</text>
+	</string>
+	<string id="st_agr_secret_0002_name">
+		<text>십자가 아래에 물건 있음</text>
+	</string>
+	<string id="st_agr_secret_0003_descr">
+		<text>쓰러진 나무 아래쪽에 있는 배낭에 놓아둠.</text>
+	</string>
+	<string id="st_agr_secret_0003_name">
+		<text>나무 아래쪽의 배낭</text>
+	</string>
+	<string id="st_agr_secret_0004_descr">
+		<text>공장 근처에 있는 파이프에 배낭을 넣어두었어. 아무도 찾지 못할거야.</text>
+	</string>
+	<string id="st_agr_secret_0004_name">
+		<text>굴뚝 청소부의 배냥</text>
+	</string>
+	<string id="st_agr_secret_0005_descr">
+		<text>공장 지붕 위에 있는 상자에 숨겨두었으니 아무도 찾지 못할거야. 문제는, 비 때문에 녹이 슬거라는 거지.</text>
+	</string>
+	<string id="st_agr_secret_0005_name">
+		<text>지붕 위의 상자</text>
+	</string>
+	<string id="st_agr_secret_0006_descr">
+		<text>저 놈들이 날 쏘고 있었어. 시트 뒤쪽에 있는 열차칸 아래쪽에 배낭을 놓아둬야만 했어. 그래야 내가 도망갈 수 있으니까. 나중에 다시 찾으러 갈 거야.</text>
+	</string>
+	<string id="st_agr_secret_0006_name">
+		<text>술꾼의 배낭</text>
+	</string>
+	<string id="st_agr_secret_0007_descr">
+		<text>수조 뒤에 있는 십자가 아래쪽에 숨겨두었어. 조금 파보면 나오니까, 다른 놈들이 가져가지만 않았으면 하네.</text>
+	</string>
+	<string id="st_agr_secret_0007_name">
+		<text>세 개의 수조 옆</text>
+	</string>
+	<string id="st_agr_secret_0008_descr">
+		<text>공장 위쪽에, 아무도 볼 수 없는 곳에 배낭을 놔두었어. 문제는, 나도 그게 어디에 있는지 정확히 기억이 안난다는 거야.</text>
+	</string>
+	<string id="st_agr_secret_0008_name">
+		<text>동그란 구멍 안의 배낭</text>
+	</string>
+	<string id="st_agr_secret_0009_descr">
+		<text>공장 안에 있는 상자에 물건을 숨겨둠</text>
+	</string>
+	<string id="st_agr_secret_0009_name">
+		<text>방사능에 쩐 상자</text>
+	</string>
+	<string id="st_agr_secret_0010_descr">
+		<text>계단 밑에 있는 상자에 은닉처가 있어.</text>
+	</string>
+	<string id="st_agr_secret_0010_name">
+		<text>계단통 안의 상자</text>
+	</string>
+	<string id="st_agr_secret_0011_descr">
+		<text>상자 안에 물건을 숨겨두었으니, 아무도 확인해보지 않겠지.</text>
+	</string>
+	<string id="st_agr_secret_0011_name">
+		<text>공장의 상자</text>
+	</string>
+	<string id="st_agr_secret_0012_descr">
+		<text>창문 밖으로 가방을 떨어트렸어. 나중에 찾아가야지.</text>
+	</string>
+	<string id="st_agr_secret_0012_name">
+		<text>지지대에 놓인 배낭</text>
+	</string>
+	<string id="st_agr_secret_0013_descr">
+		<text>콜리안과 난 아그로프롬을 돌아다니고 있었어. 우린 고물 한 무더기를 찾아냈고, 몇 가지를 숨겨두는 데 성공했어. 쓰레기통 안에 있던 상자에 넣어두었어.</text>
+	</string>
+	<string id="st_agr_secret_0013_name">
+		<text>쓰레기통</text>
+	</string>
+	<string id="st_agr_secret_0014_descr">
+		<text>쓰러진 나무 아래에서 금고를 발견했어. 지금부터 여기에 다 숨겨두어야지.</text>
+	</string>
+	<string id="st_agr_secret_0014_name">
+		<text>나무 밑의 금고</text>
+	</string>
+	<string id="st_agr_secret_0015_descr">
+		<text>파이프 안에 물건들을 넣어두고, 나중에 찾으러 올 거야. 그렇게 하지 않았다면 그거까지 다 가져가느라 끙끙댔을 거야. 젖지만 않았으면 좋겠어.</text>
+	</string>
+	<string id="st_agr_secret_0015_name">
+		<text>파이프 안의 물건</text>
+	</string>
+	<string id="st_agr_secret_0016_descr">
+		<text>물건들이 낡은 파이프 안에 있다는 걸 다른 친구들한테 알려줘야겠어. 난 거길 갈 생각이 없으니까.</text>
+	</string>
+	<string id="st_agr_secret_0016_name">
+		<text>방사능에 쩐 파이프</text>
+	</string>
+	<string id="st_agr_secret_0017_descr">
+		<text>저 개같은 새끼들의 기지에서 도망쳤어! 스토커 놈들의 사격을 피해 파이프 안의 쓰레기더미에 내 물건들을 숨겨놓았어. 여기서 저 놈들이 갈때까지만 기다리고 있다가, 나중에 다시 가져갈 거야.</text>
+	</string>
+	<string id="st_agr_secret_0017_name">
+		<text>파이프 안 쓰레기더미</text>
+	</string>
+	<string id="st_agr_secret_0018_descr">
+		<text>덤불 밑에 반쯤 뭍힌 금고가 있어. 내가 거기에 모든 걸 숨겨두었지.</text>
+	</string>
+	<string id="st_agr_secret_0018_name">
+		<text>덤불 밑의 금고</text>
+	</string>
+	<string id="st_agr_secret_0019_descr">
+		<text>그들이 지지대 아래쪽에서 상자를 발견했어. 누군가가 과학 연구소에서 여기까지 끌고 왔던 모양이야. 좀 기다렸다가 가져가자.</text>
+	</string>
+	<string id="st_agr_secret_0019_name">
+		<text>기록 보관용 상자</text>
+	</string>
+	<string id="st_agr_secret_0020_descr">
+		<text>철제 캡슐 안에 물건들을 숨겨둠</text>
+	</string>
+	<string id="st_agr_secret_0020_name">
+		<text>트랩도어 아래쪽</text>
+	</string>
+	<string id="st_agr_secret_0021_descr">
+		<text>덤불 밑에 반쯤 뭍힌 금고가 있어. 내가 거기에 모든 걸 숨겨두었지.</text>
+	</string>
+	<string id="st_agr_secret_0021_name">
+		<text>벽 근처의 덤불 밑</text>
+	</string>
+	<string id="st_agr_secret_0022_descr">
+		<text>더 많은 고철을 쌓아두기 딱 좋은 상자임</text>
+	</string>
+	<string id="st_agr_secret_0022_name">
+		<text>연구시설에서 가져온 상자</text>
+	</string>
+	<string id="st_agr_secret_0023_descr">
+		<text>금고에 숨겨두기는 했는데, 군바리가 찾아오는 바람에 물건들을 가지러 갈 수 없었어.</text>
+	</string>
+	<string id="st_agr_secret_0023_name">
+		<text>아그로프롬 금고</text>
+	</string>
+	<string id="st_agr_secret_0024_descr">
+		<text>파이프 안에 고물들을 던저넣었어. 나중에 찾으러 갈 거야.</text>
+	</string>
+	<string id="st_agr_secret_0024_name">
+		<text>트럭 차제</text>
+	</string>
+	<string id="st_agr_secret_0025_descr">
+		<text>썩은 통나무에서 물건을 챙기기</text>
+	</string>
+	<string id="st_agr_secret_0025_name">
+		<text>썩은 통나무</text>
+	</string>
+	<string id="st_agr_secret_0026_descr">
+		<text>더 많은 고철을 쌓아두기 딱 좋은 상자야. 연구시설의 장비 창고가 예전에 거기 있었을 거야.</text>
+	</string>
+	<string id="st_agr_secret_0026_name">
+		<text>자보츠 상자</text>
+	</string>
+	<string id="st_agr_secret_0027_descr">
+		<text>작은 물건들을 넣기 좋은 상자야. 이거랑 비슷한 금속가공 도구 상자를 집에 놔뒀는데.</text>
+	</string>
+	<string id="st_agr_secret_0027_name">
+		<text>금속세공 상자</text>
+	</string>
+	<string id="st_agr_u_secret_0000_descr">
+		<text>밴딧이 파이프 안에 뭔가를 넣었나 봐, 확인해봐야 할 거 같아. 우리 대화로 미뤄보면 아마 걔들이 보급품을 넣어두었을 게 확실해.</text>
+	</string>
+	<string id="st_agr_u_secret_0000_name">
+		<text>밴딧들의 공용 "자금"</text>
+	</string>
+	<string id="st_agr_u_secret_0001_descr">
+		<text>콘크리트 판 몇 조각 뒤에 가볍게 짐을 싼 배낭을 숨겨두었어. 배는 고파지겠지만 이제 살 수 있겠지.</text>
+	</string>
+	<string id="st_agr_u_secret_0001_name">
+		<text>배낭이 골목길에 있음</text>
+	</string>
+	<string id="st_agr_u_secret_0002_descr">
+		<text>상자는 지하에 있는 녹슨 "통"처럼 생긴 것 뒤에 있었고, 거기에 모든 게 들어있어. 그치만 내가 거기 돌아갈 방법은 없어. 그나저나 내가 블러드써커를 잡았다는 건 기적같은 일이었어. 아직도 어떻게 해냈는지 잘 기억이 안 나네.</text>
+	</string>
+	<string id="st_agr_u_secret_0002_name">
+		<text>블러드써커의 상자</text>
+	</string>
+	<string id="st_agr_u_secret_0003_descr">
+		<text>문 뒤에 몇 가지 물건이 있었어. 이걸 갖다 팔아서 상점에서 좋은 물건을 살 거야!</text>
+	</string>
+	<string id="st_agr_u_secret_0003_name">
+		<text>스토커의 상품</text>
+	</string>
+	<string id="st_agr_u_secret_0004_descr">
+		<text>여기에 물건들을 좀 묻어놨어. 내가 생각해도 비밀 은닉처를 만들기 딱 좋은 자리야. 네가 노란 통 위에서 그걸 찾아낼 방법은 없을 거다.</text>
+	</string>
+	<string id="st_agr_u_secret_0004_name">
+		<text>두더지 구멍</text>
+	</string>
+	<string id="st_bar_secret_0000_descr">
+		<text>듀티 기지 근처에 배낭을 숨겨두었어. 나중에 찾으러 갈 거야.</text>
+	</string>
+	<string id="st_bar_secret_0000_name">
+		<text>숨겨진 배낭</text>
+	</string>
+	<string id="st_bar_secret_0001_descr">
+		<text>엄청난 수의 개 한 무리가 내 앞을 지나갔어. 배낭을 놔두지 않았다면 정문까지 살아서 갈 수 없었겠지.</text>
+	</string>
+	<string id="st_bar_secret_0001_name">
+		<text>남겨진 배낭</text>
+	</string>
+	<string id="st_bar_secret_0002_descr">
+		<text>십자가 밑에 모든 것이 묻혀있음</text>
+	</string>
+	<string id="st_bar_secret_0002_name">
+		<text>십자가 밑의 비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0003_descr">
+		<text>여기에 내 배낭을 놔둔다. 이렇게 하는 편이 낫겠지.</text>
+	</string>
+	<string id="st_bar_secret_0003_name">
+		<text>배낭</text>
+	</string>
+	<string id="st_bar_secret_0004_descr">
+		<text>듀티 경비 초소에서 쓰는 탄약이 벙커 안에 있는데도, 이 상자에는 아무도 신경을 쓰지 않음</text>
+	</string>
+	<string id="st_bar_secret_0004_name">
+		<text>벙커 안의 보급품</text>
+	</string>
+	<string id="st_bar_secret_0005_descr">
+		<text>정문 근처에서 듀티 하나가 파이프 안에 뭔가를 숨겨넣는 걸 보았음</text>
+	</string>
+	<string id="st_bar_secret_0005_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0006_descr">
+		<text>저기 있는 모든 물건들은 그의 소유지만, 그건 그가 거기 있을때까지의 이야기일 것이다.</text>
+	</string>
+	<string id="st_bar_secret_0006_name">
+		<text>십자가 밑의 비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0007_descr">
+		<text>나는 바에 가려고 하니까, 그동안 배낭을 지지대쪽에 놔두자.</text>
+	</string>
+	<string id="st_bar_secret_0007_name">
+		<text>배낭</text>
+	</string>
+	<string id="st_bar_secret_0008_descr">
+		<text>소문으로는 듀티 영토안에 있는 배전반에 뭔가 귀한게 숨겨져 있다는군.</text>
+	</string>
+	<string id="st_bar_secret_0008_name">
+		<text>비밀 은닉처가 있는 배전반</text>
+	</string>
+	<string id="st_bar_secret_0009_descr">
+		<text>듀티 기지 앞쪽의 탑 위에 상자를 놔두었어. 아무도 찾지 못할거야.</text>
+	</string>
+	<string id="st_bar_secret_0009_name">
+		<text>탑 위의 비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0010_descr">
+		<text>계단 아래쪽의 파이프 안에 숨겨둠</text>
+	</string>
+	<string id="st_bar_secret_0010_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0011_descr">
+		<text>바에서 멀지 않은 곳의, 이상현상 뒤에 물건들을 숨겨놓았어. 아무도 거기로 가지 못할거야. 그리고 거길 간다고 해도 그걸 어떻게 여는지 아는 사람은 없겠지. 하지만 방법은 사실 간단해. 그냥 문 쪽을 살짝 당기기만 하면, 모두 열리게 될 거야.</text>
+	</string>
+	<string id="st_bar_secret_0011_name">
+		<text>아르니의 비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0012_descr">
+		<text>바에서 멀지 않은 곳에 물건을 묻었음</text>
+	</string>
+	<string id="st_bar_secret_0012_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0013_descr">
+		<text>바 옆에 상자 있음</text>
+	</string>
+	<string id="st_bar_secret_0013_name">
+		<text>상자</text>
+	</string>
+	<string id="st_bar_secret_0014_descr">
+		<text>바 옆의 골목길에 놓인 상자에 숨겨놓음</text>
+	</string>
+	<string id="st_bar_secret_0014_name">
+		<text>작은 상자</text>
+	</string>
+	<string id="st_bar_secret_0015_descr">
+		<text>소나무 뒤의 십자가 아래에 묻음</text>
+	</string>
+	<string id="st_bar_secret_0015_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0016_descr">
+		<text>십자가 아래, 어둠의 무법지대로 들어가는 입구에서 멀지 않은 곳</text>
+	</string>
+	<string id="st_bar_secret_0016_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0017_descr">
+		<text>아레나 근처의 파이프 안에 있는 상자에 항방사능 처리를 한 뒤 숨김</text>
+	</string>
+	<string id="st_bar_secret_0017_name">
+		<text>작은 상자</text>
+	</string>
+	<string id="st_bar_secret_0018_descr">
+		<text>탑 아래쪽에 있는 파이프에 내 잡동사니를 숨김</text>
+	</string>
+	<string id="st_bar_secret_0018_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_bar_secret_0019_descr">
+		<text>십자가 밑에 비밀 은닉처 있음</text>
+	</string>
+	<string id="st_bar_secret_0019_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_esc_secret_0000_descr">
+		<text>부대 재배치 중 객차 안에 군 보급품을 숨겨놓았다. 잊지 말 것.</text>
+	</string>
+	<string id="st_esc_secret_0000_name">
+		<text>다리 위에 있는 열차</text>
+	</string>
+	<string id="st_esc_secret_0001_descr">
+		<text>한 스토커가 숲 속에 있는 기차 터널 옆의 한 이상현상 아래쪽으로 향하는 걸 봤어. 꽤 좋은 걸 가지고 있는 것처럼 보였지.</text>
+	</string>
+	<string id="st_esc_secret_0001_name">
+		<text>이상현상에 희생된 자의 물건</text>
+	</string>
+	<string id="st_esc_secret_0002_descr">
+		<text>밴딧 캠프 근처의 십자가 밑에 물건을 숨겨둠</text>
+	</string>
+	<string id="st_esc_secret_0002_name">
+		<text>밴딧 캠프 근처 십자가</text>
+	</string>
+	<string id="st_esc_secret_0003_descr">
+		<text>밴딧이 훔쳐간 상자가 중앙 건물의 지하실에서 발견되었다. 파견대를 보내 가져올 것.</text>
+	</string>
+	<string id="st_esc_secret_0003_name">
+		<text>밴딧 창고</text>
+	</string>
+	<string id="st_esc_secret_0004_descr">
+		<text>내 동료와 함께 군복 입은 개새끼들이랑 싸우고 있었을 때, 난 다리 밑에 물건을 좀 놓아두었어. 지금은 일단 거기에 그냥 둬야겠어.</text>
+	</string>
+	<string id="st_esc_secret_0004_name">
+		<text>교차점 아래쪽</text>
+	</string>
+	<string id="st_esc_secret_0005_descr">
+		<text>지하실 안에 배낭을 놓아두었어. 지금은 가져갈 수 없지만, 나중에 들러야겠어.</text>
+	</string>
+	<string id="st_esc_secret_0005_name">
+		<text>지하실 안의 은신처</text>
+	</string>
+	<string id="st_esc_secret_0006_descr">
+		<text>농장에서 반쯤 묻힌 금고를 발견했어. 당분간 거기 물건을 좀 놔둬야겠어.</text>
+	</string>
+	<string id="st_esc_secret_0006_name">
+		<text>농장의 금고</text>
+	</string>
+	<string id="st_esc_secret_0007_descr">
+		<text>한 작은 새 한마리가 그러길 누군가가 다리 위에 있는 객차에 뭔가를 숨겨놓았다는군. 돌아가는 길에 확인해 봐야겠어. 과연 누가...</text>
+	</string>
+	<string id="st_esc_secret_0007_name">
+		<text>객차 안의 상자</text>
+	</string>
+	<string id="st_esc_secret_0008_descr">
+		<text>다리 옆에 있는 작은 집의 천장 바로 아래쪽에 물건을 숨겨놨어.</text>
+	</string>
+	<string id="st_esc_secret_0008_name">
+		<text>사수의 물건</text>
+	</string>
+	<string id="st_esc_secret_0009_descr">
+		<text>다리에서 멀지 않은 곳에 있는 상자에 잡동사니를 숨겨놓았어. 좋아, 이제 그만 존을 떠나야겠어. 잘 있어, 친구들! 내 제 2의 고향을 잊지 않을게.</text>
+	</string>
+	<string id="st_esc_secret_0009_name">
+		<text>다리 근처의 물건</text>
+	</string>
+	<string id="st_esc_secret_0010_descr">
+		<text>스토커 하나가 초짜들 캠프 근처에서 질식사했어. 그 녀석 물건 좀 확인해봐.</text>
+	</string>
+	<string id="st_esc_secret_0010_name">
+		<text>마을 근처의 배낭</text>
+	</string>
+	<string id="st_esc_secret_0011_descr">
+		<text>리호이에게 지하실에 비밀 은닉처가 있다는 이야기를 들었어. 그 새끼가 말을 너무 많이 해서 그냥 닥치게 만들어줬지.</text>
+	</string>
+	<string id="st_esc_secret_0011_name">
+		<text>마을 안의 지하실</text>
+	</string>
+	<string id="st_esc_secret_0012_descr">
+		<text>지하실에서 괜찮은 은닉처를 찾아냈어. 누가 거기다 물건을 넣을 때까지 기다려야지.</text>
+	</string>
+	<string id="st_esc_secret_0012_name">
+		<text>괜찮은 장소</text>
+	</string>
+	<string id="st_esc_secret_0013_descr">
+		<text>보팔에게서 지하실에 비밀 은닉처가 있다는 이야기를 들었어. 우리 동료들이 지역 순찰을 나서던 중이었지. 확인해보자.</text>
+	</string>
+	<string id="st_esc_secret_0013_name">
+		<text>보팔의 비밀 은닉처</text>
+	</string>
+	<string id="st_esc_secret_0014_descr">
+		<text>걔들이 그러길 지휘관이 사무실에 열기 힘든 상자를 놔둔 것을 보았대. 거기에는 귀중품들이 많이 숨겨져 있다는군.</text>
+	</string>
+	<string id="st_esc_secret_0014_name">
+		<text>지휘관의 귀중품</text>
+	</string>
+	<string id="st_esc_secret_0015_descr">
+		<text>몇몇 스토커가 뉴비 캠프에서 멀지 않은 곳에 죽어 나자빠져 있더군. 뭘 가지고 있는지 확인해 봐야겠어. 그나저나 어떤 놈이 걔네들을 저기 들여보내줬던 거야?</text>
+	</string>
+	<string id="st_esc_secret_0015_name">
+		<text>시골길 근처</text>
+	</string>
+	<string id="st_esc_secret_0016_descr">
+		<text>밴딧들이 있는 곳 지하실에 물건들이 숨겨져 있어. 전에 왔을 떄는 여기 없었으니까 괜찮은 때가 올 때까지 기다렸다가 가져가자. </text>
+	</string>
+	<string id="st_esc_secret_0016_name">
+		<text>강도의 지하실</text>
+	</string>
+	<string id="st_esc_secret_0017_descr">
+		<text>농장에서 멀지 않은 곳에 있는 파이프 안에서 상자를 발견했어. 물건이 다 쌓이면, 다시 돌아와야지.</text>
+	</string>
+	<string id="st_esc_secret_0017_name">
+		<text>가스 파이프</text>
+	</string>
+	<string id="st_esc_secret_0018_descr">
+		<text>전초기지에서 멀지 않은 곳에 배낭을 던져 놓았는데, 사령관이 우릴 새로운 곳으로 전근시켜 버리기 전에 가능한 빨리 가져와야 해.</text>
+	</string>
+	<string id="st_esc_secret_0018_name">
+		<text>숨겨진 물건</text>
+	</string>
+	<string id="st_esc_secret_0019_descr">
+		<text>일단 탑에 상자를 놓아둬야겠어. 가능하면 나중에 가져가야지.</text>
+	</string>
+	<string id="st_esc_secret_0019_name">
+		<text>거점에 있는 탑</text>
+	</string>
+	<string id="st_gar_secret_0000_descr">
+		<text>한 밴딧이 격납고 안에 있는 상자에 물건을 숨기는 걸 봤어. 어떻게 하면 조용히 훔쳐낼 수 있을까?</text>
+	</string>
+	<string id="st_gar_secret_0000_name">
+		<text>밴딧의 창고</text>
+	</string>
+	<string id="st_gar_secret_0001_descr">
+		<text>바스야와 내가 잠깐 바깥을 살펴보러 갔는데 갑자기 그가 총에 맞았어. 난 아무것도 할 수 없었어. 빌어먹을 총알 같으니. 내가 파이프 안에 물건을 숨겨놓았어.</text>
+	</string>
+	<string id="st_gar_secret_0001_name">
+		<text>낡은 크레인</text>
+	</string>
+	<string id="st_gar_secret_0002_descr">
+		<text>쓰레기장의 디젤 기관차 뒤에 있는 기차 터널에서, 그리즐리가 자기가 모았던 모든 것들을 가진 채로 죽어 있었어. 불쌍한 친구 같으니.</text>
+	</string>
+	<string id="st_gar_secret_0002_name">
+		<text>그리즐리의 물건</text>
+	</string>
+	<string id="st_gar_secret_0003_descr">
+		<text>쓰레기장에 있는 파이프 안에 물건을 넣어 놓았어.</text>
+	</string>
+	<string id="st_gar_secret_0003_name">
+		<text>북쪽 쓰레기더미의 파이프</text>
+	</string>
+	<string id="st_gar_secret_0004_descr">
+		<text>쓰레기장 안의 파이프 중 하나에 물건이 있어. 정확히 어디에 있는지 모른다면, 넌 절대 찾지 못할거야.</text>
+	</string>
+	<string id="st_gar_secret_0004_name">
+		<text>고철더미 안의 돈다발</text>
+	</string>
+	<string id="st_gar_secret_0005_descr">
+		<text>두 개의 물탱크 옆에 있는 금속 파이프에 물건을 숨겨놓았어. 그걸 다시 가져가야 하는데, 시간이 없네.</text>
+	</string>
+	<string id="st_gar_secret_0005_name">
+		<text>물탱크 옆에 있는 쇠로 된 보일러.</text>
+	</string>
+	<string id="st_gar_secret_0006_descr">
+		<text>사람이 별로 돌아다니지 않는 방사능 폐기물 사이에 몇 가지 쓸만한 물건들이 있어.</text>
+	</string>
+	<string id="st_gar_secret_0006_name">
+		<text>동쪽 쓰레기더미에 있는 파이프</text>
+	</string>
+	<string id="st_gar_secret_0007_descr">
+		<text>누군가의 가방이 여기 이상현상이 가득한 협곡에 놓여 있어. 어떻게 갈 수 있지?</text>
+	</string>
+	<string id="st_gar_secret_0007_name">
+		<text>누군가의 배낭</text>
+	</string>
+	<string id="st_gar_secret_0008_descr">
+		<text>늪지에서 배신자를 처리했다... 우린 그를 여기에 묻어버리고 그가 가졌던 물건을 남긴다. 신경써야 할 더 중요한 문제가 있다.</text>
+	</string>
+	<string id="st_gar_secret_0008_name">
+		<text>살해당한 자의 소지품</text>
+	</string>
+	<string id="st_gar_secret_0009_descr">
+		<text>그림자 안에 비밀 은닉처가 있어. 정말 숨기기에 좋은 곳이지.</text>
+	</string>
+	<string id="st_gar_secret_0009_name">
+		<text>썩은 나무둥치</text>
+	</string>
+	<string id="st_gar_secret_0010_descr">
+		<text>숲 속에 한 속이 파인 통나무가 있어. 구멍에는 보물이 있지. 이제 가져갈 때가 왔어.</text>
+	</string>
+	<string id="st_gar_secret_0010_name">
+		<text>숲 속의 통나무</text>
+	</string>
+	<string id="st_gar_secret_0011_descr">
+		<text>페트렌코가 쓰레기장에 스트렐록의 세력이 남긴 비밀 은닉처가 있다는 정보가 있다는 말을 전해달라는군. 여기 이 골짜기 쪽에 맨홀이 하나 있을텐데, 그가 어떻게 그걸 열 수 있는지 설명해 주었어. 모든 것이 정리되면, 거기 가서 확인해 보자.</text>
+	</string>
+	<string id="st_gar_secret_0011_name">
+		<text>스트렐록 분대의 은닉처</text>
+	</string>
+	<string id="st_gar_secret_0012_descr">
+		<text>차 안에 숨겨놨어, 롱 원이 여기가 괜찮은 장소라 말해주더군.</text>
+	</string>
+	<string id="st_gar_secret_0012_name">
+		<text>자동차 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_gar_secret_0013_descr">
+		<text>버스 안에 배낭을 놓아둠 - 잘 숨겨진 듯</text>
+	</string>
+	<string id="st_gar_secret_0013_name">
+		<text>버스 안에 있는 스토커의 배낭</text>
+	</string>
+	<string id="st_gar_secret_0014_descr">
+		<text>상자 안에 보급품을 넣어두었고, 그 상자는 코너를 돌면 나오는 오래된 집에 놓아두었어. 아직도 그게 어떤 구조로 생겨먹었는지를 이해할 수 없어.</text>
+	</string>
+	<string id="st_gar_secret_0014_name">
+		<text>정리된 보급품</text>
+	</string>
+	<string id="st_gar_secret_0015_descr">
+		<text>쓰레기더미 안에 약간 묻혀있는 금고가 하나 있어. 안에 있는 것들은 모두 멀쩡해. 거기에 뭐가 들어있는지를 잊지 않아야 할텐데.</text>
+	</string>
+	<string id="st_gar_secret_0015_name">
+		<text>남쪽 쓰레기더미의 금고.</text>
+	</string>
+	<string id="st_gar_secret_0016_descr">
+		<text>쓰레기더미에 있는 파이프 안에 물건을 놓아둠</text>
+	</string>
+	<string id="st_gar_secret_0016_name">
+		<text>고철 더미 안의 은닉처.</text>
+	</string>
+	<string id="st_gar_secret_0017_descr">
+		<text>무선 통신 책임자가 우리들에게 메시지를 보냈다: 퇴각하라. 나는 상자를 하나 찾아서, 내가 들고있던 것들을 던저넣은 뒤, 빈손으로 후퇴했다.</text>
+	</string>
+	<string id="st_gar_secret_0017_name">
+		<text>상자 안의 보급품</text>
+	</string>
+	<string id="st_gar_secret_0018_descr">
+		<text>나는 쓰레기장에 있던 파이프에 물건들을 집어넣었어. 거기에 그리 오래 놔둘 수는 없을 거야.</text>
+	</string>
+	<string id="st_gar_secret_0018_name">
+		<text>버스 옆의 파이프</text>
+	</string>
+	<string id="st_gar_secret_0019_descr">
+		<text>폐허 속에 물건을 숨기기는 쉬운 일이지. 밴딧 새끼들이 끼어들지만 않는다면, 찾으러 가기는 어렵지 않을거야.</text>
+	</string>
+	<string id="st_gar_secret_0019_name">
+		<text>폐허 속의 배낭</text>
+	</string>
+	<string id="st_gar_secret_0020_descr">
+		<text>듀티가 사격을 가하는 동안, 나는 객차 안에 은닉품을 숨겨두었어. 어떻게든 다시 가서 가져와야겠어. 그리고 고맙다 듀티.</text>
+	</string>
+	<string id="st_gar_secret_0020_name">
+		<text>완전무장된 내무군 거점의 상자</text>
+	</string>
+	<string id="st_gar_secret_0021_descr">
+		<text>그들이 말하길 위클링이 쓰레기장에서 죽었다는데, 잠깐 들러 물건이 있는지 찾아봐야겠어. 아니면 거기로 개나 소나 다 몰려들 거야.</text>
+	</string>
+	<string id="st_gar_secret_0021_name">
+		<text>위클링의 배낭</text>
+	</string>
+	<string id="st_gar_secret_0022_descr">
+		<text>지금 물건들을 개구멍에 옮겨놔야겠어. 그들이 찾지 못하길 바랄 뿐이야.</text>
+	</string>
+	<string id="st_gar_secret_0022_name">
+		<text>개구멍에 있는 스트링 백</text>
+	</string>
+	<string id="st_gar_secret_0023_descr">
+		<text>에스컬레이터 근처에서 이상현상이 누군가를 집어삼켰어. 그 근처에 가방이 보이는데, 가지러 가기는 힘들어 보여.</text>
+	</string>
+	<string id="st_gar_secret_0023_name">
+		<text>움푹 패인 곳 아래쪽</text>
+	</string>
+	<string id="st_gar_secret_0024_descr">
+		<text>겨우 철근 밑으로 기어들어갈 수 있긴 했지만, 어쨌든 배낭은 잘 숨겨졌어. 아무도 이런 곳에 매달려 들어가려 하지 않겠지.</text>
+	</string>
+	<string id="st_gar_secret_0024_name">
+		<text>콘크리트 블럭 밑에 비상금이 있음</text>
+	</string>
+	<string id="st_mil_secret_0000_descr">
+		<text>통나무 안에 물건들을 숨겼어. 이걸 누군가 찾아낼 것 같지는 않군.</text>
+	</string>
+	<string id="st_mil_secret_0000_name">
+		<text>통나무 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0001_descr">
+		<text>화로 안에 잡동사니를 숨겼어.</text>
+	</string>
+	<string id="st_mil_secret_0001_name">
+		<text>화로 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0002_descr">
+		<text>KAMAZ 사무소 안에 잡동사니를 숨겼어</text>
+	</string>
+	<string id="st_mil_secret_0002_name">
+		<text>KAMAZ 내부의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0003_descr">
+		<text>마을에 있는 십자가 밑에 물건들을 묻어두었어.</text>
+	</string>
+	<string id="st_mil_secret_0003_name">
+		<text>십자가 밑에 파묻힌 보물</text>
+	</string>
+	<string id="st_mil_secret_0004_descr">
+		<text>파이프 안에 물건들을 넣었어, 나중에 찾아가야지.</text>
+	</string>
+	<string id="st_mil_secret_0004_name">
+		<text>파이프 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0005_descr">
+		<text>급수탑 안의 상자에 비밀 은닉처 있음</text>
+	</string>
+	<string id="st_mil_secret_0005_name">
+		<text>탑 안의 보물</text>
+	</string>
+	<string id="st_mil_secret_0006_descr">
+		<text>화로 안에 가방을 집어넣었어. 언젠가 쓸 일이 있겠지.</text>
+	</string>
+	<string id="st_mil_secret_0006_name">
+		<text>화로의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0007_descr">
+		<text>버려진 마을 안에 있는 자동차에 물건을 숨겼어.</text>
+	</string>
+	<string id="st_mil_secret_0007_name">
+		<text>자동차 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0008_descr">
+		<text>방사능 폐허 안에 가방을 놓아 두었어. 거기에 얼굴을 들이미는건 조금 별로긴 한데.</text>
+	</string>
+	<string id="st_mil_secret_0008_name">
+		<text>위험한 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0009_descr">
+		<text>숨겨진 장소에 있는 십자가 밑에 물건을 묻어 두었어.</text>
+	</string>
+	<string id="st_mil_secret_0009_name">
+		<text>스토커의 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0010_descr">
+		<text>아늑한 곳에 장비를 담은 배낭을 숨겨 두었어.</text>
+	</string>
+	<string id="st_mil_secret_0010_name">
+		<text>장비가 든 배낭</text>
+	</string>
+	<string id="st_mil_secret_0011_descr">
+		<text>언덕 위의 자동차 안에 잡동사니를 숨겨둠</text>
+	</string>
+	<string id="st_mil_secret_0011_name">
+		<text>언덕 위의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0012_descr">
+		<text>헬리콥터가 버려진 군 기지 바로 근처에 추락했고, 상자는 바로 거기, 헬리콥터 아래쪽에 있어. 문제가 하나 있는데, 그 주변이 이상현상과 방사능 천지라는 거야.</text>
+	</string>
+	<string id="st_mil_secret_0012_name">
+		<text>헬리콥터에서 떨어진 상자</text>
+	</string>
+	<string id="st_mil_secret_0013_descr">
+		<text>언덕 위에 있는 십자가 밑에 물건들을 묻었어</text>
+	</string>
+	<string id="st_mil_secret_0013_name">
+		<text>묘비 속의 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0014_descr">
+		<text>나무둥치 속에 비밀 은닉처가 있어. 괜찮은 장소지</text>
+	</string>
+	<string id="st_mil_secret_0014_name">
+		<text>나무둥치 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0015_descr">
+		<text>크레인의 조종석 안에 가방을 놓아두었어. 나중에 가져갈거야.</text>
+	</string>
+	<string id="st_mil_secret_0015_name">
+		<text>고고도 노동자의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0016_descr">
+		<text>기지에서 멀지 않은 곳에 있는 객차에, 모든 것을 놓아 둔 상자가 있어. 이게 우리들의 계획이고, 이제 우리가 할 일은 기다리는 것 뿐이야.</text>
+	</string>
+	<string id="st_mil_secret_0016_name">
+		<text>약속한 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0017_descr">
+		<text>통나무 안에 물건들을 놓었어. 그 녀석들이 다 찾아버리지 않았으면 좋겠는데.</text>
+	</string>
+	<string id="st_mil_secret_0017_name">
+		<text>통나무 안의 보물</text>
+	</string>
+	<string id="st_mil_secret_0018_descr">
+		<text>호숫가에 있는 파이프에 물건을 넣었음</text>
+	</string>
+	<string id="st_mil_secret_0018_name">
+		<text>물건이 든 파이프</text>
+	</string>
+	<string id="st_mil_secret_0019_descr">
+		<text>쇠로 된 상자 안에 물건을 숨김</text>
+	</string>
+	<string id="st_mil_secret_0019_name">
+		<text>스토커의 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0020_descr">
+		<text>물건을 통나무 안에 숨겼어. 그 녀석들이 찾지는 못할거야</text>
+	</string>
+	<string id="st_mil_secret_0020_name">
+		<text>통나무 안의 상품</text>
+	</string>
+	<string id="st_mil_secret_0021_descr">
+		<text>잡동사니를 넣기에 딱 좋은 상자임</text>
+	</string>
+	<string id="st_mil_secret_0021_name">
+		<text>괜찮은 보급 상자</text>
+	</string>
+	<string id="st_mil_secret_0022_descr">
+		<text>터널 안에 물건이 든 배낭을 숨김</text>
+	</string>
+	<string id="st_mil_secret_0022_name">
+		<text>터널 안의 배낭</text>
+	</string>
+	<string id="st_mil_secret_0023_descr">
+		<text>잡동사니를 넣어두기 괜찮은 상자</text>
+	</string>
+	<string id="st_mil_secret_0023_name">
+		<text>물건이 든 상자</text>
+	</string>
+	<string id="st_mil_secret_0024_descr">
+		<text>통나무 안에 물건들을 넣었어, 그들이 찾지는 못하겠지.</text>
+	</string>
+	<string id="st_mil_secret_0024_name">
+		<text>통나무 안 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0025_descr">
+		<text>상자 안에 물건을 넣음, 나중에 찾으러 갈 예정</text>
+	</string>
+	<string id="st_mil_secret_0025_name">
+		<text>임시 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0026_descr">
+		<text>맨홀 안에 물건들을 숨겼어. 언젠가 쓸만한 날이 오겠지.</text>
+	</string>
+	<string id="st_mil_secret_0026_name">
+		<text>강철로 만든 비밀 은닉처</text>
+	</string>
+	<string id="st_mil_secret_0027_descr">
+		<text>상자 안에 물건을 넣음, 나중에 찾으러 갈 예정</text>
+	</string>
+	<string id="st_mil_secret_0027_name">
+		<text>물건이 든 상자</text>
+	</string>
+	<string id="st_mil_secret_0028_descr">
+		<text>더 좋은 곳을 찾을 시간이 없어서, 프리덤 코앞에 있는 자동차 안에 물건들을 숨김</text>
+	</string>
+	<string id="st_mil_secret_0028_name">
+		<text>자동차 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_pri_secret_0000_descr">
+		<text>소문으로는 어떤 유명한 스토커가 여기서 명을 달리했는데, 아직 아무도 그가 남긴 물건을 주워가지 않았다고 함</text>
+	</string>
+	<string id="st_pri_secret_0000_name">
+		<text>죽은 스토커의 물건</text>
+	</string>
+	<string id="st_pri_secret_0001_descr">
+		<text>소문에 의하면 물건으로 가득한 한 상자가 차고 안에 있다고 함</text>
+	</string>
+	<string id="st_pri_secret_0001_name">
+		<text>차고 속 보물</text>
+	</string>
+	<string id="st_pri_secret_0002_descr">
+		<text>소문에 의하면 전리품으로 가득한 상자가 유치원에 있다고 함</text>
+	</string>
+	<string id="st_pri_secret_0002_name">
+		<text>오래된 비밀 은닉처</text>
+	</string>
+	<string id="st_pri_secret_0003_descr">
+		<text>그들이 프리피야트의 기념비 아래에 팽을 묻었어. 그가 가지고 있던 물건도 같이 묻었지. 망자의 것을 가져가는 건 예의가 아니겠지.</text>
+	</string>
+	<string id="st_pri_secret_0003_name">
+		<text>팽의 유품</text>
+	</string>
+	<string id="st_pri_secret_0004_descr">
+		<text>그들이 그에 대해 마지막으로 알고 있었던 건 그가 스코처에서의 유일한 생존자였다는 거야. 그는 모든 보급품들을 오래된 슈퍼마켓들 사이에 놔두고, 그곳을 떠났대. 모든 일들이 계획대로 되는 건 아니지만, 그게 프리덤 역사상 가장 훌륭한 지도자의 모습이었어.</text>
+	</string>
+	<string id="st_pri_secret_0004_name">
+		<text>프리덤 지도자가 남긴 보급품</text>
+	</string>
+	<string id="st_rad_secret_0000_descr">
+		<text>스코처로 가는 도중에 십자가가 있는데, 거기서 더 멀리가지는 말고, 그 밑에 모든 것들을 숨겨.</text>
+	</string>
+	<string id="st_rad_secret_0000_name">
+		<text>머크의 보물</text>
+	</string>
+	<string id="st_rad_secret_0001_descr">
+		<text>몇몇 스토커가 여기서 죽었고, 그가 남긴 물건은 아직가지 그곳에 놓였지만 아무도 가지러 가지 않았음</text>
+	</string>
+	<string id="st_rad_secret_0001_name">
+		<text>죽은 스토커의 유산</text>
+	</string>
+	<string id="st_rad_secret_0002_descr">
+		<text>숲 속에 반쯤 묻혀있는 금고가 있고 많은 물건들이 들어있다는 소문이 있음</text>
+	</string>
+	<string id="st_rad_secret_0002_name">
+		<text>금고 안의 물건</text>
+	</string>
+	<string id="st_rad_secret_0003_descr">
+		<text>사람들이 절대 스코처를 넘어가려고 하지 말라고 했었는데, 결국 이 꼬라지가 났군. 그 녀석들은 저 숲 속 한가운데에 떨어졌고, 살아남은 사람은 아무도 없는 거 같아. 걔네들이 가지고 있던 물건이나 챙겨야겠군.</text>
+	</string>
+	<string id="st_rad_secret_0003_name">
+		<text>듀티에게 줄 소포</text>
+	</string>
+	<string id="st_rad_secret_0004_descr">
+		<text>그 존의 중심으로 들어가려 했던 세력의 보급품이 아직 브레인 스코처가 내뿜고 있는 방사능이 뒤덮인 범위 안에 있다고 하더라고. 거기서 돌아온 사람은 없었고, 보급품은 아직도 남아서 누가 가져가기를 기다리고 있다는군.</text>
+	</string>
+	<string id="st_rad_secret_0004_name">
+		<text>부주의했던 스토커들의 보급품</text>
+	</string>
+	<string id="st_rad_secret_0005_descr">
+		<text>이전에 여기에 왔었던 세력의 지도자가 여기서 죽었고, 아직 그가 남겼던 귀중한 물건들도 아직 그곳에 있다고 함</text>
+	</string>
+	<string id="st_rad_secret_0005_name">
+		<text>예전 세력 지도자의 유품</text>
+	</string>
+	<string id="st_ros_secret_0000_descr">
+		<text>철판 뒤에 배낭이 숨겨짐</text>
+	</string>
+	<string id="st_ros_secret_0000_name">
+		<text>숨겨진 배낭</text>
+	</string>
+	<string id="st_ros_secret_0001_descr">
+		<text>십자가 밑에 물품을 은닉함</text>
+	</string>
+	<string id="st_ros_secret_0001_name">
+		<text>심자가 밑의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0002_descr">
+		<text>작은 집 지하에 있는 상자에 물건을 조금 숨겨놨어. 잊지 말아야지.</text>
+	</string>
+	<string id="st_ros_secret_0002_name">
+		<text>작은 집 지하의 상자</text>
+	</string>
+	<string id="st_ros_secret_0003_descr">
+		<text>내가 잠깐 배낭을 내려놓으려 했는데, 갑자기 저 놈들이 나타났어. 젠장, 저걸 어떻게 찾아오지?</text>
+	</string>
+	<string id="st_ros_secret_0003_name">
+		<text>스토커의 배낭</text>
+	</string>
+	<string id="st_ros_secret_0004_descr">
+		<text>나무 뒤쪽의 모퉁이에 반쯤 묻힌 금고가 있어. 당분간 내 잡동사니들을 거기 넣어 둬야지.</text>
+	</string>
+	<string id="st_ros_secret_0004_name">
+		<text>나무 뒤 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0005_descr">
+		<text>비가 오는 동안 그들이 차고 안에 있는 상자에 그 동안 챙겼던 모든 물건들을 숨겨두었어.</text>
+	</string>
+	<string id="st_ros_secret_0005_name">
+		<text>차고의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0006_descr">
+		<text>부스 뒤에 있는 상자에 물건을 조금 숨김</text>
+	</string>
+	<string id="st_ros_secret_0006_name">
+		<text>숨겨진 상자</text>
+	</string>
+	<string id="st_ros_secret_0007_descr">
+		<text>구멍 속에 배낭을 숨겼어. 위쪽에서는 보이지 않을 거야.</text>
+	</string>
+	<string id="st_ros_secret_0007_name">
+		<text>비밀 은닉처 속의 배낭</text>
+	</string>
+	<string id="st_ros_secret_0008_descr">
+		<text>안전한 곳에 작은 상자를 숨김</text>
+	</string>
+	<string id="st_ros_secret_0008_name">
+		<text>안전한 곳의 상자</text>
+	</string>
+	<string id="st_ros_secret_0009_descr">
+		<text>내 배낭이 지붕 바로 아래쪽에 놓여있어. 비가 올 때를 대비한 거야.</text>
+	</string>
+	<string id="st_ros_secret_0009_name">
+		<text>스토커의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0010_descr">
+		<text>저 작은 집에 있는 금고에 뭔가 들어있다는 소문이 있음</text>
+	</string>
+	<string id="st_ros_secret_0010_name">
+		<text>집 안의 금고</text>
+	</string>
+	<string id="st_ros_secret_0011_descr">
+		<text>집 안에 있는 파이프에 그걸 숨겼어. 조심해, 거긴 조금만 만저도 부서지는 곳이니까.</text>
+	</string>
+	<string id="st_ros_secret_0011_name">
+		<text>파이프 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0012_descr">
+		<text>상자 안에서 우리가 말했던 걸 챙겨. 보통 아무도 거기는 신경쓰지 않지.</text>
+	</string>
+	<string id="st_ros_secret_0012_name">
+		<text>숨겨진 상자</text>
+	</string>
+	<string id="st_ros_secret_0013_descr">
+		<text>골목길에 있는 십자가 밑에 숨김</text>
+	</string>
+	<string id="st_ros_secret_0013_name">
+		<text>십자가 밑의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0014_descr">
+		<text>건설 부지에 있는 콘크리트 아래쪽에 추가 보급품이 숨겨짐</text>
+	</string>
+	<string id="st_ros_secret_0014_name">
+		<text>콘크리트 아래쪽의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0015_descr">
+		<text>우리들이 여길 빨리 떠나야 할 때를 대비해서, 건설 부지에 있는 상자에 남은 물건들을 넣어둬야겠어.</text>
+	</string>
+	<string id="st_ros_secret_0015_name">
+		<text>운 좋은 녀석의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0016_descr">
+		<text>건설 부지에 있는 골목길 중 한 곳에 숨김</text>
+	</string>
+	<string id="st_ros_secret_0016_name">
+		<text>니치카</text>
+	</string>
+	<string id="st_ros_secret_0017_descr">
+		<text>파이프 몇 군데에 모든 걸 보관함. 나중에 찾으러 갈 것</text>
+	</string>
+	<string id="st_ros_secret_0017_name">
+		<text>파이프 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0018_descr">
+		<text>건설 부지에서 멀지 않은 상자에 약품을 숨김</text>
+	</string>
+	<string id="st_ros_secret_0018_name">
+		<text>약품이 든 상자</text>
+	</string>
+	<string id="st_ros_secret_0019_descr">
+		<text>크레인 조종석에 상자를 밀어넣음</text>
+	</string>
+	<string id="st_ros_secret_0019_name">
+		<text>크레인 안의 상자</text>
+	</string>
+	<string id="st_ros_secret_0020_descr">
+		<text>모퉁이 안의 맨홀에 물건을 숨겼어.</text>
+	</string>
+	<string id="st_ros_secret_0020_name">
+		<text>맨홀 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0021_descr">
+		<text>아티팩트를 찾아다니다 이상현상 안으로 들어가 버렸어. 도저히 걸어다닐 수가 없어서 길 모퉁이에 배낭을 떨어트렸어.</text>
+	</string>
+	<string id="st_ros_secret_0021_name">
+		<text>떨어트린 배낭</text>
+	</string>
+	<string id="st_ros_secret_0022_descr">
+		<text>탑 옆에 있는 지붕 바로 아래에 상자를 놔뒀으니 아무도 알아채지 못하겠지.</text>
+	</string>
+	<string id="st_ros_secret_0022_name">
+		<text>지붕 아래의 작은 상자</text>
+	</string>
+	<string id="st_ros_secret_0023_descr">
+		<text>건설 부지에서 멀지 않은 곳에 있는 파이프 안에다 우리가 찾아낸 것들을 숨겨놓았어.</text>
+	</string>
+	<string id="st_ros_secret_0023_name">
+		<text>파이프 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0024_descr">
+		<text>통나무 안에 모든 물건을 숨겼어. 그들이 찾을 수 있을 것 같지는 않군.</text>
+	</string>
+	<string id="st_ros_secret_0024_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_ros_secret_0025_descr">
+		<text>크레인 옆에 배낭을 놓아 둠</text>
+	</string>
+	<string id="st_ros_secret_0025_name">
+		<text>배낭</text>
+	</string>
+	<string id="st_val_secret_0000_descr">
+		<text>산 옆의 교차로에 물건을 숨겨 둠</text>
+	</string>
+	<string id="st_val_secret_0000_name">
+		<text>교차로 아래의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0001_descr">
+		<text>통나무 안에 물건들을 숨겨두었어. 그들이 찾을 수 있을 것 같지는 않군.</text>
+	</string>
+	<string id="st_val_secret_0001_name">
+		<text>통나무 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0002_descr">
+		<text>다리 아래에 배낭을 넣어 뒀어. 잠시 동안은 거기에 놔둬야지.</text>
+	</string>
+	<string id="st_val_secret_0002_name">
+		<text>다리 밑의 배낭</text>
+	</string>
+	<string id="st_val_secret_0003_descr">
+		<text>늪지 옆의 자동차에 상자를 넣어 둠</text>
+	</string>
+	<string id="st_val_secret_0003_name">
+		<text>비밀 은닉처가 있는 자동차</text>
+	</string>
+	<string id="st_val_secret_0004_descr">
+		<text>나무둥치 안에 비밀 은닉처가 있음 - 은닉처로 삼기 좋은 곳임</text>
+	</string>
+	<string id="st_val_secret_0004_name">
+		<text>나무둥치 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0005_descr">
+		<text>농장에서 괜찮은 상자를 찾아냈어. 당분간 보급품을 좀 넣어둬야겠어.</text>
+	</string>
+	<string id="st_val_secret_0005_name">
+		<text>보급품이 있는 상자</text>
+	</string>
+	<string id="st_val_secret_0006_descr">
+		<text>파이프 안에 물건을 던저넣었어. 나중에 주워가야겠어.</text>
+	</string>
+	<string id="st_val_secret_0006_name">
+		<text>파이프 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0007_descr">
+		<text>소나무 밑에 배낭을 숨겨둠</text>
+	</string>
+	<string id="st_val_secret_0007_name">
+		<text>소나무 밑의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0008_descr">
+		<text>어떤 뉴비가 밴딧한테서 한 상자를 훔쳤어. 그는 그걸 니바로 들고 갔고 거긴 완전히 뒤집어졌지. 그가 말하길 그 상자는 생긴걸로 봤을 때 정부 기관 소유물로 보인다고 해. 우리 부대원들을 무장시켜서 그걸 가져와야겠어.</text>
+	</string>
+	<string id="st_val_secret_0008_name">
+		<text>정부기관소속 상자</text>
+	</string>
+	<string id="st_val_secret_0009_descr">
+		<text>어딜 가나 강도로 가득해. 심지어 자기들끼리도 서로 뺏고 뺏기고 있지... 하지만 내 상자만큼은 찾을 수 없을 걸.</text>
+	</string>
+	<string id="st_val_secret_0009_name">
+		<text>상자</text>
+	</string>
+	<string id="st_val_secret_0010_descr">
+		<text>맨홀 안에 물건들을 숨겨놓았어. 언젠가는 쓸모가 있을 거야.</text>
+	</string>
+	<string id="st_val_secret_0010_name">
+		<text>맨홀 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0011_descr">
+		<text>나무 밑에 배낭을 던져 두었어. 안 그랬다면, 밴딧 새끼들한테 잡혀 죽었겠지.</text>
+	</string>
+	<string id="st_val_secret_0011_name">
+		<text>스토커의 배낭</text>
+	</string>
+	<string id="st_val_secret_0012_descr">
+		<text>파이프에 잡동사니를 넣어둠, 나중에 will pick it up later</text>
+	</string>
+	<string id="st_val_secret_0012_name">
+		<text>비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0013_descr">
+		<text>나는 소나무 아래에 있는 금고에 보로브에게 훔친 것들을 모두 숨겨두었어. 이제 그들이 나를 찾는 짓을 그만둘 때까지 기다려야겠어.</text>
+	</string>
+	<string id="st_val_secret_0013_name">
+		<text>숨겨진 금고</text>
+	</string>
+	<string id="st_val_secret_0014_descr">
+		<text>임시 지휘부는 열차칸에 위치해 있고, 보급품이 든 상자도 함께 있음</text>
+	</string>
+	<string id="st_val_secret_0014_name">
+		<text>기차 안의 창고</text>
+	</string>
+	<string id="st_val_secret_0015_descr">
+		<text>길 아래쪽의 파이프에 간신히 도착했어. 이제 여기에 배낭을 숨겨둘 수 있겠군.</text>
+	</string>
+	<string id="st_val_secret_0015_name">
+		<text>파이프 안의 비밀 공간</text>
+	</string>
+	<string id="st_val_secret_0016_descr">
+		<text>상자 안에 물건들을 넣었음 - 나중에 챙길 것</text>
+	</string>
+	<string id="st_val_secret_0016_name">
+		<text>물건이 담긴 상자</text>
+	</string>
+	<string id="st_val_secret_0017_descr">
+		<text>파이프 뒤에 물건들을 숨겨 둠 - 가기 어려운 위치에 있지만, 다른 사람이 가져가지도 못할 것임</text>
+	</string>
+	<string id="st_val_secret_0017_name">
+		<text>파이프 뒤의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0018_descr">
+		<text>전력실에서 카트리지 몇 개를 찾음</text>
+	</string>
+	<string id="st_val_secret_0018_name">
+		<text>전력실의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0019_descr">
+		<text>우리가 상자 안에서 찾은 것들을 모두 남겨둠, 돌아갈 때 가져갈 것임</text>
+	</string>
+	<string id="st_val_secret_0019_name">
+		<text>상자 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0020_descr">
+		<text>어떤 초짜의 배낭을 그 녀석이 절대 못찾게 숨겨놓음</text>
+	</string>
+	<string id="st_val_secret_0020_name">
+		<text>숨겨진 배낭</text>
+	</string>
+	<string id="st_val_secret_0021_descr">
+		<text>상자가 밴 속에 남겨짐 - 가져가야 함</text>
+	</string>
+	<string id="st_val_secret_0021_name">
+		<text>잊힌 상자</text>
+	</string>
+	<string id="st_val_secret_0022_descr">
+		<text>주유소에서 금고를 찾아서 내 물건들을 넣어 두었어. 아무도 이런 곳으로 오지 않는 것 같아.</text>
+	</string>
+	<string id="st_val_secret_0022_name">
+		<text>주유소의 금고</text>
+	</string>
+	<string id="st_val_secret_0023_descr">
+		<text>지붕 위에 상자를 올려 둠</text>
+	</string>
+	<string id="st_val_secret_0023_name">
+		<text>상자</text>
+	</string>
+	<string id="st_val_secret_0024_descr">
+		<text>주유소 안에 있는 금고에 보급품을 넣어 두었어.</text>
+	</string>
+	<string id="st_val_secret_0024_name">
+		<text>주유소의 금고</text>
+	</string>
+	<string id="st_val_secret_0025_descr">
+		<text>밴딧 캠프에 있는 자동차 안에 상자 몇 개가 있어. 차 안으로 숨어들어 확인해봐야 할 것 같아. 분명히 거기 뭔가 있는 게 느껴져.</text>
+	</string>
+	<string id="st_val_secret_0025_name">
+		<text>자동차 안의 상자</text>
+	</string>
+	<string id="st_val_secret_0026_descr">
+		<text>상자를 비밀 은닉처에 놓아 둠 - 믿을 만한 곳임</text>
+	</string>
+	<string id="st_val_secret_0026_name">
+		<text>비밀 은닉처 안의 상자</text>
+	</string>
+	<string id="st_val_secret_0027_descr">
+		<text>버려진 건물에 배낭을 남겨둔다. 좋아, 아무도 없군.</text>
+	</string>
+	<string id="st_val_secret_0027_name">
+		<text>남겨진 배낭</text>
+	</string>
+	<string id="st_val_secret_0028_descr">
+		<text>우리가 아무에게도 알려지지 않은 장소에 물건들을 놓아두었어. 내무군이 오늘 오지 않는다면, 내일에는 오겠지. 그들은 여기에 그렇게 오래 머무르지는 않으니까 가장 가치있는 물건들은 내 것이 될 거야.</text>
+	</string>
+	<string id="st_val_secret_0028_name">
+		<text>보로브의 비밀 은닉처</text>
+	</string>
+	<string id="st_val_secret_0029_descr">
+		<text>건물 옆에 배낭으로 은닉처를 만들어 둠</text>
+	</string>
+	<string id="st_val_secret_0029_name">
+		<text>비밀 장소에 있는 배낭</text>
+	</string>
+	<string id="st_val_secret_0030_descr">
+		<text>기록에 없는 상자에 물건들을 놓아 둠. 나중에 가지러 갈 것</text>
+	</string>
+	<string id="st_val_secret_0030_name">
+		<text>기록에 없는 상자</text>
+	</string>
+	<string id="st_val_secret_0031_descr">
+		<text>자동차 아래쪽에 배낭을 놓아 둠, 아무도 신경쓰지 않을 것임</text>
+	</string>
+	<string id="st_val_secret_0031_name">
+		<text>숨겨진 배낭</text>
+	</string>
+	<string id="st_val_secret_0032_descr">
+		<text>더 좋은 장소를 찾을 시간이 없어서, 밴딧 놈들의 코앞에 있는 자동차에 물건을 숨겨 둠</text>
+	</string>
+	<string id="st_val_secret_0032_name">
+		<text>자동차 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_x16_secret_0000_descr">
+		<text>어떤 스토커가 연구소에 들어가 엘리베이터 통로에 있는 전기 콘센트 안에 물건을 숨겨두었다는 소문이 있어. 물건을 되찾을 때가 왔을 때, 그는 그럴 수 없었지.</text>
+	</string>
+	<string id="st_x16_secret_0000_name">
+		<text>전기 콘센트 안의 물건들</text>
+	</string>
+	<string id="st_x16_secret_0001_descr">
+		<text>어떤 스토커가 연구소에 들어갔는데 과학자들이 실험을 하던 곳에서 모든 물건들을 남긴 채로 죽어버렸대.</text>
+	</string>
+	<string id="st_x16_secret_0001_name">
+		<text>스카웃의 배낭</text>
+	</string>
+	<string id="st_x18_secret_0000_descr">
+		<text>스모크드가 지하 실험실에 있는 금고에 모든 것들을 넣어두었어. 나쁘지는 않은 곳이지, 아무도 연구소 열쇠를 가지고 있지 않으니까. 단 하나의 문제가 있는데, 갑자기 거기서 바위가 날아다니면서 다 부숴버렸다는 거야. 누군가가 거기에 당해서 죽었다나 뭐라나.</text>
+	</string>
+	<string id="st_x18_secret_0000_name">
+		<text>스모크드의 비밀 은닉처</text>
+	</string>
+	<string id="st_x18_secret_0001_descr">
+		<text>배낭을 남겨두어야 했음</text>
+	</string>
+	<string id="st_x18_secret_0001_name">
+		<text>남겨둔 배낭</text>
+	</string>
+	<string id="st_yan_secret_0000_descr">
+		<text>언덕에 있는 십자가 아래에 배낭이 묻혀있음</text>
+	</string>
+	<string id="st_yan_secret_0000_name">
+		<text>십자가 아래의 비밀 은닉처</text>
+	</string>
+	<string id="st_yan_secret_0001_descr">
+		<text>늪지에 있는 작은 섬에 반쯤 묻힌 금고가 있다고 함. 더 많은 정보가 필요</text>
+	</string>
+	<string id="st_yan_secret_0001_name">
+		<text>오래된 금고</text>
+	</string>
+	<string id="st_yan_secret_0002_descr">
+		<text>캠프 옆의 파이프에 물건들을 놓아 둠</text>
+	</string>
+	<string id="st_yan_secret_0002_name">
+		<text>물건이 든 파이프</text>
+	</string>
+	<string id="st_yan_secret_0003_descr">
+		<text>차고 뒤에 물건들을 은닉함</text>
+	</string>
+	<string id="st_yan_secret_0003_name">
+		<text>차고 뒤의 배낭</text>
+	</string>
+	<string id="st_yan_secret_0004_descr">
+		<text>부스 안, 쇠조각 바로 뒤쪽에 배낭을 숨김</text>
+	</string>
+	<string id="st_yan_secret_0004_name">
+		<text>약탈품이 든 배낭</text>
+	</string>
+	<string id="st_yan_secret_0005_descr">
+		<text>버스 안에 상자를 놓아 둠 - 눈에 띄지 않을 것임</text>
+	</string>
+	<string id="st_yan_secret_0005_name">
+		<text>버스 안의 비밀 은닉처</text>
+	</string>
+	<string id="st_yan_secret_0006_descr">
+		<text>저 곳에서 멀지 않은 자동차에 물건들이 숨겨져 있어. 방사능은 그렇게 높지 않아.</text>
+	</string>
+	<string id="st_yan_secret_0006_name">
+		<text>자동차 안에 물건 있음</text>
+	</string>
+	<string id="st_yan_secret_0007_descr">
+		<text>저기에 누군가의 물건들이 있다는데, 방사능 때문에 갈 수가 없다고 하는군.</text>
+	</string>
+	<string id="st_yan_secret_0007_name">
+		<text>오래된 배낭</text>
+	</string>
+	<string id="st_yan_secret_0008_descr">
+		<text>몇몇 스토커들의 비밀 은닉처가 있다고 해. 근데 어떻게 그 방사능을 뚫고 거길 갈 수 있었던 거지?</text>
+	</string>
+	<string id="st_yan_secret_0008_name">
+		<text>어떤 그룹의 비밀 은닉처</text>
+	</string>
+	<string id="st_yan_secret_0009_descr">
+		<text>임무에 자원했던 어떤 스토커가 또다른 프로토타입 방호 헬멧이 방사능을 막지 못하는 바람에 죽어버렸어. 그가 저 시설 한가운데까지 갔던 유일한 사람인데, 결국 영원히 거기 같혀버리게 된 거지. 사하로프는 더 자세한 측정을 하길 원하지만, 난 안 갈 거야. 나도 저기서 멀지 않은 곳에 영원히 머무르고 싶진 않거든.</text>
+	</string>
+	<string id="st_yan_secret_0009_name">
+		<text>실험 자원자의 배낭</text>
+	</string>
+	<string id="st_yan_secret_0010_descr">
+		<text>저기에 누군가의 은닉품이 있다고 하는데, 방사능 때문에 저길 갈 방법이 없어.</text>
+	</string>
+	<string id="st_yan_secret_0010_name">
+		<text>오래된 비밀 은닉처</text>
+	</string>
+	<string id="st_yan_secret_0011_descr">
+		<text>난 떠나겠어. 사하로프와 크루글로프는 완전히 미친 놈들이야. 나보고 스토커 몇 명과 같이 방사능 한가운데로 들어가라고 하더군. 좆까 미친 놈들아, 여기 맨홀 안에 있는 보급품만 다 꺼내면 난 갈거야.</text>
+	</string>
+	<string id="st_yan_secret_0011_name">
+		<text>과학자의 비밀 은닉처</text>
+	</string>
+	<string id="st_yan_secret_0012_descr">
+		<text>통나무에 물건들을 놓아 두었어, 아무도 찾을 수 있을 것 같지는 않군.</text>
+	</string>
+	<string id="st_yan_secret_0012_name">
+		<text>통나무 속의 보물</text>
+	</string>
+	<string id="st_yan_secret_0013_descr">
+		<text>여기에 누군가 숨겨놓은 금고가 있다는데, 방사능 때문에 갈 방법이 없어.</text>
+	</string>
+	<string id="st_yan_secret_0013_name">
+		<text>물건이 든 상자</text>
+	</string>
+</string_table>

@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!--
+	messages are constructed based on scenarios -> parts -> variants
+	1. scenario is a message template, used to represent some sort of topic
+	2. parts are what construct the message
+	3. variants are a set of many strings for a single part, the script will use one of them to represent the part
+	
+	for message title <string id="st_msg_stash_title_scenario_variant">
+	for message itself <string id="st_msg_stash_scenario_part_variant">
+
+	You can have as many scenarios, parts and variants you want. Make sure to follow the numric values without a break (1 followed by 3 will make the script ignore the 3)
+-->
+
+<!-- stash - found a stash by accident -->
+	<string id="st_msg_stash_title_1_1">
+		<text>은닉처를 찾았어</text>
+	</string>
+	<string id="st_msg_stash_title_1_2">
+		<text>은닉처다!</text>
+	</string>
+	<string id="st_msg_stash_title_1_3">
+		<text>뭔가를 찾음</text>
+	</string>
+	<string id="st_msg_stash_title_1_2">
+		<text>저기에 뭐가 있을까?</text>
+    </string>
+    <string id="st_msg_stash_title_1_5">
+        <text>은닉처다!</text>
+    </string>
+    <string id="st_msg_stash_title_1_6">
+        <text>금광일 수도 있겠는데.</text>
+    </string>
+	<string id="st_msg_stash_1_1_1">
+		<text>더 이상 까먹지 않으려고 이 글을 남긴다:</text>
+	</string>
+	<string id="st_msg_stash_1_1_2">
+		<text>이봐 $c1_fname, 그거 알아!</text>
+	</string>
+	<string id="st_msg_stash_1_1_3">
+		<text>오늘은 좆같은 날이었어. 하나 빼고는 평소와 다를 바 없었지.</text>
+	</string>
+	<string id="st_msg_stash_1_2_1">
+		<text>주변을 돌아다니다 이 은닉처를 찾았는데, 그렇게 안전한 곳은 아니었어.</text>
+    </string>
+    <string id="st_msg_stash_1_1_5">
+        <text>혹시 몰라서 말한다.</text>
+    </string>
+    <string id="st_msg_stash_1_1_6">
+        <text>흥미로운 걸 알려주지.</text>
+    </string>
+
+    <string id="st_msg_stash_1_2_1">
+        <text>여행 중에 이 보관함을 찾았는데 그냥 두고올 수밖에 없었어.</text>
+    </string>
+	<string id="st_msg_stash_1_2_2">
+		<text>뭔가 가방 같은 게 바닥에 놓여 있는 걸 봤어. 그게 누군가 고의로 거기 놔둔 건지는 확실하지 않아.</text>
+	</string>
+	<string id="st_msg_stash_1_2_3">
+		<text>여기 오래된 은닉처가 있어. 굶주린 개새끼들을 피해 도망다니다 본건데, 아무도 건드리지는 않은 것처럼 보여.</text>
+	</string>
+    <string id="st_msg_stash_1_2_4">
+        <text>오늘 일찍, 은닉처 하나를 찾았는데 갈길이 바빠서 확인할 시간이 없었어. 다행히 잘 숨겨져 있었던 거 같던데.</text>
+    </string>
+    <string id="st_msg_stash_1_2_5">
+        <text>$map에 숨겨진 은닉처가 있어. 아직 조사할 기회가 없었어. </text>
+    </string>
+	<string id="st_msg_stash_1_3_1">
+		<text>기회가 된다면 다시 한 번 확인해보고 싶어, 왠지 좋은 일이 있을 것만 같네.</text>
+	</string>
+	<string id="st_msg_stash_1_3_2">
+		<text>누군가 거기에 물건들을 숨겨놓으려 한 걸까?</text>
+	</string>
+	<string id="st_msg_stash_1_3_3">
+		<text>기회가 된다면 다시 확인해 보고 싶은데, 그 전에 아무도 찾지 못하길 바랄 뿐이야.</text>
+	</string>
+    <string id="st_msg_stash_1_3_4">
+		<text>과연 거기에 뭐가 있을까...</text>
+	</string>
+    <string id="st_msg_stash_1_3_5">
+        <text>맹세하는데 그거 쓰레기 아니다.</text>
+    </string>
+    <string id="st_msg_stash_1_3_6">
+        <text>분명 거기에 뭔가 있었어. 일단 상황이 진정될 때까지만 기다리자.</text>
+    </string>
+    <string id="st_msg_stash_1_3_7">
+        <text>값비싼 장비나 아티팩트가 가득하길 빈다.</text>
+    </string>
+	
+<!-- map route - got info from someone on route-->
+	<string id="st_msg_map_title_1_1">
+		<text>이건 쓸만해 보이네</text>
+	</string>
+	<string id="st_msg_map_title_1_2">
+		<text>흐름이 좋군</text>
+	</string>
+	<string id="st_msg_map_title_1_2">
+		<text>이 길목을 잠깐 봐봐</text>
+	</string>
+	<string id="st_msg_map_1_1_1">
+		<text>이봐 $fname, 흥미로운 사실 하나 알려줄까?</text>
+	</string>
+	<string id="st_msg_map_1_1_2">
+		<text>안녕 $fname, 요즘 어떻게 지내?</text>
+	</string>
+	<string id="st_msg_map_1_1_2">
+		<text>어이 $fname, $c1_fname 이다. 뭔가 알려줄 게 있어.</text>
+	</string>
+	<string id="st_msg_map_1_2_1">
+		<text>$trader 로부터 몇 부의 오래된 문서를 받았어. 존의 몇몇 장소에 대한 자세한 정보가 적혀 있었어. 아마 과학자 한 무리가 이걸 써낸 거 같아.</text>
+	</string>
+	<string id="st_msg_map_1_2_2">
+		<text>오늘 $c2_lname 을(를) 만났는데 그가 이런 걸 알고 있었어. 나한테 존의 몇몇 지역 사이를 안전하게 다닐 수 있는 편한 길목을 알려주더군.</text>
+	</string>
+	<string id="st_msg_map_1_2_3">
+		<text>내가 $trader 한테 정보를 좀 샀는데, 그 개새끼가 이거 가지고 돈을 엄청나게 뜯어갔어.</text>
+	</string>
+	<string id="st_msg_map_1_3_1">
+		<text>$map_route_1 와(과) $map_route_2 사이를 잇는 이 통로 좀 봐봐. 언젠가 거길 지나갈 일이 있을 거야.</text>
+	</string>
+	<string id="st_msg_map_1_3_2">
+		<text>우리가 $map_route_1 에서 $map_route_2 까지 어떻게 이동하면 좋을지 밤새 이야기하던거 기억나? 이걸로 몇 군데의 괜찮은 길목을 알 수 있을거야.</text>
+	</string>
+	<string id="st_msg_map_1_4_1">
+		<text>내가 이 길이 가장 안전한 길일지는 확답을 못해주지만, 이게 내가 알게 된 전부야. 나중에 누가 더 좋은 정보를 알려줄지 알아봐야겠어.</text>
+	</string>
+	<string id="st_msg_map_1_4_2">
+		<text>확인했지? 더 필요한 거 있으면 알려줘. 안녕.</text>
+	</string>
+	<string id="st_msg_map_1_4_3">
+		<text>언젠가 거기 갈 일이 있으면 나한테도 알려줘. 몸조심해.</text>
+	</string>
+	
+<!-- RF source - caught a signal by accident -->
+	<string id="st_msg_rf_title_1_1">
+		<text>신호다!!</text>
+	</string>
+	<string id="st_msg_rf_title_1_2">
+		<text>이거랑 관련해서 아이디어 있어?</text>
+	</string>
+	<string id="st_msg_rf_title_1_3">
+		<text>라디오 신호를 잡았어.</text>
+	</string>
+	<string id="st_msg_rf_title_1_4">
+		<text>뭔가가 신호를 보내고 있어!</text>
+	</string>
+	<string id="st_msg_rf_1_1_1">
+		<text>어이 친구, $c1_fname (이)야. 오늘은 지루한 하루였어, $leader 이(가) 시킨 또다른 일 때문에 $rf_map 에서 또다른 하루를 보내고 있었지.</text>
+	</string>
+	<string id="st_msg_rf_1_1_2">
+		<text>이봐 $fname, $c1_fname (이)야. $trader 이(가) $rf_map 에서 시킨 일이 있었어. 그래서 지금까지 거기에 죽치고 있었지.</text>
+	</string>
+	<string id="st_msg_rf_1_1_3">
+		<text>$c1_fname 이(가) 알린다. 나는 지금 $rf_map 에 있고, 내 친구 $c2_fname 이(가) 이곳에 아티팩트가 많다고 해서 둘이서 여기 와있어...</text>
+	</string>
+	<string id="st_msg_rf_1_2_1">
+		<text>나한테 준 이 요상한 RF 수신기 기억해? 왜 너가 그 PDA를 챙겼을 때 이딴 물건을 썼는지 이해를 할 수 없었어. 근데 웃기게도 말이지, 여길 계속 돌아다니다 수신기가 울리기 시작했지 뭐야!!</text>
+	</string>
+	<string id="st_msg_rf_1_2_2">
+		<text>정말 기이이이인 하루였고, 나는 "비상시에만" 쓰려 했던 RF 수신기를 들고 그냥 돌아다녔어. 그런데 갑자기 뭔가를 듣게 된 거야.</text>
+	</string>
+	<string id="st_msg_rf_1_2_3">
+		<text>나는 평소에 들고다니던 RF 수신기를 끄는 걸 잊어버렸어. 배터리도 거의 다 됐었는데, 목적지에 거의 도착하니까 수신기가 시끄러운 소리를 내기 시작했어.</text>
+	</string>
+	<string id="st_msg_rf_1_2_4">
+		<text>그리고 존나게 운좋게도 말이지, 내가 전기 장판을 지나갔을 때 내 RF 수신기랑 PDA가 거의 튀겨질 뻔했어, 아직도 내가 살아있다는게 믿기질 않네! 그것들도 아직 작동하고. 요점은, 수신기가 뭔가를 감지했다는 거야...</text>
+	</string>
+	
+	<string id="st_msg_rf_1_3_1">
+		<text>수신기가 $rf_freq GHz 주파수에서 뭔가 신호 같은 걸 잡았는데, 이 근처 어딘가에서 보내는 거 같아.</text>
+	</string>
+	<string id="st_msg_rf_1_3_2">
+		<text>$rf_map 에 있는 뭔가가 $rf_freq GHz의 신호를 보내고 있고, 내 근처에 있는 것 같아.</text>
+	</string>
+	<string id="st_msg_rf_1_3_3">
+		<text>$rf_freq GHz 주파수에서 소리가 선명하게 들려.</text>
+	</string>
+	
+	<string id="st_msg_rf_1_4_1">
+		<text>여기서 잠깐 둘러보며 신호를 따라가야겠어.</text>
+	</string>
+	<string id="st_msg_rf_1_4_2">
+		<text>이게 뭐라고 생각해? 난 이게 뭔지 알아보고 있을 거니까, 같이 하고 싶으면 말해줘.</text>
+	</string>
+	<string id="st_msg_rf_1_4_3">
+		<text>난 주변을 확인해서 이 똥같은 게 뭔지 알아봐야겠어. 행운을 빌어줘.</text>
+	</string>
+
+<!-- Chitchat - you took stuff from me -->
+	<string id="st_msg_chitchat_title_1_1">
+		<text>내 물건 어디 갔어?</text>
+	</string>
+	<string id="st_msg_chitchat_title_1_2">
+		<text>나는 네가 한 일을 알고 있다</text>
+	</string>
+	<string id="st_msg_chitchat_title_1_3">
+		<text>두고 보자</text>
+	</string>
+	<string id="st_msg_chitchat_title_1_4">
+		<text>이게 재밌냐?</text>
+	</string>
+	
+	<string id="st_msg_chitchat_1_1_1">
+		<text>야 $fname, $c1_fname (이)다.</text>
+	</string>
+	<string id="st_msg_chitchat_1_1_2">
+		<text>$fname 이 개새끼가...</text>
+	</string>
+	<string id="st_msg_chitchat_1_1_3">
+		<text>야</text>
+	</string>
+	<string id="st_msg_chitchat_1_1_4">
+		<text>$fname, 난 다 알고 있어!</text>
+	</string>
+	
+	<string id="st_msg_chitchat_1_2_1">
+		<text>내가 모아둔 다이어트 소시지 니가 훔쳐갔지?</text>
+	</string>
+	<string id="st_msg_chitchat_1_2_2">
+		<text>내 배낭에 있던 에너지 드링크 다 어디갔어?! 너인거 다 알아.</text>
+	</string>
+	<string id="st_msg_chitchat_1_2_3">
+		<text>어젯밤 넌 말도 없이 떠났고, 내 보드카 3병을 훔쳐갔어.</text>
+	</string>
+	
+	<string id="st_msg_chitchat_1_3_1">
+		<text>다음에 니가 또 여기 엉덩이 붙이려 오면, 나한테 더 좋은 걸로 보답해야 할 거야.</text>
+	</string>
+	<string id="st_msg_chitchat_1_3_2">
+		<text>내게 배상을 해주는게 좋을거야. 여기에 다시 니 구역질나는 면상을 들이밀기 전까지 명심하길 바라.</text>
+	</string>
+	<string id="st_msg_chitchat_1_3_3">
+		<text>이번 일을 넘어갈거라 기대는 안하는게 좋을거야.</text>
+	</string>
+	<string id="st_msg_chitchat_1_3_4">
+		<text>니 개짓거리는 이제 지긋지긋해! 당장 튀어와!</text>
+	</string>
+	
+	<string id="st_msg_chitchat_1_4_1">
+		<text>그러고 보니 $trader 이(가) 널 만나고 싶어하던데, 뭘 원하는지 확인해봐.</text>
+	</string>
+	<string id="st_msg_chitchat_1_4_2">
+		<text>$leader 이(가) 니 소식을 물어보더라. 뭔가 중요한 일을 하고 있는거 같은데, 돌아오면 바로 그에게 보고하라고.</text>
+	</string>
+	<string id="st_msg_chitchat_1_4_3">
+		<text>$c2_fname 도 니 개짓거리에 질렸더라. 근데 $mechanic 이(가) 뭔가 중요한 일로 널 찾았는데, 한 번 가 보던가.</text>
+	</string>
+	
+<!-- Chitchat - trolling -->
+	<string id="st_msg_joke_title_1_1">
+		<text>누가 니 목에 현상금을 걸었어!!!</text>
+	</string>
+	<string id="st_msg_joke_title_1_2">
+		<text>누가 널 쫓고 있어!</text>
+	</string>
+	<string id="st_msg_joke_title_1_3">
+		<text>최근에 네 친구 한 명이 죽었어.</text>
+	</string>
+	
+	<string id="st_msg_joke_1_1_1">
+		<text>그냥 관심 끌어보려 했던 소리야.</text>
+	</string>
+	<string id="st_msg_joke_1_1_2">
+		<text>농담이야, 화는 내지마 알았지?</text>
+	</string>
+	<string id="st_msg_joke_1_1_3">
+		<text>낚였구나!</text>
+	</string>
+	
+	<string id="st_msg_joke_1_2_1">
+		<text>돌아오는 길애 $c2_fname (이)랑 나한테 푸틴카 몇 병좀 사오지 않을래?</text>
+	</string>
+	<string id="st_msg_joke_1_2_2">
+		<text>$c2_fname 이(가) 럭키 스트라이크 한 갑을 찾고 있더라. 나는... 말보로로, 걱정마 돈은 줄게.</text>
+	</string>
+	<string id="st_msg_joke_1_2_3">
+		<text>그래 그럼 슬슬 배고파질려 하니까, 다이어트 소시지 몇 개 어때?</text>
+	</string>
+	
+	<string id="st_msg_joke_1_3_1">
+		<text>오늘 일과는 거의 끝났으니까, 한 시간 뒤에 보자.</text>
+	</string>
+	<string id="st_msg_joke_1_3_2">
+		<text>기다리고 있을게. 그때까지 자살하지는 말고.</text>
+	</string>
+	
+<!-- Mission - target -->
+	<string id="st_msg_mission_target_title_1_1">
+		<text>보고</text>
+	</string>
+	<string id="st_msg_mission_target_title_1_2">
+		<text>목표와 근접함</text>
+	</string>
+	<string id="st_msg_mission_target_title_1_3">
+		<text>목표물에 대해</text>
+	</string>
+	<string id="st_msg_mission_target_title_1_4">
+		<text>목적지에 도착함</text>
+	</string>
+	
+	<string id="st_msg_mission_target_1_1_1">
+		<text>$leader, $fname $lname 입니다. 임무 관련 보고드립니다.</text>
+	</string>
+	<string id="st_msg_mission_target_1_1_2">
+		<text>$fname $lname 입니다. $leader 에게 보고할 정보가 있습니다.</text>
+	</string>
+	<string id="st_msg_mission_target_1_1_3">
+		<text>$fname $lname 입니다. $leader 에게 중요한 목표물에 대한 임무를 받았습니다.</text>
+	</string>
+	
+	<string id="st_msg_mission_target_1_2_1">
+		<text>저는 $map (으)로 가서 $directional $pointer 에 자리를 잡았습니다. 목표물이 잘 보입니다.</text>
+	</string>
+	<string id="st_msg_mission_target_1_2_2">
+		<text>지금 $map 의 상황은 안정적입니다. 목표물은 $directional $pointer 쪽으로 이동 중입니다. 몇 분 뒤 그들을 추적하겠습니다.</text>
+	</string>
+	
+	<string id="st_msg_mission_target_1_3_1">
+		<text>이 지역은 $enemy 부대가 둘러싸고 있습니다. 잠시 동안은 그들의 위치를 떠나지 않을 겁니다. 마치 이곳에서 뭔가를 하고 있는 것 같습니다.</text>
+	</string>
+	<string id="st_msg_mission_target_1_3_2">
+		<text>또한 $enemy 부대가 여기서 멀지 않은 곳에서 목격되었습니다만, 별 문제는 되지 않을 겁니다. 아직 그들과의 연결점이 있는지는 찾지 못했습니다.</text>
+	</string>
+	
+	<string id="st_msg_mission_target_1_4_1">
+		<text>명령을 내려주십시오.</text>
+	</string>
+	<string id="st_msg_mission_target_1_4_2">
+		<text>명령은?</text>
+	</string>
+	<string id="st_msg_mission_target_1_4_3">
+		<text>임무를 계속 수행하며 이상한 움직임이 있다면 보고하겠습니다.</text>
+	</string>
+	<string id="st_msg_mission_target_1_4_4">
+		<text>지금은 이게 전부입니다.</text>
+	</string>
+	
+<!-- Mission - guard -->
+	<string id="st_msg_mission_guard_title_1_1">
+		<text>모든게 정상적임</text>
+	</string>
+	<string id="st_msg_mission_guard_title_1_2">
+		<text>평온한 날</text>
+	</string>
+	<string id="st_msg_mission_guard_title_1_3">
+		<text>지역 경비 중</text>
+	</string>
+	<string id="st_msg_mission_guard_title_1_4">
+		<text>그들을 여기로 보내주십시오</text>
+	</string>
+	
+	<string id="st_msg_mission_guard_1_1_1">
+		<text>$leader, $map 의 상황은 평소와 같습니다. 몇 마리의 굶주린 눈먼 개들과 투스카노들을 빼면, 위협요소는 없습니다. 운이 좋은 것 같습니다.</text>
+	</string>
+	<string id="st_msg_mission_guard_1_1_2">
+		<text>저희들은 몇시간 전에 $directional $pointer 에서 $enemy 을(를) 보았지만, 그들은 바로 떠났습니다. 그 이후로는, 모든 것이 정상적입니다.</text>
+	</string>
+	<string id="st_msg_mission_guard_1_1_3">
+		<text>$fname 입니다. 지금까지는 $map 에 특별한 일이 없었습니다. 오랫동안 이런 상태인 것으로 보입니다.</text>
+	</string>
+	
+	<string id="st_msg_mission_guard_1_2_1">
+		<text>$c1_fname 의 분대를 여기로 보내실 수 있습니다. 그들이 올 때까지 기다리겠습니다.</text>
+	</string>
+	<string id="st_msg_mission_guard_1_2_2">
+		<text>$c1_fname 의 분대가 이쪽으로 오고 싶어한다면 안전하게 올 수 있습니다. 그 동안 무슨 일이 일어나는지 주시하고 있겠습니다.</text>
+	</string>
+	<string id="st_msg_mission_guard_1_2_3">
+		<text>다음 임무를 맡을 $c1_fname 의 분대를 기다리고 있겠습니다.</text>
+	</string>
+	
+	<string id="st_msg_mission_guard_1_3_1">
+		<text>$fname 통신 종료.</text>
+	</string>
+	<string id="st_msg_mission_guard_1_3_2">
+		<text>그때까지, 경비 업무를 수행하고 있도록 하겠습니다.</text>
+	</string>
+	<string id="st_msg_mission_guard_1_3_3">
+		<text>너무 어두워지기 전에 서둘러야 할 겁니다.</text>
+	</string>
+	
+<!-- Mission - mutant hunt -->
+	<string id="st_msg_mission_hunt_title_1_1">
+		<text>이 뮤턴트는 무료로 제공합니다</text>
+	</string>
+	<string id="st_msg_mission_hunt_title_1_2">
+		<text>사냥간다</text>
+	</string>
+	<string id="st_msg_mission_hunt_title_1_3">
+		<text>사냥 여행</text>
+	</string>
+	<string id="st_msg_mission_hunt_title_1_4">
+		<text>같이 갈래?</text>
+	</string>
+	
+	<string id="st_msg_mission_hunt_1_1_1">
+		<text>야 $fname, 아직도 $map 에서 돌아다녀?</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_1_2">
+		<text>$fname, 이것들 보러 와봐!</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_1_3">
+		<text>우리들 슬슬 사냥을 시작하려고 하는데, 지금 너만 빠져 있어 $fname.</text>
+	</string>
+	
+	<string id="st_msg_mission_hunt_1_2_1">
+		<text>$c2_fname 이(가) $directional $pointer 에서 세 마리의 살덩이 무리를 봤어. 모두 살이 통통하게 올랐어. 아직 우리들을 못 본 거 같아...</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_2_2">
+		<text>나랑 $c2_fname 이(가) $directional $pointer 에서 두 마리의 큰 멧돼지를 봤어. 웬만한 녀석들보다 커!</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_2_3">
+		<text>살덩이, 더 많은 살덩이, $directional $pointer 쪽이야. 모두 자고 있어.</text>
+	</string>
+	
+	<string id="st_msg_mission_hunt_1_3_1">
+		<text>$c2_fname 이(가) 걔네들을 사냥하고 싶어하는데, 공짜 고깃덩이라나 뭐라나.</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_3_2">
+		<text>너 빨리 여기로 튀어오는게 좋을거야, 그 녀석들이 튀어서 어디로 숨어버리기 전에 사냥해야 하니까 더는 못 기다려.</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_3_3">
+		<text>나는 사냥용 칼을 준비했고, $c2_fname 이(가) 그 녀석들을 가까이에서 지켜보고 있어.</text>
+	</string>
+	
+	<string id="st_msg_mission_hunt_1_4_1">
+		<text>우리들은 10분 동안만 기다릴 거니까, 가까이 오면 사냥 같이 할 수 있게 나한테 알려줘.</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_4_2">
+		<text>그래서 올거야 말거야??</text>
+	</string>
+	<string id="st_msg_mission_hunt_1_4_3">
+		<text>나머지 분대원들한테는 우리가 좀 늦을 거라 말해줘, ㅇㅋ?</text>
+	</string>
+	
+<!-- Mission - raid -->
+	<string id="st_msg_mission_raid_title_1_1">
+		<text>습격 준비중</text>
+	</string>
+	<string id="st_msg_mission_raid_title_1_2">
+		<text>이 스토커들은 무료로 제공합니다</text>
+	</string>
+	<string id="st_msg_mission_raid_title_1_3">
+		<text>지금 준비하고 있어</text>
+	</string>
+	<string id="st_msg_mission_raid_title_1_4">
+		<text>기습공격 준비중</text>
+	</string>
+	
+	<string id="st_msg_mission_raid_1_1_1">
+		<text>$fname, 뭐하냐? 오늘 할만한 게 생겼어!</text>
+	</string>
+	<string id="st_msg_mission_raid_1_1_2">
+		<text>$c1_fname (이)야, 뭐하고 지내 $fname?</text>
+	</string>
+	
+	<string id="st_msg_mission_raid_1_2_1">
+		<text>우리가 초짜들 몇 명이 $directional $pointer 에서 헤메고 있는 걸 봤어. 길을 잃어버린 것 같아.</text>
+	</string>
+	<string id="st_msg_mission_raid_1_2_2">
+		<text>좆밥새끼들 몇 놈이 $map 을(를) 돌아다니고 있어. 지금, 걔네들은 $directional $pointer 에서 캠핑 중이야.</text>
+	</string>
+	
+	<string id="st_msg_mission_raid_1_3_1">
+		<text>이 새끼들 호주머니가 두둑하다는 거에 내 똥구멍을 걸지, 우린 움직일 만한 최고의 기회가 올 때까지 기다릴 거야.</text>
+	</string>
+	<string id="st_msg_mission_raid_1_3_2">
+		<text>오늘밤 우리들은 부자가 될 거야...</text>
+	</string>
+	<string id="st_msg_mission_raid_1_3_3">
+		<text>놈들 배낭이 꽉 찬거 같은데, 이번에는 운이 좋나보군.</text>
+	</string>
+	
+	<string id="st_msg_mission_raid_1_4_1">
+		<text>그래서, 낄 거야 말 거야?</text>
+	</string>
+	<string id="st_msg_mission_raid_1_4_2">
+		<text>우린 곧 쳐들어갈 건데, 같이 할래?</text>
+	</string>
+	<string id="st_msg_mission_raid_1_4_3">
+		<text>$c2_fname 한테는 우리가 늦는다고 말해줘, 걔가 우릴 기다리지 않게.</text>
+	</string>
+	
+<!-- Mission - bounty -->
+	<string id="st_msg_mission_bounty_title_1_1">
+		<text>현상금</text>
+	</string>
+	<string id="st_msg_mission_bounty_title_1_2">
+		<text>할 일이 생겼어.</text>
+	</string>
+	<string id="st_msg_mission_bounty_title_1_3">
+		<text>새로운 일이야.</text>
+	</string>
+	<string id="st_msg_mission_bounty_title_1_4">
+		<text>얻을만한 현상금</text>
+	</string>
+	
+	<string id="st_msg_mission_bounty_1_1_1">
+		<text>이봐 $c1_fname, 우리들이 뭔가 할 일이 있어.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_1_2">
+		<text>$fname, 네가 할 일이 있어.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_1_3">
+		<text>일어나 $fname, 총 준비해. 일하러 가자.</text>
+	</string>
+	
+	<string id="st_msg_mission_bounty_1_2_1">
+		<text>몇 분 전에 $trader 을(를) 만났는데, 누구를 죽이기를 원하더라. 그리고 이번엔 보수도 좋아.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_2_2">
+		<text>$trader 이(가) 누군가의 머리에 1만 루블을 걸었어. 아주 좋은 소식이지.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_2_3">
+		<text>$leader 이(가) 화를 냈어. 그가 말하길 누군가 우리 동료들 둘을 죽여서 그 자식을 처리해고 싶어한대. 보수가 많은 만큼 중요한 일일 거야.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_2_4">
+		<text>내가 $trader 한테 총알을 좀 사고 있었을 때였어. 그한테 뭔가 할 일이 있냐고 물어봤는데, 그가 말하길 누군가 자기 사업을 간섭하고 있다며 그 자를 처리하고 싶대. 여기가 중요한데, 보상으로 해파리 아티팩트를 준대.</text>
+	</string>
+	
+	<string id="st_msg_mission_bounty_1_3_1">
+		<text>이름은 $c2_fname $c2_lname (이)고, 마지막으로 목격된 곳은 $map 의, $directional $pointer 쪽이야.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_3_2">
+		<text>주변 사람한테 물어봤는데, 우리가 잡을 친구가 $map 주변을 돌아다니는 걸 보았대. $directional $pointer 쪽이 정확하겠네. 그 친구 이름은 $c2_fname $c2_lname (이)야. 그리고 어떤 정보통이 말하길 그는 $enemy (이)랑 같이 다니고 있다고 하니까, 일이 좀 힘들 수도 있겠어.</text>
+	</string>
+	
+	<string id="st_msg_mission_bounty_1_4_1">
+		<text>거기서 만나서 지역을 확인해보자, 만약 그 자에 대한 정보를 더 얻게 되면 알려줘.</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_4_2">
+		<text>누가 새치기하기 전에 한몫 챙겨보자고. 콜?</text>
+	</string>
+	<string id="st_msg_mission_bounty_1_4_3">
+		<text>보상은 일할 가치가 있는 만큼 받을 수 있을 것 같아. 그럼 거기 근처에서 만나서 다음에 뭘 할지 정하는게 어때?</text>
+	</string>
+	
+<!-- Mission - artefact -->
+	<string id="st_msg_mission_artefact_title_1_1">
+		<text>이거 실화냐?</text>
+	</string>
+	
+	<string id="st_msg_mission_artefact_1_1_1">
+		<text>씨발, 나 $map 에서 달빛을 찾아냈어. 존나 운좋은 날이네.</text>
+	</string>
+	<string id="st_msg_mission_artefact_1_2_1">
+		<text>여기 널린 전기 이상현상 때문에 거의 죽을 뻔했지만, 그럴만한 가치가 있었어.</text>
+	</string>
+	<string id="st_msg_mission_artefact_1_3_1">
+		<text>$trader 이(가) 이걸 사는 데 관심이 있을까?</text>
+	</string>
+	
+<!-- Mission - anomaly study -->
+	<string id="st_msg_mission_anomaly_title_1_1">
+		<text>이상현상 지역에 왔어</text>
+	</string>
+	<string id="st_msg_mission_anomaly_title_1_2">
+		<text>이상한 이상현상!</text>
+	</string>
+	<string id="st_msg_mission_anomaly_title_1_3">
+		<text>이거 참 이상하네...</text>
+	</string>
+	<string id="st_msg_mission_anomaly_title_1_4">
+		<text>특이한 이상현상 활동.</text>
+	</string>
+	
+	<string id="st_msg_mission_anomaly_1_1_1">
+		<text>안녕 $c1_fname. 난 지금 $map 의, $directional $pointer 에 있어.</text>
+	</string>
+	<string id="st_msg_mission_anomaly_1_1_2">
+		<text>$c1_fname, $fname (이)야. 연구팀이 $map 의, $directional $pointer 에 도착했어.</text>
+	</string>
+	<string id="st_msg_mission_anomaly_1_1_3">
+		<text>좋아 $c1_fname, 난 15분 전에 $map 에 도착했어. 탐지기에 의하면, $directional $pointer 에서의 이상현상 활동은 아주 강력해.</text>
+	</string>
+	
+	<string id="st_msg_mission_anomaly_1_2_1">
+		<text>예상했던 대로, 마지막 에미션이 이 지역의 이상현상 지역에 영향을 미쳤나봐. 내 방사선 감지기가 엄청낸 소리를 내는 걸 보니, 이곳의 방사능 수준도 높은거 같아.</text>
+	</string>
+	<string id="st_msg_mission_anomaly_1_2_2">
+		<text>이 지역은 좀 특이한데, 세 개의 새로운 볼텍스 이상현상이 서로 붙어있어. 마지막 정신파 폭풍이 확실히 거칠기는 했었지.</text>
+	</string>
+	
+	<string id="st_msg_mission_anomaly_1_3_1">
+		<text>나는 볼텍스 중 하나 근처에 서 있는데, 이건 우리가 전에 보았던 것들과 비교해 봤을 때 아주 특이해. 중력 필드가 아주 강하기도 한데, 가장 신기한 점은 이게 고정되어 있지 않다는 거야! 이 이상현상은 불규칙하게 이동하고 있고, 범위도 시간이 지나면서 확장되고 있어. 하지만 이렇게 움직이는 바람에 중력 필드는 점점 힘을 잃어가는 것처럼 보여.</text>
+	</string>
+	<string id="st_msg_mission_anomaly_1_3_2">
+		<text>이제 이 회전목마 이상현상에서 가장 흥미로운 부분으로 넘어갈게. 이 근처의 중력 필드는 아주 강해.</text>
+	</string>
+	<string id="st_msg_mission_anomaly_1_3_3">
+		<text>하지만 내 눈길을 가장 많이 끌었던 건 이 도약대 이상현상이야. 다른 것들과는 달리, 반지름이 무려 5미터나 돼. 아주 커!</text>
+	</string>
+	
+	<string id="st_msg_mission_anomaly_1_4_1">
+		<text>내가 이걸 한 번 측정해줬으면 좋겠어?</text>
+	</string>
+	<string id="st_msg_mission_anomaly_1_4_2">
+		<text>네가 분석할 수 있게 센서 몇 개를 필드 주변에 설치해 줄까?</text>
+	</string>
+
+</string_table>

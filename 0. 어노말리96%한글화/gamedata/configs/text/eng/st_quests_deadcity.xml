@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON DEAD CITY MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Default Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_text">
+		<text>더쉬맨이 일이 있다고 하는 사람을 가리켰습니다.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_about">
+		<text>우리쪽 서비스에 돈을 잘 내줄 사람을 찾았어. 보러 가봐.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_finish">
+		<text>행운을 빌지.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Commando Raid Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_name">
+		<text>적진 급습</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_text">
+		<text>적진에 잠입하여 급습하십시오.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_about">
+		<text>널 위한 작업이 하나 있어. 한 파벌이 우리 고객께서 원하지 않는 지역으로 이사를 했고, 반드시 제거되어야 해. 너 혼자 가. 그들은 대규모 공격엔 대비하고 있지만 단독 침투자를 기대하진 못 할거야. 놈들의 캠프에 잠입해서 가능한 한 많이 놈들을 처치해.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_finish">
+		<text>잘 했어. 고객께서 기뻐하더군. 보너스도 있어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Assault Bandit Camp Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_name">
+		<text>밴딧 캠프 습격</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_text">
+		<text>밴딧 캠프를 급습하기로 계약되었다.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_about">
+		<text>밴딧들이 쳐들어왔다. 보통 합의을 하는 편이지만, 그걸 하기엔 너무 가깝더군. 몇 명을 붙여줄테니 가서 치워.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_finish">
+		<text>훌륭하군. 여기 네 몫이다.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_text">
+		<text>다음 일을 받으러 가십시오.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_about">
+		<text>고객을 한 분 모셨어. 지도에 그의 위치를 표시해 놨으니 가 봐.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_finish">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Ambush Raid Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>라이트닝 스트라이크</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>적진을 매복할 용병들과 연계하십시오.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>이봐, 몇몇 녀석들이 해당 지역에서 적진을 발견하고 그들을 매복하려고 대기 하고 있어. 서두르면, 아마 그들과 합류 할 수 있을 거야.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_finish">
+		<text>잘했어. 네 몫.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Extract Mercenary Prisoner Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>용병 포로 구출</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>용병이 군에 의해 포로로 잡혔다. 그를 구해야 한다.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>군바리 개자식들이 우리 병사 중 한 명을 잡았어! 가서 녀석을 좀빼내와.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_finish">
+		<text>잘했어. 누구도 버리지 않겠어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
+
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>구해오기 : %s</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>호그를 공격한 돌연변이를 처치하고 그 증거를 가지고 와라.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>현장에 자주 나가던데, 돌연변이를 만나면 죽여줬으면 좋겠어.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>지난 주에 돌연변이한테 공격당했어. 그 개자식이 날 거의 죽일 뻔 했지만 응사하기도 전에 사라졌어. 재대로 한 방 먹었어, 봐. 평생 흉터가 남겠지. 만약 좆같은 잡것을 보면 죽여버리고, 내장을 제거하고, %s을 가져와. 보답하지.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>죽였구나! 잘했어! 이걸 가져가! 고마워, 씹새끼 속이 다 시원하네.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_name">
+		<text>용병이 되다</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_text">
+		<text>더쉬맨이 나를 공식적으로 용병으로 채용하는 대가로 12,000RU를 담보로 원한다.</text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_about">
+		<text>총 12,000RU가 될 거야. 존에 있는 동안에는 정상적인 신원 조회를 할 수 없기 때문에 나중에 너와와 계약을 해지할 경우를 대비해서 일정 수준 담보가 있어야해. 전문성과 준비성이 바로 이 주변에서 우리를 증명하는 전부니까. 그러니 바닥에 침이나 뱉지 말고 무기나 가지고 오라고. 어때 괜찮은 조건 아니야? </text>
+	</string>
+	<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_finish">
+		<text>좋아. 잘 진행된 거 같아 아무튼 좋군. 우리 계약서에 서명하고 증명해보라고, 용병.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+		<text>청부 살인</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+		<text>목표물을 찾아 제거하기로 계약했다. 일을 마치면 다시 복귀하여 보고해야 한다.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+		<text>우리 계약자가 먹음직스러운 현상금 목록을 제시했다. 이걸 개별적으로 수행할 자원 봉사자들이 필요하고. 그러면 우린 계약자에게 의무를 이행할 수 있게 되겠지. 관심 있나?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+		<text>됐나? 좋아. 여기 수익의 일부야.</text>
+	</string>
+
+
+	<!-- ASSAULT TERRITORY FOR MERCS TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_2_name">
+		<text>구역 점거</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text">
+		<text>나는 해당 지역에 있는 적대 세력들을 제거하기로 계약했다.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about">
+		<text>네가 공격 포인트맨이 되어줘. 모든 적대 세력으로부터 목표 지역을 확보 하도록.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_finish">
+		<text>잘했어. 여기 네 몫.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Dushman (Merc Trader) Capture Enemy Documents Dynamic Task -->
+
+	<string id="cit_killers_merc_trader_stalker_task_3_name">
+		<text>적 문서 탈취</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_text">
+		<text>적의 문서를 빼앗아 더쉬맨에게 돌려줘야 한다.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_about">
+		<text>우리 고용주가 적에게서 빼내야 할 서류를 제시했어. 가져와주면 지불해주지.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_finish">
+		<text>훌륭해.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>호그에게 %s 가져가기</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>용병 기술자 호그에게 %s를 가져가야 한다.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>제안할 게 있어. 만약 나에게 새로운 도구를 가져다 줄 수 있다면, 넌 돈을 받을 거야. 할 수 있어?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+		<text>난 %s를 찾아다녔어. 총기를 다루는 데 필요한 기름과 도구가 들어 있을 거야. 그 도구상자 한 개 값을 지불하지. 풀 세트.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>훌륭해! 내가 찾던거야. 고마워!</text>
+	</string>
+
+
+
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>호그에게 %s 가져가기</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>용병 기술자 호그에게 %s를 가져가야 한다.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>다른 제안이 있어. 네가 가져온 툴킷은 아주 좋아. 좋지만, 내가 필요한 것이 다 들어 있진 않아. 더 좋은 세트를 찾아 줄 수 있어?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+		<text>다른 제안이 있어. 네가 가져온 툴킷은 아주 좋아. 좋지만, 내가 필요한 것이 다 들어 있진 않아. 더 좋은 세트를 찾아 줄 수 있어?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>오, 찾던게 전부 들어있는 거 같군. 고마워.</text>
+	</string>
+
+
+
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>호그에게 %s 가져가기</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>용병 기술자 호그에게 %s를 가져가야 한다.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>다른 제안이 있어. 네가 가져온 툴킷은 아주 좋아. 좋지만, 내가 필요한 것이 다 들어 있진 않아. 더 좋은 세트를 찾아 줄 수 있어?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>다른 제안이 있어. 네가 가져온 툴킷은 아주 좋아. 좋지만, 내가 필요한 것이 다 들어 있진 않아. 더 좋은 세트를 찾아 줄 수 있어?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>전부 들어 있네. 정말 고마워!</text>
+	</string>
+	
+	
+<!-- Aslan (Barman) -->
+	<string id="cit_killers_merc_barman_mlr_task_1_name">
+		<text>대상 제거</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_text">
+		<text>아슬란이 목표를 제거하면 돈을 지불한다고 했다.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_about">
+		<text>그래, 우리에겐 항상 일이 있지. 좌표를 줄 테니 목표물을 죽여라.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_1_finish">
+		<text>잘했어, 여기 네 돈.</text>
+	</string>
+	
+	<string id="cit_killers_merc_barman_mlr_task_2_name">
+		<text>장려 정책</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_text">
+		<text>아슬란이 %s개를 가지고 오라 했다.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_about">
+		<text>우리의 경쟁자들 중 일부가 약간 거만해지고 있더군. 녀석들 대담해져서는 들이대선 안 될 곳에 코를 들이밀고 있어. 그들에게 경고를 주도록 하지. 나에게 충분한 %s를 가져오면 상당한 보상을 약속하지.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_fetch_about">
+		<text>우리의 경쟁자들 중 일부가 약간 거만해지고 있더군. 녀석들 대담해져서는 들이대선 안 될 곳에 코를 들이밀고 있어. 그들에게 경고를 주도록 하지. 나에게 충분한 %s를 가져오면 상당한 보상을 약속하지.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_2_fetch_finish">
+		<text>잘했어. 여기 보수.</text>
+	</string>
+	
+	<string id="cit_killers_merc_barman_mlr_task_3_name">
+		<text>밀렵</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_3_text">
+		<text>%s에 대한 수요가 있다.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_3_about">
+		<text>그래, 항상 할 일이 있지. 부유한 고객이 희귀한 돌연변이 부위에 관심이 있어. 그것을 나에게 가져오면 내가 그것을 그 노력에 걸맞게 만들어 주지.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_3_fetch_about">
+		<text>그래, 항상 할 일이 있지. 부유한 고객이 희귀한 돌연변이 부위에 관심이 있어. 그것을 나에게 가져오면 내가 그것을 그 노력에 걸맞게 만들어 주지.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_3_fetch_finish">
+		<text>잘했어. 여기.</text>
+	</string>
+	
+	<string id="cit_killers_merc_barman_mlr_task_4_name">
+		<text>공포의 근원</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_4_text">
+		<text>아슬란이 나에게 붉은 숲에 출몰하는 위험한 돌연변이를 제거해 달라고 했다.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_4_about">
+		<text>듣자니 붉은 숲에 좀 더로운 키메라 한 종이 있다는 소문이 있더군. 팀 조차 안전하지 않아. 생존자들 말로는 그것의 피부가 마치 밤에 섞여 들듯 보였다고 하더군. 우리 정찰팀의 생존자들도 같은 말을 했어.\n이런 식이면 비즈니스를 진행할 수 없어. 그래서, 간단히 말하지. 난 그게 죽었으면 좋겠어. 들었지? 누가 어떻게 하든 상관없어. 그 개자식을 사라지게 한 사람은 보너스를 주지.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_4_finish">
+		<text>잘했어. 팀 전체를 고용해야 하는 일을 해냈군. 나중에 존을 떠나게 되더라도 연락하고 지내자고. 너 같은 사람을 고용하고 싶어하는 고용주를 몇 명 알고 있으니까.</text>
+	</string>
+
+	<string id="cit_killers_merc_barman_mlr_task_5_name">
+		<text>기지 확보</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_5_text">
+		<text>아슬란이 기지 근처 지역의 돌연변이들을 모두 제거해 달라고 부탁했다.</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_5_about">
+		<text>기지를 깨끗이 청소할 시간이야. 돌연변이들이 기지 근처에서 너무 편안하게 지내더군. 그것들이 우리 계약자들의 밤을 괴롭히더라고. 난 이 근방을 쓸어줄 사람이 필요해. 더러운 일이지만 누군가는 해야 하지. 그리고 그 누군가는 보상을 잘 받을 수 있을 거라고. 그래, 어때?</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_task_5_finish">
+		<text>여기 보수, 계속 잘 해줘.</text>
+	</string>
+	
+<!-- Surgeon (Mercenary Medic) -->
+	<string id="cit_killers_merc_medic_stalker_task_1_name">
+		<text>찾아오기 : %s</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_text">
+		<text>용병의 외과의가 %s를 찾아 달라 했다.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_about">
+		<text>그래, 일이 하나 있어. 얀타 연구소가 그리 멀지 않지만, 그들의 의료 물품에 너무 의존하게 되는 건 원치 않아. %s를 가져오면 여기 있는 모든 사람분의 약을 생산할 수 있어. 걱정 마. 이 일 때문에 루블을 좀 남겨 놨으니까, 가지고 오면 직접 적절히 지불해 주지.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_fetch_about">
+		<text>그래, 일이 하나 있어. 얀타 연구소가 그리 멀지 않지만, 그들의 의료 물품에 너무 의존하게 되는 건 원치 않아. %s를 가져오면 여기 있는 모든 사람분의 약을 생산할 수 있어. 걱정 마. 이 일 때문에 루블을 좀 남겨 놨으니까, 가지고 오면 직접 적절히 지불해 주지.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_fetch_finish">
+		<text>어디 보자... 좋아, 이걸로 충분하겠어. 정말 고마워. 여기 돈.</text>
+	</string>
+
+</string_table>

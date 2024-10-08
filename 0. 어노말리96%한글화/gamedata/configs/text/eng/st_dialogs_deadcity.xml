@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+ <!-- Dusman (Mercenary Leader) -->
+ 	<string id="find_blackbox_mlr_reward_killer_0">
+		<text>더쉬맨, 이거 한 번 봐봐. 비행 기록 장치를 찾았어. 이거 꽤나 돈 되는 정보를 담고 있는 거 같은데, 흠? </text>
+	</string>
+	<string id="find_blackbox_mlr_reward_killer_1">
+		<text>군용품인가? 좋아. 네가 가져온 건 꽤나 쓸만한 물건이군. 내가 가져가는 대가로 이 돈을 받아둬.</text>
+	</string>
+
+
+<!-- (Mercenary Guide) -->
+	<string id="meet_ds_killer_guide_main_base_0">
+		<text>여기서 나가려면 어떻게 해야 하지?</text>
+	</string>
+	<string id="meet_ds_killer_guide_main_base_1">
+		<text>이 곳은 모든 종류의 위험으로부터 둘러싸여 있지만, 우리에게는 지하 하수구 통로가 있지. 널 이 도시에서 우리들의 몇 안 되는 기지들 중 하나인, 자톤 남쪽에 있는 기지에 데려다줄 수 있는 길잡이가 있어.</text>
+	</string>
+
+	<string id="meet_ds_killer_guide_main_base_list_0">
+		<text>다시 알려줘, 길이 어디로 통하는 거지?</text>
+	</string>
+	<string id="meet_ds_killer_guide_main_base_list_1">
+		<text>네가 선택할 수 있는 곳은 자톤 남동쪽에 있는 폐기물 처리장 뿐이야. 8천 루블 정도가 들 거야.</text>
+	</string>
+	
+	<string id="travel_ds_killer_guide_main_base_0">
+		<text>이 도시를 떠나고 싶어.</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_1">
+		<text>확실해? 우리 선택지는 북쪽밖에는 없어. 자톤 남쪽에 있는 폐기물 처리장으로 가게 될 거야. 8천 루블이야.</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_2">
+		<text>준비 됐어, 자톤으로 가자. %c[d_orange][8000 RU]</text>
+	</string>
+	<string id="travel_ds_killer_guide_main_base_3">
+		<text>생각이 바뀌었어.</text>
+	</string>
+	
+	
+ <!-- Aslan (Mercenary Barman) -->
+	<string id="talk_to_aslan_on_main_base_merk_0">
+		<text>당신에 대해 말해줘.</text>
+	</string>
+	<string id="talk_to_aslan_on_main_base_merk_1"> <!-- Fixed -->
+		<text>뭐 말할 게 있나? 난 여기 바텐더인데, 누가 이런 난장판 한 가운데서 이야기를 나눌 수 있겠어, 안 그래? 우린 여기에 며칠 동안이나 갇혀서, 간신히 버티고만 있잖아. 예전에는 대통령궁 경호를 맡았었고, 스위스로 이주했다가, 존으로 왔어. 친구들과 술집에 가서 술을 마시며 옛날을 회상하는 것을 즐기곤 했어... 그렇게 다니던 도중에 신디케이트에서 일하는 게 어떠냐는 제안을 받았어. 그때는 먹고 살기 힘들어서, 더쉬맨과 나는 한번 해보기로 했지. 그래서 어떻게 됐냐고? 조건은 괜찮아서, 아프가니스탄과 그루지야에 있던 사람들이 모였어. 하지만 발트해 연안 국가 출신 사람들은 별로 오고 싶지 않아했고, 제 1세계 사람들은 말할 필요도 없지.</text>
+	</string>
+
+
+	<string id="talk_to_aslan_about_lottery_0">
+		<text>세력 휘장에 관심이 있다고 들었는데.</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_1">
+		<text>뭐라고 설명해야 할까? 개인적으로는, 아니, 딱히 "관심"이 있지는 않아. 하지만 요즘처럼 사기가 상당히 낮을 때는, 우리 동료들이 전리품을 얻을 수 있는 최적의 수단이거든. 게다가 높으신 분들이 그걸 원한단 말이지. 어떻게 돌아가는 지 설명해 줄게. 네가 스토커들한테 뜯어온 휘장을 가져오면, 장비를 받을 수도 못받을 수도 있어. 생태학자나 모노리스를 제외한 세력의 휘장 25개를 모아오면, 낮은 등급의 아티팩트를 얻을 수도 있고, 아무 것도 못 받을 수도 있어. 50개를 모아오면, 괜찮은 아티팩트나 좀 더 튼튼한 장비를 얻을 수 있겠지만, 역시 아무것도 못 받을 가능성도 있어. 그리고 모노리스나 생태학자 휘장 25개를 모아오면, 다른 휘장 50개를 모아왔을 때와 똑같은 확률로 아주 훌륭한 아티팩트를 얻을 수 있어 . 모노리스나 과학자의 휘장 50개를 모아오면, 아무것도 얻지 못할 가능성 없이 끝내주는 물건이나 가장 경험많은 스토커들만을 위한 좋은 장비를 줄게. 네가 "왜 그렇게 친절해"라고 물어볼 수도 있겠지만... 왜냐하면 많은 사람들이 휘장을 전투 기념품으로 가지고 싶어하기 때문이야.</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_2">
+		<text>당신은 어떤데? 그걸 가지고 뭘 하는 거야?</text>
+	</string>
+	<string id="talk_to_aslan_about_lottery_3">
+		<text>그건 네가 알 바 아니야. 그냥 휘장을 모아서 나에게 가져와. 그 다음에는 좋은 게 나오길 기대하라고. 그게 복권을 긁는 방식이지. 그게 다야.</text>
+	</string>
+
+	<string id="lottery_ds_aslan_mlr_0">
+		<text>휘장을 좀 가져왔어.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_1">
+		<text>좋아, 어떤 거야?</text>
+	</string>
+		<string id="lottery_ds_aslan_mlr_2">
+			<text>클리어 스카이, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_3">
+			<text>프리덤, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_4">
+			<text>로너, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_5">
+			<text>과학자, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_6">
+			<text>밴딧, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_7">
+			<text>듀티, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_8">
+			<text>모노리스, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_9">
+			<text>군대, 25 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_11">
+			<text>클리어 스카이, 50 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_12">
+			<text>프리덤, 50 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_13">
+			<text>로너, 50 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_14">
+			<text>생태학자. 50개나 가져왔다고.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_15">
+			<text>밴딧, 50 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_16">
+			<text>듀티, 50 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_17">
+			<text>모노리스, 50 장이야.</text>
+		</string>
+		<string id="lottery_ds_aslan_mlr_18">
+			<text>군대, 50 장이야.</text>
+		</string>
+	<string id="lottery_ds_aslan_mlr_10">
+		<text>생각이 바뀌었어.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_19">
+		<text>여기, 아티팩트 가져가.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_20">
+		<text>여기 있어.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_21">
+		<text>여기, 가져가.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_22">
+		<text>아티팩트를 받아.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_23">
+		<text>오늘 밤은 운이 좋군.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_24">
+		<text>괜찮은 상품을 얻었군.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_25">
+		<text>여기 속이 꽉 찬 아티팩트야.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_26">
+		<text>운이 좋군! 방사능 보호용품이야.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_27">
+		<text>아름다운 아티팩트야. 여기 있어.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_28">
+		<text>아티팩트 두 개! 운이 좋군.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_29">
+		<text>잭팟이야!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_30">
+		<text>운이 좋군.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_31">
+		<text>아티팩트 사냥꾼들을 위한 훌륭한 키트야!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_34">
+		<text>귀하고 환상적인 아티팩트야.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_35">
+		<text>젠장, 운이 좋군!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_36">
+		<text>잭팟!</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_37">
+		<text>저런, 아무 것도 얻지 못했어.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_38">
+		<text>운이 좀 나빴군.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_39">
+		<text>다음 번에는 운이 좋을 거야.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_40">
+		<text>훌륭한 사수를 위한 훌륭한 장비라.</text>
+	</string>
+	<string id="lottery_ds_aslan_mlr_41">
+		<text>장거리 사격에 적합한 물건이야.</text>
+	</string>
+
+	<string id="aslan_st_0">
+		<text>현재 상황은 좀 어때?</text>
+	</string>
+	<string id="aslan_st_1">
+		<text>자, 신디케이트의 중앙 통제 본부는 자톤에서 오직 한 곳만 있고, 그게 바로 여기야. 얀타로 가는 길목은 정신파 시설때문에 끊겼고, 가끔씩 거기서 좀비떼가 뮤턴트들과 함께 뛰쳐나오지. 리만스크는 엿같은 곳이야, 위험한 것들로 가득 찬 미로와 다를 바 없어. 붉은 숲는 더더욱 위험한 곳인데, 모노리스 병사들이 리만스크로 향하는 다리에 주둔해 있고 나머지 구역은 뮤턴트들이 들끓고 있어. 동쪽에는 군 창고가 있는데, 프리덤의 영역이야.</text>
+	</string>
+	<string id="aslan_st_2">
+		<text>계속해줘.</text>
+	</string>
+	<string id="aslan_st_3">
+		<text>어떤 위험이든 너가 직접 확인 할 수 있을거야. 그래도 이걸 명심해 둬; 임무를 수행할 때나, 일거리를 얻었을 때는 모든 감정적인 요소들이 널 방해하게 될 거야. 그런 건 집어 치워 둬... 감정적인 요소들이 들어갈 자리나, 도덕같은 게 개입할 자리는 없어. 오직 이성과 계산으로만 판단해야 해. 그리고 다른 길목들과 비교해 보면, 그나마 가장 안전한 길은 리만스크를 통하는 길이야. 저격으로부터 안전한 폐쇄된 공간들이 많이 있고, 총격전이 일어났을 때나 이상현상이 발생했을 때 엄폐할 수 있는 은신처가 있으니까 말이야. 그렇지만 상당히 예측하기 어려운 곳이기도 해- 저 구석에서 어떤 일이 일어나고 있는지 알 방법이 없으니까.</text>
+	</string>
+	<string id="aslan_st_4">
+		<text>이 기지가 중앙 기지라고 말했었지. 그건 다른 전초기지들이 있다는 뜻이야?</text>
+	</string>
+	<string id="aslan_st_5">
+		<text>내가 알기로는 두 곳의 작은 기지가 있어. 하나는 자톤에 있는데, 북쪽 늪지의 가장자리에 있어. 두 번째는 프리피야트 외곽의 남서쪽 부근에 있어. 무법 지대에도 주둔하고 있는 그룹이 있고, 존 곳곳에서 계약을 수행하는 우리 용병 분대들을 볼 수 있을거야.</text>
+	</string>
+	<string id="aslan_st_6">
+		<text>그럼 리만스크보다 북쪽에 있는 곳들은 모두 모노리스의 영역이겠군.</text>
+	</string>
+	<string id="aslan_st_7">
+		<text>대부분 그렇지. 리만스크로부터 멀지 않은 곳에 오래된 병원이 있어. 그쪽으로 갈 만한 이유는 없어 - 체르노빌이나 얀타로 가는 길은 모두 정신파 방출 때문에 끊겨 있거든.</text>
+	</string>
+	<string id="aslan_st_8">
+		<text>이해했어, 정보 고마워.</text>
+	</string>
+
+	<string id="information_about_stash_aslan_0">
+		<text>은닉처에 대한 정보를 가지고 있다고 들었는데.</text>
+	</string>
+	<string id="information_about_stash_aslan_1">
+		<text>맞아. 우린 항상 습격이 끝난 뒤에 전리품을 수색하곤 하지. 6천 5백 루블을 내면 알려줄게.</text>
+	</string>
+
+	<string id="information_about_stash_aslan1_0">
+		<text>여기. %c[d_orange][6500 RU]</text>
+	</string>
+	<string id="information_about_stash_aslan1_1">
+		<text>좋군. 잘 찾아 봐.</text>
+	</string>
+
+</string_table>

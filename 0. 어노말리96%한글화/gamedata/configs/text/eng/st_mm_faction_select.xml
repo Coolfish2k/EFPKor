@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- Description - Factions -->
+	<string id="st_faction_stalker">
+		<text>로너</text>
+	</string>
+	<string id="st_faction_stalker_desc">
+		<text>%c[0,150,150,150]로너, 혹은 프리 스토커들은 존에서 활동하는 어떤 세력에도 속하지 않은 사람들을 말한다.\n \n비록 뮤턴트들이나 다른 스토커들에게 빈번히 공격당하는 신세지만, 몇몇 소규모 집단들이 존의 곳곳에 강력한 무역 기지를 만드는 데 성공했다.</text>
+	</string>
+	<string id="st_faction_bandit">
+		<text>밴딧</text>
+	</string>
+	<string id="st_faction_bandit_desc">
+		<text>%c[0,150,150,150]밴딧들은 좀 더 다른 이유로 인해 존에 흘러들어온 뒷세계의 범죄 조직원들이다. 그 이유는 바로 아티팩트를 팔고, 법의 감시망을 피하거나 무기를 거래하기 위해서이다.</text>
+	</string>
+	<string id="st_faction_dolg">
+		<text>듀티</text>
+	</string>
+	<string id="st_faction_dolg_desc">
+		<text>%c[0,150,150,150]듀티는 존의 비밀을 파헤치려는 자들, 혹은 듀티 스스로가 보기에 존의 오염을 퍼뜨리려는 자들을 적대하는 준군사조직이다.\n \n프리덤과는 이념의 차이로 인하여 심하게 충돌하고 있는 중이다.</text>
+	</string>
+	<string id="st_faction_freedom">
+		<text>프리덤</text>
+	</string>
+	<string id="st_faction_freedom_desc">
+		<text>%c[0,150,150,150]프리덤은 스스로를 존으로의 자유로운 통행을 위해 싸우는 투사라고 칭하는 반정부주의자들과 무모한 사람들의 모임으로 듀티와는 지속적으로 대립하고 있다.</text>
+	</string>
+	<string id="st_faction_army">
+		<text>내무군</text>
+	</string>
+	<string id="st_faction_army_desc">
+		<text>%c[0,150,150,150]우크라이나 정부는 내무부를 주축으로 주 방위군 소속의 내무군들을 존의 주변부에 주둔시키고 있다.</text>
+	</string>
+	<string id="st_faction_ecolog">
+		<text>과학자</text>
+	</string>
+	<string id="st_faction_ecolog_desc">
+		<text>%c[0,150,150,150]과학자들은 인류에게 도움이 될 만한 존의 가능성을 찾아내기 위해 정부의 후원을 받아 존을 연구하려는 집단이다.</text>
+	</string>
+	<string id="st_faction_killer">
+		<text>용병</text>
+	</string>
+	<string id="st_faction_killer_desc">
+		<text>%c[0,150,150,150]용병들은 일생 동안 고용된 병사로서 직무를 수행해 온 경험있는 전사들로, 그들의 고용주가 누구이며 어째서 존에 관심을 가지게 되었는지는 알려지지 않았다.</text>
+	</string>
+	<string id="st_faction_monolith">
+		<text>모노리스</text>
+	</string>
+	<string id="st_faction_monolith_desc">
+		<text>%c[0,150,150,150]모노리스는 자신들을 제외한 모든 자들을 적대하는 광신적인 종교 집단이다.\n \n비록 집단 지성체 (C-Conciousness) 가 파괴되었음에도 불구하고, 모노리스는 남아 있는 병력들을 다시 모아, 이전의 영토 대부분을 수복하였다.</text>
+	</string>
+	<string id="st_faction_csky">
+		<text>클리어 스카이</text>
+	</string>
+	<string id="st_faction_csky_desc">
+		<text>%c[0,150,150,150]클리어 스카이는 존을 연구하고 이해하기 위해 설립된 독자적인 과학 및 군사 집단이다.\n \n매우 큰 비용을 치렀던 체르노빌 원자력 발전소 공습이 실패하고 나서 거의 와해되었지만, 남아있는 몇 명의 생존자들이 세력을 이전의 수준으로 복구하는 데 셩공하였다.</text>
+	</string>
+	<string id="st_faction_renegade">
+		<text>레네게이드</text>
+	</string>
+	<string id="st_faction_renegade_desc">
+		<text>%c[0,150,150,150]레네게이드는 존에서 가장 비열한 스토커로 구성되어 있다.\n \n각 구성원은 어떤 세력도 받아들이지 않을 정도로 중대한 범죄를 저질렀으며, 벤딧조차 그들을 꺼린다.\n \n%c[0,255,255,255]추천 대상: 상급자 전용</text>
+	</string>
+	<string id="st_faction_greh">
+		<text>씬</text>
+	</string>
+	<string id="st_faction_greh_desc">
+		<text>%c[0,150,150,150]씬은 존의 신성한 본질을 믿는 돌연변이 스토커로 극도로 적대적인 집단이다.\n \n좀비화, 돌연변이 또는 빙의된 것으로 다양하게 설명되는 불길한 씬 파벌의 "다크 스토커"는 존을 전 세계로 확장하려고 한다. - 이 야심찬 목표를 달성하기 위해 그들은 결코 멈추지 않을 것이다.\n \n%c[0,255,255,255]추천 대상: 상급자 전용</text>
+	</string>
+	<string id="st_faction_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="st_faction_isg_desc">
+		<text>%c[0,150,150,150]유엔 국제 과학 그룹은 존에 깊은 관심을 갖고 있는 특수 부대다.\n \n목표가 무엇이든, 현장 요원들은 잘 무장되어 있으며 대부분의 경우 이쪽의 움직임이 유출될 위험을 감수하기보다는 먼저 사격을 가하는 것을 선호한다.\n \n%c[0,255,255,255]권장 대상: 상급자 전용</text>
+	</string>
+	<string id="st_faction_zombied">
+		<text>좀비회 스토커</text>
+	</string>
+	<string id="st_faction_zombied_desc">
+		<text>%c[0,150,150,150]뇌에에에에에에에에에!!!\n \n좀비화 스토커들은 이전에 가지고 있었던 자아가 그냥 동물처럼 기본적인 본능만 남은 상태인 이성이 없는 껍데기로 가까이 오는 거의 모든 것들을 공격할 것이다.</text>
+	</string>
+	
+	<!-- Hint -->
+	<string id="st_mm_box_faction_desc">
+		<text>
+			%c[0,150,150,150]%s 능력입니다.
+		</text>
+	</string>
+	<string id="st_mm_box_icon_desc">
+		<text>
+			%c[0,150,150,150]캐릭터의 초상화입니다.
+		</text>
+	</string>
+	<string id="st_mm_list_map_desc">
+		<text>
+			%c[0,150,150,150]새로운 게임을 시작할 장소를 정해주세요.
+		</text>
+	</string>
+	<string id="st_mm_ck_reset_desc">
+		<text>
+			%c[0,150,150,150]인벤토리를 재설정합니다.
+		</text>
+	</string>
+	<string id="st_mm_list_economy_desc">
+		<text>
+			%c[0,150,150,150]진행 난이도는 경제나 게임플레이 측면에서 많은 변화를 가져오며, 플레이어의 게임 진행 상황을 반영합니다.\n \n
+			
+			%c[200,50,200,50]스토커 난이도는 기본 설정입니다. 안정적인 경제 상황을 보여주며 빠른 게임 진행이 가능합니다.\n \n
+			
+			%c[200,200,150,50]스캐빈저 난이도는 거래, 개조 그리고 수리비용을 높입니다. 또한, 은닉처를 찾을 확률이 줄어듭니다. 시신에서 돈이나 물건들을 찾을 확률도 더욱 줄어듭니다.
+			획득한 모든 메디킷의 사용량은 최대 2번입니다.\n \n
+			
+			%c[200,200,50,50]생존주의자 난이도는 더욱 어렵습니다. 소비하는 비용이 더 높아집니다. 은닉처를 찾거나 시신에서 돈을 획득할 확률이 더욱 줄어듭니다. 모든 메디킷은 한 번만 사용이 가능합니다. 최대 운반 무게가 감소합니다.
+			\n이 설정은 주변 환경으로부터 고통받는 것을 즐기는 플레이어에게 추천됩니다.
+		</text>
+	</string>
+	<string id="st_mm_list_difficulty_desc">
+		<text>
+			%c[0,150,150,150]게임플레이 난이도는 전반적인 무기의 정확도에도 영향을 미칩니다. 플레이어와 다른 NPC 스토커들 모두에게 적용됩니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_story_desc">
+		<text>
+			%c[0,150,150,150]스토리 모드는 "존의 미스터리", "로스트 투 더 존: 살아있는 전설", "모탈 씬" 그리고 닥터 X의 다른 생동감 넘치는 퀘스트들과 같은 일련의 스토리라인을 제공합니다.\n 
+			\n이전 스토커 시리즈 및 관련 모드들의 스토리적 요소들이 차용되고 재구축되었기 때문에, 일직선적인 스토리의 연속성을 중요시하는 플레이어에게는 추천하지 않습니다.\n
+			\n스토리모드의 주된 요소들은 로너, 듀티, 프리덤, 과학자, 용병 그리고 클리어 스카이 세력에서만 이용할 수 있습니다.
+			\n%c[200,200,50,50]* 워페어 모드와 호환되지 않습니다.
+			\n%c[200,200,50,50]* 아자젤 모드와 호환되지 않습니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_drx_desc">
+		<text>
+			%c[0,150,150,150]플레이어를 존의 모든 곳으로 이끌어주는 유동적이고, 연관된 다양한 임무가 준비되어 있습니다.
+			\n무한히 회차 진행을 할 수 있으며, 똑같은 세력에서 플레이하더라도 진행 방식은 달라질 것입니다.
+			\n%c[200,200,50,50]* 스토리 모드와 호환되지 않습니다.
+			\n%c[200,200,50,50]* 아자젤 모드와 호환되지 않습니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_hardcore_desc">
+		<text>
+			%c[0,150,150,150]철인 모드는 죽었을 때 모든 세이브 파일을 제거하는 기능입니다.\n
+			\n다른 설정이 없다면 하고 싶은 만큼 자유롭게 저장할 수 있지만 캐릭터가 사망하면 이 캐릭터가 있는 모든 세이브 파일이 지워질 것입니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_hardcore_aim_desc">
+		<text>
+			%c[0,150,150,150]하드코어 AI 에임 모드는 AI의 조준 예측도를 극대화하여, 플레이어가 움직일 때 피격당하는 것을 피하는 것이 더욱 어려워집니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_survival_desc">
+		<text>
+			%c[0,150,150,150]생존 모드는 모든 스폰이 좀비로 대체되는 모드입니다.\n
+			\n이 좀비 무리들은 플레이어의 위치로 향하게 됩니다. 준비하십시오! 최대한 오래 살아 남으세요!
+		</text>
+	</string>
+	<string id="st_mm_ck_azazel_mode_desc">
+		<text>
+			%c[0,150,150,150]아자젤 모드에서는, 죽음이 끝을 의미하지 않습니다.\n
+			\n악마 아자젤처럼 플레이어는 캐릭터가 사망했을 때 새로운 육체에 빙의하게 됩니다. 즉 존에 실제로 존재하는 무작위한 다른 스토커의 형태로 말이죠.\n
+			\n만일 캐릭터가 죽었을 때 동료가 있었다면, 그들 중 하나가 될 것입니다. 이 기능은 철인 모드나 생존 모드, 또는 두 모드 다 사용할 때 매우 잘 호환됩니다.\n
+			\n%c[200,200,50,50]* 아자젤 모드에서는 모든 지도가 잠금해제되어 있습니다.
+			\n%c[200,200,50,50]* 스토리 모드와 호환되지 않습니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_warfare_desc">
+		<text>
+			%c[0,150,150,150]전쟁이 시작되었습니다.
+			\n \n워페어 모드에서, 각 세력들은 영향력을 확대하고 존을 통제하기 위해 서로에 대해 전쟁을 선포합니다.\n
+			\n \n플레이어는 소속된 세력을 이끌고 주변 거점들을 점령하는 것을 도울 수 있습니다.\n
+			\n%c[200,200,50,50]* 이 모드는 "werejew" 가 제작했습니다.
+			\n%c[200,200,50,50]* 스토리 모드와 호환되지 않습니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_campfire_desc">
+		<text>
+			%c[0,150,150,150]캠프파이어 저장 모드에서는, 근처의 모닥불 옆에 서 있지 않으면 진행 상황을 저장할 수 없습니다.
+			\n \n%c[200,50,200,50]* 모든 하드코어 저장 모드들은 서로 호환됩니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_conditions_desc">
+		<text>
+			%c[0,150,150,150]아고니 모드에서는 플레이어가 다음과 같은 상황일 시 저장를 하지 못하게 됩니다:
+			\n%c[200,200,200,50]* 부상당함
+			\n%c[200,200,200,50]* 출혈
+			\n%c[200,200,200,50]* 방사능 중독
+			\n%c[200,200,200,50]* 교전 상태
+			\n%c[200,200,200,50]* 에미션이나 정신파 폭풍 발생 시
+			\n \n%c[200,50,200,50]* 모든 하드코어 저장 모드들은 서로 호환됩니다.
+		</text>
+	</string>
+	<string id="st_mm_ck_routes_desc">
+		<text>
+			%c[0,150,150,150]많은 지역들은 기본적으로 출입이 통제되어 있습니다. 숨겨진 통로들은 플레이를 하면서 다양한 방법으로 발견할 수 있습니다. 
+			\n \n이 설정을 적용하면 모든 지역들이 게임을 시작할 때부터 개방됩니다.
+		</text>
+	</string>
+	<string id="st_mm_list_hardcore_lives_desc">
+		<text>
+			%c[0,150,150,150]철인 모드의 추가 기능으로 게임을 시작할 때 목숨을 얼마나 가지고 있을지를 설정할 수 있습니다.
+			\n한 번 죽을 때마다, 하나의 목숨을 잃게 됩니다.
+			\n목숨이 다 떨어지면, 해당 캐릭터가 있는 세이브 파일은 모두 제거됩니다.\n
+			\n%c[200,200,50,50]* 철인 모드가 활성화되어야 합니다.
+		</text>
+	</string>
+	<string id="st_mm_list_hardcore_regen_desc">
+		<text>
+			%c[0,150,150,150]철인 모드의 추가 기능으로 새로운 목숨을 얻기 위해 얼마나 많은 날짜가 지나야 하는지를 설정할 수 있습니다.
+			\n%c[200,200,50,50]* 잠자는 시간은 포함되지 않습니다.
+			\n%c[200,200,50,50]* 철인 모드가 활성화되어야 합니다.
+		</text>
+	</string>
+	<string id="st_mm_list_timer_desc">
+		<text>
+			%c[0,150,150,150]타이머 모드에서는, 일정 시간이 지난 뒤에 게임을 저장할 수 있습니다. 
+			\n한 번 게임을 저장하면, 타이머가 끝날 때까지 저장를 다시 할 수 없습니다.
+			\n \n%c[200,50,200,50]* 모든 하드코어 저장 모드들은 서로 호환됩니다.
+		</text>
+	</string>
+	
+	<!-- Static Text -->
+	<string id="st_mm_new_game_character">
+		<text>캐릭터</text>
+	</string>
+	<string id="st_mm_new_game_faction">
+		<text>세력 선택</text>
+	</string>
+	<string id="st_mm_new_game_icon">
+		<text>초상화 선택</text>
+	</string>
+	<string id="st_mm_new_game_options">
+		<text>설정</text>
+	</string>
+	<string id="st_mm_new_game_inventory">
+		<text>인벤토리</text>
+	</string>
+	<string id="st_mm_new_game_loadout">
+		<text>사용 가능한 장비</text>
+	</string>
+	<string id="st_mm_new_game_name">
+		<text>이름:</text>
+	</string>
+	<string id="st_mm_new_game_faction_2">
+		<text>세력:</text>
+	</string>
+	<string id="st_mm_new_game_money">
+		<text>돈:</text>
+	</string>
+	<string id="st_mm_new_game_points_left">
+		<text>남은 포인트:</text>
+	</string>
+	<string id="st_mm_new_game_points_used">
+		<text>사용한 포인트:</text>
+	</string>
+	<string id="ui_st_random_location">
+		<text>-무작위 지역-</text>
+	</string>
+	
+
+	<!-- Description elements -->
+	<string id="st_mm_new_game_relations">
+		<text>관계</text>
+	</string>
+	<string id="st_mm_new_game_description">
+		<text>간단한 역사</text>
+	</string>
+	<string id="st_mm_new_game_points">
+		<text>포인트</text>
+	</string>
+	<string id="st_mm_new_game_essential">
+		<text>필수 요소</text>
+	</string>
+	
+	<!-- Hint -->
+	<string id="st_mm_itm_desc_unknown">
+		<text>확인할 수 있는 정보가 없음</text>
+	</string>
+	
+	<!-- Options -->
+	<string id="st_cap_check_warfare">
+		<text>워페어</text>
+	</string>
+	<string id="st_cap_check_drx">
+		<text>닥터 X 퀘스트라인</text>
+	</string>
+	<string id="st_cap_check_campfire">
+		<text>캠프파이어 모드</text>
+	</string>
+	<string id="st_cap_check_conditions">
+		<text>아고니 모드</text>
+	</string>
+	<string id="st_cap_list_timer">
+		<text>타이머 모드</text>
+	</string>
+	<string id="st_cap_check_routes">
+		<text>자유통행 모드</text>
+	</string>
+	<string id="st_cap_list_hardcore_lives">
+		<text>철인 목숨 수</text>
+	</string>
+	<string id="st_cap_list_hardcore_regen">
+		<text>생명 부여 시간</text>
+	</string>
+	<string id="st_cap_list_economy">
+		<text>진행 난이도</text>
+	</string>
+	<string id="st_cap_list_difficulty">
+		<text>게임플레이 난이도</text>
+	</string>
+	
+	<string id="st_econ_1">
+		<text>스토커</text>
+	</string>
+	<string id="st_econ_2">
+		<text>스캐빈저</text>
+	</string>
+	<string id="st_econ_3">
+		<text>생존주의자</text>
+	</string>
+	
+	<string id="st_diff_1">
+		<text>쉬움</text>
+	</string>
+	<string id="st_diff_2">
+		<text>중간</text>
+	</string>
+	<string id="st_diff_3">
+		<text>어려움</text>
+	</string>
+	<string id="st_diff_4">
+		<text>극한</text>
+	</string>
+	
+	<!--string id="st_diff_1">
+		<text>Novice</text>
+	</string>
+	<string id="st_diff_2">
+		<text>Stalker</text>
+	</string>
+	<string id="st_diff_3">
+		<text>Veteran</text>
+	</string>
+	<string id="st_diff_4">
+		<text>Master</text>
+	</string-->
+	
+	<string id="st_off">
+		<text>끄기</text>
+	</string>
+	<string id="st_new_game_min">
+		<text>분</text>
+	</string>
+	<string id="st_new_game_mins">
+		<text>분</text>
+	</string>
+	<string id="st_new_game_hour">
+		<text>시</text>
+	</string>
+	<string id="st_new_game_hours">
+		<text>시</text>
+	</string>
+	<string id="st_new_game_day">
+		<text>일</text>
+	</string>
+	<string id="st_new_game_days">
+		<text>일</text>
+	</string>
+	<string id="st_new_game_life">
+		<text>목숨</text>
+	</string>
+	<string id="st_new_game_lives">
+		<text>목숨</text>
+	</string>
+	
+	<!-- Buttons -->
+	<string id="st_mm_btn_new_game_faction">
+		<text>세력</text>
+	</string>
+	<string id="st_mm_btn_new_game_icon">
+		<text>초상화</text>
+	</string>
+	<string id="st_mm_btn_new_game_back">
+		<text>뒤로</text>
+	</string>
+	<string id="st_mm_btn_new_game_submit">
+		<text>게임 시작</text>
+	</string>
+	<string id="st_mm_btn_new_game_rand">
+		<text>무작위</text>
+	</string>
+	
+	<!-- Discord -->
+	<string id="st_hardcore_lives_left">
+		<text>Lives left</text>
+	</string>
+	<string id="st_hardcore_lives_left_single">
+		<text>Life left</text>
+	</string>
+	<string id="st_player_dead">
+		<text>Dead</text>
+	</string>
+	<string id="st_main_menu">
+		<text>Main Menu</text>
+	</string>
+	<string id="st_loading">
+		<text>Loading</text> 
+	</string>
+	<string id="st_pause_menu">
+		<text>Pause Menu</text>
+	</string>
+	<string id="st_cap_check_freeplay">
+		<text>Freeplay Mode</text>
+	</string>
+	<string id="st_azazel_lives_possessed">
+		<text>Lives possessed</text>
+	</string>
+	<string id="st_azazel_lives_possessed_single">
+		<text>Life possessed</text>
+	</string>
+	<string id="st_godmode">
+		<text>God Mode</text>
+	</string>
+</string_table>

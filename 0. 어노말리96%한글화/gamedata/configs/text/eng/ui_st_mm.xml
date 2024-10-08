@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Clear">
+		<text>맑음</text>
+	</string>
+	<string id="Cloudy">
+		<text>흐림</text>
+	</string>
+	<string id="Default">
+		<text>8GB RAM 그리고/또는 4GB VRAM</text>
+	</string>
+	<string id="Extreme">
+		<text>24GB RAM 그리고/또는 6GB VRAM</text>
+	</string>
+	<string id="High">
+		<text>16GB RAM 그리고/또는 VRAM</text>
+	</string>
+	<string id="Low">
+		<text>8GB RAM 그리고/또는 VRAM</text>
+	</string>
+	<string id="Minimum">
+		<text>감자</text>
+	</string>
+	<string id="Night">
+		<text>밤</text>
+	</string>
+	<string id="Rain">
+		<text>비</text>
+	</string>
+	<string id="game type">
+		<text>게임 유형</text>
+	</string>
+	<string id="gd_master">
+		<text>달인</text>
+	</string>
+	<string id="gd_novice">
+		<text>초짜</text>
+	</string>
+	<string id="gd_veteran">
+		<text>숙련자</text>
+	</string>
+	<string id="icon">
+		<text>아이콘</text>
+	</string>
+	<string id="map">
+		<text>지도</text>
+	</string>
+	<string id="renderer_r1">
+		<text>DirectX 8 (기초)</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>DirectX 9 (기초)</text>
+	</string>
+	<string id="renderer_r2">
+		<text>DirectX 9 (보통)</text>
+	</string>
+	<string id="renderer_r2.5">
+		<text>DirectX 9 (고성능)</text>
+	</string>
+	<string id="renderer_r3">
+		<text>DirectX 10 (고성능)</text>
+	</string>
+	<string id="renderer_r4">
+		<text>DirectX 11 (고성능)</text>
+	</string>
+	<string id="st_opt_high">
+		<text>높음</text>
+	</string>
+	<string id="st_opt_low">
+		<text>낮음</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>중간</text>
+	</string>
+	<string id="st_opt_off">
+		<text>끄기</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>60hz 주사율</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>행동</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>고급</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>다른 키</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>이방성 필터링</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>적용</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>뒤로</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>선혈</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>밝기</text>
+	</string>
+	<string id="ui_mm_ok">
+		<text>확인</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>취소</text>
+	</string>
+	<string id="ui_mm_next">
+		<text>다음</text>
+	</string>
+	<string id="ui_mm_previous">
+		<text>이전</text>
+	</string>
+	<string id="ui_mm_craft">
+		<text>제작</text>
+	</string>
+	<string id="ui_mm_upgrade">
+		<text>업그레이드</text>
+	</string>
+	<string id="ui_mm_repair">
+		<text>수리</text>
+	</string>
+	<string id="ui_mm_cook">
+		<text>조리</text>
+	</string>
+	<string id="ui_mm_loot_selected">
+		<text>선택한 것만</text>
+	</string>
+	<string id="ui_mm_loot_all">
+		<text>모두 가지기(엔터)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>게임 업데이트</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>명암</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>조작</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>크레딧</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>조준점과 목표 간 거리</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>원래대로</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>삭제</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>정말 이 파일을 삭제합니까?</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>수풀 밀도</text>
+	</string>
+	<string id="ui_mm_detail_radius">
+		<text>수풀 렌더링 거리</text>
+   	</string>
+	<string id="ui_mm_detail_height">
+		<text>수풀 크기</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>난이도</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>연결 끊기</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>정말 연결을 끊습니까?</text>
+	</string>
+	<string id="ui_mm_dof">
+		<text>피사계 심도</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>다이내믹 크로스헤어</text>
+	</string>
+	<string id="ui_mm_dynamic_music">
+		<text>다이내믹 뮤직</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>전체 화면</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>게임</text>
+	</string>
+	<string id="ui_mm_gameplay_ui">
+		<text>UI/HUD</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>감마</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>오브젝트 묘사</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>마우스 반전</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>키</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>키보드 설정</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>마지막 저장</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>빛의 거리</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>불러오기</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>불러오기</text>
+	</string>
+	<string id="ui_mm_logout">
+		<text>프로필 나가기</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>달인</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>SFX 볼륨</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>마우스 민감도</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>부드러운 A-test 오브젝트</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>스무딩 최적화</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>멀티플레이어</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>멀티플레이어</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>음악 볼륨</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>게임을 재시작해야 변화가 적용됩니다</text>
+	</string>
+	<string id="ui_mm_network_game">
+		<text>멀티플레이어</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>새 게임</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>초짜</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC 탐조등</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>게임 설정</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>게임 설정 (메인)</text>
+	</string>
+	<string id="ui_mm_options_e">
+		<text>게임 설정 (추가 요소)</text>
+	</string>
+	<string id="ui_mm_weather_options">
+		<text>게임 설정 (날씨)</text> <!--text>날씨 설정</text-->
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>입자 거리</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>품질 설정</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>윈도우로 나가기</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>메인 메뉴로</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>정말 메인 메뉴로 나가시겠습니까?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>정말 게임을 종료하고 윈도우로 나가시겠습니까?</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump">
+		<text>세부 범프</text>
+	</string>
+	<string id="ui_mm_r2_steep_parallax">
+		<text>심한 시차</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>태양광 그림자</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>수풀 그림자</text>
+	</string>
+	<string id="ui_mm_r2_shafts_value">
+		<text>주요 태양광 강도 </text>
+	</string>
+	<string id="ui_mm_r2_shafts_min">
+		<text>기본 태양광 강도</text>
+	</string>
+	<string id="ui_mm_grass_shadows">
+		<text>수풀 그림자</text>
+	</string>
+	<string id="ui_mm_aim_toggle">
+		<text>에임 조정</text>
+	</string>
+	<string id="ui_mm_weapon_degradation">
+		<text>무기상태 체감 수치</text>
+	</string>
+	<string id="ui_mm_r2_gloss_factor">
+		<text>반사 (광택 수치)</text>
+	</string>
+	<string id="ui_mm_r__actor_shadow">
+		<text>동체 그림자</text>
+	</string>
+	<string id="ui_mm_r2_sun_quality">
+		<text>태양광 품질</text>
+	</string>
+	<string id="ui_mm_r3_DX10_1">
+		<text>DX10.1을 사용</text>
+	</string>
+	<string id="ui_mm_r3_MSAA">
+		<text>전체 화면 안티 앨리어싱</text>
+	</string>
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>젖은 표면</text>
+	</string>
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>기하학적 버퍼 최적화</text>
+	</string>
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>볼륨매트릭 스모크</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>렌더 2</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>렌더 유형</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>해상도</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>게임으로 돌아가기</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>저장하기</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>저장하기</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>조준선 표시</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>무기 표시</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>기본</text>
+	</string>
+	<string id="ui_mm_snd_device">
+		<text>소리 장치</text>
+	</string>
+	<string id="ui_mm_soft_particles">
+		<text>부드러운 입자 표시</text>
+	</string>
+	<string id="ui_mm_soft_water">
+		<text>부드러운 물 표시</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>소리</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>소리 품질</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>스토커</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>그림자 품질</text>
+	</string>
+	<string id="ui_mm_sun_shafts">
+		<text>태양광</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>안티 앨리어싱</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>AI의 탐조등 사용</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>텍스처 품질</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC 식별</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>숙련자</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>비디오</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>가시 거리</text>
+	</string>
+	<string id="ui_mm_volumetric_light">
+		<text>볼륨매트릭 라이트</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>수직 동기화</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>초기화</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>모두 판매</text>
+	</string>
+	<string id="version">
+		<text>버전</text>
+	</string>
+	<string id="ui_mm_crouch_toggle">
+		<text>앉기/일어서기 토글</text>
+	</string>
+	<string id="ui_mm_important_save">
+		<text>자동저장 (지역 이동)</text>
+	</string>
+	<string id="ui_mm_r1_detail_textures">
+		<text>자세한 텍스처</text>
+	</string>
+	<string id="ui_mm_ssao_quality">
+		<text>SSAO 품질</text>
+	</string>
+	<string id="ui_mm_ssao_text">
+		<text>SSAO 모드</text>
+	</string>
+	<string id="ui_mm_ssao">
+		<text>기본</text>
+	</string>
+	<string id="ui_mm_hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="ui_mm_hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ui_st_disable_hud">
+		<text>인터페이스 표시</text>
+	</string>
+	<string id="ui_mm_hud_draw">
+		<text>인터페이스 표시</text>
+	</string>
+	<string id="gd_stalker">
+		<text>스토커</text>
+	</string>
+	<string id="st_opt_extreme">
+		<text>극한</text>
+	</string>
+
+	<string id="st_opt_ultra">
+		<text>매우 높음</text>
+	</string>
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>테셀레이션</text>
+	</string>
+	<string id="ui_mm_confirm_changes">
+		<text>변경을 적용합니까? 모든 변경 사항은 시간이 지나면 원래대로 돌아갑니다:</text>
+	</string>
+	<string id="st_cap_check_story">
+		<text>이야기 모드</text>
+	</string>
+	<string id="st_cap_check_survival">
+		<text>생존 모드</text>
+	</string>
+	<string id="st_cap_check_hardcore">
+		<text>철인 모드</text>
+	</string>
+	<string id="st_cap_check_hardcore_aim">
+		<text>하드코어 AI 조준</text>
+	</string>
+	<string id="ui_mm_hardcore_ai_aim">
+		<text>하드코어 AI 조준</text>
+	</string>
+	<string id="ui_mm_hardcore">
+		<text>철인 모드</text>
+	</string>
+	<string id="ui_mm_debug_hud">
+		<text>디버그 hud</text>
+	</string>
+	<string id="ui_mm_radio_mod">
+		<text>라디오 음악</text>
+	</string>
+	<string id="ui_mm_mechanic_feature">
+		<text>지연된 수리</text>
+	</string>
+	<string id="ui_mm_big_head_mode">
+		<text>대두 모드</text>
+	</string>
+	<string id="ui_mm_heli_engine_sound">
+		<text>헬리콥터 소리</text>
+	</string>
+	<string id="ui_mm_heli_spawn">
+		<text>헬리콥터 순찰</text>
+	</string>
+	<string id="ui_mm_only_campfire">
+		<text>하드코어 저장: 모닥불</text> <!-- edited -->
+	</string>
+	<string id="ui_mm_use_battery">
+		<text>건전지 사용</text>
+	</string>
+	<string id="ui_mm_shoot_effect">
+		<text>반동 효과 증가</text>
+	</string>
+	<string id="ui_mm_environment_effect">
+		<text>추가적인 날씨 효과</text>
+	</string>
+	<string id="ui_mm_dark_mode">
+		<text>다크 모드 (일상적인 방사능)</text>
+	</string>
+	<string id="ui_mm_slow_death">
+		<text>사망 애니메이션</text>
+	</string>
+	<string id="ui_mm_mask_hud">
+		<text>헬멧과 마스크 효과</text>
+	</string>
+	<string id="ui_mm_extra_animations">
+		<text>아이템 사용 애니메이션</text>
+	</string>
+	<string id="ui_mm_ai_die_in_anomaly">
+		<text>AI가 이상현상에서 사망</text>
+	</string>
+	<string id="ui_mm_faction_sel">
+		<text>세력</text>
+	</string>
+	<string id="ui_mm_dynamic_news">
+		<text>다이내믹 뉴스</text>
+	</string>
+	<string id="ui_mm_art_degrade">
+		<text>아티팩트 품질체감</text>
+	</string>
+	<string id="ui_mm_sleep_deprived">
+		<text>수면 박탈</text>
+	</string>
+	<string id="ui_mm_excl_dist">
+		<text>온라인 제외 반경</text>
+	</string>
+	<string id="ui_mm_char_portrait">
+		<text>기본 초상화</text>
+	</string>
+	<string id="ui_mm_outfit_portrait">
+		<text>의상에 따른 초상화</text>
+	</string>
+	<string id="ui_mm_show_enemy_health">
+		<text>적 체력 표시</text>
+	</string>
+	<string id="ui_mm_quicksave_cnt">
+		<text>빠른 저장 한도</text>
+	</string>
+	<string id="ui_mm_actor_hud">
+		<text>마스크 오버레이</text>
+	</string>
+	<string id="ui_mm_alife_mutant_pop">
+		<text>인구 수치 (뮤턴트)</text>
+	</string>
+	<string id="ui_mm_alife_stalker_pop">
+		<text>인구 수치 (스토커)</text>
+	</string>
+	<string id="ui_mm_hud_fov">
+		<text>Hud FOV</text>
+	</string>
+	<string id="ui_mm_fov">
+		<text>FOV</text>
+	</string>
+	<string id="ui_mm_slot_hud">
+		<text>벨트 아티팩트 HUD</text>
+	</string>
+	<string id="ui_mm_show_tracers">
+		<text>예광탄 표시</text>
+	</string>
+	<string id="ui_mm_debug_autosave">
+		<text>디버그 자동저장</text>
+	</string>
+	<string id="ui_mm_autosave_every_15_min">
+		<text>자동저장 (15분마다)</text>
+	</string>
+	<string id="ui_mm_hardcore_economy">
+		<text>하드코어 이코노미</text>
+	</string>
+	<string id="ui_mm_dynamic_relation_changes">
+		<text>유동적인 세력 관계도</text>
+	</string>
+	<string id="ui_mm_dynamic_anomalies">
+		<text>유동적인 이상현상</text>
+	</string>
+	<string id="ui_mm_disguise_system">
+		<text>변장 시스템</text>
+	</string>
+	<string id="ui_mm_disanim">
+		<text>아이템 애니메이션 적용/해제</text>
+	</string>
+	<string id="ui_mm_outfit_drop">
+		<text>의상 아이템 드롭</text>
+	</string>
+	<string id="ui_mm_debug_autosave_interval">
+		<text>디버그 저장 간격, 분.</text>
+	</string>
+	<string id="ui_mm_localization">
+		<text>현지화</text>
+	</string>
+	<string id="ui_mm_r__enable_grass_shadow">
+		<text>수풀 그림자</text>
+	</string>
+	<string id="ui_mm_cod_pickup_mode">
+		<text>AoE 픽업 모드</text>
+	</string>
+	<string id="st_cap_check_azazel_mode">
+		<text>아자젤 모드</text>
+	</string>
+	<string id="ui_mm_awr_disassembly">
+		<text>ALT 키로 해체</text>
+	</string>
+	<string id="ui_mm_sim_on_all_levels">
+		<text>완전한 A-Life 시뮬레이션</text>
+	</string>
+	<string id="ui_mm_show_tip_reputation_option">
+		<text>평판 알림</text>
+	</string>
+	<string id="ui_mm_debug_map_hud">
+		<text>디버그 HUD 맵스팟</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>오래된 드롭 아이템을 제거</text>
+	</string>
+	<string id="ui_mm_dynamic_relations">
+        <text>유동적인 세력 관계도</text>
+    </string>
+	
+	<!-- New -->
+	<string id="ui_mm_trx_save_on_timer">
+		<text>하드코어 저장: 타이머</text>
+	</string>
+	<string id="ui_mm_trx_save_on_conditions">
+		<text>하드코어 저장: 조건부</text>
+	</string>
+	<string id="ui_mm_thirst_option">
+		<text>목마름 시뮬레이션</text>
+	</string>
+	<string id="ui_mm_multi_rewards_money">
+		<text>보상 금액 수치</text>
+	</string>
+	<string id="ui_mm_multi_rewards_goodwill">
+		<text>호감도 획득 수치</text>
+	</string>
+	<string id="ui_mm_war_goodwill_reset">
+		<text>적대적 세력과의 호감도 초기화</text>
+	</string>
+	<string id="ui_mm_transitions_closed_disable">
+		<text>지역 간 통로 개방</text>
+	</string>
+	<string id="ui_mm_rank_loot_option">
+		<text>등급에 따른 획득물품 조정</text>
+	</string>
+	<string id="ui_mm_lootmoney_option">
+		<text>시체에서 돈 획득</text>
+	</string>
+	<string id="ui_mm_fast_travel_option">
+		<text>빠른 이동</text>
+	</string>
+	<string id="ui_mm_robbery_at_sleep_option">
+		<text>수면 시 도둑맞음</text>
+	</string>
+	<string id="ui_mm_fake_news_option">
+		<text>PDA 네트워크</text>
+	</string>
+	<string id="ui_mm_offline_combat">
+		<text>오프라인 전투 시뮬레이션</text>
+	</string>
+	<string id="ui_mm_character_name">
+		<text>케릭터 이름</text>
+	</string>
+</string_table>

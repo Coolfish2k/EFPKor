@@ -1,0 +1,1756 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="monster_zombied_night">
+		<text>야행성 인간형 개체</text>
+	</string>
+	<string id="monster_zombied_day">
+		<text>주행성 인간형 개체</text>
+	</string>
+	<string id="monster_포식자y_night">
+		<text>야행성 포식자</text>
+	</string>
+	<string id="monster_포식자y_day">
+		<text>주행성 포식자</text>
+	</string>
+	<string id="monster_vegetarian">
+		<text>초식성 돌연변이</text>
+	</string>
+	<string id="zoo_monster">
+		<text>돌연변이</text>
+	</string>
+	<string id="monster_특수">
+		<text>특수 돌연변이</text>
+	</string>
+
+	<string id="st_sq_enemy">
+		<text>Enemy</text>
+	</string>
+	<string id="st_sq_아군s">
+		<text>아군</text>
+	</string>
+	<string id="st_sq_중립">
+		<text>중립</text>
+	</string>
+	<string id="st_sq_count">
+		<text>개수 = </text>
+	</string>
+	<string id="st_sq_count_companions">
+		<text>Companions count: </text>
+	</string>
+	<string id="st_sq_목표">
+		<text>목표</text>
+	</string>
+	<string id="st_sq_type">
+		<text>Species:</text>
+	</string>
+
+
+	<string id="st_sm_faction">
+		<text>팩션:</text>
+	</string>
+	<string id="st_sm_squad_count">
+		<text>Capacity=</text>
+	</string>
+	<string id="st_sm_max_population">
+		<text>of_</text>
+	</string>
+	<string id="st_sm_respawn">
+		<text>스폰 가능 시간: %d h %d min %.0f sec</text>
+	</string>
+
+
+	<string id="st_squad_show_1">
+		<text>clear_sky_1</text>
+	</string>
+	<string id="st_squad_show_2">
+		<text>clear_sky_2</text>
+	</string>
+	<string id="st_squad_show_3">
+		<text>warfare_1</text>
+	</string>
+	<string id="st_squad_show_4">
+		<text>warfare_2</text>
+	</string>
+	<string id="st_squad_show_5">
+		<text>only_natural</text>
+	</string>
+	<string id="st_squad_show_0">
+		<text>hide</text>
+	</string>
+	<string id="ui_mm_squad_on_map">
+		<text>Squads on map</text>
+	</string>
+	<string id="ui_mm_smarts_on_map">
+		<text>Show smarts</text>
+	</string>
+
+
+
+
+	<string id="st_esc_smart_terrain_3_16_name">
+		<text>코돈. Southern Checkpoint</text>
+	</string>
+	<string id="st_esc_smart_terrain_2_12_name">
+		<text>코돈. Rookie Village</text>
+	</string>
+	<string id="st_esc_smart_terrain_4_13_name">
+		<text>코돈. Tent Camp</text>
+	</string>
+	<string id="st_esc_smart_terrain_2_14_name">
+		<text>코돈. Bonfire under a Tree</text>
+	</string>
+	<string id="st_esc_smart_terrain_4_11_name">
+		<text>코돈. Trailer Camp</text>
+	</string>
+	<string id="st_esc_smart_terrain_1_11_name">
+		<text>코돈. Secret Camp</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_12_name">
+		<text>코돈. Solitary Tent</text>
+	</string>
+	<string id="st_esc_smart_terrain_7_11_name">
+		<text>코돈. Vehicle Station</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_9_name">
+		<text>코돈. Grain Elevator</text>
+	</string>
+	<string id="st_esc_smart_terrain_4_9_name">
+		<text>코돈. Underpass</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_8_name">
+		<text>코돈. Collapsed Bridge</text>
+	</string>
+	<string id="st_esc_smart_terrain_8_10_name">
+		<text>코돈. Hill Encampment</text>
+	</string>
+	<string id="st_esc_smart_terrain_8_9_name">
+		<text>코돈. Bonfire in the Forest</text>
+	</string>
+	<string id="st_esc_smart_terrain_9_7_name">
+		<text>코돈. Trackside Camp</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_6_name">
+		<text>코돈. Abandoned Houses</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_7_name">
+		<text>코돈. Old Farmstead</text>
+	</string>
+	<string id="st_esc_smart_terrain_3_7_name">
+		<text>코돈. Bonfire near rocks</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_6_name">
+		<text>코돈. Bonfire in the Forest</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_4_name">
+		<text>코돈. Campfire near the Road</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_2_name">
+		<text>코돈. Northern Outpost</text>
+	</string>
+
+
+	<string id="st_ds_ptr4_name">
+		<text>검은 풍경. Derelict Truck</text>
+	</string>
+	<string id="st_ds2_lager_st_name">
+		<text>검은 풍경. Cliffside Camp</text>
+	</string>
+	<string id="st_ds2_st_dogs_name">
+		<text>검은 풍경. Forest Rally Point</text>
+	</string>
+	<string id="st_ds_grverfer2_name">
+		<text>검은 풍경. Roadside Rally Point</text>
+	</string>
+	<string id="st_ds_ptr2_name">
+		<text>검은 풍경. Resting Area</text>
+	</string>
+	<string id="st_ds_deb1_name">
+		<text>검은 풍경. Road Block</text>
+	</string>
+	<string id="st_ds_kem2_name">
+		<text>검은 풍경. Gas Station</text>
+	</string>
+	<string id="st_ds2_domik_st_name">
+		<text>검은 풍경. Forest Hideout</text>
+	</string>
+	<string id="st_ds_boars_nest_name">
+		<text>검은 풍경. Cliffside Rally Point</text>
+	</string>
+	<string id="st_ds2_st_hoofs_name">
+		<text>검은 풍경. Ambush Site</text>
+	</string>
+	<string id="st_ds_ptr_name">
+		<text>검은 풍경. Wrecked Railway Bridge</text>
+	</string>
+	<string id="st_ds_ptr3_name">
+		<text>검은 풍경. Radioactive Truck Stop</text>
+	</string>
+	<string id="st_ds_kem3_name">
+		<text>검은 풍경. Small Bridge</text>
+	</string>
+	<string id="st_ds_kem1_name">
+		<text>검은 풍경. 검은 계곡 Passing</text>
+	</string>
+
+
+	<string id="st_mar_smart_terrain_base_name">
+		<text>늪지대. Hidden Base</text>
+	</string>
+	<string id="st_mar_smart_terrain_5_12_name">
+		<text>늪지대. Fishing Hamlet</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_11_name">
+		<text>늪지대. Lookout Tower</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_11_name">
+		<text>늪지대. Destroyed Church</text>
+	</string>
+	<string id="st_mar_smart_terrain_11_11_name">
+		<text>늪지대. Southern Village</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_10_name">
+		<text>늪지대. Campfire near Pond</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_9_name">
+		<text>늪지대. Road Edge Camp</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_10_name">
+		<text>늪지대. Small Pond</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_10_name">
+		<text>늪지대. Forward Post</text>
+	</string>
+	<string id="st_mar_smart_terrain_doc_2_name">
+		<text>늪지대. Solitary Lookout</text>
+	</string>
+	<string id="st_mar_smart_terrain_5_8_name">
+		<text>늪지대. Pumping Station</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_8_name">
+		<text>늪지대. Boat Cementery</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_8_name">
+		<text>늪지대. Burned Hamlet</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_7_name">
+		<text>늪지대. Bonfire near Road</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_7_name">
+		<text>늪지대. Campsite</text>
+	</string>
+	<string id="st_mar_smart_terrain_4_7_name">
+		<text>늪지대. Eery Bonfire</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_7_name">
+		<text>늪지대. Pipe Barricades</text>
+	</string>
+	<string id="st_mar_smart_terrain_7_7_name">
+		<text>늪지대. Campfire in the Open</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_5_name">
+		<text>늪지대. Machine Yard</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_4_name">
+		<text>늪지대. Roadside Campfire</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_4_name">
+		<text>늪지대. Makeshift Camp</text>
+	</string>
+	<string id="st_mar_smart_terrain_4_5_name">
+		<text>늪지대. Village Ruins</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_3_name">
+		<text>늪지대. Fishing Docks</text>
+	</string>
+	<string id="st_mar_smart_terrain_doc_name">
+		<text>늪지대. Trench</text>
+	</string>
+	<string id="st_mar_smart_terrain_12_2_name">
+		<text>늪지대. Northern Village</text>
+	</string>
+	<string id="st_mar_smart_terrain_11_3_name">
+		<text>늪지대. Fire near Truck</text>
+	</string>
+	<string id="st_mar_smart_terrain_7_3_name">
+		<text>늪지대. Encampment near Trainwreck</text>
+	</string>
+
+
+	<string id="st_gar_smart_terrain_3_7_name">
+		<text>쓰레기장. Vehicle Graveyard</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_7_name">
+		<text>쓰레기장. Vantage Point</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_6_name">
+		<text>쓰레기장. Fallen Crane</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_6_name">
+		<text>쓰레기장. Forest Hideout</text>
+	</string>
+	<string id="st_gar_smart_terrain_1_7_name">
+		<text>쓰레기장. Makeshift Outpost</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_5_name">
+		<text>쓰레기장. Train Depot</text>
+	</string>
+	<string id="st_gar_smart_terrain_2_4_name">
+		<text>쓰레기장. Hideout behind Pipes</text>
+	</string>
+	<string id="st_gar_smart_terrain_1_5_name">
+		<text>쓰레기장. Road Blockade</text>
+	</string>
+	<string id="st_gar_smart_terrain_4_5_name">
+		<text>쓰레기장. Bus Stop</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_5_name">
+		<text>쓰레기장. 쓰레기장 Encampment</text>
+	</string>
+	<string id="st_gar_smart_terrain_7_4_name">
+		<text>쓰레기장. Small Outpost</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_3_name">
+		<text>쓰레기장. Flea Market</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_1_name">
+		<text>쓰레기장. Hidden Camp</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_2_name">
+		<text>쓰레기장. Fortified Outpost</text>
+	</string>
+	<string id="st_gar_smart_terrain_4_2_name">
+		<text>쓰레기장. Gravel Pit</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_4_name">
+		<text>쓰레기장. Roadside Post</text>
+	</string>
+	<string id="st_gar_smart_terrain_8_3_name">
+		<text>쓰레기장. Western Outpost</text>
+	</string>
+	<string id="st_gar_smart_terrain_8_5_name">
+		<text>쓰레기장. Backwood Camp</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_8_name">
+		<text>쓰레기장. Crossing Point</text>
+	</string>
+
+
+	<string id="st_agr_smart_terrain_6_4_name">
+		<text>아그로프롬. Tunnel Lair</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_3_name">
+		<text>아그로프롬. Fortified Train Wagon</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_name">
+		<text>아그로프롬. Hilltop Encampment</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_2_name">
+		<text>아그로프롬. Bonfire near Boulders</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_2_name">
+		<text>아그로프롬. Swamp Camp</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_3_name">
+		<text>아그로프롬. Radio Outpost</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_near_1_name">
+		<text>아그로프롬. Northern Entrance</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_name">
+		<text>아그로프롬. Research Institute</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_near_2_name">
+		<text>아그로프롬. Eastern Entrance</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_6_name">
+		<text>아그로프롬. Road Checkpoint</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_7_name">
+		<text>아그로프롬. Camp near 지하</text>
+	</string>
+	<string id="st_agr_smart_terrain_7_5_name">
+		<text>아그로프롬. Dangerous Bonfire</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_name">
+		<text>아그로프롬. Factory Complex</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_3_name">
+		<text>아그로프롬. Factory Entrance</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_2_name">
+		<text>아그로프롬. Backdoor Exit</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_1_name">
+		<text>아그로프롬. Loading Bay</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_2_name">
+		<text>아그로프롬. 아그로프롬, Escape</text>
+	</string>
+
+
+	<string id="st_val_smart_terrain_7_4_name">
+		<text>검은 계곡. Northern Factory</text>
+	</string>
+	<string id="st_val_smart_terrain_7_3_name">
+		<text>검은 계곡. Factory Depot</text>
+	</string>
+	<string id="st_val_smart_terrain_9_4_name">
+		<text>검은 계곡. Haunted Building</text>
+	</string>
+	<string id="st_val_smart_terrain_7_5_name">
+		<text>검은 계곡. Administration Block</text>
+	</string>
+	<string id="st_val_smart_terrain_8_6_name">
+		<text>검은 계곡. Factory Forward Outpost</text>
+	</string>
+	<string id="st_val_smart_terrain_9_2_name">
+		<text>검은 계곡. Uprooted Tree</text>
+	</string>
+	<string id="st_val_smart_terrain_6_4_name">
+		<text>검은 계곡. Hill Outpost</text>
+	</string>
+	<string id="st_val_smart_terrain_6_5_name">
+		<text>검은 계곡. Camp in Ravine</text>
+	</string>
+	<string id="st_val_smart_terrain_8_7_name">
+		<text>검은 계곡. Trailer Camp</text>
+	</string>
+	<string id="st_val_smart_terrain_7_8_name">
+		<text>검은 계곡. Radio Island</text>
+	</string>
+	<string id="st_val_smart_terrain_8_9_name">
+		<text>검은 계곡. Lonesome Island</text>
+	</string>
+	<string id="st_val_smart_terrain_1_2_name">
+		<text>검은 계곡. Factory Backyard</text>
+	</string>
+	<string id="st_val_smart_terrain_9_6_name">
+		<text>검은 계곡. Camp near Factory</text>
+	</string>
+	<string id="st_val_smart_terrain_9_10_name">
+		<text>검은 계곡. Bonfire in a Slope</text>
+	</string>
+	<string id="st_val_smart_terrain_4_0_name">
+		<text>검은 계곡. Pig Farm</text>
+	</string>
+	<string id="st_val_smart_terrain_5_10_name">
+		<text>검은 계곡. Rally Point</text>
+	</string>
+	<string id="st_val_smart_terrain_3_0_name">
+		<text>검은 계곡. Improvised Camp</text>
+	</string>
+	<string id="st_val_smart_terrain_7_11_name">
+		<text>검은 계곡. 검은 풍경 Passage</text>
+	</string>
+
+
+	<string id="st_yan_smart_terrain_6_4_name">
+		<text>얀타. Sakharov's Bunker</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_6_name">
+		<text>얀타. Lowlands</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_5_name">
+		<text>얀타. Substation</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_name">
+		<text>얀타. Factory Entrance</text>
+	</string>
+	<string id="st_yan_smart_terrain_1_6_name">
+		<text>얀타. Anomaly Camp</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_4_name">
+		<text>얀타. Factory Shed</text>
+	</string>
+	<string id="st_yan_smart_terrain_zombi_spawn_name">
+		<text>얀타. Collapsed Factory Crane</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_4_name">
+		<text>얀타. Mysterious Factory</text>
+	</string>
+	<string id="st_yan_smart_terrain_5_5_name">
+		<text>얀타. Drainage Entrance</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_4_name">
+		<text>얀타. Hilltop</text>
+	</string>
+	<string id="st_yan_smart_terrain_5_3_name">
+		<text>얀타. Lake 얀타</text>
+	</string>
+	<string id="st_yan_smart_terrain_6_2_name">
+		<text>얀타. Vantage Point</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_2_name">
+		<text>얀타. Bonfire Anomaly Camp</text>
+	</string>
+	<string id="st_yan_smart_terrain_snork_u_name">
+		<text>얀타. 얀타, 스노크 소굴</text>
+	</string>
+
+
+	<string id="st_ros_smart_stalker_killers1_name">
+		<text>무법지대. Construction Site</text>
+	</string>
+	<string id="st_ros_smart_monster7_name">
+		<text>무법지대. Underpass</text>
+	</string>
+	<string id="st_ros_smart_snork1_name">
+		<text>무법지대. Radioactive Shed</text>
+	</string>
+	<string id="st_ros_smart_killers1_name">
+		<text>무법지대. Entrance</text>
+	</string>
+	<string id="st_ros_smart_stalker1_name">
+		<text>무법지대. Abandoned Construction Materials</text>
+	</string>
+	<string id="st_ros_smart_poltergeist2_name">
+		<text>무법지대. Rundown Train Station</text>
+	</string>
+	<string id="st_ros_smart_monster5_name">
+		<text>무법지대. Collapsed Tunnel</text>
+	</string>
+	<string id="st_ros_smart_monster4_name">
+		<text>무법지대. Coal Train</text>
+	</string>
+
+
+	<string id="st_bar_zastava_2_name">
+		<text>로스토크. Western Outpost</text>
+	</string>
+	<string id="st_bar_zastava_dogs_lair_2_name">
+		<text>로스토크. 돌연변이 Lair</text>
+	</string>
+	<string id="st_bar_visitors_name">
+		<text>로스토크. 100 Rads Bar</text>
+	</string>
+	<string id="st_bar_dolg_general_name">
+		<text>로스토크. Base Entrance</text>
+	</string>
+	<string id="st_bar_dolg_bunker_name">
+		<text>로스토크. Makeshift Barracks</text>
+	</string>
+	<string id="st_bar_zastava_name">
+		<text>로스토크. Southern Outpost</text>
+	</string>
+	<string id="st_bar_zastava_dogs_lair_name">
+		<text>로스토크. 로스토크 Moat</text>
+	</string>
+
+
+	<string id="st_trc_sim_20_name">
+		<text>트럭 묘지. Eastern Checkpoint</text>
+	</string>
+	<string id="st_trc_sim_17_name">
+		<text>트럭 묘지. Camp behind Debris</text>
+	</string>
+	<string id="st_trc_sim_7_name">
+		<text>트럭 묘지. Forest Vantage Point</text>
+	</string>
+	<string id="st_trc_sim_21_name">
+		<text>트럭 묘지. Backwoods</text>
+	</string>
+	<string id="st_trc_sim_4_name">
+		<text>트럭 묘지. Hilltop near burned house</text>
+	</string>
+	<string id="st_trc_sim_18_name">
+		<text>트럭 묘지. Camp between Trucks</text>
+	</string>
+	<string id="st_trc_sim_1_name">
+		<text>트럭 묘지. Observation Post</text>
+	</string>
+	<string id="st_trc_sim_2_name">
+		<text>트럭 묘지. Camp near Containers</text>
+	</string>
+	<string id="st_trc_sim_3_name">
+		<text>트럭 묘지. Road Fork</text>
+	</string>
+	<string id="st_trc_sim_12_name">
+		<text>트럭 묘지. Forest Hideout</text>
+	</string>
+	<string id="st_trc_sim_10_name">
+		<text>트럭 묘지. Forest Nook</text>
+	</string>
+	<string id="st_trc_sim_11_name">
+		<text>트럭 묘지. Military Vehicles Scrapyard</text>
+	</string>
+	<string id="st_trc_sim_14_name">
+		<text>트럭 묘지. Fire Engine Scrapyard</text>
+	</string>
+	<string id="st_trc_sim_15_name">
+		<text>트럭 묘지. Helicopter Scrapyard</text>
+	</string>
+	<string id="st_trc_sim_6_name">
+		<text>트럭 묘지. Lookout Tower</text>
+	</string>
+	<string id="st_trc_sim_19_name">
+		<text>트럭 묘지. Truck Scrapyard</text>
+	</string>
+	<string id="st_trc_sim_5_name">
+		<text>트럭 묘지. Crossroad</text>
+	</string>
+	<string id="st_trc_sim_16_name">
+		<text>트럭 묘지. Scrapyard 프리피야트 외곽</text>
+	</string>
+	<string id="st_trc_sim_9_name">
+		<text>트럭 묘지. Hilltop</text>
+	</string>
+	<string id="st_trc_sim_13_name">
+		<text>트럭 묘지. Gathering Spot near Ravine</text>
+	</string>
+	<string id="st_trc_sim_8_name">
+		<text>트럭 묘지. Tanker Truck Scrapyard</text>
+	</string>
+
+
+	<string id="st_cit_bandits_2_name">
+		<text>죽은 도시. Isolated Houses</text>
+	</string>
+	<string id="st_cit_kanaliz1_name">
+		<text>죽은 도시. City Vantage Point</text>
+	</string>
+	<string id="st_cit_bandits_name">
+		<text>죽은 도시. Abandoned School</text>
+	</string>
+	<string id="st_cit_killers_name">
+		<text>죽은 도시. Sports Center</text>
+	</string>
+	<string id="st_cit_killers_vs_bandits_name">
+		<text>죽은 도시. Derelict Monoblock</text>
+	</string>
+	<string id="st_cit_killers_2_name">
+		<text>죽은 도시. Destroyed Houses</text>
+	</string>
+	<string id="st_cit_kanaliz2_name">
+		<text>죽은 도시. Terrain Depression</text>
+	</string>
+	<string id="st_zombie_smart_ds_mlr_1_name">
+		<text>죽은 도시. Dead Yard</text>
+	</string>
+	<string id="st_zombie_smart_ds_mlr_2_name">
+		<text>죽은 도시. Apartments</text>
+	</string>
+
+
+	<string id="st_mil_smart_terrain_7_4_name">
+		<text>군 창고. Abandoned Village</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_12_name">
+		<text>군 창고. Military Base</text>
+	</string>
+	<string id="st_mil_smart_terrain_8_3_name">
+		<text>군 창고. Hidden Shelter</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_10_name">
+		<text>군 창고. Bloodsucker Vilalge</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_3_name">
+		<text>군 창고. Town Watchtower</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_2_name">
+		<text>군 창고. Village Basic Services</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_2_name">
+		<text>군 창고. Fortified Checkpoint</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_4_name">
+		<text>군 창고. Abandoned Farmstead</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_1_name">
+		<text>군 창고. Hideout</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_6_name">
+		<text>군 창고. Fallen Helicopter</text>
+	</string>
+	<string id="st_mil_smart_terrain_3_8_name">
+		<text>군 창고. The Barrier</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_8_name">
+		<text>군 창고. Barrier Lookout</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_7_name">
+		<text>군 창고. Roadside Encampment</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_8_name">
+		<text>군 창고. Military Base Entrance</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_10_name">
+		<text>군 창고. Destroyed Substation</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_name">
+		<text>군 창고. Military Base Common Grounds</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_5_name">
+		<text>군 창고. Camp in the Open</text>
+	</string>
+
+
+	<string id="st_rad_entrance_name">
+		<text>레이더. Ruined Checkpoint</text>
+	</string>
+	<string id="st_rad_valley_name">
+		<text>레이더. Abandoned Tank</text>
+	</string>
+	<string id="st_rad_after_valley_name">
+		<text>레이더. Vehicles Left Behind</text>
+	</string>
+	<string id="st_rad2_prip_teleport_name">
+		<text>레이더. Secret Facility</text>
+	</string>
+	<string id="st_rad2_loner_0001_name">
+		<text>레이더. Road Block</text>
+	</string>
+	<string id="st_rad_snork1_name">
+		<text>레이더. Eery Hideout</text>
+	</string>
+	<string id="st_rad_zombied1_name">
+		<text>레이더. 돌연변이 Lair</text>
+	</string>
+	<string id="st_rad_snork2_name">
+		<text>레이더. Passage</text>
+	</string>
+	<string id="st_rad_pseudodogs_name">
+		<text>레이더. Hideout near Helicopter</text>
+	</string>
+	<string id="st_rad_bloodsucker_name">
+		<text>레이더. Rally Point by the Fence</text>
+	</string>
+	<string id="st_rad_zombied2_name">
+		<text>레이더. Lonesome Spot</text>
+	</string>
+	<string id="st_rad_antenna_patrol_name">
+		<text>레이더. Brain Scorcher</text>
+	</string>
+	<string id="st_rad_antenna_monolith_name">
+		<text>레이더. Brain Scorcher Entrance</text>
+	</string>
+	<string id="st_rad_antenna_camper_name">
+		<text>레이더. Tunnel Entrance</text>
+	</string>
+	<string id="st_rad2_loner_0002_name">
+		<text>레이더. Sandbags</text>
+	</string>
+	<string id="st_rad2_loner_0000_name">
+		<text>레이더. Forward Post</text>
+	</string>
+	<string id="st_rad_valley_dogs_name">
+		<text>레이더. 레이더, Dog's Lair</text>
+	</string>
+
+
+	<string id="st_red_smart_terrain_6_3_name">
+		<text>붉은 숲. Devilish Encampment</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_name">
+		<text>붉은 숲. Abandoned Tank</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_2_name">
+		<text>붉은 숲. Mining Shaft</text>
+	</string>
+	<string id="st_red_smart_terrain_6_6_name">
+		<text>붉은 숲. Bonfire in the forest</text>
+	</string>
+	<string id="st_red_smart_terrain_bridge_name">
+		<text>붉은 숲. 리만스크 Bridge</text>
+	</string>
+	<string id="st_red_smart_terrain_5_5_name">
+		<text>붉은 숲. Hiding place near rocks</text>
+	</string>
+	<string id="st_red_smart_terrain_5_6_name">
+		<text>붉은 숲. Forest Glade</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_3_name">
+		<text>붉은 숲. Known Den</text>
+	</string>
+	<string id="st_red_smart_terrain_4_5_name">
+		<text>붉은 숲. Old Forest Camp</text>
+	</string>
+	<string id="st_red_smart_terrain_4_3_name">
+		<text>붉은 숲. Clearing</text>
+	</string>
+	<string id="st_red_smart_terrain_3_3_name">
+		<text>붉은 숲. Gathering Spot</text>
+	</string>
+	<string id="st_red_smart_terrain_4_2_name">
+		<text>붉은 숲. Camp by the Entrance</text>
+	</string>
+	<string id="st_red_smart_terrain_3_1_name">
+		<text>붉은 숲. Abandoned Checkpoint</text>
+	</string>
+	<string id="st_red_smart_terrain_3_2_name">
+		<text>붉은 숲. Mine Barracks</text>
+	</string>
+	<string id="st_red_bridge_bandit_smart_skirmish_name">
+		<text>붉은 숲. 리만스크 Tunnel</text>
+	</string>
+
+
+	<string id="st_lim_smart_terrain_1_name">
+		<text>리만스크. Camp near destroyed house</text>
+	</string>
+	<string id="st_lim_smart_terrain_3_name">
+		<text>리만스크. Checkpoint</text>
+	</string>
+	<string id="st_lim_smart_terrain_4_name">
+		<text>리만스크. Anomaly barrier</text>
+	</string>
+	<string id="st_lim_smart_terrain_5_name">
+		<text>리만스크. Passage inside house</text>
+	</string>
+	<string id="st_lim_smart_terrain_6_name">
+		<text>리만스크. Abandoned Building</text>
+	</string>
+	<string id="st_lim_smart_terrain_7_name">
+		<text>리만스크. Destroyed Bridge</text>
+	</string>
+	<string id="st_lim_smart_terrain_8_name">
+		<text>리만스크. Substation near sheds</text>
+	</string>
+	<string id="st_lim_smart_terrain_9_name">
+		<text>리만스크. Old construction site</text>
+	</string>
+	<string id="st_lim_smart_terrain_10_name">
+		<text>리만스크. Run Down House</text>
+	</string>
+
+	<string id="st_katacomb_smart_terrain_name">
+		<text>Deserted Hospital</text>
+	</string>
+
+	<string id="st_pri_smart_중립_stalker1_name">
+		<text>프리피야트. Camp in Burned Pit</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker2_name">
+		<text>프리피야트. Encampment near Monoblocks</text>
+	</string>
+	<string id="st_pri_smart_monster_lair1_name">
+		<text>프리피야트. Guard Post near trailer</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker3_name">
+		<text>프리피야트. Main Road</text>
+	</string>
+	<string id="st_pri_smart_controler_lair1_name">
+		<text>프리피야트. Deserted Building</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker4_name">
+		<text>프리피야트. Outpost near Statue</text>
+	</string>
+	<string id="st_pri_depot_name">
+		<text>프리피야트. Bus Station</text>
+	</string>
+	<string id="st_pri_smart_controler_lair2_name">
+		<text>프리피야트. Camp near rusted buses</text>
+	</string>
+	<string id="st_pri_smart_snork_lair2_name">
+		<text>프리피야트. Collapsed Lenin Statue</text>
+	</string>
+	<string id="st_pri_smart_tushkano_lair1_name">
+		<text>프리피야트. 프리피야트 Hotel</text>
+	</string>
+	<string id="st_pri_smart_snork_lair1_name">
+		<text>프리피야트. Camp near Radioactive Ruins</text>
+	</string>
+	<string id="st_pri_monolith_name">
+		<text>프리피야트. Cultural Center</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker6_name">
+		<text>프리피야트. Stadium Entrance</text>
+	</string>
+	<string id="st_pri_smart_pseudodog_lair1_name">
+		<text>프리피야트. Lonesome Camp</text>
+	</string>
+	<string id="st_pri_smart_giant_lair1_name">
+		<text>프리피야트. Stadium Arena</text>
+	</string>
+	<string id="st_pri_smart_bloodsucker_lair1_name">
+		<text>프리피야트. Old Market</text>
+	</string>
+
+
+	<string id="st_gen_smart_terrain_cemetery_name">
+		<text>발생기. Graveyard</text>
+	</string>
+	<string id="st_gen_smart_terrain_junk_name">
+		<text>발생기. Collapsed Crane</text>
+	</string>
+	<string id="st_gen_smart_terrain_lab_entrance_2_name">
+		<text>발생기. Abandoned Substation</text>
+	</string>
+	<string id="st_gen_smart_terrain_lab_entrance_name">
+		<text>발생기. War Lab Surface</text>
+	</string>
+	<string id="st_gen_smart_terrain_forest_name">
+		<text>발생기. Eery Forest Hideout</text>
+	</string>
+	<string id="st_gen_smart_terrain_urod_name">
+		<text>발생기. Lookout</text>
+	</string>
+	<string id="st_gen_smart_terrain_military_name">
+		<text>발생기. Abandoned Checkpoint</text>
+	</string>
+
+	<string id="st_warlab_common_consciousness_smart_terrain_name">
+		<text>Monolith War Lab</text>
+	</string>
+
+	<string id="st_pri_b36_smart_terrain_name">
+		<text>프리피야트 외곽. River Port</text>
+	</string>
+	<string id="st_pri_sim_2_name">
+		<text>프리피야트 외곽. Dead End Road</text>
+	</string>
+	<string id="st_pri_a28_heli_name">
+		<text>프리피야트 외곽. Theater Courtyard</text>
+	</string>
+	<string id="st_pri_sim_1_name">
+		<text>프리피야트 외곽. Prometheus Movie Theater</text>
+	</string>
+	<string id="st_pri_b303_name">
+		<text>프리피야트 외곽. Old Service Center</text>
+	</string>
+	<string id="st_pri_a28_evac_name">
+		<text>프리피야트 외곽. Apartment Building Parking Lot</text>
+	</string>
+	<string id="st_pri_b302_name">
+		<text>프리피야트 외곽. Hideout</text>
+	</string>
+	<string id="st_pri_sim_6_name">
+		<text>프리피야트 외곽. Hospital back alley</text>
+	</string>
+	<string id="st_pri_a17_name">
+		<text>프리피야트 외곽. Hospital</text>
+	</string>
+	<string id="st_pri_b301_name">
+		<text>프리피야트 외곽. Destroyed School</text>
+	</string>
+	<string id="st_pri_a28_school_name">
+		<text>프리피야트 외곽. School Gate</text>
+	</string>
+	<string id="st_pri_b306_name">
+		<text>프리피야트 외곽. Yubileiny Service Center</text>
+	</string>
+	<string id="st_pri_sim_10_name">
+		<text>프리피야트 외곽. Devilish Road</text>
+	</string>
+	<string id="st_pri_sim_12_name">
+		<text>프리피야트 외곽. 돌연변이 Lair</text>
+	</string>
+	<string id="st_pri_a16_name">
+		<text>프리피야트 외곽. Laundromat</text>
+	</string>
+	<string id="st_pri_a28_base_name">
+		<text>프리피야트 외곽. Laundromat Frontyard</text>
+	</string>
+	<string id="st_pri_b35_military_name">
+		<text>프리피야트 외곽. City Lookout</text>
+	</string>
+	<string id="st_pri_sim_5_name">
+		<text>프리피야트 외곽. Monoblock Passage</text>
+	</string>
+	<string id="st_pri_a28_shop_name">
+		<text>프리피야트 외곽. Derelict Store</text>
+	</string>
+	<string id="st_pri_a28_arch_name">
+		<text>프리피야트 외곽. Building Arch</text>
+	</string>
+	<string id="st_pri_a22_smart_terrain_name">
+		<text>프리피야트 외곽. Camp between Apartments</text>
+	</string>
+	<string id="st_pri_sim_3_name">
+		<text>프리피야트 외곽. Kindergarten Gate</text>
+	</string>
+	<string id="st_pri_a25_smart_terrain_name">
+		<text>프리피야트 외곽. Kindergarten</text>
+	</string>
+	<string id="st_pri_b307_name">
+		<text>프리피야트 외곽. Fire Park</text>
+	</string>
+	<string id="st_pri_sim_7_name">
+		<text>프리피야트 외곽. Lonely Corner</text>
+	</string>
+	<string id="st_pri_sim_9_name">
+		<text>프리피야트 외곽. Camp near Substation</text>
+	</string>
+	<string id="st_pri_a21_smart_terrain_name">
+		<text>프리피야트 외곽. Grocery Store</text>
+	</string>
+	<string id="st_pri_sim_8_name">
+		<text>프리피야트 외곽. Dog Lair</text>
+	</string>
+	<string id="st_pri_sim_11_name">
+		<text>프리피야트 외곽. Open Camp</text>
+	</string>
+	<string id="st_pri_a18_smart_terrain_name">
+		<text>프리피야트 외곽. Book Store</text>
+	</string>
+	<string id="st_pri_b304_monsters_smart_terrain_name">
+		<text>프리피야트 외곽. Department Store</text>
+	</string>
+	<string id="st_pri_sim_4_name">
+		<text>프리피야트 외곽. Bus Station</text>
+	</string>
+	<string id="st_pri_b35_mercs_name">
+		<text>프리피야트 외곽. Aparment Complex</text>
+	</string>
+	<string id="st_pri_b305_dogs_name">
+		<text>프리피야트 외곽. Apartment Complex Backyard</text>
+	</string>
+	<string id="st_pri_a15_name">
+		<text>프리피야트 외곽. Sewer Entrance</text>
+	</string>
+
+
+	<string id="st_jup_a12_name">
+		<text>주피터. Container Warehouse</text>
+	</string>
+	<string id="st_jup_sim_10_name">
+		<text>주피터. Lair</text>
+	</string>
+	<string id="st_jup_a12_merc_name">
+		<text>주피터. Road Post near Car</text>
+	</string>
+	<string id="st_jup_sim__name">
+		<text>주피터. Collapsed Train Tunnel</text>
+	</string>
+	<string id="st_jup_b203_name">
+		<text>주피터. Ventilation Complex 지하</text>
+	</string>
+	<string id="st_jup_b212_name">
+		<text>주피터. Ventilation Complex</text>
+	</string>
+	<string id="st_jup_b32_name">
+		<text>주피터. Parking Lot</text>
+	</string>
+	<string id="st_jup_sim_1_name">
+		<text>주피터. Camp near tracks</text>
+	</string>
+	<string id="st_jup_b205_smart_terrain_name">
+		<text>주피터. Volkhov AA Complex</text>
+	</string>
+	<string id="st_jup_sim_16_name">
+		<text>주피터. Camp near Lake</text>
+	</string>
+	<string id="st_jup_sim_9_name">
+		<text>주피터. Zombie Territory</text>
+	</string>
+	<string id="st_jup_b19_name">
+		<text>주피터. Kopachy Village</text>
+	</string>
+	<string id="st_jup_b6_anom_2_name">
+		<text>주피터. Kopachy Lookout</text>
+	</string>
+	<string id="st_jup_b1_name">
+		<text>주피터. North-western Tunnel</text>
+	</string>
+	<string id="st_jup_b46_name">
+		<text>주피터. Cooling Tower</text>
+	</string>
+	<string id="st_jup_sim_21_name">
+		<text>주피터. Lonesome Hideout</text>
+	</string>
+	<string id="st_jup_sim_8_name">
+		<text>주피터. Marsh</text>
+	</string>
+	<string id="st_jup_sim_14_name">
+		<text>주피터. 돌연변이 Lair</text>
+	</string>
+	<string id="st_jup_b202_name">
+		<text>주피터. Railway Station</text>
+	</string>
+	<string id="st_jup_a6_name">
+		<text>주피터. Yanov Station</text>
+	</string>
+	<string id="st_jup_b211_name">
+		<text>주피터. Camp near the Marsh</text>
+	</string>
+	<string id="st_jup_sim_20_name">
+		<text>주피터. Wrecked Bridge</text>
+	</string>
+	<string id="st_jup_b200_name">
+		<text>주피터. 주피터 Lookout</text>
+	</string>
+	<string id="st_jup_b200_tushkan_smart_terrain_name">
+		<text>주피터. Cement Factory</text>
+	</string>
+	<string id="st_jup_sim_7_name">
+		<text>주피터. Qurary Lookout</text>
+	</string>
+	<string id="st_jup_b25_name">
+		<text>주피터. Quarry</text>
+	</string>
+	<string id="st_jup_b207_name">
+		<text>주피터. Improvised Outpost</text>
+	</string>
+	<string id="st_jup_b207_depot_attack_name">
+		<text>주피터. Open Plains</text>
+	</string>
+	<string id="st_jup_sim_15_name">
+		<text>주피터. Hilltop</text>
+	</string>
+	<string id="st_jup_b206_name">
+		<text>주피터. Roadside Camp</text>
+	</string>
+	<string id="st_jup_a10_smart_terrain_name">
+		<text>주피터. Checkpoint</text>
+	</string>
+	<string id="st_jup_b41_name">
+		<text>주피터. Hermann's Bunker</text>
+	</string>
+	<string id="st_jup_sim_6_name">
+		<text>주피터. Quarry Slope</text>
+	</string>
+	<string id="st_jup_b209_name">
+		<text>주피터. Bitumen Anomaly Entrance</text>
+	</string>
+	<string id="st_jup_sim_5_name">
+		<text>주피터. Road Fork</text>
+	</string>
+	<string id="st_jup_sim_4_name">
+		<text>주피터. Abandoned Engine</text>
+	</string>
+	<string id="st_jup_b204_name">
+		<text>주피터. Canal Outpost</text>
+	</string>
+	<string id="st_jup_sim_11_name">
+		<text>주피터. Backwoods</text>
+	</string>
+	<string id="st_jup_sim_12_name">
+		<text>주피터. Camp infront of Complex</text>
+	</string>
+	<string id="st_jup_sim_18_name">
+		<text>주피터. 주피터 Factory Depot</text>
+	</string>
+	<string id="st_jup_sim_17_name">
+		<text>주피터. Dry Canal</text>
+	</string>
+	<string id="st_jup_a9_name">
+		<text>주피터. Factory Entrance</text>
+	</string>
+	<string id="st_jup_b47_name">
+		<text>주피터. Inner Roads</text>
+	</string>
+	<string id="st_jup_sim_19_name">
+		<text>주피터. Factory Junkyard</text>
+	</string>
+	<string id="st_jup_b8_smart_terrain_name">
+		<text>주피터. Fallen Hellicopter</text>
+	</string>
+	<string id="st_jup_b219_name">
+		<text>주피터. Factory</text>
+	</string>
+	<string id="st_jup_b4_name">
+		<text>주피터. Hideout under Bridge</text>
+	</string>
+	<string id="st_jup_sim_3_name">
+		<text>주피터. Shallow Swamp</text>
+	</string>
+	<string id="st_jup_sim_13_name">
+		<text>주피터. Dangerous Camp</text>
+	</string>
+	<string id="st_jup_b205_smart_terrain_tushkano_name">
+		<text>주피터. Volkhov 지하</text>
+	</string>
+	<string id="st_jup_sim_2_name">
+		<text>주피터. Western Tunnel</text>
+	</string>
+	<string id="st_jup_b208_name">
+		<text>주피터. Eastern Tunnel</text>
+	</string>
+	<string id="st_depo_terrain_name">
+		<text>주피터. Factory 지하</text>
+	</string>
+
+
+	<string id="st_aes_smart_terrain_monolit_blockpost4_name">
+		<text>CNPP 남쪽. Power Station</text>
+	</string>
+	<string id="st_aes_smart_terrain_monolit_blockpost2_name">
+		<text>CNPP 남쪽. Oil Tankers</text>
+	</string>
+	<string id="st_aes_smart_terrain_monolit_blockpost_name">
+		<text>CNPP 남쪽. Power Plant Entrance</text>
+	</string>
+	<string id="st_aes_smart_terrain_soldier2_name">
+		<text>CNPP 남쪽. Office Complex</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters1_name">
+		<text>CNPP 남쪽. Main Road</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters2_name">
+		<text>CNPP 남쪽. Distant Camp</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters3_name">
+		<text>CNPP 남쪽. Transmission Towers</text>
+	</string>
+	<string id="st_aes_smart_terran_soldier_name">
+		<text>CNPP 남쪽. Outpost</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters4_name">
+		<text>CNPP 남쪽. Lonely Camp</text>
+	</string>
+
+
+	<string id="st_sar_monolith_general_name">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="st_sar_monolith_sklad_name">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="st_sar_monolith_bloodsuckers_name">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="st_sar_monolith_poltergeists_name">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="st_sar_monolith_guard_name">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="st_sar_monolith_zombies_name">
+		<text>Sarcophagus</text>
+	</string>
+
+
+	<string id="st_aes2_monolith_snipers_2_name">
+		<text>CNPP 북쪽. Inner Camp</text>
+	</string>
+	<string id="st_aes2_monolith_snipers_1_name">
+		<text>CNPP 북쪽. Rooftops</text>
+	</string>
+	<string id="st_aes2_monolith_camp1_name">
+		<text>CNPP 북쪽. Big Encampment</text>
+	</string>
+	<string id="st_aes2_monolith_camp2_name">
+		<text>CNPP 북쪽. Inner Lookout</text>
+	</string>
+	<string id="st_aes2_monsters2_name">
+		<text>CNPP 북쪽. Landing Zone</text>
+	</string>
+	<string id="st_aes2_monolith_camp3_name">
+		<text>CNPP 북쪽. Rooftop Camp</text>
+	</string>
+	<string id="st_aes2_monsters1_name">
+		<text>CNPP 북쪽. Backdoor Exit</text>
+	</string>
+	<string id="st_aes2_monolith_snipers_3_name">
+		<text>CNPP 북쪽. Power Plant Depot</text>
+	</string>
+	<string id="st_aes2_monolith_camp4_name">
+		<text>CNPP 북쪽. Storage in Rooftop</text>
+	</string>
+
+
+	<string id="st_zat_b40_smart_terrain_name">
+		<text>자톤. Processing Station</text>
+	</string>
+	<string id="st_zat_sim_10_name">
+		<text>자톤. Devilish Backwoods</text>
+	</string>
+	<string id="st_zat_sim_14_name">
+		<text>자톤. Southern Plateau</text>
+	</string>
+	<string id="st_zat_b12_name">
+		<text>자톤. Preobrazhensky Bridge</text>
+	</string>
+	<string id="st_zat_sim_11_name">
+		<text>자톤. Makeshift Camp</text>
+	</string>
+	<string id="st_zat_b54_name">
+		<text>자톤. Scar Camp</text>
+	</string>
+	<string id="st_zat_sim_24_name">
+		<text>자톤. River Crossing</text>
+	</string>
+	<string id="st_zat_b5_smart_terrain_name">
+		<text>자톤. Ranger Station</text>
+	</string>
+	<string id="st_zat_sim_28_name">
+		<text>자톤. Hideout near Bridge</text>
+	</string>
+	<string id="st_zat_sim_16_name">
+		<text>자톤. 돌연변이 Lair</text>
+	</string>
+	<string id="st_zat_b14_smart_terrain_name">
+		<text>자톤. Dredge Station</text>
+	</string>
+	<string id="st_zat_sim_18_name">
+		<text>자톤. Lonesome Hills</text>
+	</string>
+	<string id="st_zat_sim_1_name">
+		<text>자톤. Lair in the Hills</text>
+	</string>
+	<string id="st_zat_b53_name">
+		<text>자톤. Boiler Anomaly Camp</text>
+	</string>
+	<string id="st_zat_sim_29_name">
+		<text>자톤. Wooded Hill</text>
+	</string>
+	<string id="st_zat_a1_name">
+		<text>자톤. Remote Camping Place</text>
+	</string>
+	<string id="st_zat_sim_15_name">
+		<text>자톤. Northeastern River Vantage Point</text>
+	</string>
+	<string id="st_zat_b42_smart_terrain_name">
+		<text>자톤. Old Pier</text>
+	</string>
+	<string id="st_zat_sim_2_name">
+		<text>자톤. Shore Camp</text>
+	</string>
+	<string id="st_zat_sim_30_name">
+		<text>자톤. Forgotten Hills</text>
+	</string>
+	<string id="st_zat_sim_3_name">
+		<text>자톤. North River Vantage Point</text>
+	</string>
+	<string id="st_zat_sim_19_name">
+		<text>자톤. Dangerous Hilltop</text>
+	</string>
+	<string id="st_zat_sim_4_name">
+		<text>자톤. Northern Road</text>
+	</string>
+	<string id="st_zat_b104_zombied_name">
+		<text>자톤. Abandoned Sawmill</text>
+	</string>
+	<string id="st_zat_sim_5_name">
+		<text>자톤. Hideout behind Boulders</text>
+	</string>
+	<string id="st_zat_b101_name">
+		<text>자톤. Deadly Encampment</text>
+	</string>
+	<string id="st_zat_sim_6_name">
+		<text>자톤. Anomaly Swamp Lookout</text>
+	</string>
+	<string id="st_zat_b38_name">
+		<text>자톤. Krug Antenna Complex</text>
+	</string>
+	<string id="st_zat_b38u_name">
+		<text>자톤. Complex Ventilation</text>
+	</string>
+	<string id="st_zat_sim_7_name">
+		<text>자톤. Complex Backwoods</text>
+	</string>
+	<string id="st_zat_sim_8_name">
+		<text>자톤. 돌연변이 Den</text>
+	</string>
+	<string id="st_zat_sim_26_name">
+		<text>자톤. Old Forest Camp</text>
+	</string>
+	<string id="st_zat_b39_name">
+		<text>자톤. Oakpine Anomaly Camp</text>
+	</string>
+	<string id="st_zat_sim_25_name">
+		<text>자톤. Fueling Station</text>
+	</string>
+	<string id="st_zat_sim_13_name">
+		<text>자톤. Roadside Camp</text>
+	</string>
+	<string id="st_zat_b33_name">
+		<text>자톤. Snork Den</text>
+	</string>
+	<string id="st_zat_b55_name">
+		<text>자톤. Claw Anomaly Camp</text>
+	</string>
+	<string id="st_zat_b100_name">
+		<text>자톤. Iron Forest</text>
+	</string>
+	<string id="st_zat_a23_smart_terrain_name">
+		<text>자톤. Crashed Helicopter</text>
+	</string>
+	<string id="st_zat_sim_9_name">
+		<text>자톤. Iron Forest Backwoods</text>
+	</string>
+	<string id="st_zat_b103_merc_smart_name">
+		<text>자톤. Substation Workshops</text>
+	</string>
+	<string id="st_zat_b56_name">
+		<text>자톤. Circus Anomaly Camp</text>
+	</string>
+	<string id="st_zat_stalker_base_smart_name">
+		<text>자톤. Skadovsk Shipwreck</text>
+	</string>
+	<string id="st_zat_sim_20_name">
+		<text>자톤. 지하 Entrance</text>
+	</string>
+	<string id="st_zat_b20_smart_terrain_name">
+		<text>자톤. Burnt Farmstead</text>
+	</string>
+	<string id="st_zat_b28_name">
+		<text>자톤. Secret Cave</text>
+	</string>
+	<string id="st_zat_b106_smart_terrain_name">
+		<text>자톤. Izumrudnoye</text>
+	</string>
+	<string id="st_zat_sim_17_name">
+		<text>자톤. 지하 Secret Entrance</text>
+	</string>
+	<string id="st_zat_sim_21_name">
+		<text>자톤. Central Vantage Point</text>
+	</string>
+	<string id="st_zat_sim_27_name">
+		<text>자톤. Shallow River</text>
+	</string>
+	<string id="st_zat_b7_stalker_raider_name">
+		<text>자톤. Shevchenko Engine Room</text>
+	</string>
+	<string id="st_zat_b7_name">
+		<text>자톤. Shevchenko Shipwreck</text>
+	</string>
+	<string id="st_zat_sim_23_name">
+		<text>자톤. Swampy River</text>
+	</string>
+	<string id="st_zat_b18_name">
+		<text>자톤. Old Barge</text>
+	</string>
+	<string id="st_zat_medic_home_start_name">
+		<text>자톤. Dock Camp</text>
+	</string>
+	<string id="st_zat_b52_name">
+		<text>자톤. Dock Cranes</text>
+	</string>
+	<string id="st_zat_sim_12_name">
+		<text>자톤. Roadside Picnic</text>
+	</string>
+	<string id="st_zat_sim_22_name">
+		<text>자톤. Hill</text>
+	</string>
+	<string id="st_zat_medic_home_smart_name">
+		<text>자톤. Abandoned home</text>
+	</string>
+
+
+	<string id="st_agr_u_monsters_name">
+		<text>아그로프롬 지하</text>
+	</string>
+	<string id="st_agr_u_bloodsucker_name">
+		<text>아그로프롬 지하</text>
+	</string>
+	<string id="st_agr_u_bloodsucker_2_name">
+		<text>아그로프롬 지하</text>
+	</string>
+	<string id="st_agr_u_bandits_name">
+		<text>아그로프롬 지하</text>
+	</string>
+	<string id="st_agr_u_soldiers_name">
+		<text>아그로프롬 지하</text>
+	</string>
+
+
+	<string id="st_lx8_smart_terrain_name">
+		<text>X-8 연구소</text>
+	</string>
+
+	<string id="st_bun2_st_bloodsucker_name">
+		<text>X-19 연구소</text>
+	</string>
+	<string id="st_bun_krovosos_nest_name">
+		<text>X-19 연구소</text>
+	</string>
+	<string id="st_bun2_tushkano_lair_name">
+		<text>X-19 연구소</text>
+	</string>
+
+
+	<string id="st_dar_control_poltergeist_name">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_dar_angar_name">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_dar_smart_snork_name">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_dar_poltergeist_ring_name">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_dar_poltergeist_tele_name">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_dar_military_scout_name">
+		<text>X-18 연구소</text>
+	</string>
+	<string id="st_dar_poltergeist_tele_round_name">
+		<text>X-18 연구소</text>
+	</string>
+
+
+	<string id="st_x162_st_snork_name">
+		<text>X-16 연구소</text>
+	</string>
+	<string id="st_x162_st_gigant_name">
+		<text>X-16 연구소</text>
+	</string>
+	<string id="st_x162_st_burer_name">
+		<text>X-16 연구소</text>
+	</string>
+	<string id="st_x162_st_poltergeist_name">
+		<text>X-16 연구소</text>
+	</string>
+
+
+	<string id="st_pas_b400_canalisation_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_downstairs_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_elevator_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_fake_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_hall_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_track_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_tunnel_name">
+		<text>주피터 지하</text>
+	</string>
+	<string id="st_pas_b400_way_name">
+		<text>주피터 지하</text>
+	</string>
+
+<!-- MLR -->
+	<string id="ui_st_red_forest_vagon_csky">
+		<text>Camp of the Marque (붉은 숲)</text>
+	</string>
+	<string id="ui_st_truck_cemetery_bandits_post">
+		<text>Camp at 프리피야트 외곽 (트럭 묘지)</text>
+	</string>
+	<string id="ui_st_yanov_depo_monolith">
+		<text>Eastern Tunnel (주피터)</text>
+	</string>
+	<string id="ui_st_bridge_red_forest_mon">
+		<text>Bridge to 리만스크 (붉은 숲)</text>
+	</string>
+	<string id="ui_st_fo_cordon">
+		<text>Southern Checkpoint (코돈)</text>
+	</string>
+	<string id="ui_st_dasc_sawwill">
+		<text>Sawmill (검은 풍경)</text>
+	</string>
+	<string id="ui_st_l13_generators">
+		<text>Military Laboratory (발생기)</text>
+	</string>
+
+	<string id="st_bar100rent_name">
+		<text>100라드 바</text>
+	</string>
+	<string id="st_gar_baraholka_name">
+		<text>Flea market</text>
+	</string>
+	<string id="st_gar_outpost_name">
+		<text>Checkpoint by 로스토크</text>
+	</string>
+	<string id="st_gar_angar_name">
+		<text>Train hangar</text>
+	</string>
+	<string id="st_yanbunker_name">
+		<text>Research facility</text>
+	</string>
+	<string id="st_yancomplex_name">
+		<text>Industrial complex</text>
+	</string>
+	<string id="st_novice_village_name">
+		<text>Rookie village</text>
+	</string>
+	<string id="st_south_blokpost_name">
+		<text>Southern checkpoint</text>
+	</string>
+	<string id="st_ATP_name">
+		<text>Vehicle station</text>
+	</string>
+	<string id="st_elevator_name">
+		<text>Elevator</text>
+	</string>
+	<string id="st_tunnel_electr_name">
+		<text>Tunnel with Electro anomalies</text>
+	</string>
+	<string id="st_neut_base_name">
+		<text>Farm</text>
+	</string>
+	<string id="st_north_blockpost_name">
+		<text>Military outpost</text>
+	</string>
+	<string id="st_dar_farm_name">
+		<text>Farm</text>
+	</string>
+	<string id="st_dar_complex_name">
+		<text>Industrial complex</text>
+	</string>
+	<string id="st_bs_village_name">
+		<text>Bloodsucker village</text>
+	</string>
+	<string id="st_base_freedom_name">
+		<text>Army warehouse</text>
+	</string>
+	<string id="st_border_name">
+		<text>Barrier</text>
+	</string>
+	<string id="st_mon_base_name">
+		<text>Palace of Culture</text>
+	</string>
+	<string id="st_hotel_poless_name">
+		<text>Hotel</text>
+	</string>
+	<string id="st_big_bus_station_name">
+		<text>Bus station</text>
+	</string>
+	<string id="st_ds_administration_name">
+		<text>Administration</text>
+	</string>
+	<string id="st_ds_market_name">
+		<text>Market</text>
+	</string>
+	<string id="st_ds_HoC_name">
+		<text>House of Culture</text>
+	</string>
+	<string id="st_lim_zastava_name">
+		<text>Front outpost</text>
+	</string>
+	<string id="st_lim_bubbles_name">
+		<text>Space anomalies</text>
+	</string>
+	<string id="st_lim_nonbuild_name">
+		<text>Construction site</text>
+	</string>
+	<string id="st_lim_dyga_name">
+		<text>Duga 레이더 installation</text>
+	</string>
+	<string id="st_lim_old_church_name">
+		<text>Old church</text>
+	</string>
+	<string id="st_lim_village_csky_name">
+		<text>Clear Sky base</text>
+	</string>
+	<string id="st_lim_water_pump_station_name">
+		<text>Water pump station</text>
+	</string>
+	<string id="st_lim_mechanic_yard_name">
+		<text>Machine yard</text>
+	</string>
+	<string id="st_lim_bridge_name">
+		<text>Bridge to 리만스크</text>
+	</string>
+	<string id="st_lim_house_lesnik_name">
+		<text>Forester's building</text>
+	</string>
+	<string id="st_lim_post_vishka_name">
+		<text>Observation post</text>
+	</string>
+	<string id="st_agr_SRI_name">
+		<text>아그로프롬 Research Institute</text>
+	</string>
+	<string id="st_red_crap_name">
+		<text>Devilish encampment</text>
+	</string>
+	<string id="st_red_dark_yar_name">
+		<text>Dark bank</text>
+	</string>
+	<string id="st_red_central_mine_name">
+		<text>Mine</text>
+	</string>
+	<string id="st_tc_bandit_base_name">
+		<text>Camp at the 프리피야트 외곽</text>
+	</string>
+	<string id="st_tc_kpp_name">
+		<text>주피터 checkpoint</text>
+	</string>
+	<string id="st_tc_vert_name">
+		<text>Helicopter in the 붉은 숲</text>
+	</string>
+	<string id="st_radar_first_zastava_name">
+		<text>First outpost</text>
+	</string>
+	<string id="st_rad_bunker_name">
+		<text>벙커</text>
+	</string>
+	<string id="st_dasc_treesucker_state_name">
+		<text>제재소</text>
+	</string>
+
+<!-- Missing Smarts -->
+
+	<string id="st_esc_smart_terrain_9_10_name">
+		<text>코돈. Bonfire near the Tunnel</text>
+	</string>	
+
+	<string id="st_agr_smart_terrain_7_4_name">
+		<text>아그로프롬. Road to the 쓰레기장</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_4_name">
+		<text>아그로프롬. Fork in the Road</text>
+	</string>	
+	<string id="st_agr_smart_terrain_6_6_name">
+		<text>아그로프롬. Makeshift Camp</text>
+	</string>	
+
+	<string id="st_pol_sim_1_name">
+		<text>초원지대. Factory Yard</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_1_name">
+		<text>초원지대. Village</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_2_name">
+		<text>초원지대. Canteen 14</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_3_name">
+		<text>초원지대. Old Car Park</text>
+	</string>
+	<string id="st_pol_smart_terrain_2_1_name">
+		<text>초원지대. Factory Administration</text>
+	</string>
+	<string id="st_pol_smart_terrain_2_2_name">
+		<text>초원지대. Factory Workshops</text>
+	</string>
+	
+	<string id="st_val_smart_terrain_5_8_name">
+		<text>검은 계곡. Field Camp</text>
+	</string>	
+	<string id="st_val_smart_terrain_5_7_name">
+		<text>검은 계곡. End Outpost</text>
+	</string>	
+	
+	<string id="st_rad_prip_road_name">
+		<text>레이더. Concrete Slabs</text>
+	</string>
+	<string id="st_rad_rusty_forest_center_name">
+		<text>레이더. 죽은 숲</text>
+	</string>
+	<string id="st_rad_freedom_vs_duty_name">
+		<text>레이더. Road to 프리피야트</text>
+	</string>
+	<string id="st_rad2_rad_prip_road_name">
+		<text>레이더. Crossroad</text>
+	</string>
+	
+	<string id="st_hotel_poless_smart_alife_name">
+		<text>프리피야트. Hotel Backyard</text>
+	</string>
+	<string id="st_mlr_terrain_name">
+		<text>프리피야트. Theater Room</text>
+	</string>
+	<string id="st_monolith_snipers_smart_1_mlr_name">
+		<text>프리피야트. Damnation Alley</text>
+	</string>
+	
+	<string id="st_kbo_terrain_name">
+		<text>프리피야트 외곽. Service Center Entrance</text>
+	</string>
+	<string id="st_pri_a16_mlr_copy_name">
+		<text>프리피야트 외곽. Laundromat Entrance</text>
+	</string>
+
+	<string id="st_gen_undeground_smart_mlr_burers_name">
+		<text>발생기. Burer's Lair</text>
+	</string>
+	<string id="st_gen_undeground_smart_mlr_giant_name">
+		<text>발생기. Pseudogiant's Lair</text>
+	</string>
+	<string id="st_gen_undeground_smart_mlr_controller_name">
+		<text>발생기. Controller's Lair</text>
+	</string>
+
+</string_table>

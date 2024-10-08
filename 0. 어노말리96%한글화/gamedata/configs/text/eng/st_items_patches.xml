@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Faction Patches
+-->
+
+<string_table>
+	<string id="csky_patch">
+		<text>클리어 스카이 휘장</text>
+	</string>
+	<string id="csky_patch_description">
+		<text>클리어 스카이 세력의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="freedom_patch">
+		<text>프리덤 휘장</text>
+	</string>
+	<string id="freedom_patch_description">
+		<text>프리덤 세력의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="stalker_patch">
+		<text>로너 휘장</text>
+	</string>
+	<string id="stalker_patch_description">
+		<text>한 로너의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="ecolog_patch">
+		<text>과학자 휘장</text>
+	</string>
+	<string id="ecolog_patch_description">
+		<text>한 과학자의 제복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="bandit_patch">
+		<text>밴딧 휘장</text>
+	</string>
+	<string id="bandit_patch_description">
+		<text>한 밴딧의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="duty_patch">
+		<text>듀티 휘장</text>
+	</string>
+	<string id="duty_patch_description">
+		<text>듀티 세력의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="monolith_patch">
+		<text>모노리스 휘장</text>
+	</string>
+	<string id="monolith_patch_description">
+		<text>모노리스 세력의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="army_patch">
+		<text>내무군 휘장</text>
+	</string>
+	<string id="army_patch_description">
+		<text>우크라이나 군의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+
+	<string id="merc_patch">
+		<text>용병 휘장</text>
+	</string>
+	<string id="merc_patch_description">
+		<text>한 용병의 군복에서 뜯어낸 휘장입니다.</text>
+	</string>
+	
+	<string id="st_clearsky_fp">
+		<text>클리어 스카이 세력의 휘장</text>
+	</string>
+	<string id="st_clearsky_fp_descr">
+		<text>이 세력의 휘장에는 맑고 푸른 하늘에 해가 떠오르는 모습이 묘사되어 있으며, 그 주위를 비둘기들이 둘러싸고 있는 그림이 바느질되어 있습니다. 이는 존을 치유하고자 하는 소망과 함께, 물리적 충돌을 선호하지 않는다는 뜻을 상징합니다. 클리어 스카이는 에미션 현상과 다른 이상현상들에 의해 생기는 참사의 빈도와 강도를 점차적으로 줄여 나가는 것을 목표로 하고 있습니다. 이러한 소망이 현실이 될 것이라고 믿고 있는 스토커들은 많지 않습니다.  
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_freedom_fp">
+		<text>프리덤 세력의 휘장</text>
+	</string>
+	<string id="st_freedom_fp_descr">
+		<text>이 세력의 휘장에는 우크라이나 깃발 옆에 검은 바탕에 녹색 늑대가 자리해 있는 그림이 새겨져 있습니다. 전체적으로 보았을 때, 디자인은 프리덤 세력의 사교적인 성격과 대지에 대한 사랑을 보여주는 한편 세력의 확고한 의지와 전투에서 보여주는 포식자 집단과도 같은 용맹함 또한 상징합니다. 하지만, 어째서 무정부주의자들이 자신들의 상징에 어떤 국가의 깃발을 집어넣고 싶어했는지는 알 길이 없습니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_stalker_fp">
+		<text>방사능 문양 휘장</text>
+	</string>
+	<string id="st_stalker_fp_descr">
+		<text>무소속 스토커들이 주로 착용하는 휘장으로, 용병들이 수수께끼의 후원자를 통해 이런 종류의 휘장들을 상품으로 교환할 수 있기 때문에 자주 찾습니다. 로너들은 수가 많지만, 대체적으로 혼자 또는 흩어져 다니는 경우가 많기 때문에, 존에서 더욱 조직화되고 호전적인 세력들에게 손쉬운 먹잇감으로 여겨집니다.  
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_ecolog_fp">
+		<text>과학자 세력의 휘장</text>
+	</string>
+	<string id="st_ecolog_fp_descr">
+		<text>이 세력의 휘장에는 흰색과 청록색으로 된 배경에 한 쌍의 황금빛 날개가 그려져 있습니다. 존의 암시장에서 과학자들의 휘장은 높은 값에 거래되는데, 이 휘장을 방어구에 달기만 하면 그걸 입은 스토커들은 존의 거의 모든 곳에서 다른 세력의 방해를 받지 않고 활동할 수 있기 때문입니다. 과학자들이 원해서 휘장을 떼어 놓는 경우는 거의 없지만, 그 사실이 존에 있는 덜 양심적인 사람들을 막지는 못합니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_bandit_fp">
+		<text>밴딧 세력의 휘장</text>
+	</string>
+	<string id="st_bandit_fp_descr">
+		<text>이 세력의 휘장에는 하얀 방패 앞에 쪼개진 검은색 해골이 새겨져 있습니다. 이 상징은 밴딧 세력의 지도자들 중 몇몇의 비전에 아주 잘 들어맞는 듯합니다, 바로 그들이 단순한 깡패들이 아니라, 중세 봉건제를 따르듯이, 자기들의 소위 "보호"를 받아들이는 자들에게 질서를 베풀고 자신들에게 반기를 들려 하는 자들에게 자비없는 응징이 가해질 것이라는 뜻을 보여준다고 생각해서입니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_dolg_fp">
+		<text>듀티 세력의 휘장</text>
+	</string>
+	<string id="st_dolg_fp_descr">
+		<text>이 세력의 휘장에는 적색과 검정색으로 된 방패 앞에 황금빛 조준선이 새겨진 문양이 있습니다. 이 디자인은 세력의 근본이 군대에서 유래되었다는 것을 보여주기도 하지만, 세계를 위해 존의 모든 움직임을 단호히 주시하고자 하는 굳건한 병사로서의 주 역할을 경시하지 않겠다는 뜻을 보여주기도 합니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_monolith_fp">
+		<text>모노리스 세력의 휘장</text>
+	</string>
+	<string id="st_monolith_fp_descr">
+		<text>이 휘장의 그림은 금빛 태양을 배경으로 한 프로필에 날개가 그려져 있습니다. 아마도 소원을 들어주는 자의 상징으로 보입니다. 이 휘장의 가장 흥미로운 부분은 바로 이 휘장의 거의 대부분이 세뇌되어 미쳐버린 것으로 여겨지는 한 집단에 의해서만 착용된다는 것입니다. 이 휘장이 존재한다는 사실은 모노리스 병사들이 기존의 인식과는 반대로 높은 수준의 창의성을 유지하고 있거나, 혹은 어떤 비밀스러운 외부의 압력에 의해 그들만의 복장이 갖추어졌다는 것을 암시합니다. 모노리스의 휘장은 다른 세력들 사이에서 귀중한 것으로 여겨지는데, 이는 이 휘장이 모노리스와 싸워서 이겨 살아남을 수 있는 능력을 갖추었다는 것을 증명해주기 때문이며, 존의 베테랑들은 그 능력을 아주 높이 사는 경향이 있습니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_army_fp">
+		<text>내무군 세력의 휘장</text>
+	</string>
+	<string id="st_army_fp_descr">
+		<text>이 세력의 문장은 군인을 상징하는 문장 그 자체입니다. 세 개의 히터 방패가 새겨져 있으며, 가장 한가운데에 있는 방패는 우크라이나 국기의 색깔로 칠해져 있으며 뒤편에 두 개의 검이 교차한 모습으로 놓여 있습니다. 방패들은 황금빛 월계수 잎으로 둘러싸여 있습니다. 존에서 활동하는 내무군 병력들은 자신들을 묘사할 때 최우선적으로 수호자나 평화유지군으로 포장하려는 경향이 있습니다. 현실에서, 존에서 활동하는 병력들이 이런 역할을 수행하려고 노력이라도 해 봤을지는 씁쓸한 논쟁거리로 전락하고 말았습니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_merc_fp">
+		<text>용병 세력의 휘장</text>
+	</string>
+	<string id="st_merc_fp_descr">
+		<text>이 느슨한 세력의 휘장은 검은색 바탕에 하늘색 맹금류가 새겨진 모양을 하고 있습니다. 이러한 상징은 냉정하고, 침착하며, 재빠른 기동성을 갖춘 용병으로서 눈 깜짝할 새 목표물을 확보하거나 제거할 준비가 되었다는 세력의 성격을 나타내고자 하는 것으로 보입니다.  
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_isg_fp">
+		<text>UNISG 세력의 휘장</text>
+	</string>
+	<string id="st_isg_fp_descr">
+		<text>이 세력의 휘장은 밤색 바탕에 상당히 각지고 양식화된 월계수 잎으로 둘러싸인 흰색 현미경이 새겨진 모양을 하고 있습니다. 휘장의 뒤편에 바느질된 라벨로 미루어 볼 때 이 휘장은 유엔 국제 과학 기구의 소유임을 나타낸 것으로 보입니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_greh_fp">
+		<text>씬 세력의 휘장</text>
+	</string>
+	<string id="st_greh_fp_descr">
+		<text>이 휘장을 손에 쥐고 있기만 해도 다소 불편한 느낌이 밀려옵니다. 상단 좌측 구석에는 뱀이 한 마리 그려져 있으며, 우측에는 동방 정교회의 십자가가 그려져 있습니다. 휘장의 중앙부에는 정형화된 일식의 이미지가 놓여 있습니다. 하지만 이 휘장을 계속 지니고 다닐 때마다, 불안한 감정은 점차 낮설고 평화로운 감정으로 바뀌어 갑니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+	
+	<string id="st_renegade_fp">
+		<text>레니게이드 세력의 휘장</text>
+	</string>
+	<string id="st_renegade_fp_descr">
+		<text>이 세력의 휘장은 짙푸른 색의 방패에 누리끼리한 전갈이 그려져 있는 모습을 하고 있습니다. 이 물건이 존재한다는 것은 한때 존에 있는 레니게이드 무리들이 드높은 이상을 가지고 있었음을 암시하지만, 오늘날 그들이 순전히 자포자기한 상태에서 벗어나 무언가를 시도할 거라고 생각하는 사람들은 아무도 없습니다. 그래도, 이 물건은 진짜 레니게이드 대원들 사이에서 여전히 돌아다니고 있는데, 아마도 옛 시절의 향수 때문인 것으로 보입니다. 
+		%c[ui_gray_3]특징:
+		%c[d_blue] * 개인 소지품
+		%c[d_blue] * 가치있는 물품
+		</text>
+	</string>
+</string_table>

@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON BAR (ROSTOK) MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Default Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_text">
+		<text>해야 할 일이 있다. 가능한 한 빨리 임무를 받으러 가야 한다.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_about">
+		<text>내 지인 중 한 명에게 도움이 필요해. 완전 쓰레기 같은 놈이지만 어쨌건 도움받을 자격은 있는 놈이야. 찾아가서 원하는 게 뭔지 확인해 봐.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_finish">
+		<text>행운을 빌지 스토커.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Raid Enemy Camp Storyline Task- -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>듀티를 위한 적 야영지 습격</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>적 야영지에 대한 듀티의 습격을 이끌어라.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>우린 적의 야영지 중 한 곳에 습격을 준비하고 있다. 자네가 앞장서서 공격해 줬으면 해.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>훌륭하다. 자네는 멋진 전사야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Locate Brain Scorcher Equipment Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>브레인 스코처 장비를 찾아라</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>한 스토커가 브레인 스코처의 부품 중 하나를 빼서 존의 어딘가에 은닉해 놓았다. 찾아서 페트렌코 대령에게 가져다 주어야 한다.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>한 스토커가 브레인 스코처에서 장비부품들 중 하나를 훔쳐서 어딘가에 은닉했다는 정보를 얻었어. 그건 우리가 반드시 확보해야 해, 왜냐면 그게 아주 강력한 무기가 될 수 있기 때문에 잘못된 누군가의 손에 들어가는 걸 반드시 막아야 하기 때문이지. 그 물건이 숨겨져 있을 만한 몇 군데의 은닉처가 있어. 지금 기지 병력의 절반을 돌려서 수색하고 있는 참이었지. 자네가 은닉처 후보 장소들 중 한 곳을 확인해봤으면 해. 찾는 즉시, 내게 가져와주길 바라.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>정말 잘해주었어. 고맙다.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>페트렌코의 현상금</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>특정 세력의 소속 대원이 페트렌코 대령의 현상금 목록 최상위로 올라오게 되었고, 대령은 그 자가 죽기를 바란다.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>특정 세력의 누군가가 요즘 존 안에서 나를 아주 골치아프게 하고 있어. 지금까지 내 부하들 중 누구도 그 놈을 잡지 못했지. 자네가 그 놈을 죽여준다면, 보수는 후하게 쳐주겠다.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>좋아, 그 개새끼를 처리했군! 잘했어. 여기 보수야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Search Lab X-19 (Radar) Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_name">
+		<text>X-19 연구소를 수색하라</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_text">
+		<text>페트렌코 대령이 레이더 기지 안의 X-19 연구소 안에서 찾아오는 모든 서류에 대해 후한 보상을 약속했다.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_about">
+		<text>내 정보원에 의하면 자네가 레이더에 있는 브레인 스코처에 침투하려는 계획을 세웠다고 하더군. 내가 보기에는 자네가 제정신이 아닌 거 같긴 하지만 정말로 거길 뚫고 갈 생각이라면 내가 제안을 하나 하지. 그곳에서 어떤 문서라도 발견하면 내게 가져다 주길 바란다. 보상은 후하게 해주겠어.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_finish">
+		<text>훌륭하군. 아주 잘해 주었네.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mangun (Duty Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_name">
+		<text>다음 임무를 받아라</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_text">
+		<text>맨건이 내게 다른 일거리를 제안했다. 도움이 필요한 사람이 누구인지 알아봐야 한다.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_about">
+		<text>내 친구 중 한 명에게 도움이 필요해. 그를 만나 줬으면 해.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_finish">
+		<text>행운을 빌게 스토커.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task- -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
+		<text>맨건을 위해 대체용 %s 을/를 찾아라</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_text">
+		<text>맨건이 수리작업 중 하나를 망쳐버려서 고객을 위한 대체용 %s 이/가 필요하다.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_about">
+		<text>도움이 좀 필요해, 형씨. 듀티 대원 한 명이 내게 총기 수리를 하나 맡겼는데 그만 꽤나 망쳐버리고 말았어. 그 녀석이 찾으러 오기 전에 대체할 만한 걸 찾아야 해.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>만약 %s 을/를 찾게 된다면, 내게 가져와 줘. 돈은 많지 않지만 다른 물건으로 보답해줄 수 있어.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>이봐, 멋진데! 찾아냈구나. 고마워, 형씨 덕분에 살았어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_name">
+		<text>맨건을 위해 뮤턴트들을 처리해라</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_text">
+		<text>맨건이 바 외곽의 도로에서 뮤턴트들을 치워달라고 요구했다.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_about">
+		<text>이봐 형씨, 내가 부탁 하나만 해도 될까? 지금 어딘가로 가야 하는데 바에서 나가는 길에 뮤턴트들이 있다고 들었어. 난 총 쏘는 일은 잘 못해서, 왠지 모르겠지만 조준이 자꾸 흔들려서 말이야. 나 대신 뮤턴트들을 다 없애주면 안될까? 어떤 손님이 두고 가서 안 찾으러 오는 총 하나를 형씨한테 줄 수 있을 거 같은데.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_finish">
+		<text>고마워 형씨. 여기 약속했던 총이야. 이 총의 예전 주인보다는 운이 좋기를 빌게... 불쌍한 녀석이었지. 그 녀석이 수리비를 선불로 줘서 다행이네, 헤헤.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
+	
+	<string id="bar_dolg_leader_task_1_name">
+		<text>범죄 단속</text>
+	</string>	
+	<string id="bar_dolg_leader_task_1_text">
+		<text>보로닌 장군이 듀티의 적을 엄정히 처벌하라는 명령을 내렸다. 보상을 위해 %s 을/를 모아야 한다.</text>
+	</string>		
+	<string id="bar_dolg_leader_task_1_about">
+		<text>잘 듣게나, 스토커. 우리가 비록 존을 제거하기 위해 사력을 다하고 있기는 하지만, 그렇다고 해서 무고한 이들에 대한 책무를 무시할 수는 없다. 어떤 곳을 막론하더라도, 평범한 스토커들은 탐욕과 망상으로 가득 찬 무법자들과 극단주의자들에 의해 고통받고 있다! 비록 우리의 진정한 적이 바로 존의 거대한 위협이기는 하지만, 그렇다고 가만히 앉아서 무소속 스토커들이 약탈당하거나 잘못된 길로 빠지는 것을 두고 볼 수는 없다! 스토커들에게 해를 끼치거나 그들을 타락시키는 적들을 약화시켜야만 한다.</text>
+	</string>		
+	<string id="bar_dolg_leader_task_1_fetch_about">
+		<text>잘 듣게나, 스토커. 우리가 비록 존을 제거하기 위해 사력을 다하고 있기는 하지만, 그렇다고 해서 무고한 이들에 대한 책무를 무시할 수는 없다. 어떤 곳을 막론하더라도, 평범한 스토커들은 탐욕과 망상으로 가득 찬 무법자들과 극단주의자들에 의해 고통받고 있다! 비록 우리의 진정한 적이 바로 존의 거대한 위협이기는 하지만, 그렇다고 가만히 앉아서 무소속 스토커들이 약탈당하거나 잘못된 길로 빠지는 것을 두고 볼 수는 없다! 스토커들에게 해를 끼치거나 그들을 타락시키는 적들을 약화시켜야만 한다. 임무의 증표로서 %s 들을 가져온다면, 우리들의 대의를 위한 자네의 헌신을 보상해줄 것이다. </text>
+	</string>	
+	<string id="bar_dolg_leader_task_1_fetch_finish">
+		<text>아주 훌륭하다. 자네의 그 행동들은 인류의 가장 오래된 숙적, 바로 인류 그 자신으로부터 무고한 이들을 지키는 데 도움이 되었을 거야. </text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Voronin (Duty Honcho) Night Terror Task -->
+	
+	<string id="bar_dolg_leader_task_2_name">
+		<text>한밤중의 공포</text>
+	</string>
+	<string id="bar_dolg_leader_task_2_text">
+		<text>보로닌 장군은 트럭 묘지에서 공포를 퍼트리고 있는 위험한 뮤턴트를 제거하고자 한다. 그 일을 내가 도와주기로 약속했다.</text>
+	</string>
+	<string id="bar_dolg_leader_task_2_about">
+		<text>우리 순찰대가 트럭 묘지를 공포스러운 곳으로 만드는 매우 위험한 뮤턴트의 흔적을 발견했다. 이미 몇 명의 훌륭한 용사들의 목숨이 희생되었지만, 해가 떠 있는 동안에는 놈을 해치울 기회를 잡지 못했다. 지금 즉시 공포의 원인을 제거해야만 한다. 가서, 한밤중에 그 괴물이 경계를 풀 때까지 기다렸으면 한다. 그리고 그 괴물을 사냥해서 제거해 주길 바란다.</text>
+	</string>
+	<string id="bar_dolg_leader_task_2_finish">
+		<text>또 다시 우리들의 목표에 한 걸음 다가섰군. 자네에게 진 빚을 갚도록 하지.</text>
+	</string>
+	
+	<!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
+	<string id="bar_dolg_leader_task_3_about">
+		<text>우리들이 이미 씬에게 결정적인 타격을 주었음에도 불구하고, 광신도들은 항복하기를 거부하고 말았다. 믿을만한 정보원에 의하면 우리가 말했다시피 씬 세력의 생존자들은 자톤의 버려진 변전소 작업장에서 분주히 모여들고 있다고 확신하더군. 놈들이 다시 조직화되도록 내버려 둘 수는 없지. 이제 놈들을 일망타진할 때가 왔다.</text>
+	</string>
+	<string id="bar_dolg_leader_task_3_finish">
+		<text>훌륭하다! 이번 일이 또다시 장기전으로 흘러가게 놔두었다면 감당하기 어려웠을 거야. </text>
+	</string>
+	
+	<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
+	<string id="bar_dolg_leader_task_4_name">
+		<text>우크라이나에서 사랑을 담아</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_text">
+		<text>우리 잠복요원 중 한 명이 적 세력으로부터 탈출해야만 한다. 그 요원이 속한 분대의 나머지 구성원들을 제거하고 요원을 기지로 호위해 주어야 한다. 첩보원은 SVD를 사용하고 있다.</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_about">
+		<text>우리 첩보원들이 군 창고에서 옛 스페츠나츠에 대한 정보를 성공적으로 추출하기는 했지만, 아무래도 그들 중 한 명이 의심을 받고 있는 모양이다. 이미 몇 번 접촉시도를 했지만 실패했고 그 뒤에는 아무런 응답도 받을 수 없었지. 아무래도 그 요원이 감시받고 있어서 나중에 제거당하기 전까지는 그들과 같이 움직이는 일 외에는 아무것도 할 수 없는 것 같다. 그 요원을 반드시 빼내와야만 한다. 우리들은 근처에서 요원을 찾아냈지만, 다른 스토커들과 같이 있었다. 자네가 그들을 제거하고 우리 첩보원을 살려서 호송해주었으면 한다. 첩보원은 SVD 소총을 가지고 있으니 알아볼 수 있을 것이다. 자네가 첩보원이 속한 분대를 공격했을 때 첩보원도 발각당하지 않기 위하여 자네를 쏘게 될테니, 계획을 잘 세우기를 바란다.</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_finish">
+		<text>훌륭하군, 바로 첩보 보고를 받아야겠어.</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_msg_join">
+		<text>쏘지마! 내가 듀티의 첩보원이야! 총 쏜 거는 미안하지만, 최악의 사태에 대비해서 잠복 상태를 유지하려면 어쩔 수 없었어. 내 총에 맞지는 않았지, 그렇지? 로스토크로 돌아가자. 같이 다니는 게 가장 좋을 거 같아.</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_msg_leave">
+		<text>안전히 데려다줘서 고마워. 장군께 보고드릴 때 꼭 네 칭찬을 해 줄게.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_name">
+		<text>듀티에 가입하기</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_text">
+		<text>듀티에 대한 헌신의 증표로서 페트렌코 대령에게 12,000 루블을 납부해야 한다.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_about">
+		<text>아무래도 듀티에 가입하고 싶은 모양이로군? 자네의 요청은 상당한 명예를 요하는 일이지. 과연 자네가 그럴 만한 자격을 갖추고 있다고 생각하나? 존의 공포로부터 세상을 지킬 수 있겠나? 범죄자들과 무정부주의자들을 볼 때마다, 그들이 혼자 있던지 여럿 있든지 상관없이 맞서 싸울 수 있겠나? 자기 자신보다 다른 무고한 이들, 그리고 듀티 전체가 가진 가치와 안전을 우선시 할 수 있겠나?\n \n우리들은 아무도 짊어지려 하지 않는 짐을 지고 있는 존재야. 그 마음이 진심이라면, 내게 12,000 루블을 증표로서 가져오면 장군님께 자네를 추천해 주지.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_finish">
+		<text>자넨 이제 공식적으로 듀티의 대원이야. 우리 이름에 걸맞는 사람이 되길 바라네.</text>
+	</string>
+
+
+	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
+	
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>로스토크 방어</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>페트렌코 대령이 듀티를 위협하고 있는 한 무리의 스토커들을 제거해 달라고 부탁했다.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>상황이 안좋게 흘러가고 있어. 적들이 존의 곳곳에서 모여들고 있지. 적들이 성공적으로 공격 작전을 준비하기 전에 대원들을 적들의 집결지로 보내고 있던 참이었는데, 자네가 이곳을 맡아주지 않겠나?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>훌륭해. 자네 솜씨는 믿을 만 하군.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>적을 습격하라</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>듀티를 위해 적 영토를 습격하라는 지시를 받았다. 단단히 준비를 하는 것이 좋을 것이다. 임무에 성공하면 페트렌코 대령을 찾아가자.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>해야 할 중요한 임무가 있다. 무정부주의자들과 폭력배들이 이전 스페츠나츠 주둔지를 차지하고 나서 너무나도 오랜 시간이 흘렀어. 자네가 놈들의 통제력을 약하게 만들 수 있는 공격 작전을 계획하고, 준비하고 실행한다면, 큰 보상을 받게 될 거야.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>고마워, 스토커. 듀티가 자네에게 빚을 졌군.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>페트렌코 대령의 목표물을 무력화하라</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>페트렌코 대령이 한 암살대상을 찾아서 제거하라고 의뢰했다.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>내겐 제거해야할 몇몇 목표물이 있지. 암살 대상은 대개 살인자, 강간범, 배신자, 적 간부나 참모들이야. 지금 가장 우선적으로 처리해야 할 목표물은 이 녀석이지. 놈을 처리하면, 자네는 우리 듀티뿐만 아니라 존에서 일하는 모든 정의로운 사람들에게 도움을 주게 되는 거야.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>멋지군! 자네는 우리들에게 자긍심을 줬어, 그러니 이런 수고엔 당연히 보상을 줘야겠지.</text>
+	</string>
+	
+	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
+		<text>싸움에서는 아는 것이 반이다</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
+		<text>페트렌코 대령은 듀티의 연구를 위해 %s 을/를 찾아와달라고 부탁했다.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
+		<text>장군님께서는 듀티의 병사들로 하여금 자신들이 죽여야 할 공포들에 대해 더 많은 지식을 얻기를 원하시지. 그래서, 우리들에겐 연구를 위해 신선한 표본들이 좀 필요해. 표본을 조달하는 일에 관심 없나?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_about">
+		<text>장군님께서는 듀티의 병사들로 하여금 자신들이 죽여야 할 공포들에 대해 더 많은 지식을 얻기를 원하시지. 그래서, 우리들에겐 연구를 위해 신선한 표본들이 좀 필요해. %s 을/를 가져다준다면, 괜찮은 보상을 받게 될 거야.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
+		<text>감사를 표하겠네, 병사여. 여기 자네의 보수야.</text>
+	</string>
+	
+
+	<!-- Mangun (Duty Mechanic) -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+		<text>맨건에게 %s 를 가져다주기</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+		<text>맨건이 기본 장비 개조작업을 하기 위해서는 %s 가 필요하기 때문에, 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about">
+		<text>그래. 우리들 북쪽에는 프리덤이 있고, 남동쪽에는 밴딧들이 있고, 서쪽에는 용병들이 있어. 적이 이렇게나 많으니까, 듀티가 장비 측면에서 우위를 확보할 수 있게 내가 도와줘야 해. 새로운 도구 몇 가지만 있다면 할 수 있을 텐데, 지금 당장은 기본적인 도구들만 있어도 상황을 바꿀 수 있을 거야. 나한테 도구를 가져다준다면, 내 개조작업들이 의미하는 게 무엇인지를 보여줄 수 있을 거야. 투자만 해준다면 보상은 확실할 테니까, 걱정 말라고.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>할거야? 그럼, 당연히 그래야지! 서둘러줘, 듀티에게 반드시 필요한 일이니까!</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>드디어! 단순히 유지보수를 하거나 뒤질 때까지 퍼마시는 거 말고 새로 할 일이 생겼구만.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+		<text>맨건에게 %s 를 가져다주기</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+		<text>맨건이 고급 장비 개조작업을 하기 위해서는 %s 가 필요하기 때문에, 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about">
+		<text>저번에 네가 가져온 도구들 덕분에 좀 더 의욕이 생기기 시작했어. 전에 가져다 줬던 도구들도 오래 써먹을 거지만, 내가 지금 찾고 있는 도구들은 더 고급진 거야. 자, 어떻게 할래?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+		<text>오, 들어줄 거야? 훌륭해! 벌써부터 내 손에 차갑고, 단단한 금속의 감촉이 느껴지는 거 같아.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>와, 성공했구나! 하하하! 나 떨고 있니? 나 떨고 있어!</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_name">
+		<text>맨건에게 %s 를 가져다주기</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text">
+		<text>맨건이 전문적인 장비 개조작업을 하기 위해서는 %s 가 필요하기 때문에, 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_about">
+		<text>네가 지금까지 해준 일이 정말 믿기지 않아, 스토커 양반! 이제 여길 들르는 중립 스토커들도 나한테 장비 개조를 맡기러 올 정도라고! 하지만 난 알고 있어, 내 마음 속에서는 아직 내가 가진 능력을 다 쓰고 있지 않고 있다는 목소리가 들리고 있다고. 조금 더 좋은 도구가 있었더라면... 들어봐, 스토커. 내게 전문가 수준의 도구만 가져다준다면, 그 은혜를 평생 잊지 않을게. 네 총기를 명품으로 만들어 줄 수 있다고! 물론 공짜로 개조를 해 줄 수는 없겠지만, 어떻게든 호의에 보답할 방법을 생각해 볼게.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
+		<text>고마워, 스토커. 네가 성공한다면 장군님도 네 공적을 알게 되실 거야.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>듀티는 한 말을 반드시 지켜. 혹시 정비 일을 배운 적이 있어? 아직 안 배웠다면, 야전에서 장비를 관리하는 방법 몇 가지를 알려줄게.</text>
+	</string>
+	
+	
+	<!-- Barkeep -->
+	<string id="bar_visitors_barman_stalker_trader_task_1_name">
+		<text>%s 아티팩트를 찾아라</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_text">
+		<text>바텐더의 아티팩트 밀수 사업을 돕기 위해 %s 아티팩트를 찾아오겠다고 약속했다.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_about">
+		<text>난 아티팩트에 관심이 있어. 한 아티팩트가 있는 곳의 좌표를 줄 테니, 그걸 가져와 줬으면 해. 물론, 가져오면 보상을 받게 될 거야. 어떤가?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
+		<text>존 외부의 고객들에게 줄 한 아티팩트가 필요해. 걱정은 마, 고객들은 주로 목사나 의사, 존 외부에 있는 과학자들처럼 믿을만한 사회적 지위를 가진 사람들이니까. 어쨌든, 고객들은 %s (이)라고 불리는 아티팩트를 찾고 있어. 해보겠나? </text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_finish">
+		<text>잘했어, 스토커. 여기 네 보수야.</text>
+	</string>
+	
+	<string id="bar_visitors_barman_stalker_trader_task_2_name">
+		<text>스토커를 죽여라</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_text">
+		<text>바텐더를 위해 한 스토커를 처리해주겠다고 약속했다.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_about">
+		<text>여기 있는 스토커들 중 한 놈이 근본부터 썩어있는 놈으로 밝혀졌지. 로스토크는 놈의 무덤에 기꺼이 헌화할 준비가 됐어, 무슨 뜻인지는 알겠지. 자, 일해 볼텐가?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
+		<text>여기 네 돈이야, 그저 살인을 너무 많이 할 정도로 빠져들지는 말라고.</text>
+	</string>
+	
+	<string id="bar_visitors_barman_stalker_trader_task_3_name">
+		<text>뮤턴트를 없애라</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_text">
+		<text>바텐더가 뮤턴트 소굴 하나를 청소하라고 날 고용했다.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_about">
+		<text>내 부하들 중 몇 명이 원정에서 돌아오는 길에 뮤턴트들에게 정말 심하게 당했다더군. 듀티에서 뮤턴트 소굴 한 곳을 보복으로 쓸어버리기는 했지만, 아직 처리해야할 소굴이 좀 더 남아있어. 그걸 맡아주지 않겠나?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_finish">
+		<text>달콤한 복수로군. 잘 했어, 여기 돈이야.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Barkeep (Loner Trader) New Tasks -->
+	
+	<string id="bar_visitors_barman_stalker_trader_task_4_name">
+		<text>바텐더에게 %s 가져다주기</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_4_text">
+		<text>바텐더는 내가 %s 을/를 가져다주면 보수를 주겠다고 약속했다.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_4_about">
+		<text>내 고객 중 한 명이 특정 뮤턴트의 신체부위를 원한다고 하더군. 관심 있나?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_4_fetch_about">
+		<text>존이 정말로 특이한 몇몇 모피상이나 세공사들의 거점이라는 사실을 알고 있나? 그들에게 해골이나, 발톱, 송곳니, 모피, 심지어는 신장 결석같은 잡다한 뮤턴트 신체부위를 가져다주면 어떤 부위로든지 상관없이 뭔가 대단한 것들을 만들어내지. 그래서, 그 친구들을 돕는 일에 관심이 있다면, 내게 %s 을/를 가져와 줘, 그럼 돈을 좀 챙길 수 있을 거야.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_4_fetch_finish">
+		<text>잘했군. 여기 보수야.</text>
+	</string>
+	
+	<string id="bar_visitors_barman_stalker_trader_task_5_name">
+		<text>암호화된 문서를 확보하라</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_5_text">
+		<text>바텐더는 몇 장의 암호화된 서류를 안전하게 가져다 준다면 보수를 주겠다고 약속했다.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_5_about">
+		<text>자, 최근에 한 스토커가 상당히 흥미로운 문서들이 있다는 은닉처 정보 몇 개를 흘려줬어. 네게 좌표를 보내줄 건데, 그 은닉처에서 문서를 가져와 준다면, 보수를 받게 될 거야. 그 밖에 은닉처에서 찾은 게 있다면 모두 가져도 좋아.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_5_finish">
+		<text>훌륭하군, 스토커.</text>
+	</string>
+
+<!-- Aspirin (Duty Medic) -->
+	<string id="bar_dolg_medic_task_1_name">
+		<text>아스피린에게 %s 를 가져다주기</text>
+	</string>
+	<string id="bar_dolg_medic_task_1_text">
+		<text>아스피린이 약품을 보급하기 위해서 %s 가 필요하다. 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
+	</string>
+	<string id="bar_dolg_medic_task_1_about">
+		<text>지금 창고에 남아있는 의료품의 수준으로 볼 때 계속 이 정도의 치료 수준을 유지할 수 있을지 걱정이 돼. 조만간 붕대와 메디킷이 다 없어지고 말 거야. 그래서 이 약물 제조용 도구들 중 하나를 찾아 줬으면 해. 지금 같은 상황에서 확실히 도움이 될 거야.</text>
+	</string>
+	<string id="bar_dolg_medic_task_1_fetch_about">
+		<text>그래, 하나 있어. 로스토크에 적절한 의료 서비스를 제공하는 건 듀티의 이상향이라고 할 수 있어. 존 안의 상황을 고려해 볼 때, 아주 사소한 것들이라도 필요한 상태라는 걸 믿어 줘야 할 거야. 그러니까, 네가  %s 를 찾게 된다면, 나한테 가져와 줘. 그렇게 된다면 너도 보수를 받게 되겠지만, 나도 효율적으로 합성할 수 있는 약물이 늘어난 만큼 좀 더 다양한 약품들을 취급할 수 있게 될 테니까, 모두에게 이익이 될 거야.</text>
+	</string>
+	<string id="bar_dolg_medic_task_1_fetch_finish">
+		<text>헤, 때맞춰 오셨군! 로스토크가 이 일을 아주 고마워 할 거야, 명심하라고.</text>
+	</string>
+	
+<!-- Snitch (100 Rads) -->
+	<string id="top_10_task_name">
+		<text>서열정리: #$num. $name</text>
+	</string>
+	<string id="top_10_task_description">
+		<text>스니치: 네 현재 목표물은 $comm 에서 이런 이름으로 알려져 있을 거야: $name. 최근에는 $map 에서 발견되었다고 하는군. 행운을 빌게.</text>
+	</string>
+	<string id="top_10_task_name_finish">
+		<text>서열정리: 스니치에게 돌아가 보수를 받아라.</text>
+	</string>
+	<string id="top_10_task_description_finish">
+		<text>스니치: 결국엔 해내셨구만, 응? 브라보! 100 라드 바로 돌아오면, 보상금이 기다리고 있을 거야.</text>
+	</string>
+	<string id="st_task_info_awaiting">
+		<text>정보 수신 대기중.</text>
+	</string>
+
+</string_table>

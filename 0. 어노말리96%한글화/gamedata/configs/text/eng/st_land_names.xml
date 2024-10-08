@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_zat_b55_name_land">
+		<text>할퀴어진 장소</text>
+	</string>
+	<string id="st_zat_b100_name_land">
+		<text>철의 숲 이상현상</text>
+	</string>
+	<string id="st_zat_b104_name_land">
+		<text>제재소</text>
+	</string>
+	<string id="st_zat_b38_name_land">
+		<text>크뤼그 안테나 단지</text>
+	</string>
+	<string id="st_zat_b40_name_land">
+		<text>폐기물 처리장</text>
+	</string>
+	<string id="st_zat_b56_name_land">
+		<text>서커스 이상현상</text>
+	</string>
+	<string id="st_zat_b5_name_land">
+		<text>레인저 스테이션</text>
+	</string>
+	<string id="st_zat_a2_name_land">
+		<text>스카도브스크</text>
+	</string>
+	<string id="st_zat_b20_name_land">
+		<text>불탄 농장</text>
+	</string>
+	<string id="st_zat_fire_name_land">
+		<text>바지선의 지옥불 이상현상</text>
+	</string>
+	<string id="st_zat_b53_name_land">
+		<text>보일러 이상현상</text>
+	</string>
+	<string id="st_zat_b101_name_land">
+		<text>늪지</text>
+	</string>
+	<string id="st_zat_waste_name_land">
+		<text>폐수 이상현상</text>
+	</string>
+	<string id="st_zat_b106_name_land">
+		<text>이주므루드노예</text>
+	</string>
+	<string id="st_zat_b7_name_land">
+		<text>셰브첸코</text>
+	</string>
+	<string id="st_zat_b14_name_land">
+		<text>준설장</text>
+	</string>
+	<string id="st_zat_tide_name_land">
+		<text>조수 이상현상</text>
+	</string>
+	<string id="st_zat_b52_name_land">
+		<text>크레인 보관소</text>
+	</string>
+	<string id="st_zat_b39_name_land">
+		<text>참나무숲 이상현상</text>
+	</string>
+	<string id="st_zat_b33_name_land">
+		<text>주유소</text>
+	</string>
+	<string id="st_zat_b18_name_land">
+		<text>오래된 소형화물선</text>
+	</string>
+	<string id="st_zat_b54_name_land">
+		<text>상처받은 장소</text>
+	</string>
+	<string id="st_zat_b12_name_land">
+		<text>프레오브라젠스키 다리</text>
+	</string>
+	<string id="st_zat_b28_name_land">
+		<text>남부 고원</text>
+	</string>
+	<string id="st_zat_b103_name_land">
+		<text>변선소 작업장</text>
+	</string>
+	<string id="st_jup_b1_name_land">
+		<text>잿더미 이상현상</text>
+	</string>
+	<string id="st_jup_b46_name_land">
+		<text>냉각장</text>
+	</string>
+	<string id="st_jup_b202_name_land">
+		<text>변전소</text>
+	</string>
+	<string id="st_jup_b211_name_land">
+		<text>플라보니 이상현상</text>
+	</string>
+	<string id="st_jup_b200_name_land">
+		<text>시멘트 공장</text>
+	</string>
+	<string id="st_jup_b19_name_land">
+		<text>코파치</text>
+	</string>
+	<string id="st_jup_a6_name_land">
+		<text>야노브 역</text>
+	</string>
+	<string id="st_jup_b25_name_land">
+		<text>채석장</text>
+	</string>
+	<string id="st_jup_earth_name_land">
+		<text>갈라진 지대 이상현상</text>
+	</string>
+	<string id="st_jup_b6_name_land">
+		<text>과학자 벙커</text>
+	</string>
+	<string id="st_jup_b205_name_land">
+		<text>볼고프 대공단지</text>
+	</string>
+	<string id="st_jup_b206_name_land">
+		<text>이상한 숲</text>
+	</string>
+	<string id="st_jup_grove_name_land">
+		<text>부패한 숲 이상현상</text>
+	</string>
+	<string id="st_jup_b32_name_land">
+		<text>주차장</text>
+	</string>
+	<string id="st_jup_a10_name_land">
+		<text>체크포인트</text>
+	</string>
+	<string id="st_jup_b209_name_land">
+		<text>이상한 아스팔트 이상현상</text>
+	</string>
+	<string id="st_jup_b208_name_land">
+		<text>동부 터널</text>
+	</string>
+	<string id="st_jup_a12_name_land">
+		<text>화물 창고</text>
+	</string>
+	<string id="st_jup_b212_name_land">
+		<text>복합 환기시설</text>
+	</string>
+	<string id="st_jup_b9_name_land">
+		<text>헬리패드</text>
+	</string>
+	<string id="st_jup_b201_name_land">
+		<text>이상한 콘크리트 욕조</text>
+	</string>
+	<string id="st_jup_a9_name_land">
+		<text>주비터 공장</text>
+	</string>
+	<string id="st_pri_a28_name_land">
+		<text>프로메테우스 극장</text>
+	</string>
+	<string id="st_pri_b36_name_land">
+		<text>프리피야트 강 항구</text>
+	</string>
+	<string id="st_pri_b303_name_land">
+		<text>오래된 서비스 센터</text>
+	</string>
+	<string id="st_pri_b301_name_land">
+		<text>중학교</text>
+	</string>
+	<string id="st_pri_a17_name_land">
+		<text>병원</text>
+	</string>
+	<string id="st_pri_b306_name_land">
+		<text>유블레이니 서비스 센터</text>
+	</string>
+	<string id="st_pri_plug_name_land">
+		<text>스파크 프러그 이상현상</text>
+	</string>
+	<string id="st_pri_a16_name_land">
+		<text>빨래방</text>
+	</string>
+	<string id="st_pri_a25_name_land">
+		<text>유치원</text>
+	</string>
+	<string id="st_pri_b35_name_land">
+		<text>아파트 단지</text>
+	</string>
+	<string id="st_pri_a21_name_land">
+		<text>식료품점</text>
+	</string>
+	<string id="st_pri_b304_name_land">
+		<text>백화점</text>
+	</string>
+	<string id="st_pri_bath_name_land">
+		<text>산성 욕조 이상현상</text>
+	</string>
+	<string id="st_pri_a18_name_land">
+		<text>서점</text>
+	</string>
+	<string id="st_pri_b302_name_land">
+		<text>높은 건물의 덩굴 이상현상</text>
+	</string>
+	<string id="st_pri_b307_name_land">
+		<text>화산 이상현상</text>
+	</string>
+	<string id="st_mar_2c_01_anomaly_spot_name">
+		<text>신의 들밭 이상현상</text>
+	</string>
+	<string id="st_mar_2c_02_anomaly_spot_name">
+		<text>탐험가의 운명 이상현상</text>
+	</string>
+	<string id="st_ds_2c_01_anomaly_spot_name">
+		<text>바위 함정 이상현상</text>
+	</string>
+	<string id="st_ds_2c_02_anomaly_spot_name">
+		<text>빛나는 길 이상현상</text>
+	</string>
+	<string id="st_ds_2c_03_anomaly_spot_name">
+		<text>민둥산 이상현상</text>
+	</string>
+	<string id="st_ds_2c_04_anomaly_spot_name">
+		<text>드럼스틱 이상현상</text>
+	</string>
+	<string id="st_trc_2c_01_rift_anom_spot_name">
+		<text>버스 주름 이상현상</text>
+	</string>
+	<string id="st_trc_2c_02_chem_anom_spot_name">
+		<text>가시 욕조 이상현상</text>
+	</string>
+	<string id="st_trc_2c_03_desolation_anom_spot_name">
+		<text>숯의 거처 이상현상</text>
+	</string>
+	<string id="st_esc_2c_01_high_hopes_anomaly_spot_name">
+		<text>높은 희망 이상현상</text>
+	</string>
+	<string id="st_gar_2c_01_nwi_anomaly_spot_name">
+		<text>푸시-풀 이상현상</text>
+	</string>
+	<string id="st_gar_2c_02_toaster_anomaly_spot_name">
+		<text>그리스의 불 이상현상</text>
+	</string>
+	<string id="st_agr_2c_01_hg_anomaly_spot_name">
+		<text>무성한 풀 이상현상</text>
+	</string>
+	<string id="st_labx18_2c_01_deep_burn_anomaly_spot_name">
+		<text>깊은 화상 이상현상</text>
+	</string>
+	<string id="st_labx18_2c_02_ff_anomaly_spot_name">
+		<text>화염 분수 이상현상</text>
+	</string>
+	<string id="st_labx18_2c_03_elders_anomaly_spot_name">
+		<text>벌레먹은 음식 이상현상</text>
+	</string>
+	<string id="st_labx18_2c_04_bioh_anomaly_spot_name">
+		<text>생화학 이상현상</text>
+	</string>
+	<string id="st_bar_2c_01_grant_anomaly_spot_name">
+		<text>함정 이상현상</text>
+	</string>
+	<string id="st_ros_2c_01_tunnel_anomaly_spot_name">
+		<text>스파클 이중 자물쇠 이상현상</text>
+	</string>
+	<string id="st_ros_2c_02_crispy_train_anomaly_spot_name">
+		<text>바삭한 기차 이상현상</text>
+	</string>
+	<string id="st_ros_2c_03_yc_anomaly_spot_name">
+		<text>연소기 이상현상</text>
+	</string>
+	<string id="st_mil_2c_01_hw_anomaly_spot_name">
+		<text>지옥의 벽 이상현상</text>
+	</string>
+	<string id="st_yan_2c_01_cd_anomaly_spot_name">
+		<text>콘크리트 매각장 이상현상</text>
+	</string>
+	<string id="st_x16_lab_2c_01_fb_anomy_spot_name">
+		<text>족욕장 이상현상</text>
+	</string>
+	<string id="st_cit_2c_01_ch_anomaly_spot_name">
+		<text>스프링쿨러 이상현상</text>
+	</string>
+	<string id="st_cit_2c_02_pg_anomaly_spot_name">
+		<text>시험 시설 이상현상</text>
+	</string>
+	<string id="st_lim_2c_01_ls_anomaly_spot_name">
+		<text>마지막 발걸음 이상현상</text>
+	</string>
+	<string id="st_lim_2c_02_ib_anomaly_spot_name">
+		<text>블레시 이상현상</text>
+	</string>
+	<string id="st_rad_2c_01_bl_anomaly_spot_name">
+		<text>떠도는 유령 이상현상</text>
+	</string>
+	<string id="st_rad_2c_02_pp_anomaly_spot_name">
+		<text>고통의 웅덩이 이상현상</text>
+	</string>
+	<string id="st_bun_2c_01_f_anomaly_spot_name">
+		<text>아궁이 이상현상</text>
+	</string>
+	<string id="st_bun_2c_02_gp_anomaly_spot_name">
+		<text>중력 파이프 이상현상</text>
+	</string>
+	<string id="st_pri_2c_01_pp_anomaly_spot_name">
+		<text>뿌리 질병 이상현상</text>
+	</string>
+	<string id="st_pri_2c_02_gt_anomaly_spot_name">
+		<text>바리케이트 이상현상</text>
+	</string>
+	<string id="st_pri_2c_03_wr_anomaly_spot_name">
+		<text>충돌기 이상현상</text>
+	</string>
+	<string id="st_pri_2c_04_o_anomaly_spot_name">
+		<text>올림픽 이상현상</text>
+	</string>
+	<string id="st_aes_2c_01_ce_anomaly_spot_name">
+		<text>게이트키퍼 이상현상</text>
+	</string>
+	<string id="st_aes_2c_02_p_anomaly_spot_name">
+		<text>철탑 이상현상</text>
+	</string>
+	<string id="st_aes2_2c_01_bo_anomaly_spot_name">
+		<text>배럴 오르간 이상현상</text>
+	</string>
+	<string id="st_aes2_2c_02_at_anomaly_spot_name">
+		<text>산성 트롤리 이상현상</text>
+	</string>
+	<string id="st_sar_2c_01_r_anomaly_spot_name">
+		<text>리엑터 이상현상</text>
+	</string>
+	<string id="st_gen_2c_01_ss_anomaly_spot_name">
+		<text>영혼의 계단 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_11_3_anomaly_spot_name">
+		<text>단층 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_12_2_anomaly_spot_name">
+		<text>테라볼트 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_10_anomaly_spot_name">
+		<text>천둥번개 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_base_anomaly_spot_name">
+		<text>보그 파운더 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_8_anomaly_spot_name">
+		<text>페르미 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_7_anomaly_spot_name">
+		<text>스톰퍼 이상현상</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_3_anomaly_spot_name">
+		<text>룽롯 이상현상</text>
+	</string>
+	<string id="st_esc_smart_terrain_1_11_anomaly_spot_name">
+		<text>쓰레기 압축기 이상현상</text>
+	</string>
+	<string id="st_esc_smart_terrain_8_9_anomaly_spot_name">
+		<text>바위 분쇄기 이상현상</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_4_anomaly_spot_name">
+		<text>초보자를 삼키는 이상현상</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_anomaly_spot_name">
+		<text>핫 힌드 이상현상</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_anomaly_spot_2_name">
+		<text>몰튼 라다 이상현상</text>
+	</string>
+	<string id="st_gar_smart_terrain_2_4_anomaly_spot_name">
+		<text>시냅스 이상현상</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_7_anomaly_spot_name">
+		<text>마울러 이상현상</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_6_anomaly_spot_name">
+		<text>마녀의 젤리 이상현상</text>
+	</string>
+	<string id="st_gar_smart_terrain_1_7_anomaly_spot_name">
+		<text>슬래머 이상현상</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_3_anomaly_spot_name">
+		<text>암반 발톱 이상현상</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_3_anomaly_spot_name">
+		<text>신경 파괴자 이상현상</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_7_anomaly_spot_name">
+		<text>부시웨커 이상현상</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_anomaly_spot_name">
+		<text>강아지 분쇄기 이상현상</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_2_anomaly_spot_name">
+		<text>독성 늪 이상현상</text>
+	</string>
+	<string id="st_val_smart_terrain_9_10_anomaly_spot_name">
+		<text>빛나는 구덩이 이상현상</text>
+	</string>
+	<string id="st_val_smart_terrain_6_4_anomaly_spot_name">
+		<text>베셔 이상현상</text>
+	</string>
+	<string id="st_val_smart_terrain_8_6_anomaly_spot_name">
+		<text>전기 방충망 이상현상</text>
+	</string>
+	<string id="st_val_smart_terrain_9_4_anomaly_spot_name">
+		<text>거품 목욕 이상현상</text>
+	</string>
+	<string id="st_val_smart_terrain_8_9_anomaly_spot_name">
+		<text>신체 절단자 이상현상</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_7_anomaly_spot_name">
+		<text>시체 해체자 이상현상</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_1_anomaly_spot_name">
+		<text>충격 요법 이상현상</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_6_anomaly_spot_name">
+		<text>뉴턴 이상현상</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_4_anomaly_spot_name">
+		<text>으깨는 자 이상현상</text>
+	</string>
+	<string id="st_mil_smart_terrain_8_3_anomaly_spot_name">
+		<text>갈탄 풀 이상현상</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_anomaly_spot_name">
+		<text>테슬라 이상현상</text>
+	</string>
+	<string id="st_yan_smart_terrain_zombi_spawn_anomaly_spot_name">
+		<text>에디슨 이상현상</text>
+	</string>
+	<string id="st_yan_smart_terrain_5_3_anomaly_spot_name">
+		<text>검은물 이상현상</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_2_anomaly_spot_name">
+		<text>화톳불 이상현상</text>
+	</string>
+	<string id="st_red_smart_terrain_6_3_anomaly_spot_name">
+		<text>심비오트 이상현상</text>
+	</string>
+	<string id="st_red_smart_terrain_4_5_anomaly_spot_name">
+		<text>초전도체 이상현상</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_anomaly_spot_name">
+		<text>그네 이상현상</text>
+	</string>
+	<string id="st_red_smart_terrain_3_2_anomaly_spot_name">
+		<text>죽은 카나리아 이상현상</text>
+	</string>
+	<string id="st_red_smart_terrain_6_6_anomaly_spot_name">
+		<text>회전 목마 이상현상</text>
+	</string>
+	<string id="st_red_smart_terrain_3_1_anomaly_spot_name">
+		<text>슬러츠키의 휴식 이상현상</text>
+	</string>
+	<string id="st_gen_smart_terrain_urod_anomaly_spot_name">
+		<text>고기 분쇄기 이상현상</text>
+	</string>
+	<string id="st_trc_sim_13_anomal_zone_spot_name">
+		<text>광신도의 미로 이상현상</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_1_anomaly_spot_name">
+		<text>고기 믹서기 이상현상</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_2_anomaly_spot_name">
+		<text>볼트 이상현상</text>
+	</string>
+</string_table>

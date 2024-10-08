@@ -1,0 +1,202 @@
+﻿<string_table>
+	<string id="st_rioc_sid_desc">
+		<text>죽은 스토커에게서 발견한 봉인된 용기, 그것은 시도로비치가 말한 화물임에 틀림없다.</text>
+	</string>
+
+	<string id="st_rioc_sid">
+		<text>시도로비치의 보급품</text>
+	</string>
+
+	<string id="st_rioc_duty_desc">
+		<text>이 PDA는 페트렌코의 실종된 병사가 결국 사망했음을 확인시켜줍니다. 받은 만큼 준 것 같습니다.</text>
+	</string>
+
+	<string id="st_rioc_duty">
+		<text>사망한 듀티 PDA</text>
+	</string>
+
+	<string id="st_rioc_ecolog_desc">
+		<text>과학자들에 따르면 강화된 컨테이너에 담긴 컴퓨터는 아티팩트 사냥의 수준을 바꿀 새로운 검출기 프로토타입입니다. 불행히도 어떤 그래프와 숫자도 당신에게 의미가 없습니다.</text>
+	</string>
+
+	<string id="st_rioc_ecolog">
+		<text>프로토타입 검출기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_d">
+		<text>한 스토커가 다른 상인에게서 특별한 물품을 가져오기로 되어 있었지만 며칠 동안 그에게서 아무 소식도 듣지 못했어. 처음에는 그가 물건을 가지고 도망친 줄 알았는데 위치를 숨기지도 않고 움직이지 않아. 조금도. 아마 PDA를 잃어버렸거나 살해당했을 수도 있겠어. 어쨌든 그곳에 가서 무슨 일이 일어났는지 확인할 사람이 필요해. 중요한건 물건이야. 그걸 얻었다면 다시 가져와.</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_t">
+		<text>시도로비치의 물건 회수</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_t">
+		<text>프로토타입 검출기 회수</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_d">
+		<text>우리가 지금 문제에 좀 직면해 있어. 우리 팀 중 하나가 이상현상 스캔을 하러 갔지만 아직 돌아오지 않았어. 연락을 시도했지만 어떤 응답도받지 못했고. 우리가 국가 보안국에 이 문제를 보고했지만, 지금 당장 팀 수색 자원이나 인력을 줄 수 없다고 해. 팀원 중 한 명이 프로토타입 검출기를 갖추고 있었어. 마지막으로 알려진 위치로 이동하여 프로토타입장비나 팀을 찾을 수 있다면 비용을 지불할 게. 연락이 끊겼을 때 PDA에 위치를 표시해주지.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_end">
+		<text>신이시여, 내가 이 장치를 우리 손에 다시 가져오는 것을 얼마나 감사하게 생각하는지 모를거야! 팀을 잃는 것은 슬프지만 이 장치는 우리의 연구를 거의 1년이나 지연시키고 있었어. 도와줘서 고마워. 서비스에 대한 대가야.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_t">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_d">
+		<text>오늘 일찍, 가벼운 듀티 순찰대가 조난 호출에 응답했네. 그들은 주요 돌연변이 공격에 휘말린 일부 스토커와 과학자들을 대피시키기 위해 제시간에 도착했지만, 의무병 중 한 명이 탈출을 위해 후방에 있어야 했지. 그의 나머지 분대원들은 이제 그를 작전 중 누락된 것으로 보이네. 공격 현장을 조사하고 그의 상태를 확인했으면 해. 그가 살아 있다면 치료한 다음 다시 데려오게. 이미 늦었다면 그 PDA를 가져오게. 순교자의 기록은 후손을 위해 저장되어야 하니.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_end">
+		<text>죽었군, 하. 그는 좋은 사람이었어, 존은 그런 사람들에게도 가차 없이 증오를 휘두르지. 그의 PDA를 살펴보겠네. 흠, 흥미롭군. 듀티를 대신해 감사의 인사를 전하는 바네. 여기, 감사의 표시네.</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_0">
+		<text>시도로비치의 화물 찾기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_pol_0">
+		<text>시도로비치의 화물 찾기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_garbage_0">
+		<text>시도로비치의 화물 찾기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_wt_0">
+		<text>시도로비치의 화물 찾기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_aw_0">
+		<text>시도로비치의 화물 찾기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_trucc_0">
+		<text>시도로비치의 화물 찾기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_1">
+		<text>상자를 시도로비치에게 반환하기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_pol_1">
+		<text>상자를 시도로비치에게 반환하기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_garbage_1">
+		<text>상자를 시도로비치에게 반환하기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_wt_1">
+		<text>상자를 시도로비치에게 반환하기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_aw_1">
+		<text>상자를 시도로비치에게 반환하기</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_trucc_1">
+		<text>상자를 시도로비치에게 반환하기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_agroprom_0">
+		<text>프로토타입 검출기 찾기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_pol_0">
+		<text>프로토타입 검출기 찾기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_garbage_0">
+		<text>프로토타입 검출기 찾기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_wt_0">
+		<text>프로토타입 검출기 찾기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_aw_0">
+		<text>프로토타입 검출기 찾기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_trucc_0">
+		<text>프로토타입 검출기 찾기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_agroprom_1">
+		<text>과학자들에게 검출기를 반환하기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_pol_1">
+		<text>과학자들에게 검출기를 반환하기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_garbage_1">
+		<text>과학자들에게 검출기를 반환하기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_wt_1">
+		<text>과학자들에게 검출기를 반환하기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_aw_1">
+		<text>과학자들에게 검출기를 반환하기</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_trucc_1">
+		<text>과학자들에게 검출기를 반환하기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_0">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_pol_0">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_garbage_0">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_wt_0">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_aw_0">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_trucc_0">
+		<text>실종된 듀티 찾기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_1">
+		<text>페트렌코에게 PDA 제출하기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_pol_1">
+		<text>페트렌코에게 PDA 제출하기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_garbage_1">
+		<text>페트렌코에게 PDA 제출하기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_wt_1">
+		<text>페트렌코에게 PDA 제출하기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_aw_1">
+		<text>페트렌코에게 PDA 제출하기</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_trucc_1">
+		<text>페트렌코에게 PDA 제출하기</text>
+	</string>
+
+</string_table>

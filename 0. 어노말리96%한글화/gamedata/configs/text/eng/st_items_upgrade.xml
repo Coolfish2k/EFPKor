@@ -1,0 +1,1109 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+	<string id="st_broneplastina_seva">
+		<text>SEVA 장갑판 (업그레이드)</text>
+	</string>
+	<string id="st_broneplastina_seva_descr">
+		<text>SEVA 바디슈트의 성능을 향상시키기 위한 장갑판이다.
+		</text>
+	</string>
+	
+	<string id="upgr_1_01_name">
+		<text>강철 플레이트</text>
+	</string>
+	<string id="upgr_1_01_description">
+		<text>다양한 길이, 너비, 두께와 모양을 가진 강철판 세트이다. \n 
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강철로 된 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_01_name">
+		<text>두꺼운 프레임</text>
+	</string>
+	<string id="upgr_2_01_description">
+		<text>보호구의 성능을 개선하기 위한 다양한 프레임 및 관련 장치 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 금속과 플라스틸 제 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_01_name">
+		<text>체인 셔츠</text>
+	</string>
+	<string id="upgr_3_01_description">
+		<text>작은 강철 링들로 만들어진 수제 체인 셔츠이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강철로 된 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_02_name">
+		<text>고무처리된 안감</text>
+	</string>
+	<string id="upgr_1_02_description">
+		<text>고무처리된 공업용 천의 튼튼한 묶음이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 고무로 된 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_02_name">
+		<text>방수포</text>
+	</string>
+	<string id="upgr_2_02_description">
+		<text>튼튼한 공업용 캔버스 천의 큼지막한 한 조각이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 천으로 된 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_03_name">
+		<text>방화 옷감</text>
+	</string>
+	<string id="upgr_2_03_description">
+		<text>내화성 옷감 한 묶음으로, 짧은 시간 동안 높은 온도를 견뎌낼 능력이 있다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 천으로 된 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_03_name">
+		<text>운반용 조끼</text>
+	</string>
+	<string id="upgr_1_03_description">
+		<text>추가 안감이 달린 조끼로, 몇 개의 큰 주머니가 달려 있다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 천으로 된 물품
+		%c[0,100,100,255] * 경갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_04_name">
+		<text>폴리카보네이트 플레이트</text>
+	</string>
+	<string id="upgr_1_04_description">
+		<text>다양한 길이, 너비, 두께와 모양을 가진 폴리카보네이트 판 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리카보네이트
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_04_name">
+		<text>폴리카보네이트 방어구</text>
+	</string>
+	<string id="upgr_2_04_description">
+		<text>추가적인 보호용구가 들어간 특별히 재단된 안감이 있는 방어구로, 장갑이 달린 옷과 함께 사용하도록 고안되었다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리카보네이트
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_02_name">
+		<text>세라믹 플레이트</text>
+	</string>
+	<string id="upgr_3_02_description">
+		<text>다양한 길이, 너비, 두께 그리고 모양을 가진 세라믹판 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 세라믹
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_05_name">
+		<text>경량화 고분자 물질</text>
+	</string>
+	<string id="upgr_1_05_description">
+		<text>다양한 길이, 너비, 두께, 모양과 함께 다양한 방면으로 사용할 수 있는 경량화된 고분자 물질로 된 부품 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 플라스틱 및 관련 물질로 만들어진 물건\n
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_05_name">
+		<text>마그네슘 내장재</text>
+	</string>
+	<string id="upgr_2_05_description">
+		<text>다양한 길이, 너비, 두께와 모양을 가진 마그네슘으로 만든 방화 물질 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 마그네슘이 들어있음
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_06_name">
+		<text>플라스틱 내장재</text>
+	</string>
+	<string id="upgr_2_06_description">
+		<text>다양한 길이, 너비, 두께와 모양을 가진 플라스틱 재료 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 플라스틱으로 된 물품
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_03_name">
+		<text>옷감 처리 물질</text>
+	</string>
+	<string id="upgr_3_03_description">
+		<text>천으로 된 제품의 처리를 위해 만들어진 화학적 혼합물로, 화학적인 효과에서 옷이나 보호구를 지켜줄 수 있다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 화학 물질
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_04_name">
+		<text>고무처리된 천</text>
+	</string>
+	<string id="upgr_3_04_description">
+		<text>튼튼한 고무처리된 천의 한 묶음이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 천으로 된 물품
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_06_name">
+		<text>가스 실린더</text>
+	</string>
+	<string id="upgr_1_06_description">
+		<text>산소로 차 있는 가스통이다. 이 물건은 화학적인 독성이 있는 환경이나, 산처럼 공기가 매우 희박한 지역에서 숨을 쉴 수 있게 하기 위해 만들어졌다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 특별한 물건
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_07_name">
+		<text>내장형 휴먼 케어 시스템</text>
+	</string>
+	<string id="upgr_2_07_description">
+		<text>약품을 인체 속으로 자동으로 투입하는 것을 관리해 주기 위해 설계된 복잡한 의학용 장치이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 복잡한 의료 물품
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_08_name">
+		<text>무게 분산을 위한 고정 시스템</text>
+	</string>
+	<string id="upgr_2_08_description">
+		<text>무게 분산을 위한 다양한 고정용 장치 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_05_name">
+		<text>부착물을 위한 고정용 물품 (강화됨)</text>
+	</string>
+	<string id="upgr_3_05_description">
+		<text>한 번에 사용할 수 있는 모듈이나 아티팩트 컨테이너의 수를 늘려주는 옷에 부착하는 벨트다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_07_name">
+		<text>강화된 서보 드라이브 (프로토타입, v1)</text>
+	</string>
+	<string id="upgr_1_07_description">
+		<text>1세대나 2세대 외골격을 위해 개발된 강화된 프로토타입 서보 드라이브로, 사용자가 달릴 수 있게 해준다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_06_name">
+		<text>소버린 합성물</text>
+	</string>
+	<string id="upgr_3_06_description">
+		<text>천에 적용하는 특수 강화 물질로, 강도와 내구성을 개선하기 위해 개발되었다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 화학적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_09_name">
+		<text>부착물 고정대 (일반)</text>
+	</string>
+	<string id="upgr_2_09_description">
+		<text>한 번에 사용할 수 있는 모듈이나 아티팩트 컨테이너의 수를 늘려주는 옷에 부착하는 벨트다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_08_name">
+		<text>케블라 플레이트</text>
+	</string>
+	<string id="upgr_1_08_description">
+		<text>다양한 길이, 너비, 두께와 모양을 가진 케블라 판 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 케블라
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_10_name">
+		<text>이층 장갑판</text>
+	</string>
+	<string id="upgr_2_10_description">
+		<text>추가적인 보호용구가 들어간 특별히 재단된 안감이 있는 방어구로, 장갑이 달린 옷과 함께 사용하도록 고안되었다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 장갑판
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_09_name">
+		<text>완충용 안감</text>
+	</string>
+	<string id="upgr_1_09_description">
+		<text>방탄조끼를 위해 특별히 재단된 고무 내장재이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 고무로 된 물품
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_11_name">
+		<text>고무 슈트</text>
+	</string>
+	<string id="upgr_2_11_description">
+		<text>특수한 방사능 및 화학물질 방호용 고무 슈트 옷감으로, 장갑복 안에 설치하여 보호 능력을 개선하는 데 사용한다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 고무로 된 물품
+		%c[0,100,100,255] * 경갑과 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_07_name">
+		<text>보호용 프레임</text>
+	</string>
+	<string id="upgr_3_07_description">
+		<text>방탄조끼의 윤곽에 딱 맞는 프레임으로, 장갑복의 보호 능력을 개선하는 데 사용한다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_08_name">
+		<text>바르야그 생명 유지 시스템</text>
+	</string>
+	<string id="upgr_3_08_description">
+		<text>약품을 인체 속으로 자동으로 투입하는 것을 관리해 주기 위해 설계된 복잡한 의학용 장치이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_09_name">
+		<text>폴리머 비스무트 내장재</text>
+	</string>
+	<string id="upgr_3_09_description">
+		<text>비스무트로 만들어진 폴리머제 보호 물질로, 화학물질과 열 효과에 대한 저항력이 증가합니다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_10_name">
+		<text>납 그물망</text>
+	</string>
+	<string id="upgr_3_10_description">
+		<text>듬성듬성한 칸으로 이루어진 일반적인 납 그물망이다.   \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 납으로 된 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_10_name">
+		<text>보조 장갑 레이어</text>
+	</string>
+	<string id="upgr_1_10_description">
+		<text>특수하게 만들어진 장갑판으로, 총탄에 대한 저항력을 약간 올려준다.   \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 금속제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_12_name">
+		<text>알루미늄 프레임</text>
+	</string>
+	<string id="upgr_2_12_description">
+		<text>평갑 안에 삽입하는 다용도 알루미늄 프레임이다. 방어구의 무게를 줄이기 위해 비슷한 모양의 강철이나 티타늄 프레임과 교체할 수 있다. 하지만, 알루미늄 프레임은 좀 더 약한 강도를 가진다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 알루미늄제 물품
+		%c[0,100,100,255] * 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_11_name">
+		<text>티타늄과 베릴 매트리스</text>
+	</string>
+	<string id="upgr_3_11_description">
+		<text>단단하고, 높은 품질의 장갑판과 연결된 티타늄과 베릴 매트릭스 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강화 장갑판
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_11_name">
+		<text>폴리머 내장재</text>
+	</string>
+	<string id="upgr_1_11_description">
+		<text>경갑이나 평갑의 옷감에 덧대는 특수한 폴리머 내장재이다. 방어구의 내구도와 수명을 늘려준다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_13_name">
+		<text>콘스탄탄 단열재</text>
+	</string>
+	<string id="upgr_2_13_description">
+		<text>특수 콘스탄탄 단열재 레이어이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 콘스탄탄제 물품
+		%c[0,100,100,255] * 평갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_12_name">
+		<text>SBK 보호복</text>
+	</string>
+	<string id="upgr_3_12_description">
+		<text>특수 보조용 슈트로 화학적 효과나 방사능을 보호해 준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 고무로 된 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_12_name">
+		<text>닥터 부상 치료 시스템</text>
+	</string>
+	<string id="upgr_1_12_description">
+		<text>야전에서 약품을 지속적으로 관리하도록 설계된 의학 장치이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_13_name">
+		<text>카본 섬유</text>
+	</string>
+	<string id="upgr_3_13_description">
+		<text>카본 섬유로 만든 경량형 보호 장갑판으로, 높은 점착성을 가지고 있어 저지력이 훌륭하다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_14_name">
+		<text>플렉시글라스</text>
+	</string>
+	<string id="upgr_2_14_description">
+		<text>다양한 길이, 너비, 두께 그리고 모양을 가진 플렉시글라스 플레이트 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_15_name">
+		<text>플렉시블 플라스틱 내장재</text>
+	</string>
+	<string id="upgr_2_15_description">
+		<text>다양한 길이, 너비, 두께 그리고 모양을 가진 탄력성 잇는 플라스틱 부품 한 세트이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_14_name">
+		<text>내화성 니켈 내장재</text>
+	</string>
+	<string id="upgr_3_14_description">
+		<text>니켈로 만든 가벼운 내화성 내장재이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 니켈로 된 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_13_name">
+		<text>컴플렉스 마라토너</text>
+	</string>
+	<string id="upgr_1_13_description">
+		<text>야전에서 약품을 지속적으로 관리하도록 설계된 의학 장치이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_16_name">
+		<text>스카트 항전자 보호 시스템</text>
+	</string>
+	<string id="upgr_2_16_description">
+		<text>현재 전류량을 판별하여 전기 충격으로부터의 보호도를 높여주는 특수한 장치다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 관련 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_14_name">
+		<text>혈액촉진기</text>
+	</string>
+	<string id="upgr_1_14_description">
+		<text>야전에서 약품을 지속적으로 관리하도록 설계된 의학 장치이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_17_name">
+		<text>솔라 생체촉진기</text>
+	</string>
+	<string id="upgr_2_17_description">
+		<text>독립된 전력 공급능력을 가진 지속적인 야전 약품 관리용 의학 장치다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_15_name">
+		<text>신경파 방출기</text>
+	</string>
+	<string id="upgr_3_15_description">
+		<text>생체 기관에 대한 정신파의 효과를 연구하는 휴대용 연구 장비이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 관련 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_15_name">
+		<text>알루미늄-티타늄 합금 부품</text>
+	</string>
+	<string id="upgr_1_15_description">
+		<text>알루미늄과 티타늄의 합금으로 만든 튼튼한 장갑판이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 금속 합금
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_16_name">
+		<text>아티팩트 위치 감지기</text>
+	</string>
+	<string id="upgr_1_16_description">
+		<text>아티팩트가 위치한 삼차원 위치를 특정하는 휴대용 과학 장비이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 관련 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_16_name">
+		<text>마그네슘 내장재</text>
+	</string>
+	<string id="upgr_3_16_description">
+		<text>보호용 마그네슘 내장재 한 세트로, 방어구에 전기 충격이 주는 효과를 줄여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 마그네슘 제품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_17_name">
+		<text>폴리머릭 내장재</text>
+	</string>
+	<string id="upgr_1_17_description">
+		<text>유기 폴리머로 만들어진 특수한 경량화 내장재이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_18_name">
+		<text>분리형 보호구</text>
+	</string>
+	<string id="upgr_2_18_description">
+		<text>서로 연결시킬 수 있는 보호용 장갑판 한 세트로, 모여서 커다란 장갑판을 만든다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_19_name">
+		<text>티타늄과 알루미늄 플레이트</text>
+	</string>
+	<string id="upgr_2_19_description">
+		<text>보호용 장갑판 한 세트로, 티타늄과 알루미늄으로 만들어졌다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 금속제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_17_name">
+		<text>사파이어 크리스탈</text>
+	</string>
+	<string id="upgr_3_17_description">
+		<text>사파이어로 만들어진 합성 크리스탈이다. 아주 강하다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 마그네슘 제품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_20_name">
+		<text>콘스탄탄 절연체</text>
+	</string>
+	<string id="upgr_2_20_description">
+		<text>콘스탄탄으로 만들어진 판의 세트로, 전기로부터의 보호도를 높여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_21_name">
+		<text>유리섬유 단열재</text>
+	</string>
+	<string id="upgr_2_21_description">
+		<text>유리섬유로 만들어진 판 세트로, 열 효과로부터의 보호도를 높여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_22_name">
+		<text>독성 필터 시스템</text>
+	</string>
+	<string id="upgr_2_22_description">
+		<text>야전에서 인체로부터 독성 물질을 걸러주는 휴대용 의료 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_18_name">
+		<text>레이지 인젝터</text>
+	</string>
+	<string id="upgr_1_18_description">
+		<text>야전에서 정맥 주사를 놓기 위한 휴대용 의료 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_23_name">
+		<text>레이지 인젝터</text>
+	</string>
+	<string id="upgr_2_23_description">
+		<text>야전에서 정맥 주사를 놓기 위한 휴대용 의료 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_18_name">
+		<text>피닉스 회복 시스템</text>
+	</string>
+	<string id="upgr_3_18_description">
+		<text>야전에서 정맥 주사를 놓기 위한 휴대용 의료 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_24_name">
+		<text>납 내장 플레이트</text>
+	</string>
+	<string id="upgr_2_24_description">
+		<text>납으로 된 매우 무거운 플레이트다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 납으로 된 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_25_name">
+		<text>세컨드 스킨 조끼</text>
+	</string>
+	<string id="upgr_2_25_description">
+		<text>조끼에 덧대는 장갑판 안감으로, 총탄으로부터 추가적인 보호를 제공한다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 안감
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_26_name">
+		<text>스페어 장갑판</text>
+	</string>
+	<string id="upgr_2_26_description">
+		<text>추가 장갑이나 평갑이나 중갑의 보조 장갑으로서 설치되는 케블라 장갑판이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 장갑판
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_19_name">
+		<text>강화된 세라믹 플레이트</text>
+	</string>
+	<string id="upgr_3_19_description">
+		<text>방어구 안에 삽입하는 두꺼워지고 강화된 세라믹 플레이트다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 세라믹 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_20_name">
+		<text>플라스틱과 합성 부품</text>
+	</string>
+	<string id="upgr_3_20_description">
+		<text>다양한 방어구에서 가져온 플라스틱 및 합성 부품으로, 방어구의 무게를 줄이고 기동성과 내구성을 높여주는 방향으로 설계되었다. \n \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_19_name">
+		<text>합성섬유 안감 (옷감)</text>
+	</string>
+	<string id="upgr_1_19_description">
+		<text>의복이나 방어구 안에 덧대는 강한 합성 섬유이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_27_name">
+		<text>카르카스 무게 분산 장치</text>
+	</string>
+	<string id="upgr_2_27_description">
+		<text>운반 무게를 늘려주는, 방어구에 삽입하는 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_20_name">
+		<text>먼지 보호 시스템</text>
+	</string>
+	<string id="upgr_1_20_description">
+		<text>교체 가능한 필터가 달린 내장형 먼지 보호 시스템이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_28_name">
+		<text>오라클 정신자극기</text>
+	</string>
+	<string id="upgr_2_28_description">
+		<text>정신파 효과에 노출되는 정도를 약간 줄여주는 과학적인 물품이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 관련 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_21_name">
+		<text>라이트 생명 보조 시스템</text>
+	</string>
+	<string id="upgr_3_21_description">
+		<text>치명적인 건강 상태를 안정화시켜주는 휴대용 생명 보조 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_21_name">
+		<text>활성 필터</text>
+	</string>
+	<string id="upgr_1_21_description">
+		<text>내장형 활성 필터 시스템이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_29_name">
+		<text>보호 코팅</text>
+	</string>
+	<string id="upgr_2_29_description">
+		<text>헬멧이나 방어구에 덮는 코팅으로, 정신파 자극의 효과를 약간 줄여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 특별한 물건
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_30_name">
+		<text>1PN93-1 아날로그 야간 투시경 고글</text>
+	</string>
+	<string id="upgr_2_30_description">
+		<text>어둠 속에서 임무를 수행하기 위한 군용 야간 투시경 장치이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 군용 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_22_name">
+		<text>보호용 돔</text>
+	</string>
+	<string id="upgr_3_22_description">
+		<text>헬멧에 덧대는 특수한 안감으로, 정신파 자극 효과를 줄여준다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 관련 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_23_name">
+		<text>이온 윈드 냉각 시스템</text>
+	</string>
+	<string id="upgr_3_23_description">
+		<text>평갑이나 중갑에 사용하는 냉각 시스템으로, 내구성을 높여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 장비
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		%c[0,100,100,255] * 고가치의 물품
+		</text>
+	</string>
+	
+	<string id="upgr_2_31_name">
+		<text>PN21KL 야간 투시경 고글</text>
+	</string>
+	<string id="upgr_2_31_description">
+		<text>야간에서의 임무수행을 위한 디지털 군용 야간 투시경이다. 시야를 회색으로 보여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 군용 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_32_name">
+		<text>PN2KL 디지털 야간 투시경 고글</text>
+	</string>
+	<string id="upgr_2_32_description">
+		<text>야간에서의 임무수행을 위한 디지털 군용 야간 투시경이다. 시야를 보라색으로 보여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 군용 물품
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_22_name">
+		<text>호흡 마스크 클리닝 시스템</text>
+	</string>
+	<string id="upgr_1_22_description">
+		<text>방독면과 헬멧의 내장형 청소 시스템이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_33_name">
+		<text>활성탄 필터</text>
+	</string>
+	<string id="upgr_2_33_description">
+		<text>교체 가능한 보조 활성탄 필터이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_24_name">
+		<text>보호용 안테나</text>
+	</string>
+	<string id="upgr_3_24_description">
+		<text>방독면과 헬멧에 설치하는 보호용 안테나이다. 정신파의 영향으로부터 약간의 보호를 제공해 준다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 장비
+		%c[0,100,100,255] * 평갑과 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_23_name">
+		<text>이중 필터가 달린 호흡기</text>
+	</string>
+	<string id="upgr_1_23_description">
+		<text>다른 단일 필터 사용 호흡기를 대체하는 이중 필터가 달린 호흡기이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_24_name">
+		<text>유해 입자 필터</text>
+	</string>
+	<string id="upgr_1_24_description">
+		<text>보호용 필터로, 호흡기를 통해 해로운 입자들이 신체에 침투하는 것을 막아준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_34_name">
+		<text>독성 필터</text>
+	</string>
+	<string id="upgr_2_34_description">
+		<text>보호용 필터로, 다양한 독성 물질과 화학 물질들이 호흡기를 통해 인체에 침투하는 것을 막아준다. \n \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_35_name">
+		<text>콘스탄탄 마스크</text>
+	</string>
+	<string id="upgr_2_35_description">
+		<text>콘스탄탄으로 만들어진 보호용 마스크로, 화학 요소나 열에 대한 저항력을 높여준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 콘스탄탄제 물품
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_25_name">
+		<text>강화된 독성 필터</text>
+	</string>
+	<string id="upgr_1_25_description">
+		<text>보조 보호 코팅을 한 필터로, 다양한 독성 물질과 화학 물질들이 호흡기를 통해 인체에 침투하는 것을 막아준다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_36_name">
+		<text>SPB-VPZ.m.IV 장치</text>
+	</string>
+	<string id="upgr_2_36_description">
+		<text>최신형 보호 시스템으로, 정신파 자극에 대한 보호도가 증가한다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 과학 장비
+		%c[0,100,100,255] * 머리 보호구의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_26_name">
+		<text>강화된 티타늄 부품</text>
+	</string>
+	<string id="upgr_1_26_description">
+		<text>티타늄 및 티타늄 합금으로 만들어진 강화된 외골격 부품이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 티타늄제 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_37_name">
+		<text>유동성 플레이트</text>
+	</string>
+	<string id="upgr_2_37_description">
+		<text>외골격이나 중갑 보호구에 삽입하는 보호용 보조 강철판이다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강철로 된 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_38_name">
+		<text>분리형 보호구</text>
+	</string>
+	<string id="upgr_2_38_description">
+		<text>다양한 길이, 너비, 그리고 모양을 가진 얇은 장갑판으로 외골격이나 중갑에 삽입하여 사용한다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강철로 된 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_25_name">
+		<text>티타늄 장갑판</text>
+	</string>
+	<string id="upgr_3_25_description">
+		<text>다양한 길이, 너비 그리고 모양을 가진 강화 티타늄 판으로 외골격이나 중갑에 삽입하여 사용한다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 티타늄제 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_26_name">
+		<text>다중 보호판</text>
+	</string>
+	<string id="upgr_3_26_description">
+		<text>다양한 길이, 너비 그리고 모양을 가진 다층으로 이루어진 폴리머-세라믹 장갑판으로 외굘격이나 중갑에 삽입하여 사용한다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 세라믹 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_27_name">
+		<text>실리콘 충격 흡수재</text>
+	</string>
+	<string id="upgr_1_27_description">
+		<text>강화된 실리콘 완충재로, 고무로 만들어진 비슷한 부품을 대체하도록 설계되었다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용
+		</text>
+	</string>
+	
+	<string id="upgr_3_27_name">
+		<text>비스무트 내장재가 포함된 폴리머 슈트</text>
+	</string>
+	<string id="upgr_3_27_description">
+		<text>폴리머 재료로 만들어진 보호용 안감으로, 비스무트를 다량 포함하고 있다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 폴리머제 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_28_name">
+		<text>알루미늄 내장재</text>
+	</string>
+	<string id="upgr_3_28_description">
+		<text>몇몇 플라스틱 부품을 알루미늄으로 만든 것으로, 외골격이나 중갑을 위해 설계되었다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 알루미늄제 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_1_28_name">
+		<text>내장형 온도 조절 시스템</text>
+	</string>
+	<string id="upgr_1_28_description">
+		<text>내장형 온도조절 시스템으로 외골격이나 중갑의 생명 보조 시스템에 설치한다. \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 의학용 장치
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_2_39_name">
+		<text>모터 보호 시스템</text>
+	</string>
+	<string id="upgr_2_39_description">
+		<text>다양한 길이, 너비 그리고 모양을 가진 보호용 장갑판으로 외골격이나 중갑의 동력 부품 안에 삽입한다. \n \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강철로 된 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_29_name">
+		<text>워커 모터 시스템</text>
+	</string>
+	<string id="upgr_3_29_description">
+		<text>외골격과 중갑을 위한 추가 스프링과 동력 부품이 포함된 장치다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 강철로 된 물품
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용\n
+		</text>
+	</string>
+	
+	<string id="upgr_3_30_name">
+		<text>유압식 서보 드라이브 증폭 시스템</text>
+	</string>
+	<string id="upgr_3_30_description">
+		<text>
+		외골격과 중갑에 있는 서보 드라이브를 위한 유압식 증폭 시스템이다.  \n
+		%c[0,200,200,200]특징:
+		%c[0,100,100,255] * 기술적 물건
+		%c[0,100,100,255] * 중갑의 성능을 개선하기 위해 사용
+		%c[0,100,100,255] * 고가치의 물품\n
+		</text>
+	</string>
+	
+</string_table>

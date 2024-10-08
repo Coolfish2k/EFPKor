@@ -1,0 +1,212 @@
+-- Core file for ballistics. When someone is shot, the hit will be intercepted and deferred to a custom config defined in ammo importer based on bullet type.
+
+ini_ammo = ini_file("ammo\\importer.ltx")
+
+local dbg_log
+function print_dbg( text , ...)
+	if get_config("debug") or false then
+		dbg_log = dbg_log or mcm_log and mcm_log.new("DBG")
+		if dbg_log then
+			dbg_log.enabled = true
+			dbg_log:log( text , ...)
+		else
+			printf( "ballistics: | %s |  "..text ,time_global(), ...)
+		end
+	end
+	return nil
+end
+
+-- checking if actor shot the gun at npc or vice versa and if gun is gun
+function validate_hit(s_hit, is_actor)
+    if s_hit.draftsman and ((not is_actor and s_hit.draftsman:id() ~= AC_ID) or is_actor and s_hit.type ~= hit.fire_wound) then return end
+	if bone_id == 65535 then return end
+	if s_hit.power >= 50 then return end
+	local wpn = level.object_by_id(s_hit.weapon_id)
+	if not wpn or IsGrenade(wpn) or (not IsWeapon(wpn)) then return end
+	local sec = wpn:section()
+	if ini_sys:r_string_ex(sec, "class") == "S_EXPLO" then return end
+	if IsItem("fake_ammo_wpn",sec) then return end
+    ammo_map = utils_item.get_ammo(nil, s_hit.weapon_id)
+    local ammo = ammo_map[wpn:get_ammo_type() + 1]
+    return {
+        ["wpn"] = wpn, 
+        ["ammo"] = ammo,
+        ["wpn_sec"] = sec
+    } -- returning stuff we parsed, so we don't parse it again
+end
+
+function get_handler(ammo_sec)
+    if ini_ammo:section_exist(ammo_sec) then
+        local proc = ini_ammo:r_string_ex(ammo_sec, "handler") or "ballistic_handlers.default"
+        proc = str_explode(proc, "%.")
+        return proc
+    end
+end
+
+-- for the most part calculations will be deferred to function-specifics for each ammo type
+-- Generically it will call a function specified in config. Function determines how damage is applied.
+-- is_npc is either 0 (actor), 1 (npc), 2 (mutant)
+-- Final damage should be stored in s_hit.power field.
+-- Return false or nothing in order to pass the original hit.
+function on_before_hit(npc,s_hit,bone_id, is_npc)
+    local valid_hit_data = validate_hit(s_hit, npc:id() == AC_ID)
+    if not (valid_hit_data) then -- no data, so we don't care about the hit
+        return false 
+    end
+    local wpn = valid_hit_data.wpn
+    local ammo = valid_hit_data.ammo
+    local sec = valid_hit_data.wpn_sec
+    
+    local func = get_handler(ammo)
+    if not func then return false end
+    -- print_dbg("Applying custom hit for %s on %s using function %s.%s. Prev hit power %s", ammo, bone_id, func[1], func[2], s_hit.power)
+    local hit_ctx = {
+        hit_data = valid_hit_data,
+        bone_id = bone_id,
+        is_npc = is_npc
+    }
+    -- pass to the ammo processor
+    -- return value should be the new hit
+    if func and func[1] and func[2] and _G[func[1]] and _G[func[1]][func[2]] then
+        ret_val = _G[func[1]][func[2]](npc, s_hit, hit_ctx)
+        if ret_val then s_hit = ret_val end
+    end
+
+    return {
+        ["s_hit"] = s_hit,
+        ["bone_id"] = bone_id
+    }
+end
+
+-- Overriding hit callbacks so our custom hits can communicate with other scripts
+local flags = { ret_value = true }
+
+_G.CActor__BeforeHitCallback = function(actor,s_hit,bone_id) 
+    if (s_hit.type ~= hit.strike) then
+		if (bind_stalker_ext.invulnerable_time and time_global() < bind_stalker_ext.invulnerable_time) then 
+			bind_stalker_ext.invulnerable_time = bind_stalker_ext.invulnerable_time - 500
+			return false
+		end
+	end
+	
+	if (s_hit.power > 0) then 
+		if (s_hit.draftsman and s_hit.draftsman:id() ~= 0 and IsStalker(s_hit.draftsman) and s_hit.draftsman:relation(db.actor) == game_object.friend) then 
+			return false 
+		end
+	end
+	
+	flags.ret_value = true
+    -- go to original 
+    if not get_config("incoming") then     
+    	SendScriptCallback("actor_on_before_hit",s_hit,bone_id,flags)
+        return flags.ret_value 
+    end
+
+    -- pass through processor
+    local custom_hit = on_before_hit(actor,s_hit,bone_id, true)
+    custom_hit = custom_hit and custom_hit.s_hit or s_hit
+    if custom_hit then
+        SendScriptCallback("actor_on_before_hit",custom_hit,bone_id,flags)
+        if flags.ret_value and get_config("incoming") then
+            s_hit.power = custom_hit.power
+        end
+    end
+	return flags.ret_value
+end
+
+_G.CAI_Stalker__BeforeHitCallback = function(npc,s_hit,bone_id)
+    flags.ret_value = true
+    local custom_hit = on_before_hit(npc,s_hit,bone_id, true)
+    if custom_hit then
+        SendScriptCallback("npc_on_before_hit",npc,custom_hit.s_hit,custom_hit.bone_id, flags)
+        if flags.ret_value then
+            if custom_hit.s_hit.type ~= hit.fire_wound then
+                s_hit.power = custom_hit.s_hit.power
+            else
+                npc:set_health_ex(npc.health - custom_hit.s_hit.power)
+                s_hit.power = 0.0001 -- removing engine stuff
+            end
+        end
+    else
+        SendScriptCallback("npc_on_before_hit",npc,s_hit,bone_id,flags)
+    end
+	return flags.ret_value
+end
+
+-- bone mult is unknown for monster, so simply assume skin armor vs ap calcs
+_G.CBaseMonster__BeforeHitCallback = function(monster,s_hit,bone_id)
+    flags.ret_value = true
+    local custom_hit = on_before_hit(monster,s_hit,bone_id, false)
+    if custom_hit then
+        SendScriptCallback("monster_on_before_hit",monster,custom_hit.s_hit,custom_hit.bone_id, flags)
+        if flags.ret_value then
+            s_hit.power = custom_hit.s_hit.power
+            s_hit.ap = 0
+        end
+    else
+        SendScriptCallback("monster_on_before_hit",monster,s_hit,bone_id,flags)
+    end
+	return flags.ret_value
+end
+
+local ini_ammo = ini_file("ammo\\importer.ltx")
+gc = game.translate_string
+
+GetFirstName = ui_item.build_name_first
+function ui_item.build_name_first(obj, sec, str)
+    if ini_ammo:section_exist(sec) and ini_ammo:r_string_ex(sec, "name") then
+        return gc(ini_ammo:r_string_ex(sec, "name"))
+    else
+        return GetFirstName(obj, sec, str)
+    end
+end
+
+ShortName = ui_item.build_short_name_first
+function ui_item.build_short_name_first(obj, sec, str)
+    if ini_ammo:section_exist(sec) and ini_ammo:r_string_ex(sec, "name") then
+        return gc(ini_ammo:r_string_ex(sec, "name") .. "_s")
+    else
+        return ShortName(obj, sec, str)
+    end
+end
+-- custom ammo desc, inject descriptions later
+BuildFooter = ui_item.build_desc_footer
+function ui_item.build_desc_footer(obj, sec, str)
+    if ini_ammo:section_exist(sec) and ini_ammo:r_string_ex(sec, "name") then
+        return gc(ini_ammo:r_string_ex(sec, "name") .. "_descr")
+    else
+        return BuildFooter(obj, sec, str)
+    end
+end
+
+
+-- If you don't use MCM, change your defaults from here.
+local defaults = {
+    ["debug"] = true,
+    ["incoming"] = false,
+    ["cost"] = true,
+    ["impair"] = true,
+    ["mutant"] = true,
+    ["burer"] = 0,
+    ["legs"] = true,
+}
+
+function get_config(key)
+    if ui_mcm then return ui_mcm.get("ballistics/"..key) else return defaults[key] end
+end
+
+function on_mcm_load()
+    op = { id= "ballistics",sh=true ,gr={
+            { id= "title",type= "slide",link= "ui_options_slider_player",text="ui_mcm_ballistics_title",size= {512,50},spacing= 20 },
+            {id = "debug", type = "check", val = 1, def=true},
+            {id = "incoming", type = "check", val = 1, def=false},
+            -- {id = "osp", type = "check", val = 1, def=false},
+            {id = "cost", type = "check", val = 1, def=true},
+            {id = "impair", type = "check", val = 1, def=true},
+            {id = "mutant", type = "check", val = 1, def=true},
+            {id = "burer", type = "list", val = 2, def=0, content= {{0,"bclassic"} , {1,"bmeaty"} , {2,"bsith"}}},
+            {id = "legs", type = "check", val = 1, def=true},
+        }
+    }
+    return op
+end

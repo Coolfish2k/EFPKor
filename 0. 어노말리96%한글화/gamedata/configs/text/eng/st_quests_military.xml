@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON MILITARY WAREHOUSES MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- 루카쉬 (Freedom Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_text">
+		<text>다음 임무를 받아야 한다.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_about">
+		<text>다음은 여기로 가봐. 친구라 할순 없겠지만 너의 도움이 필요할 것 같아.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_finish">
+		<text>행운을 빌지.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- 루카쉬 (Freedom Honcho) Assassination Storyline Task- -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>암살</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>루카쉬가 암살을 의뢰했다.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>네가 와서 기뻐. 해줬으면 하는 게 있어. 우리의 공동의 적은 제거되어야 하니까. 녀석은 상당히 위험해. 당장 끝내버려.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>대단한데! 고마워.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- 루카쉬 (Freedom Honcho) Freedom Assault on Monolith Storyline Task -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>모노리스 소탕</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>루카쉬가 모노리스를 향한 소탕 임무에서 프리덤을 이끌어 달라 요청받았다.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>모노리스 부대가 우리 봉쇄를 뚫고 있어. 그런데 말이야? 한 번쯤은 말이야, 그놈들 한테 싸움을 걸고 싶어서 말이지. 돌격대를 모집했어. 네가 그들을 이끌고 모노리스 놈들을 소탕해 주길 바래 - 저들을 데려가!</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>세상에, 역시 믿음직스럽다니까.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- 루카쉬 (Freedom Honcho) Search Lab X-8 (Outskirts) Storyline Task -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+		<text>연구소 X-8 탐색</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+		<text>X-8 연구소를 수색해라.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+		<text>'클리어 스카이'의 전 멤버들이 얼마 전에 'X-8 연구소'를 점령했을지도 모른다는 정보를 받았어. 연구실을 조사해서 그들이 그곳에 남겨진 문서를 수복할 수 있는지 알아봐 줘.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>잘했어. 아주 훌륭해.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	December 08, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Пропущенный диалог Лукаша -->
+
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+		<text>프리덤!</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+		<text>루카쉬가 15,000 RU을 내면 프리덤의 삶의 방식을 소개시켜 줄 것이다.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+		<text>헤헤, 너 프리덤의 달콤한 맛을 찾고 있는 것 같구만, 그렇지? 그래 가능하지. 스스로에게 한 가지만 물어본다면 말이야. "내가 상남자가 될 자격이 있나?" 우리와 함께가려면 죽음의 등불보다 더 큰 돌이 있어야 하니까. 물론 여기선 좋은 시간을 보낼 수 있을 거야. 하지만 일이 터지면 광신도, 파시스트, 정부로부터 형제들을 보호할 준비가 되어 있어야 해. 우리는 존의 자유를 위해 싸우지. 우리가 무정부주의 유토피아를 세우는데 도움이 되길 바란다면, 15,000 루블을 적립해 주겠어? 그러면 내가 다른 사람들에게 널 소개해 주지.</text>
+	</string>
+	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+		<text>잘했어. 드디어 넌 자유가 됐군. 경고 하나 하자면 다른 맴버들의 자유를 방해하는 자는 블러드써커 마을에서 자게 될 거야. 이 근처에선 다른 사람들을 배려해야 한다는 것을 기억하라고.</text>
+	</string>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- 루카쉬 (Freedom Honcho) Payoff Change Factions Task -->
+
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+		<text>프리덤!</text>
+	</string>
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+		<text>루카쉬가 15,000 RU을 내면 프리덤의 삶의 방식을 소개시켜 줄 것이다.</text>
+	</string>
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+		<text>헤헤, 너 프리덤의 달콤한 맛을 찾고 있는 것 같구만, 그렇지? 그래 가능하지. 스스로에게 한 가지만 물어본다면 말이야. "내가 상남자가 될 자격이 있나?" 우리와 함께가려면 죽음의 등불보다 더 큰 돌이 있어야 하니까. 물론 여기선 좋은 시간을 보낼 수 있을 거야. 하지만 일이 터지면 광신도, 파시스트, 정부로부터 형제들을 보호할 준비가 되어 있어야 해. 우리는 존의 자유를 위해 싸우지. 우리가 무정부주의 유토피아를 세우는데 도움이 되길 바란다면, 15,000 루블을 적립해 주겠어? 그러면 내가 다른 사람들에게 널 소개해 주지.</text>
+	</string>
+	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+		<text>잘했어. 드디어 넌 자유가 됐군. 경고 하나 하자면 다른 맴버들의 자유를 방해하는 자는 블러드써커 마을에서 자게 될 거야. 이 근처에선 다른 사람들을 배려해야 한다는 것을 기억하라고.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- 루카쉬 (Freedom Honcho) Stop Enemy Assault Task -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>적 파견대 제거</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>스토커 무리가 문제를 일으키고 있다. 루카쉬는 그들을 제거하길 바란다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>프리덤을 돕고싶어? 정착하려 하지 않는 망할 놈들이 좀 있어. 마침 슬슬 혼을 내줘야 할 때였는데 잘됐네. 이 놈들이 우리 영토에 잠입해 왔어. 그리고 우리 친구들을 향해 총을 쏘고 있다고. 틈만나면 우리 부하들을 가스라이팅하고 앉아 있다니까! 그놈들헤게 개인 공간에 대한 교육을 할 때야. 할 수 있겠어? </text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>아, 훌륭해! 드디어 개같은 평화와 고요함을 얻을 수 있을 거야, 응?</text>
+	</string>
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>습격</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>적지를 급습하는 임무를 맡았다. 일이 끝나면 루카쉬에게 다시 보고해야 한다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>위험하지만 중요한 임무가 있어. 북쪽으로는 모노리스, 남쪽으로는 듀티, 이게 밀실 공포증이 좀 심해지고 있어. 적진을 급습해서 우리 숨통을 좀 터줄 줄 사람이 필요해. 혹시 그런 상남자신가?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>해냈구나, 이야, 상남자보소! 여기, 넌 내 존경과 함께 이걸 받을 자격이 있어.</text>
+	</string>
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+		<text>모노리스 소탕</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+		<text>프리덤 맴버중 일부가 모노리스가 되었다. 그들을 사살해야한다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+		<text>아주 중요한 소식이야. 우리의 프리덤 전사 중 한 명이 모노리스의 영향을 받았어. 하아. 그는 좋은 사람이었고, 그가 외계 크리스탈의 세뇌된 살인자로 계속 살고 싶지 않았다는 것을 알고 있어. 그러니 제발, 그를 찾아서 제거해줘. 그렇지 않으면, 그의 오랜 친구들이 그 일을 해야 할 거야.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>끝났어? 좋아, 힘들었다는 거 알아. 장벽에 있는 우리 형제들은 우리의 전사한 동지를 위해 건배를 할 예정이야. 고마워, 여기 보답이야.</text>
+	</string>
+
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+		<text>문제가 있는 스토커 처치</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
+		<text>마찰이 있는 스토커를 처리해주면 루카쉬가 보상을 해주겠다 약속했다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
+		<text>여기서 멀지 않은 곳에 어떤 녀석이 하나 있거든. 그놈이 우리 동료중 한 명을 죽인 적이 있어. 그건 결코 용서받을 수 없지. 그 일을 맡아겠어? 보수는 하지 걱정마.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+		<text>그래! 우릴 건드리면 어떻게 되는지 잘 알려졌겠지. 약속했던 대로 여기 보상금. 잘했어, 스토커.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+		<text>루카쉬에게 믿을 만한 %s 주기</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
+		<text>루카쉬가 특정 화기를 찾아달라고 부탁했다. 찾는 즉시 그에게 돌아가야 한다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
+		<text>프리덤의 후원자들이 우리에게 무기를 계속 공급해 주곤있어, 다만 개인적인 사정으로 %s을 얻어보려고 하고 있는 중이야. 만약 네가 아주 좋은 상태의 것을 발견한다면, 상당한 금액을 지불하지.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
+		<text>프리덤의 후원자들이 우리에게 무기를 계속 공급해 주곤있어, 다만 개인적인 사정으로 %s을 얻어보려고 하고 있는 중이야. 만약 네가 아주 좋은 상태의 것을 발견한다면, 상당한 금액을 지불하지.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
+		<text>잘 했어. 이정도 총이면 최악의 상황에서도 큰 엄청난 변화를 가져올 수 있을거야. 여기 약속한 대금.</text>
+	</string>
+	
+	<!-- 루카쉬 (Freedom Honcho) Decimate the Enemy Task -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+		<text>총쏘는 즐거움</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_text">
+		<text>루카쉬가 프리덤의 적들 중 일부를 지명했다. %s를 가져다 주면 보상을 받을 수 있다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
+		<text>음, 지금 우리는 곤경에 처해 있어. 북쪽으로는 광신도, 남쪽으로는 과격분자, 그리고 약간의 군바리들이 충분히 거슬릴 정도로 있지. 그들에게 우리의 의지를 어떻게 생각하는지 오래된 방식으로 설명해 주겠어? 달콤한 보상이 있을 거야, 걱정하지 말라구.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_about">
+		<text>음, 지금 우리는 곤경에 처해 있어. 북쪽으로는 광신도, 남쪽으로는 과격분자, 그리고 약간의 군바리들이 충분히 거슬릴 정도로 있지. 그들에게 우리의 의지를 어떻게 생각하는지 오래된 방식으로 설명해 주겠어? %s를 가져다 주면 달콤한 보상이 있을 거야, 걱정하지 말라구.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
+		<text>잘했어. 여기 보상.</text>
+	</string>
+	
+	<!-- 루카쉬 (Freedom Honcho) Mortal Sin Unquenchable Flame Tasks -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
+		<text>어이. 전에 그 씬 놈들 기억해? 지난번에 너가 그놈들 엉덩이를 걷어차줬을 때 교훈을 얻지 못한 모양이야. 앙코르 시간이라는 거지. 로키가 그놈들이 자톤의 버려진 변전소 작업장 주변에서 멋대로 행동하고 있는 것을 발견했어. 가서 끝장내 줘.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
+		<text>프리덤의 신입들 중엔 널 제2의 람보라고 생각하는 녀석들이 있더라고. 하하. 너가 그런 임무에서 살아서 돌아온다는 게 그들에게 좋은 자극이 되어주고 있어. 그래서 여기. 우리 람보를 위해서.</text>
+	</string>
+
+	<!-- 루카쉬 (Freedom Honcho) Rescue the Freedom Agent Task -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
+		<text>존레이커</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_text">
+		<text>프리덤 스파이를 적에게서 구출해야 한다. 스파이는 임무에 의해 적 분대와 같이 나에게 대응사격을 할 것이며 SVD를 지니고 있다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_about">
+		<text>내 부하 중 한 명이 현재 적들 틈에 숨어들어갔어. 유능한 사람이기 때문에, 우리의 연락 시간을 놓치기 시작하면, 걱정이 될 수밖에 없더군. 예감이 들어. 아마 이미 의심을 사고 있을 거고 그와 함께 있는 분대가 당장이라도 그를 영원히 침묵시킬 기회를 기다리고 있을거야. 그를 구해서 집에 데려와야 해. 그가 위치 정보를 남겼지만 다른 녀석들과 함께 있어. 나머지를 제거하고 내 부하를 무사히 데려와줘. SVD를 들고 있으니 알아볼 수 있을 거야. 주의할 점은 니가 공격을 시작하면 그녀석도 너에게 응사를 할 것입니다. 아마 제대로 겨냥하진 않을 테지만. 그러니 혹시라도 실수 하지마.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_finish">
+		<text>잘했어. 그가 알아낸 정보라면 적들도 신경을 곤두세워야 하겠지.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_join">
+		<text>이봐, 멈춰! 잠깐! 난 프리덤 스파이야! 총 쏴서 미안해. 혹시나 하는 마음에 어느정도 응사는 했어야 했어. 운좋게 해냈군. 나를 군 창고에 안전하게 데려다 준다면, 루카쉬가 좋은 보상을 해줄 거야. 앞장서, 따라갈게!</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_leave">
+		<text>구해줘서 고마워, 스토커! 다음에 보자!</text>
+	</string>
+	
+	
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_name">
+		<text>왜 우리는 멋진 것들을 가질 수 없는가?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_text">
+		<text>루카쉬가 코돈에 있는 군용 차량을 존에 피해를 입히기 전에 파괴하라고 요청했다. 폭발물을 챙겨야겠다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_about">
+		<text>남는 폭발물 좀 있나? 만약 그렇다면, 큰 작업을 하나 준비했놨지. 현재, 군대는 병력을 증강하기 위해 장갑차를 존으로 들여오고 있는 중이야. 공평하다고 생각해? 이 창고에 있는 썩어가는 녹슨 쓰레기들을 봐! 만약 우리가 존에서 탱크를 가질 수 없다면, 정부도 또한 그럴 수 없어! 첩보원들은 이 차량들이 코든 검문소에 배치될 것이라고 하더군. 걱정 마, 네가 접근할 때, 그들이 차량들이 비어있는지 여부를 확인할 거야. 아마 스위스 치즈처럼 되기 전에 파괴할 기회가 있겠지. 해볼래? 그럼 감자 몇개 챙겨서 가봐!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Mechanic) -->
+	
+	<!-- FIND MUTANT MEAT FOR FREEDOM TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+		<text>프리덤에게 사냥감 가져가기</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+		<text>스킨플린트가 %s를 가져오면 돈을 주겠다고 말했다. 사냥에 나설 시간이다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+		<text>어이, 돌연변이 몇 마리 잡아볼래?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+		<text>그래서, 우리가 지금 밥 말리의 생일을 축하하기 위해 저녁 파티를 계획하고 있거든. 늦는게 안하는것보단 낫다고. 어쨌든, 잔치에 먹을 고기가 많으면 많을 수록 좋아. 그러니 밖에 나갈일이 있으면, %s를 좀 가져다 줘. 네 시간을 가치 있게 만들어 줄 테니까. 너를 절대 잊지 않을 거야!</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+		<text>아, 요리사의 손에 넘기면 맛있는 식사가 될 거야. 여기. 보드카나 빨면서 축하하는 거 어때?</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+		<text>잠긴 케이스를 스킨플린트에 전달</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_text">
+		<text>스킨플린트에게 전달할 배송품이 있다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_about">
+		<text>우리 택배 기사 중 한 명이 오늘 택배를 가지고 오기로 되어 있었어. 슬프게도, 듀티 순찰대가 그들을 추적했을 때 물건을 안전한 곳에 숨겨야만 했어. 그들이 네트워크에서 보이지 않게 되기 전에 내게 비밀 좌표를 보냈으니, 네가 물건을 가져와줄 의향이 있다면, 내가 그들의 봉급을 대신 지급하지.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+		<text>어디 보자...아, 네, 바로 우리가 원하던 거야. 고마워 스토커, 여기 돈.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Trader) Night Terror Task -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+		<text>어둠 속	유령</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_text">
+		<text>블러드서커 마을에 출몰하는 끔찍한 돌연변이를 사냥하면 스킨플린트가 돈을 줄 것이다. 정신을 바짝 차려야한다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
+		<text>요즘 캠프 주변에서 잠에 드는게 더 힘들어졌어. 매일 밤 비명소리를 들려와. 그리고 우리가 어떤 조치를 취하면 그 전에, 길 위의 또 다른 부하가 어둠에 삼켜져버리지. 다음날 그들의 엉킨 유해가 블러드서커 마을에 널려있는 것을 발견되. 루카쉬는 마을에 희귀한 종류의 흡혈귀가 있을지도 모른다고 생각하고 있어. 밤에만 나오는 더 어둡고, 강하고, 더 잔인한 개자식이지. 우리 부대원들 중 몇몇은 운좋게 그녀석이 듀티쪽으로 이동해서 난리 치는걸 마냥 기다리는 건 별로 좋은 생각이 아니라고 생각하고 있지. 밤이 깊어지면 마을에서 그녀석을 죽여. 그 개자식을 죽여 준다면 루블로 샤워시켜 주지. 그럼 드디어 다시 잠을 잘 수 있게 될거야. 아니면 최소한 브레인 스코처에 다가가는 것만큼 좋은 느낌이겠지. </text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
+		<text>와, 정말 해냈구나! 이 미치광이녀석! 캠프에 좋은 소식을 전하지. 너 같은 사냥꾼이 있어서 다행이야.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Skinflint (Freedom Trader) Scarce Supplies Task -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+		<text>희소한 보급품</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_text">
+		<text>스킨플린트에게 %s이(가) 필요하다. 그를 돕기로 했다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_about">
+		<text>우리들은 가끔 너무 모험적이지. 문제는 그들을 치료할 물자가 없어.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_about">
+		<text>그래, '자유'에서 삶이 얼마나 거칠고 뒤틀릴 수 있는지 알지? 총알을 피하고 광신자들과 싸우는 것은 이 근방의 일상 생활의 일부일 뿐이야. 프리덤의 전사들이 느끼는 기분은 나쁘지지 않지만 의약품도 부족해졌단 말이지. 솔리드는 의료 물자를 정리하기엔 너무 바빠서 이제 그 책임은 나에게 있어. %s을(를) 가지고 와서 도움을 줄 수 있다면, 프리덤의 감사를 받을 수 있을 거야. 그리고 내 루블도.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_finish">
+		<text>아, 훌륭해. 환자가 필요로 할 때까지 솔리드의 눈에 띄지 않게 해줄게 정말 고마워, 스토커</text>
+	</string>
+	
+	
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+		<text>대규모 아티팩트 사냥 장비</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+		<text>음, 살펴봐야 할 중요한 게 있어. 벨라루스에 우리의 운을 건다는 것 말고, 프리덤이 이상현상에 다이빙할 물자를 얻을 수 있는 과학 벙커는 딱 두 군데 있어. 그 이상도 이하도 아닌. 하나는 듀티 깡패들, 군인들, 그리고 다른 한쪽은 놀랍게도 프리피야트에서 가벼운 조깅을 하면 닿는 곳에 있지. 그리고 둘 다... 우리가 맞서 싸우는 바로 그 정부의 후원을 받고 있어. 우리는 지금 새로운 아티팩트 사냥 장비를 비축해야해. 그 장소들 중 하나가 갑자기 우리와 단절될 경우에 대비해서 말이지. 베어 탐지기와 인공물 용기를 도매로 모으기 시작했으면 해. 내가 요청하는 모든 것을 얻는 데 시간이 걸릴 건 알고 있어. 걱정하지 마, 충분히 지불할 테니. 좀 더 굴러서 배터리도 몇 개 사면 보너스도 지급해 주지. 어때?</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+		<text>스크류에게 %s 찾아주기</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+		<text>프리덤의 스크류에게 %s을 찾아주기로 했다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+		<text>요! 어떤 벤티놈들이 다크 밸리에서 새 도구를 주기로 했는데도 나타나지 않았어! 어, 어차피 헛소리였을 테지만, 만약 네가 쓰레기통에서 표준의 보급형 도구를 찾는다면, 가능한 한 빨리 여기로 가져다 줄 수 있어? 네가 도와준다면 답례하지. </text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+		<text>좋아! 일단 네가 %s을 찾으면, 드디어 내가 여기서 공돌이 짓을 좀 해볼 수 있을 거야.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+		<text>고마워, 친구! 내가 너한테 물어보길 잘했어. 해낼 수 있을 줄 알았어.</text>
+	</string>
+
+
+
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+		<text>스크류에게 %s 찾아주기</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+		<text>프리덤의 스크류에게 %s을 찾아주기로 했다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+		<text>그래, 뭐가 잘못된지 알아? 우리는 바로 정부의 오래된 무기 창고들 가운데 한 곳에 앉아 있어. 그 당시 특수부대를 위한 진짜 창고였다고. 하지만 그들이 남겨둔 놀라운 장비들의 절반은 그냥 아무데나 놓여있고, 이것들을 유지할 적절한 도구가 없기 때문에 점점 녹만슬고 있다고.\n\n그래서 이번에는 좀 더 발전된 툴킷을 하나 더 가져와줘. 놈에게 우리가 놈의 전투기를 더 잘 조종할 수 있다는 걸 보여줄 때야!</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+		<text>고마워. 날 도와주면, 앞으로 장비도 좀 더 복잡한 업그레이드를 해줄 수 있을 거야.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+		<text>계속 이래주면 여기 있는 모든 사람들이 널 좋아할 거야. 다시 한 번 고마워.</text>
+	</string>
+
+
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
+		<text>스크류에게 %s 찾아주기</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
+		<text>프리덤의 스크류에게 %s를 찾아주기로 했다.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
+		<text>음, 나쁜 소식은 무기고에 숨겨져 있는 대부분의 큰 총들은 현재로선 구할 수 없다는 거야. 좋은 소식은, 우리가 사용하는 장비들, 심지어 우리의 외골격에 대해서도 상당히 교정 할 수 있다는 거야. 하지만 이제 필요한 건 더 정확한 도구 세트라는 거야.\n\n프리덤 테크놀로지 업을 한 번 더 지원하겠나? 보상은 저번보다 훨씬 더 좋을 거야. 그리고 현장 유지 보수 수업도 열어야겠어!</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
+		<text>하! 이 멋있게 정신나간녀석! 자, 그럼 계속해볼까. 전문가 도구를 가지고 돌아오면, 재능 있는 정비사가 뭘 할 수 있는지 보여주지.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+		<text>프리덤은 이걸 좋아할 거야. 낙하산이 달린 산탄총! 장갑 SMG! 내가 만들어 보겠어! 여기 현찰. 일을 잘 처리해 줬어.</text>
+	</string>
+	
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Defend the barrier -->
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<string id="barrier_defense_monolith_announce">
+		<text>이 글을 읽는 모든 친절한 스토커들에게. 모노리스 병사들이 배리어에 접근하고 있다! 어떤 도움도 절실하다! 보상은 지급하겠다!</text>
+	</string>
+	<string id="barrier_defense_monolith_title">
+		<text>배리어 지키기</text>
+	</string>
+	<string id="barrier_defense_monolith_descr">
+		<text>프리덤이 모노리스의 공격을 격퇴하기 위해 도움을 요청하고 있다.</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_chatter_1">
+		<text>모노리스? 꺼져...</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_2">
+		<text>워, 파밍 천국! 내가 간다!</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_3">
+		<text>군 창고에 갈 계획도 없는데.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_4">
+		<text>보상은? 현금, 아티팩트, 총? 보드카나 마시러 거기까지 기어가진 않을 거야.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_5">
+		<text>젠장! 너무 멀어. 모든 게 끝났을 때쯤이면 도착할 거 같은데. 내 새 라이플을 시험해보고 싶었는데 말이야.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_6">
+		<text>모노리스 죽이기? 공짜로 해주지, 씹새끼들.</text>
+	</string>
+	<string id="barrier_defense_monolith_chatter_7">
+		<text>시체에서 찾은 건 내가 가져도 되지?</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_intro_1">
+		<text>통신 들었어, 방어를 도우러 왔어.</text>
+	</string>
+	<string id="barrier_defense_monolith_intro_2">
+		<text>좋아, 정찰병들은 모노리스 부대가 접근하고 있다고 보고했고, 추가 인원은 환영이야. 자리에 앉아서 광신자들이 나타날 때까지 기다려, 간단하지? 겁에 질려서 도망쳐도 붙잡진 않겠지만 당연히 보상도 잊으라고.</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_outro_1">
+		<text>배리어는 이제 안전해.. 당장은 말이지.</text>
+	</string>
+	<string id="barrier_defense_monolith_outro_2">
+		<text>잘 쏘는데? 스토커, 이 정도면 네 고생에 보답할 수 있을거야. 그리고 긴장을 풀기 위해 조금 더. 네가 와줘서 다행이야!</text>
+	</string>
+	
+	<string id="barrier_defense_monolith_start_announce">
+		<text>정찰병들이 지금 이동 중이라고 한다. 모두 자리를 잡아라!</text>
+	</string>
+	<string id="barrier_defense_monolith_midchatter">
+		<text>씨빨, 조심해! RPG!</text>
+	</string>
+	<string id="barrier_defense_monolith_run_announce">
+		<text>이건 스토커 여름 캠프가 아니야. 당신보다 배짱 좋은 사람들이 네 몫까지 이곳을 지켜주고 있다는 것에 감사해야 할거야.</text>
+	</string>
+	<string id="barrier_defense_monolith_end_announce">
+		<text>형제들 수고했어, 도망가지 않은 모든 자원 봉사자들에게도 감사한다. 내게 와서 보답을 받아.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_announce">
+		<text>이 글을 읽는 모든 친절한 스토커들에게, 많은 좀비 무리가 장벽에 접근하고 있다! 어떤 도움도 절실하다! 보상은 지급하겠다!</text>
+	</string>
+	<string id="barrier_defense_zombie_title">
+		<text>배리어 지키기</text>
+	</string>
+	<string id="barrier_defense_zombie_descr">
+		<text>프리덤이 좀비의 공격을 격퇴하기 위해 도움을 요청하고 있다.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_chatter_1">
+		<text>불쌍한 것들...</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_2">
+		<text>난 됐어. 기분이 좋지 않아.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_3">
+		<text>최소한 모노리스는 아니군.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_4">
+		<text>그만한 가치가 있어야 한거야, 지난번엔 내가 받은 것보다 더 많은 총알을 쓸거 같은데.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_5">
+		<text>젠장! 너무 멀어. 모든 게 끝났을 때쯤이면 도착할 거 같은데. 내 새 라이플을 시험해보고 싶었는데 말이야.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_6">
+		<text>레이더에서 온 좀비? 젠장... 내 친구가 며칠 전에 그곳에 갔었는데.</text>
+	</string>
+	<string id="barrier_defense_zombie_chatter_7">
+		<text>시체에서 찾은 건 내가 가져도 되지?</text>
+	</string>
+	
+	
+	<string id="barrier_defense_zombie_intro_1">
+		<text>네가 보낸 소식을 들었어, 좀비들과 싸우는 걸 도우러 왔어.</text>
+	</string>
+	<string id="barrier_defense_zombie_intro_2">
+		<text>그래, 보통 그것들은 싸움을 많이 하지 않지만, 모노리스와 가짜 병사들 덕분에 인력이 부족하니까, 사격장에서 총을 쏘는 것만큼이나 쉬울 거야.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_start_announce">
+		<text>무리가 돌파하고 있다. 모두 제자리에!</text>
+	</string>
+	<string id="barrier_defense_zombie_midchatter">
+		<text>끝나긴 하는 거야?</text>
+	</string>
+	<string id="barrier_defense_zombie_run_announce">
+		<text>왜? 반격도 못하는 놈들은데 설마 두려운 거야?</text>
+	</string>
+	<string id="barrier_defense_zombie_end_announce">
+		<text>잘했다, 형제들, 마침내 그들은 편히 쉴 수 있어. 자원 봉사자 여러분은 보상을 받으러 제게 오세요.</text>
+	</string>
+	
+	<string id="barrier_defense_zombie_outro_1">
+		<text>이제 다 죽었어. 이번엔 진짜로.</text>
+	</string>
+	<string id="barrier_defense_zombie_outro_2">
+		<text>그래, 그 안에 아는 사람이 없었길 바란다. 때때로 사람들은 모노리스와 싸울 때보다 더 정신이 나간 채 장벽에서 돌아오지. 그 불쌍한 영혼들에게 술 한잔하고, 그 사람들처럼 되지 않게 각자의 최선을 하자고.</text>
+	</string>
+	
+	<string id="barrier_defense_reinforcements_1">
+		<text>얘들아, 우리가 도우러 간다!</text>
+	</string>
+	<string id="barrier_defense_reinforcements_2">
+		<text>방금 출발했어, 곧 도착할 거야.</text>
+	</string>
+	<string id="barrier_defense_reinforcements_3">
+		<text>그정도야? 잘 버티고 있는줄 알았는데!</text>
+	</string>
+	<string id="barrier_defense_reinforcements_4">
+		<text>이미 오고 있어! 서둘러, 그렇지 않으면 모든 걸 잃게 될거야!</text>
+	</string>
+	
+	<!-- Solid (Freedom Medic) -->
+	<string id="mil_freedom_medic_task_1_name">
+		<text>솔리드에게 %s 찾아주기</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_text">
+		<text>프리덤의 솔리드에게 %s 찾아주기로 했다.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_about">
+		<text>매일 치료해야 하는 상황에서 의료용품 보관소에서 제고를 유지하지 못하고 있어. 조만간 붕대와 의료용 키트가 다 떨어질 거야. 약 제조 도구들 중 하나를 찾아줘. 분명히 도움이 될 거야.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_fetch_about">
+		<text>오, 상남자시구만. %s를 여기저기서 찾아다녔어. 모든 종류의 약을 만드는 데 필요한 재료의 적절한 칵테일이 들어있어야 해. 물론, 약용으로. 여기 있는 몇몇 젊은이들이 나에 대해 하는 말들은 알고 있지만. 그런 헛소리는 듣지 마. 내가 필요한 건 괜찮은 키트만 있으면 내 작은 클리닉을 다시 정상 컨디션으로 만들 수 있을 거야.</text>
+	</string>
+	<string id="mil_freedom_medic_task_1_fetch_finish">
+		<text>좋아! 큰 신세를 졌구만!</text>
+	</string>
+
+</string_table>

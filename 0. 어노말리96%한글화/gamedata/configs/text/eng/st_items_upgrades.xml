@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+<!-- Outfits -->
+	<string id="st_upgr_o_health">
+		<text>생명 보조 시스템 프로토타입</text>
+	</string>
+	<string id="st_upgr_o_health_desc">
+		<text>이 패키지에는 착용자의 건강 상태를 관찰하고 비타민, 아드레날린이나 기타 신진대사 물질들을 필요한 만큼 공급해주는 통합 시스템이 포함되어 있습니다.\n
+		</text>
+	</string>
+	
+	<string id="st_upgr_o_bleed">
+		<text>상처 치료 시스템 프로토타입</text>
+	</string>
+	<string id="st_upgr_o_bleed_desc">
+		<text>이 패키지에는 야전에서 약품 사용을 지속적으로 관리하기 위한 의료용 기구가 포함되어 있습니다.\n
+		</text>
+	</string>
+	
+	<string id="st_upgr_o_armor">
+		<text>강화된 방탄용 안감</text>
+	</string>
+	<string id="st_upgr_o_armor_desc">
+		<text>이 패키지에는 다양한 종류의 케블라, 티타늄, 베릴, 알루미늄 그리고 카본 섬유 판 및 그물망들을 포함하고 있습니다. 높은 점착력과 훌륭한 총탄 저지력을 가지고 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_damage">
+		<text>보조 장갑판</text>
+	</string>
+	<string id="st_upgr_o_damage_desc">
+		<text>이 패키지에는 특수하게 제작된 다양한 소재의 장갑판이 포함되어 있어, 방탄력을 약간 높여줍니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_durability">
+		<text>견고한 장갑판과 옷감</text>
+	</string>
+	<string id="st_upgr_o_durability_desc">
+		<text>이 패키지에는 중장비에 사용되는 티타늄과 알루미늄 합금으로 된 튼튼한 장갑판과, 가벼운 장비에 사용되는 폴리머 안감이 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_power">
+		<text>플라스틱 및 합성 부품</text>
+	</string>
+	<string id="st_upgr_o_power_desc">
+		<text>이 패키지에는 다양한 장갑복에서 사용되었던 합성 섬유와 플라스틱 부품들이 포함되어 있으며, 방어구의 무게를 줄여 기동성과 내구성을 향상시키기 위해 고안되었습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_chem">
+		<text>화학적 방화 소재와 안감</text>
+	</string>
+	<string id="st_upgr_o_chem_desc">
+		<text>이 패키지에는 화학적인 영향으로부터 방어구의 보호 성능을 향상시킬 수 있는 유해한 직물 및 재료 세트가 들어 있습니다. 이러한 소재들은 연소 시 가스 생성 과정에서의 화학 반응에 간섭할 수 있는 한편, 몇몇 소재에서는 보호막 내부에서 부풀어오르는 화학 물질들을 포함하고 있어, 더욱 강한 단열 효과를 제공합니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_burn">
+		<text>방화 옷감 및 안감</text>
+	</string>
+	<string id="st_upgr_o_burn_desc">
+		<text>이 패키지에는 불이 번지는 것을 늦추거나 막아주고, 불의 세기를 약화시키는 독특한 기능을 가진 보호용 옷감과 소재들이 포함되어 있습니다. 이러한 소재들 중 일부는 다양한 길이, 너비, 두께와 형태를 가진 마그네슘 성분이 포함된 내화성 물질입니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_shock">
+		<text>절연용 직물 및 안감</text>
+	</string>
+	<string id="st_upgr_o_shock_desc">
+		<text>이 패키지에는 보호용 콘스탄탄, 마그네슘 그리고 실리콘 안감 세트가 포함되어 있으며, 방어구에 가해지는 전기 충격을 줄여주도록 고안되었습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_psi">
+		<text>보호 코팅된 피복</text>
+	</string>
+	<string id="st_upgr_o_psi_desc">
+		<text>이 패키지에는 머리 보호구나 장갑복에 사용되는 코팅용 안감과 알루미늄 처리된 내피 세트와 함께, 정신파의 효과를 약간 감소시켜 주는 전파 방해용 고무 소재가 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_rad">
+		<text>활성 필터와 방사능 방호 소재</text>
+	</string>
+	<string id="st_upgr_o_rad_desc">
+		<text>보호용 필터 한 세트로, 호흡기를 통해 신체로 다양한 독성 물질이나 화학 물질들이 침투하는 것을 막아줍니다. 알파 및 감마선 입자의 강도를 저감시키기 위한 고밀도 소재들 또한 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_carry">
+		<text>무게 분산용 고정 시스템</text>
+	</string>
+	<string id="st_upgr_o_carry_desc">
+		<text>이 패키지에는 무게 분산을 위한 다양한 고정끈 세트가 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_arty">
+		<text>부착물 고정용 물품</text>
+	</string>
+	<string id="st_upgr_o_arty_desc">
+		<text>이 패키지에는 동시에 사용할 수 있는 모듈이나 아티팩트 컨테이너의 숫자를 늘려주는 의복 벨트 부착물이 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_run">
+		<text>유압식 서보 드라이브 증폭 시스템</text>
+	</string>
+	<string id="st_upgr_o_run_desc">
+		<text>이 패키지에는 1세대 및 2세대 외골격에 사용되는 강화 프로토타입 서보 드라이브가 포함되어 있어, 사용자가 외골격을 입고 달릴 수 있도록 합니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_o_weight">
+		<text>경량화 소재</text>
+	</string>
+	<string id="st_upgr_o_weight_desc">
+		<text>이 패키지에는 다양한 길이, 너비, 두께 및 모양은 물론 다양한 기능을 가진 경량 폴리머 소재 세트가 포함되어 있습니다.\n</text>
+	</string>
+
+<!-- Weapons -->
+	<string id="st_upgr_w_weight">
+		<text>이동형 역가중 부품</text>
+	</string>
+	<string id="st_upgr_w_weight_desc">
+		<text>이 패키지에는 다양한 유형의 무기들에 사용되는 경량 폴리머 부품 세트가 포함되어 있습니다. 폴리머 부품의 유행은 이미 성공을 거두었을 뿐만 아니라, 상당히 인기있는 개조 부품으로서 자리잡게 되었습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_muffle">
+		<text>총열 외부 나사깎기용 부품</text>
+	</string>
+	<string id="st_upgr_w_muffle_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 총열 외부 나사깎기용 부품 세트가 포함되어 있습니다. 총열을 깎아내면 소음기를 설치할 수 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_grenade_mount">
+		<text>총열 하단 유탄발사기 거치대</text>
+	</string>
+	<string id="st_upgr_w_grenade_mount_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 외부 총열 하단 유탄발사기 거치대 세트가 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_reliability">
+		<text>자동 가스 조절기</text>
+	</string>
+	<string id="st_upgr_w_reliability_desc">
+		<text>이 패키지에는 다양한 종류의 무기들에 사용되는 특수한 조절 장치 세트가 포함되어 있습니다. 무기에 먼지가 끼는 것을 막아줍니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_speed">
+		<text>총열 추가 나사모양 홈</text>
+	</string>
+	<string id="st_upgr_w_speed_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 추가 나사모양 홈 개조용 도구들이 포함되어 있습니다. 추가적인 나사모양 홈이 설치된 총열은 상당한 정도의 반동 증가를 대가로 총구 초속과 정확도를 향상시켜 줍니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_recoil">
+		<text>추가 가스 피스톤</text>
+	</string>
+	<string id="st_upgr_w_recoil_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 추가 가스 피스톤 세트가 포함되어 있습니다. 추가 피스톤은 역가중 방향으로 움직여서, 노리쇠 장치의 움직임으로 인해 생기는 반발력을 상쇄해 줍니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_magazine">
+		<text>대용량 탄창 세트</text>
+	</string>
+	<string id="st_upgr_w_magazine_desc">
+		<text>이 패키지에는 다양한 무기의 각 구경별로 더 많은 용량을 가진 탄창 세트가 포함되어 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_scope">
+		<text>광학식 조준기 거치대 세트</text>
+	</string>
+	<string id="st_upgr_w_scope_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 광학식 조준기 세트가 포함되어 있습니다. 근거리, 중거리는 물론 장거리 전투에서 사용되는 조준기들을 거치할 수 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_dispersion">
+		<text>균형유지 부품</text>
+	</string>
+	<string id="st_upgr_w_dispersion_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 균형유지용 부품 세트가 포함되어 있습니다. 지지대 부위에 합성 부품을 설치하면 지지대가 설계대로 오차없이 움직일 수 있게 하여, 정확도를 높여줍니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_calibre">
+		<text>구경 전환 부품 세트</text>
+	</string>
+	<string id="st_upgr_w_calibre_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 구경 전환 부품 세트가 포함되어 있습니다. 무기의 기계적 구조와 자동화 부품들에 대한 복합적이고, 총체적인 교체를 통해, 신뢰성을 대가로 구경을 전환할 수 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_inertion">
+		<text>다양한 모양의 인체공학적 총몸</text>
+	</string>
+	<string id="st_upgr_w_inertion_desc">
+		<text>이 패키지에는 다양한 무기들에 사용되는 인체공학적 총몸 세트가 포함되어 있습니다. 이러한 교정은 특히 완전한 불펍 형태의 총몸에 사용되는 총열에 적용되어, 무기의 유지관리를 좀 더 단순하게 만들어줍니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_rpm">
+		<text>티타늄 복귀 장치 지지대</text>
+	</string>
+	<string id="st_upgr_w_rpm_desc">
+		<text>이 패키지에는 다양한 무기에 사용되는 티타늄 지지대 세트가 포함되어 있습니다. 티타늄 지지대는 기존 지지대에 비해 더욱 높은 연사 속도를 견뎌낼 수 있습니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_scope_mount">
+		<text>광학식 조준경 거치대 세트</text>
+	</string>
+	<string id="st_upgr_w_scope_mount_desc">
+		<text>이 패키지에는 다양한 무기에 사용되는 광학식 조준경 거치대가 포함되어 있습니다. 광학식 조준경을 부착하기 위한 거치대를 설치할 수 있도록 합니다.\n</text>
+	</string>
+	
+	<string id="st_upgr_w_firemode">
+		<text>방아쇠 기계장치 세트</text>
+	</string>
+	<string id="st_upgr_w_firemode_desc">
+		<text>이 패키지에는 다양한 무기에 사용되는 방아쇠 장치 세트가 포함되어 있습니다. 무기의 자동화 부품들을 다양한 점사 및 연사 모드로의 전환에 적합하도록 개선해줍니다.\n</text>
+	</string>
+
+</string_table>

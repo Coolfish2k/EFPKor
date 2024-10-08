@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_addon_companion_quick_menu_tooFar">
+		<text>분대원들이 내 말을 들을 수 없어. 좀 더 가까이 가거나 PDA로 연락해야 해.</text>
+	</string>
+
+	<string id="st_addon_companion_quick_menu_followMe">
+		<text>따라와</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_waitHere">
+		<text>기다려</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stopStealth">
+		<text>은신을 그만둬</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stealth">
+		<text>은신해</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayClose">
+		<text>가까이 와</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayFar">
+		<text>멀리 떨어져</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_fireAtWill">
+		<text>마음대로 쏴</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+		<text>전투는 피하되, 나를 지원해줘</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombat">
+		<text>전투를 피해</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
+		<text>시신은 수색하지 마</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_lootCorpses">
+		<text>시신을 수색해</text>
+	</string>
+	
+</string_table>

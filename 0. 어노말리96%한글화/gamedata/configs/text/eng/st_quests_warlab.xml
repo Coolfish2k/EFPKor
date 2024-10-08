@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="sar_perception">
+		<text>북쪽으로 향하는 길.</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>모노리스의 배후를 만나기.</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>원고에 언급된 실험실을 찾아 무엇이 감추어져 있는지 알아내기.</text>
+	</string>
+	<string id="sar_perception_3">
+		<text>해독기를 사용하여 문을 열기.</text>
+	</string>
+	<string id="sar_perception_4">
+		<text>경비병들을 물리치고 방으로 들어가기.</text>
+	</string>
+	<string id="sar_perception_5">
+		<text>문서에서 입장 암호를 확인하기.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_title">
+		<text>알 수 없는 독립체를 처리하기.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_1">
+		<text>독립체와 대화하기.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_2">
+		<text>세 가지 물리적 형태의 전쟁연구소 독립체를 제거하고 문을 열기.</text>
+	</string>
+</string_table>

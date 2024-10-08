@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_st_abandoned_sawmill">
+		<text>버려진 제재소 (자톤)</text>
+	</string>
+	<string id="ui_st_abandoned_school">
+		<text>버려진 학교 (죽은 도시)</text>
+	</string>
+	<string id="ui_st_abandoned_village">
+		<text>버려진 마을 (군 창고)</text>
+	</string>
+	<string id="ui_st_brain_scorcher">
+		<text>브레인 스코처 (레이더)</text>
+	</string>
+	<string id="ui_st_car_park">
+		<text>주차장 (코돈)</text>
+	</string>
+	<string id="ui_st_construction_site">
+		<text>건설 부지 (무법지대)</text>
+	</string>
+	<string id="ui_st_container_warehouse">
+		<text>컨테이너 창고 (주피터)</text>
+	</string>
+	<string id="ui_st_cultural_center">
+		<text>문화의 전당 (프리피야트)</text>
+	</string>
+	<string id="ui_st_eastern_factory">
+		<text>동쪽 공장 (검은 계곡)</text>
+	</string>
+	<string id="ui_st_factory_complex">
+		<text>공업 단지 (아그로프롬)</text>
+	</string>
+	<string id="ui_st_hermanns_bunker">
+		<text>헤르만의 벙커 (주피터)</text>
+	</string>
+	<string id="ui_st_hidden_base">
+		<text>숨겨진 기지 (늪지대)</text>
+	</string>
+	<string id="ui_st_kopachy_village">
+		<text>코파치 마을 (주피터)</text>
+	</string>
+	<string id="ui_st_lodging_house">
+		<text>숙소 (로스토크)</text>
+	</string>
+	<string id="ui_st_makeshift_barracks">
+		<text>간이 병영 (로스토크</text>
+	</string>
+	<string id="ui_st_military_base">
+		<text>군 기지 (군 창고)</text>
+	</string>
+	<string id="ui_st_northern_factory">
+		<text>북쪽 공징 (검은 계곡)</text>
+	</string>
+	<string id="ui_st_river_port">
+		<text>강 항구 (프리피야트 외곽)</text>
+	</string>
+	<string id="ui_st_rookie_village">
+		<text>초보자 마을 (코돈)</text>
+	</string>
+	<string id="ui_st_research_institute">
+		<text>연구 시설 (아그로프롬)</text>
+	</string>
+	<string id="ui_st_sakharovs_bunker">
+		<text>사하로프의 벙커 (얀타 호수)</text>
+	</string>
+	<string id="ui_st_skadovsk_shipwreck">
+		<text>스카도브스크 난파선 (자톤)</text>
+	</string>
+	<string id="ui_st_southern_checkpoint">
+		<text>남쪽 거점 (코돈)</text>
+	</string>
+	<string id="ui_st_sports_center">
+		<text>스포츠 센터 (죽은 도시)</text>
+	</string>
+	<string id="ui_st_train_hanger">
+		<text>기차 격납고 (쓰레기장)</text>
+	</string>
+	<string id="ui_st_tunnel_entrance">
+		<text>터널 출입구 (주피터)</text>
+	</string>
+	<string id="ui_st_tunnel_refuge">
+		<text>터널 은신처 (아그로프롬 지하)</text>
+	</string>
+	<string id="ui_st_tuzla_outpost">
+		<text>투즐라 전초기지 (늪지대)</text>
+	</string>
+	<string id="ui_st_yanov_station">
+		<text>야노브 역 (주피터)</text>
+	</string>
+	<string id="ui_st_pripyat_hospital">
+		<text>병원 (프리피야트 외곽)</text>
+	</string>
+	<string id="ui_st_red_forest_old_mine">
+		<text>광산 (붉은 숲)</text>
+	</string>
+	
+
+	<!-- Last Day -->
+	<string id="ui_st_atp">
+		<text>차고 (코돈)</text>
+	</string>
+	<string id="ui_st_barricades_at_the_car">
+		<text>자동차 바리케이드 (아그로프롬)</text>
+	</string>
+	<string id="ui_st_camp_at_crane">
+		<text>크레인의 캠프 (체르노빌 NPP)</text>
+	</string>
+	<string id="ui_st_camp_on_a_hillock">
+		<text>언덕 위의 캠프 (트럭 묘지)</text>
+	</string>
+	<string id="ui_st_check_point">
+		<text>거점 (주피터)</text>
+	</string>
+	<string id="ui_st_crossroads">
+		<text>교차로 (트럭 묘지)</text>
+	</string>
+	<string id="ui_st_curve_beam">
+		<text>배수로 (군 창고)</text>
+	</string>
+	<string id="ui_st_deadlock_of_a_tunnel">
+		<text>터널 (아그로프롬)</text>
+	</string>
+	<string id="ui_st_destroyed_bridge">
+		<text>폐허가 된 다리 (검은 계곡)</text>
+	</string>
+	<string id="ui_st_eastern_checkpoint">
+		<text>동쪽 거점 (트럭 묘지)</text>
+	</string>
+	<string id="ui_st_fallen_helicopter">
+		<text>추락한 헬리콥터 (군 창고)</text>
+	</string>
+	<string id="ui_st_farm_base_neytral">
+		<text>농장 (코돈)</text>
+	</string>
+	<string id="ui_st_filling_station">
+		<text>순찰 기지 (검은 계곡)</text>
+	</string>
+	<string id="ui_st_flea_market">
+		<text>벼룩시장 (쓰레기장)</text>
+	</string>
+	<string id="ui_st_forest_area">
+		<text>산림 관리소 (자톤)</text>
+	</string>
+	<string id="ui_st_halt_behind_a_dump">
+		<text>간이역 (트럭 묘지)</text>
+	</string>
+	<string id="ui_st_hideout">
+		<text>은신처 (프리피야트 외곽)</text>
+	</string>
+	<string id="ui_st_house_on_the_hill">
+		<text>언덕 위의 집</text>
+	</string>
+	<string id="ui_st_kbo_monolith">
+		<text>유빌레이니 서비스 센터 (프리피야트 외곽)</text>
+	</string>
+	<string id="ui_st_machine_yard">
+		<text>기계 더미 (늪지대)</text>
+	</string>
+	<string id="ui_st_military_base_two">
+		<text>군 기지 (발생기)</text>
+	</string>
+	<string id="ui_st_mine_koper">
+		<text>권양탑 (붉은 숲)</text>
+	</string>
+	<string id="ui_st_outpost_of_dolg">
+		<text>듀티 전초기지 (쓰레기장)</text>
+	</string>
+	<string id="ui_st_parking_at_kamaz">
+		<text>주차장 (무법지대)</text>
+	</string>
+	<string id="ui_st_parking_on_a_farm">
+		<text>농장의 주차장 (검은 계곡)</text>
+	</string>
+	<string id="ui_st_parking_under_an_embankment">
+		<text>제방 아래쪽 (늪지대)</text>
+	</string>
+	<string id="ui_st_pole_bandit_base">
+		<text>밴딧 쉼터 (초원)</text>
+	</string>
+	<string id="ui_st_pole_stalker_village">
+		<text>후토로크 (초원)</text>
+	</string>
+	<string id="ui_st_post_of_mercenaries">
+		<text>용병 거점 (군 창고)</text>
+	</string>
+	<string id="ui_st_power_station">
+		<text>외부 운동장 (체르노빌 NPP)</text>
+	</string>
+	<string id="ui_st_small_village">
+		<text>작은 마을 (검은 계곡)</text>
+	</string>
+	<string id="ui_st_prachechnya">
+		<text>빨래방 (프리피야트 외곽)</text>
+	</string>
+	<string id="ui_st_processing_station">
+		<text>폐기물 처리 시설 (자톤)</text>
+	</string>
+	<string id="ui_st_ruins">
+		<text>폐허 (버려진 병원)</text>
+	</string>
+	<string id="ui_st_store_books_a18">
+		<text>서점 (프리피야트 외곽)</text>
+	</string>
+	<string id="ui_st_yard">
+		<text>앞마당 (리만스크)</text>
+	</string>
+	<string id="ui_st_yard_with_a_terrace">
+		<text>안뜰이 있는 테라스 (리만스크)</text>
+	</string>
+</string_table>

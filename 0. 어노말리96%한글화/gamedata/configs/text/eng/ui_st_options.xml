@@ -1,0 +1,2366 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!--
+	Options
+-->
+
+	<string id="ui_mm_options_n">
+		<text>설정</text>
+	</string>
+	<string id="ui_mm_btn_apply_all">
+		<text>모두 적용</text>
+	</string>
+	
+<!-- Options menu -->
+	<string id="ui_mm_menu_video">
+		<text>비주얼</text>
+	</string>
+		<string id="ui_mm_menu_basic">
+			<text>기본 설정</text>
+		</string>
+		<string id="ui_mm_menu_advanced">
+			<text>고급 설정</text>
+		</string>
+		<string id="ui_mm_menu_hud">
+			<text>UI/HUD (인터페이스)</text>
+		</string>
+		<string id="ui_mm_menu_player">
+			<text>플레이어</text>
+		</string>
+		<string id="ui_mm_menu_weather">
+			<text>날씨</text>
+		</string>
+		<string id="ui_mm_menu_night">
+			<text>밤</text>
+		</string>
+	<string id="ui_mm_menu_sound">
+		<text>소리</text>
+	</string>
+		<string id="ui_mm_menu_general">
+			<text>일반</text>
+		</string>
+		<string id="ui_mm_menu_environment">
+			<text>환경</text>
+		</string>
+		<string id="ui_mm_menu_radio">
+			<text>라디오</text>
+		</string>
+	<string id="ui_mm_menu_control">
+		<text>컨트롤</text>
+	</string>
+		<string id="ui_mm_menu_keybind">
+			<text>키 설정</text>
+		</string>
+	<string id="ui_mm_menu_gameplay">
+		<text>게임플레이</text>
+	</string>
+		<string id="ui_mm_menu_economy_diff">
+			<text>진행 .diff</text>
+		</string>
+		<string id="ui_mm_menu_gameplay_diff">
+			<text>게임플레이 .diff</text>
+		</string>
+		<string id="ui_mm_menu_disguise">
+			<text>위장</text>
+		</string>
+		<string id="ui_mm_menu_fast_travel">
+			<text>빠른 여행</text>
+		</string>
+		<string id="ui_mm_menu_backpack_travel">
+			<text>배낭 여행</text>
+		</string>
+	<string id="ui_mm_menu_other">
+		<text>기타</text>
+	</string>
+	
+	<string id="ui_mm_menu_alife">
+		<text>존</text>
+	</string>
+		<string id="ui_mm_menu_event">
+			<text>이벤트</text>
+		</string>
+		<string id="ui_mm_menu_warfare">
+			<text>워페어</text>
+		</string>
+			<string id="ui_mm_menu_azazel">
+				<text>아자젤</text>
+			</string>
+			<string id="ui_mm_menu_stalker">
+				<text>스토커</text>
+			</string>
+			<string id="ui_mm_menu_bandit">
+				<text>밴딧</text>
+			</string>
+			<string id="ui_mm_menu_csky">
+				<text>클리어 스카이</text>
+			</string>
+			<string id="ui_mm_menu_army">
+				<text>밀리터리</text>
+			</string>
+			<string id="ui_mm_menu_freedom">
+				<text>프리덤</text>
+			</string>
+			<string id="ui_mm_menu_dolg">
+				<text>듀티</text>
+			</string>
+			<string id="ui_mm_menu_ecolog">
+				<text>생태학자</text>
+			</string>
+			<string id="ui_mm_menu_killer">
+				<text>용병</text>
+			</string>
+			<string id="ui_mm_menu_monolith">
+				<text>모놀리스</text>
+			</string>
+			<string id="ui_mm_menu_renegade">
+				<text>배신자(레니게이드)</text>
+			</string>
+			<string id="ui_mm_menu_greh">
+				<text>신</text>
+			</string>
+			<string id="ui_mm_menu_isg">
+				<text>UNISG</text>
+			</string>
+			<string id="ui_mm_menu_zombied">
+				<text>좀비</text>
+			</string>
+		<string id="ui_mm_menu_dynamic_news">
+			<text>다이나믹 뉴스</text>
+		</string>
+
+<!-- Buttons -->
+	<string id="ui_mm_apply">
+		<text>적용</text>
+	</string>
+	<string id="ui_mm_reset">
+		<text>초기화</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>기본값</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>취소</text>
+	</string>
+	<string id="ui_mm_preset">
+		<text>프리셋</text>
+	</string>
+	
+<!-- Messages -->
+	<string id="ui_mm_warning_pending">
+		<text>보류 중인 변경 사항(%s)개가 있습니다.</text>
+	</string>
+	<string id="ui_mm_warning_economy_diff_not_level_present">
+		<text>진행 난이도 요소는 게임내에서만 변경할 수 있습니다.</text>
+	</string>
+	<string id="ui_mm_warning_gameplay_diff_not_level_present">
+		<text>게임 플레이 난이도 요소는 게임내에서만 변경할 수 있습니다.</text>
+	</string>
+	<string id="ui_mm_change_done_restart">
+		<text>변경 사항이 저장되었습니다.\n게임을 다시 시작해야 합니다!</text>
+	</string>
+	<string id="ui_mm_change_done">
+		<text>변경 사항이 저장되었습니다</text>
+	</string>
+	<string id="ui_mm_discard_changes">
+		<text>보류 중인 변경 사항은 삭제됩니다. 계속합니까?</text>
+	</string>
+	
+	
+	<!-- Video - Basic -->
+	<string id="ui_mm_title_video_basic">
+		<text>비디오 설정</text>
+	</string>
+	
+	<string id="ui_mm_lst_renderer_r1">
+		<text>다이렉트X 8 (Basic)</text>
+	</string>
+	<string id="ui_mm_lst_renderer_r2a">
+		<text>다이렉트X 9 (Basic)</text>
+	</string>
+	<string id="ui_mm_lst_renderer_r2">
+		<text>다이렉트X 9 (Normal)</text>
+	</string>
+	<string id="ui_mm_lst_renderer_r2.5">
+		<text>다이렉트X 9 (Enhanced)</text>
+	</string>
+	<string id="ui_mm_lst_renderer_r3">
+		<text>다이렉트X 10 (Enhanced)</text>
+	</string>
+	<string id="ui_mm_lst_renderer_r4">
+		<text>다이렉트X 11 (Enhanced)</text>
+	</string>
+	<string id="ui_mm_lst_pres_default">
+		<text>중간</text>
+	</string>
+	<string id="ui_mm_lst_pres_extreme">
+		<text>최상</text>
+	</string>
+	<string id="ui_mm_lst_pres_high">
+		<text>높음</text>
+	</string>
+	<string id="ui_mm_lst_pres_low">
+		<text>낮음</text>
+	</string>
+	<string id="ui_mm_lst_pres_minimum">
+		<text>감자모드</text>
+	</string>
+	<string id="ui_mm_lst_fullscreen">
+		<text>전체화면</text>
+	</string>
+	<string id="ui_mm_lst_borderless">
+		<text>테두리 없는 창모드</text>
+	</string>
+	<string id="ui_mm_lst_windowed">
+		<text>창모드</text>
+	</string>
+	
+	<string id="ui_mm_video_basic_renderer">
+		<text>렌더링 유형</text>
+	</string>
+	<string id="ui_mm_video_basic_preset">
+		<text>품질 설정</text>
+	</string>
+	<string id="ui_mm_video_basic_resolution">
+		<text>해상도</text>
+	</string>
+	<string id="ui_mm_video_basic_gamma">
+		<text>감마</text>
+	</string>
+	<string id="ui_mm_video_basic_contrast">
+		<text>색 채도</text>
+	</string>
+	<string id="ui_mm_video_basic_brightness">
+		<text>밝기</text>
+	</string>
+	<string id="ui_mm_video_basic_hud_fov">
+		<text>HUD FOV</text>
+	</string>
+	<string id="ui_mm_video_basic_fov">
+		<text>FOV</text>
+	</string>
+	<string id="ui_mm_video_basic_screen_mode">
+		<text>스크린 모드</text>
+	</string>
+	<string id="ui_mm_video_basic_lighting">
+		<text>기본 조명 설정</text>
+	</string>
+	
+	
+	<!-- Video - Advanced -->
+	<string id="ui_mm_title_video_advanced">
+		<text>고급 비디오 설정</text>
+	</string>
+	
+	<string id="ui_mm_prst_video_default">
+		<text>중간</text>
+	</string>
+	<string id="ui_mm_prst_video_extreme">
+		<text>최상</text>
+	</string>
+	<string id="ui_mm_prst_video_high">
+		<text>높음</text>
+	</string>
+	<string id="ui_mm_prst_video_low">
+		<text>낮음</text>
+	</string>
+	<string id="ui_mm_prst_video_minimum">
+		<text>감자모드</text>
+	</string>
+	
+	<string id="ui_mm_lst_low">
+		<text>낮음</text>
+	</string>
+	<string id="ui_mm_lst_medium">
+		<text>중간</text>
+	</string>
+	<string id="ui_mm_lst_high">
+		<text>높음</text>
+	</string>
+	<string id="ui_mm_lst_ultra">
+		<text>매우높음</text>
+	</string>
+	<string id="ui_mm_lst_extreme">
+		<text>최상</text>
+	</string>
+	<string id="ui_mm_lst_off">
+		<text>Off</text>
+	</string>
+	<string id="ui_mm_lst_default">
+		<text>기본</text>
+	</string>
+	<string id="ui_mm_lst_hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ui_mm_lst_hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="ui_mm_lst_x2">
+		<text>x2</text>
+	</string>
+	<string id="ui_mm_lst_x4">
+		<text>x4</text>
+	</string>
+	<string id="ui_mm_lst_x8">
+		<text>x8</text>
+	</string>
+	<string id="ui_mm_lst_atest_msaa_dx10_0">
+		<text>Use 다이렉트X10</text>
+	</string>
+	<string id="ui_mm_lst_atest_msaa_dx10_1">
+		<text>Use 다이렉트10.1</text>
+	</string>
+	<string id="ui_mm_lst_volumetric">
+		<text>볼류메틱</text>
+	</string>
+	<string id="ui_mm_lst_screen_space">
+		<text>스크린 스페이스</text>
+	</string>
+	<string id="ui_mm_lst_combined">
+		<text>Both</text>
+	</string>
+	
+	<string id="ui_mm_video_advanced_ai_torch">
+		<text>스토커 헤드램프 사용.</text>
+	</string>
+	<string id="ui_mm_video_advanced_v_sync">
+		<text>수직동기</text>
+	</string>
+	<string id="ui_mm_video_advanced_refresh_60hz">
+		<text>Frequency 60Hz</text>
+	</string>
+	<string id="ui_mm_video_advanced_framelimit">
+		<text>프레임 제한</text>
+	</string>
+	<string id="ui_mm_video_advanced_framelimit_desc">
+		<text>사용자 정의 프레임 상한설정.</text>
+	</string>
+	
+	<string id="ui_mm_header_rendering_dist">
+		<text>렌더링 거리</text>
+	</string>
+	<string id="ui_mm_video_advanced_vis_distance">
+		<text>월드</text>
+	</string>
+	<string id="ui_mm_video_advanced_optimize_static_geom">
+		<text>스테틱 오브젝트</text>
+	</string>
+	<string id="ui_mm_video_advanced_optimize_dynamic_geom">
+		<text>다이내믹 오브젝트</text>
+	</string>
+	<string id="ui_mm_video_advanced_optimize_shadow_geom">
+		<text>디스턴트 쉐도우 컬링</text>
+	</string>
+	<string id="ui_mm_video_advanced_optimize_shadow_geom_desc">
+		<text>활성화하면 멀리 있는 그림자를 제거하여 성능을 향상시킬 수 있습니다 (일반적으로 눈에 띄지않음).
+		\n매우 긴 그림자가 제거될 수 있습니다(일출/일몰 동안 눈에 띌 수 있음).
+		</text>
+	</string>
+	
+	<string id="ui_mm_header_rendering_quality">
+		<text>렌더링 퀄리티</text>
+	</string>
+	<string id="ui_mm_video_advanced_texture_lod">
+		<text>텍스쳐 디테일</text>
+	</string>
+	<string id="ui_mm_video_advanced_mipbias">
+		<text>텍스처 MIP bias</text>
+	</string>
+	<string id="ui_mm_video_advanced_mipbias_desc">
+		<text>멀리 있는 텍스처의 품질과 선명도.</text>
+	</string>
+	<string id="ui_mm_video_advanced_geometry_lod">
+		<text>오브젝트 디테일</text>
+	</string>
+	<string id="ui_mm_video_advanced_detail_textures">
+		<text>디테일 텍스처</text>
+	</string>
+	<string id="ui_mm_video_advanced_tf_aniso">
+		<text>이방성 필터링</text>
+	</string>
+	<string id="ui_mm_video_advanced_ssample">
+		<text>안티 앨리어싱</text>
+	</string>
+	<string id="ui_mm_video_advanced_ssample_list">
+		<text>안티 앨리어싱</text>
+	</string>
+	<string id="ui_mm_video_advanced_smaa">
+		<text>SMAA</text>
+	</string>
+	<string id="ui_mm_video_advanced_detail_bump">
+		<text>디테일 범프</text>
+	</string>
+		<string id="ui_mm_video_advanced_steep_parallax">
+		<text>스팁 페럴렉스</text>
+	</string>
+	<string id="ui_mm_video_advanced_enable_tessellation">
+		<text>테셀레이션</text>
+	</string>
+
+	<string id="ui_mm_header_grass">
+		<text>잔디</text>
+	</string>
+	<string id="ui_mm_video_advanced_detail_density">
+		<text>잔디 밀도</text>
+	</string>
+	<string id="ui_mm_video_advanced_detail_radius">
+		<text>잔디 렌더링 거리</text>
+	</string>
+	<string id="ui_mm_video_advanced_detail_height">
+		<text>잔디 크기</text>
+	</string>
+	<string id="ui_mm_video_advanced_grass_shadow">
+		<text>잔디 그림자</text>
+	</string>
+	<string id="ui_mm_video_advanced_sun_details">
+		<text>잔디 그림자</text>
+	</string>
+	
+	<string id="ui_mm_header_lighting">
+		<text>조명</text>
+	</string>
+	<string id="ui_mm_video_advanced_actor_shadow">
+		<text>액터 쉐도우</text>
+	</string>
+	<string id="ui_mm_video_advanced_gloss_factor">
+		<text>스펙큘러 (gloss factor)</text>
+	</string>
+	<string id="ui_mm_video_advanced_slight_fade">
+		<text>조명 거리</text>
+	</string>
+	<string id="ui_mm_video_advanced_ls_squality">
+		<text>쉐도우 퀄리티</text>
+	</string>
+	<string id="ui_mm_video_advanced_sun">
+		<text>태양 그림자</text>
+	</string>
+	<string id="ui_mm_video_advanced_sun_quality">
+		<text>태양 그림자 품질</text>
+	</string>
+	<string id="ui_mm_video_advanced_sunshafts_mode">
+		<text>태양 빛 줄기 모드</text>
+	</string>
+	<string id="ui_mm_video_advanced_sunshafts_quality">
+		<text>태양 빛 줄기 퀄리티 (for 볼류메틱)</text>
+	</string>
+	<string id="ui_mm_video_advanced_sunshafts_value">
+		<text>태양 빛 줄기 주요 강도</text>
+	</string>
+	<string id="ui_mm_video_advanced_sunshafts_min">
+		<text>태양 빛 줄기 기본 강도</text>
+	</string>
+	<string id="ui_mm_video_advanced_ssao_mode">
+		<text>SSAO 모드</text>
+	</string>
+	<string id="ui_mm_video_advanced_ssao">
+		<text>SSAO 퀄리티</text>
+	</string>
+	<string id="ui_mm_video_advanced_volumetric_lights">
+		<text>볼류메틱 라이트</text>
+	</string>
+	
+	
+	<string id="ui_mm_video_advanced_msaa_alphatest">
+		<text>스무스 A-test 오브젝트</text>
+	</string>
+	<string id="ui_mm_video_advanced_msaa_opt">
+		<text>부드러움 최적화</text>
+	</string>
+
+	<string id="ui_mm_header_effects">
+		<text>효과</text>
+	</string>
+	<string id="ui_mm_video_advanced_soft_water">
+		<text>소프트 워터</text>
+	</string>
+	<string id="ui_mm_video_advanced_soft_particles">
+		<text>소프트 파티클</text>
+	</string>
+	<string id="ui_mm_video_advanced_dof_enable">
+		<text>피사계 심도</text>
+	</string>
+	<string id="ui_mm_video_advanced_mblur_enable">
+		<text>모션 블러</text>
+	</string>
+	<string id="ui_mm_video_advanced_mblur">
+		<text>모션 블러 강도</text>
+	</string>
+	<string id="ui_mm_video_advanced_dynamic_wet_surfaces">
+		<text>젖은 표면</text>
+	</string>
+	<string id="ui_mm_video_advanced_volumetric_smoke">
+		<text>볼류메틱 스모크 (연기)</text>
+	</string>
+	
+
+	
+	<!-- Video - HUD -->
+	<string id="ui_mm_title_hud">
+		<text>UI/HUD (인터페이스)</text>
+	</string>
+	
+	<string id="ui_mm_video_hud_show_crosshair">
+		<text>조준점</text>
+	</string>
+	<string id="ui_mm_video_hud_crosshair_dist">
+		<text>조준점 목표 거리표시</text>
+	</string>
+	<string id="ui_mm_video_hud_dynamic_crosshair">
+		<text>동적인 조준점</text>
+	</string>
+	<string id="ui_mm_video_hud_crosshair_clr_a">
+		<text>조준점 색 (알파)</text>
+	</string>
+	<string id="ui_mm_video_hud_crosshair_clr_r">
+		<text>조준점 색 (빨강)</text>
+	</string>
+	<string id="ui_mm_video_hud_crosshair_clr_g">
+		<text>조준점 색 (초록)</text>
+	</string>
+	<string id="ui_mm_video_hud_crosshair_clr_b">
+		<text>조준점 색 (파랑)</text>
+	</string>
+	<string id="ui_mm_video_hud_show_wpn">
+		<text>무기 표시</text>
+	</string>
+	<string id="ui_mm_video_hud_tips_desc">
+		<text>조준점으로 가리킬 때 NPC 이름을 표시합니다. 색상은 플레이어와의 관계를 나타내므로 플레이어가 적을 쉽게 인식할 수 있습니다.</text>
+	</string>
+	<string id="ui_mm_video_hud_show_tracers">
+		<text>추적자 표시</text>
+	</string>
+	<string id="ui_mm_video_hud_show_hud">
+		<text>HUD 표시 </text>
+	</string>
+	<string id="ui_mm_video_hud_show_slots">
+		<text>HUD 아티팩트 표시 </text>
+	</string>
+	<string id="ui_mm_video_hud_show_minimap">
+		<text>미니맵 표시</text>
+	</string>
+	<string id="ui_mm_video_hud_show_enemy_health">
+		<text>적 체력 표시</text>
+	</string>
+	<string id="ui_mm_video_hud_show_identity">
+		<text>NPC 식별 표시</text>
+	</string>
+	<string id="ui_mm_video_hud_autohide_stamina_bar">
+		<text>스테미너 바 자동 숨기기</text>
+	</string>
+	<string id="ui_mm_video_hud_ironsights_zoom_factor">
+		<text>아이언 사이트 줌 계수</text>
+	</string>
+	<string id="ui_mm_video_hud_head_bob_factor">
+		<text>머리 흔들림 계수 (1인칭 화면 움직임 흔들림)</text>
+	</string>
+	<string id="ui_mm_video_hud_3d_pda">
+		<text>3D PDA 모델 활성화</text>
+	</string>
+	
+	<!-- Video - Visual effects -->
+	<string id="ui_mm_title_effects">
+		<text>플레이어 효과</text>
+	</string>
+	<string id="ui_mm_title_mask">
+		<text>가스 마스크</text>
+	</string>
+
+	<string id="ui_mm_video_player_animations">
+		<text>아이템 사용 애니메이션</text>
+	</string>
+	<string id="ui_mm_video_player_shoot_effects">
+		<text>향상된 반동 효과</text>
+	</string>
+	<string id="ui_mm_video_player_mask_hud">
+		<text>마스크 오버레이</text>
+	</string>
+	<string id="ui_mm_video_player_breathing_fog">
+		<text>숨쉴때 입김</text>
+	</string>
+	<string id="ui_mm_video_player_radiation_effect">
+		<text>방사선 노출 효과</text>
+	</string>
+	<string id="ui_mm_video_player_blood_splash">
+		<text>출혈 효과</text>
+	</string>
+	<string id="ui_mm_video_player_bleed_effect">
+		<text>낮은 체력 흐림효과</text>
+	</string>
+	<string id="ui_mm_video_player_item_swap_animation">
+		<text>아이템 교환 애니메이션</text>
+	</string>
+	<string id="ui_mm_video_player_hit_impact_effect">
+		<text>타격 임팩트 효과</text>
+	</string>
+	<string id="ui_mm_video_player_tiny_pfx">
+		<text>먼지 입자 효과</text>
+	</string>
+	<string id="ui_mm_video_player_fog_pfx">
+		<text>동적인 연기 효과</text>
+	</string>
+	<string id="ui_mm_video_player_rain_droplets">
+		<text>빗방물 효과</text>
+	</string>
+	<string id="ui_mm_video_player_visor_reflection">
+		<text>유리 반사</text>
+	</string>
+
+	<!-- Video - Weather -->
+	<string id="ui_mm_lst_rare">
+		<text>레어</text>
+	</string>
+	<string id="ui_mm_lst_regular">
+		<text>규칙적인</text>
+	</string>
+	<string id="ui_mm_lst_3h">
+		<text>3시간</text>
+	</string>
+	<string id="ui_mm_lst_4h">
+		<text>4시간</text>
+	</string>
+	<string id="ui_mm_lst_5h">
+		<text>5시간</text>
+	</string>
+	<string id="ui_mm_lst_6h">
+		<text>6시간</text>
+	</string>
+	<string id="ui_mm_lst_7h">
+		<text>7시간</text>
+	</string>
+	<string id="ui_mm_lst_8h">
+		<text>8시간</text>
+	</string>
+	<string id="ui_mm_lst_9h">
+		<text>9시간</text>
+	</string>
+	<string id="ui_mm_lst_10h">
+		<text>10시간</text>
+	</string>
+	<string id="ui_mm_lst_11h">
+		<text>11시간</text>
+	</string>
+	<string id="ui_mm_lst_12h">
+		<text>12시간</text>
+	</string>
+
+	<string id="ui_mm_video_weather_period">
+		<text>기간</text>
+	</string>
+	<string id="ui_mm_video_weather_occurrence">
+		<text>발생</text>
+	</string>
+
+	<!-- Video - Night -->
+	<string id="ui_mm_title_night">
+		<text>밤</text>
+	</string>
+	
+	<string id="ui_mm_lst_dark_night">
+		<text>어두운 밤</text>
+	</string>
+	<string id="ui_mm_lst_slight_night">
+		<text>약간 밝은 밤</text>
+	</string>
+	<string id="ui_mm_lst_medium_night">
+		<text>중간 밝은 밤</text>
+	</string>
+	<string id="ui_mm_lst_bright_night">
+		<text>매우 밝은 밤</text>
+	</string>
+	<string id="ui_mm_lst_8days">
+		<text>8 일</text>
+	</string>
+	<string id="ui_mm_lst_28days">
+		<text>28 일</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_0">
+		<text>초승달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_1">
+		<text>조금 더 찬 초승달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_2">
+		<text>상현달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_3">
+		<text>조금 더 찬 상현달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_4">
+		<text>보름달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_5">
+		<text>약간 기운 하현달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_6">
+		<text>하현달</text>
+	</string>
+	<string id="ui_mm_lst_moon_phase_7">
+		<text>그믐달</text>
+	</string>
+	
+	<string id="ui_mm_video_night_brightness">
+		<text>주변 야간 밝기</text>
+	</string>
+	<string id="ui_mm_video_night_moon_cycle">
+		<text>달 주기 길이</text>
+	</string>
+	<string id="ui_mm_video_night_moon_phase_state">
+		<text>정적인 달 위상 활성화</text>
+	</string>
+	<string id="ui_mm_video_night_moon_phase">
+		<text>정적인 달 위상</text>
+	</string>
+
+
+	<!-- Sounds - General -->
+	<string id="ui_mm_title_sound">
+		<text>일반 소리 설정</text>
+	</string>
+	
+	<string id="ui_mm_lst_none">
+		<text>없음</text>
+	</string>
+	<string id="ui_mm_lst_storyonly">
+		<text>특수 유닛만</text>
+	</string>
+	<string id="ui_mm_lst_all">
+		<text>모두</text>
+	</string>
+	
+	<string id="ui_mm_sound_general_master_volume">
+		<text>SFX 볼륨</text>
+	</string>
+	<string id="ui_mm_sound_general_music_volume">
+		<text>음악 볼륨</text>
+	</string>
+	<string id="ui_mm_sound_general_sound_device">
+		<text>음향기기</text>
+	</string>
+	<string id="ui_mm_sound_general_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_sound_general_snd_targets">
+		<text>사운드 타겟</text>
+	</string>
+	<string id="ui_mm_sound_general_dynamic_music">
+		<text>다이나믹한 뮤직</text>
+	</string>
+	<string id="ui_mm_sound_general_caption">
+		<text>자막</text>
+	</string>
+	
+	<!-- Sounds - Environment -->
+	<string id="ui_mm_title_sound_environment">
+		<text>환경 음향 효과</text>
+	</string>
+	
+	<string id="ui_mm_sound_environment_ambient_volume">
+		<text>환경 소리 볼륨</text>
+	</string>
+	<string id="ui_mm_sound_environment_ambient_volume_desc">
+		<text>이 슬라이더는 귀뚜라미, 까마귀, 새, 밤 비명 등과 같은 배경 소리의 볼륨을 제어합니다..</text>
+	</string>
+	<string id="ui_mm_sound_environment_wind_sound">
+		<text>주변 바람 소리</text>
+	</string>
+	<string id="ui_mm_sound_environment_breathing_sound">
+		<text>마스크 호흡 소리</text>
+	</string>
+	<string id="ui_mm_sound_environment_helmet_rain_sound">
+		<text>헬멧에 빗방울 소리</text>
+	</string>
+
+	<!-- Sounds - Radio/Zone FM -->
+	<string id="ui_mm_title_sound_radio">
+		<text>라디오</text>
+	</string>
+	
+	<string id="ui_mm_sound_radio_zone">
+		<text>존의 라디오</text>
+	</string>
+	<string id="ui_mm_sound_radio_zone_desc">
+		<text>이 옵션을 사용하면 존에서의 라디오에서 음악을 재생할 수 있습니다..</text>
+	</string>
+	<string id="ui_mm_sound_radio_access">
+		<text>라디오 옵션 버튼 활성화 (게임속에서)</text>
+	</string>
+	<string id="ui_mm_sound_radio_access_call">
+		<text>라디오 settings.txt 메뉴를 불러오는 버튼</text>
+	</string>
+	<string id="ui_mm_sound_radio_1_play">
+		<text>라디오 재생/중지</text>
+	</string>
+	<string id="ui_mm_sound_radio_2_play">
+		<text>음악 플레이어 재생/중지</text>
+	</string>
+	<string id="ui_mm_sound_radio_vol_up">
+		<text>볼륨 업 버튼</text>
+	</string>
+	<string id="ui_mm_sound_radio_vol_down">
+		<text>볼륨 작게 버튼</text>
+	</string>
+	<string id="ui_mm_sound_radio_next">
+		<text>다음 트랙</text>
+	</string>
+	<string id="ui_mm_sound_radio_previous">
+		<text>이전 트랙</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist">
+		<text>다음 채널/재생 목록</text>
+	</string>
+	<string id="ui_mm_sound_radio_emission_intereferences">
+		<text>에미션 중 신호 간섭</text>
+	</string>
+	<string id="ui_mm_sound_radio_underground_intereferences">
+		<text>지하 구역 내부 신호 간섭</text>
+	</string>
+	<string id="ui_mm_sound_radio_display_tracks">
+		<text>HUD에 있는 음악 플레이어 트랙의 표시 이름</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_1">
+		<text>재생 목록 이름 1</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_2">
+		<text>재생 목록 이름 2</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_3">
+		<text>재생 목록 이름 3</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_4">
+		<text>재생 목록 이름 4</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_5">
+		<text>재생 목록 이름 5</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_6">
+		<text>재생 목록 이름 6</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_7">
+		<text>재생 목록 이름 7</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_8">
+		<text>재생 목록 이름 8</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_9">
+		<text>재생 목록 이름 9</text>
+	</string>
+	<string id="ui_mm_sound_radio_playlist_name_10">
+		<text>재생 목록 이름 10</text>
+	</string>
+	
+	
+	<!-- Control - General -->
+	<string id="ui_mm_title_control">
+		<text>일반 컨트롤</text>
+	</string>
+	
+	<string id="ui_mm_control_general_mouse_sens">
+		<text>마우스 감도</text>
+	</string>
+	<string id="ui_mm_control_general_mouse_sens_aim">
+		<text>조준 감도</text>
+	</string>
+	<string id="ui_mm_control_general_mouse_invert">
+		<text>마우스 반전</text>
+	</string>
+	<string id="ui_mm_control_general_crouch_toggle">
+		<text>웅크리기 토글</text>
+	</string>
+	<string id="ui_mm_control_general_walk_toggle">
+		<text>걷기 토글</text>
+	</string>
+	<string id="ui_mm_control_general_sprint_toggle">
+		<text>달리기 토글</text>
+	</string>
+	<string id="ui_mm_control_general_lookout_toggle">
+		<text>기울이기 토글</text>
+	</string>
+	<string id="ui_mm_control_general_aim_toggle">
+		<text>조준 토글</text>
+	</string>
+	<string id="ui_mm_control_general_pickup_mode">
+		<text>홀드 다중 아이템 픽업 모드</text>
+	</string>
+	<string id="ui_mm_control_general_pickup_mode_desc">
+		<text>이 옵션을 선택하면 여러 항목을 동시에 선택할 수 있습니다.그렇지 않으면 한 번에 하나의 항목을 선택합니다.</text>
+	</string>
+	<string id="ui_mm_control_general_simple_pda_mode">
+		<text>PDA 단순 모드</text>
+	</string>
+	<string id="ui_mm_control_general_simple_pda_mode_desc">
+		<text>%c[ui_gray_1]•%c[ui_gray_2]활성화: 단순 모드.
+		\nPDA는 플레이어가 기기를 확대 때만 기기조작 모드로 들어갈 것입니다(재장전키로 전환).
+		\n \n%c[ui_gray_1]•%c[ui_gray_2]비활성화: 심화 모드.
+		\n플레이어는 PDA가 시점에서 가깝거나 멀게 유지되는지에 관계없이 유탄 발사기 전환키를 눌러 조작/이동 모드 사이를 전환합니다.
+		</text>
+	</string>
+	<string id="ui_mm_control_general_disassembly_warning">
+		<text>분해시 (ALT) 버튼 누르기.</text>
+	</string>
+	<string id="ui_mm_control_general_disassembly_warning_desc">
+		<text>이 옵션은 플레이어가 (왼쪽 ALT) 버튼을 먼저 누르지 않고 아이템을 분해하는 것을 방지하여 의도하지 않은 아이템 분해를 방지합니다.</text>
+	</string>
+	
+	
+	<!-- Gameplay - General -->
+	<string id="ui_mm_title_gameplay">
+		<text>일반 게임 플레이 설정</text>
+	</string>
+
+	<string id="ui_mm_gameplay_general_hardcore_ai_aim">
+		<text>하드코어 AI 에임</text>
+	</string>
+	<string id="ui_mm_gameplay_general_show_tip_reputation">
+		<text>평판 알림</text>
+	</string>
+	<string id="ui_mm_gameplay_general_show_tip_reputation_desc">
+		<text>이 옵션은 작업을 완료(또는 실패)한 후 진영과의 평판 변경 사항을 플레이어에게 알립니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_general_mechanic_feature">
+		<text>정비사 지연 수리</text>
+	</string>
+	<string id="ui_mm_gameplay_general_mechanic_feature_desc">
+		<text>활성화되면 플레이어는 기계공이 고장난 품목의 수리를 완료할 때까지 하루 이상 기다려야 합니다. 수리가 완료되면 항목이 반환됩니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_general_player_name">
+		<text>플레이어 이름</text>
+	</string>
+	<string id="ui_mm_gameplay_general_outfit_portrait">
+		<text>의상별 플레이어 초상화</text>
+	</string>
+	<string id="ui_mm_gameplay_general_outfit_portrait_desc">
+		<text>착용한 의상에 따라 플레이어 초상화를 변경합니다. 이 옵션을 비활성화하면 새로하기 메뉴에서 선택한 기본 초상화가 복원됩니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_general_char_portrait">
+		<text>기본 인물 사진</text>
+	</string>
+	<string id="ui_mm_gameplay_general_release_dropped_items">
+		<text>구 드롭 아이템 디스폰</text>
+	</string>
+	<string id="ui_mm_gameplay_general_corpse_max_count">
+		<text>디스폰 시체 수</text>
+	</string>
+	<string id="ui_mm_gameplay_general_corpse_max_count_desc">
+		<text>시체가 쌓여 성능 저하 및 A-Life 점유율을 피하기 위해 시체가 디스폰됩니다.
+		\n시체 수, 플레이어로부터의 거리 및 소멸 타이머가 제한을 초과하면 소멸 프로세스가 시작됩니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_general_corpse_min_dist">
+		<text>시체 소멸 거리 [미터]</text>
+	</string>
+	<string id="ui_mm_gameplay_general_corpse_min_dist_desc">
+		<text>시체가 쌓여 성능 저하 및 A-Life 점유율을 피하기 위해 시체가 디스폰됩니다.
+		\n시체 수, 플레이어로부터의 거리 및 소멸 타이머가 제한을 초과하면 소멸 프로세스가 시작됩니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_general_npc_loot_distance">
+		<text>NPC 시체 약탈 거리 [미터]</text>
+	</string>
+	<string id="ui_mm_gameplay_general_npc_loot_distance_desc">
+		<text>플레이어가 최소한 이 정도 거리에 있을 때만 다른 스토커가 시체를 약탈합니다.
+		\n이는 플레이어가 어렵게 얻은 전리품을 훔치는 것을 방지해야 합니다.
+		</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_general_max_tasks">
+		<text>NPC 당 최대 임무 수락 수</text>
+	</string>
+	<string id="ui_mm_gameplay_general_max_tasks_desc">
+		<text>같은 NPC에게 동시에 받을 수 있는 임무의 수입니다.</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_general_need_equipped_hkit">
+		<text>사냥 키트 장착시에만 보너스 활성화</text>
+	</string>
+	
+	<!-- Gameplay difficulty -->
+	<string id="ui_mm_title_gameplay_diff">
+		<text>게임 플레이 난이도</text>
+	</string>
+	<string id="ui_mm_desc_gameplay_diff">
+		<text>게임 플레이 난이도 변경 사항은 플레이 도중에만 적용됩니다.</text>
+	</string>
+	
+	<string id="ui_mm_prst_gameplay_easy">
+		<text>쉬운</text>
+	</string>
+	<string id="ui_mm_prst_gameplay_medium">
+		<text>보통</text>
+	</string>
+	<string id="ui_mm_prst_gameplay_hard">
+		<text>어려운</text>
+	</string>
+	
+	<string id="ui_mm_lst_great">
+		<text>엄청난</text>
+	</string>
+	<string id="ui_mm_lst_good">
+		<text>좋은</text>
+	</string>
+	<string id="ui_mm_lst_average">
+		<text>평균</text>
+	</string>
+	<string id="ui_mm_lst_poor">
+		<text>불쌍한</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_gameplay_diff_actor_immunities">
+		<text>플레이어 보호</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_actor_immunities_desc">
+		<text>이 옵션은 모든 손상에 대한 플레이어의 방어력을 제어합니다.
+		\n방어력이 높을수록 플레이어가 더 많은 피해를 견딜 수 있습니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_hit_power">
+		<text>총알 피해량</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_hit_power_desc">
+		<text>총알로 인한 피해량의 승수입니다.
+		\n \n%c[pda_yellow]주의:%c[ui_gray_2]
+		\n이 설정은 플레이어가 발사한 총알에만 적용되며 NPC가 발사하는 총알에는 영향을 주지 않습니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_dispersion_base">
+		<text>적 무기 분산률</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_dispersion_base_desc">
+		<text>적 무기 분산률의 기본 값입니다.
+		\n값이 높을수록 원거리에서 적의 정확도가 떨어집니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_dispersion_factor">
+		<text>적 무기 분산 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_dispersion_factor_desc">
+		<text>적 무기 분산에 대한 승수입니다.
+		\n값이 높을수록 더 먼 거리에서 적의 무기 반동이 증가합니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_power_loss_bias">
+		<text>스태미너 손실 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_weight">
+		<text>플레이어 최대 무게 설정</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_thirst">
+		<text>물(갈증) 부족</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_sleep">
+		<text>수면 부족</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_radiation_day">
+		<text>낮 동안의 방사능 공기</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_radiation_day_desc">
+		<text>활성화하면 플레이어는 낮에 밖에 있을 때 일정한 양의 방사선을 받게 되며 지하 지역은 훨씬 더 방사능이 강해집니다 \n상당한 방사선 보호 기능이 있는 헬멧과 복장은 이러한 영향으로부터 보호하는 데 도움이 됩니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_notify_geiger">
+		<text>가이거 계수기에서만 방사능 클릭음 재생</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_notify_geiger_desc">
+		<text>%c[ui_gray_1]비활성화:%c[ui_gray_2] 가이거 카운터가 없어도 방사능 필드에 접근할 때 카운터 소리를 들을 수 있습니다.
+		\n \n%c[ui_gray_1]활성화:%c[ui_gray_2] 플레이어가 인벤토리에 배터리 전원이 충분한 가이거 카운터가 있는 경우에만 카운터 소리가 들립니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_notify_anomaly">
+		<text>이상 감지기 소리</text>
+	</string>
+	<string id="ui_mm_gameplay_gameplay_diff_notify_anomaly_desc">
+		<text>활성화되면 플레이어는 이상현상에 접근할 때 경고음을 듣게 됩니다.</text>
+	</string>
+	
+	
+<!-- Gameplay - Progression difficulty -->
+	<string id="ui_mm_title_economy_diff">
+		<text>진행 난이도</text>
+	</string>
+	<string id="ui_mm_desc_economy_diff">
+		<text>진행 난이도 변경 사항은 플레이 도중에만 적용됩니다.</text>
+	</string>
+	
+	<string id="ui_mm_prst_economy_easy">
+		<text>관광객</text>
+	</string>
+	<string id="ui_mm_prst_economy_medium">
+		<text>스캐빈저</text>
+	</string>
+	<string id="ui_mm_prst_economy_hard">
+		<text>생존주의자</text>
+	</string>
+	
+	<string id="ui_mm_lst_progressive">
+		<text>프로그레시브</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_economy_diff_goodwill">
+		<text>평판 획득 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_goodwill_desc">
+		<text>플레이어가 임무를 완료할 때 얻는 평판의 양에 대한 승수입니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_rewards">
+		<text>금전 보상 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_rewards_desc">
+		<text>플레이어가 임무를 완료하여 얻는 금액의 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_repair">
+		<text>수리비 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_repair_desc">
+		<text>계수가 높을수록 정비공의 수리 비용의 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_upgrade">
+		<text>업그레이드 비용 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_upgrade_desc">
+		<text>정비공의 업그레이드 비용의 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_buy">
+		<text>거래 가격(판매) 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_buy_desc">
+		<text>플레이어가 상인에게 판매한 아이템 가격의 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_sell">
+		<text>거래 가격(구입) 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_sell_desc">
+		<text>플레이어가 상인에게서 구매한 아이템 가격에 대한 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_loots">
+		<text>전리품(아이템) 확률 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_loots_desc">
+		<text>시체에서 아이템을 찾을 확률에 대한 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_money_loots">
+		<text>전리품(돈) 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_money_loots_desc">
+		<text>시체에서 발견되는 금액의 승수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_wpn_condition">
+		<text>약탈한 무기 평균 상태</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_stash_chance">
+		<text>은신처 발견 확률</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_stash_chance_desc">
+		<text>은신처 정보가 있는 PDA를 약탈할 확률</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_max_medkit_uses">
+		<text>메디킷을 사용할 수 있는 횟수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_weapon_degradation">
+		<text>무기 성능 저하 요인</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_weapon_degradation_desc">
+		<text>무기는 총알이 발사될 때마다 성능이 저하되며 사용된 무기와 탄약에 따라 성능이 저하됩니다.
+		\n이 요소는 전체적인 저하 속도를 정해 개별 값들을 제어합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_battery_consumption">
+		<text>배터리 전력 소비 계수</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_battery_consumption_desc">
+		<text>전자 장치는 사용 중일 때 지속적으로 배터리 전력을 소모하며 소모율은 장치에 의해 결정됩니다.
+		\n이 요소는 전체적인 저하 속도를 정해 개별 값들을 제어합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_limited_bolts">
+		<text>볼트 수 제한</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_limited_bolts_desc">
+		<text>활성화되면 볼트가 더 이상 무한하지 않습니다. 플레이어는 볼트가 다 떨어지면 사거나 찾아야 합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\n플레이어는 던진 볼트가 이상 현상에 의해 손상되지 않는 한 다시 줍을 수 있습니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_arty_degradation">
+		<text>아티팩트 저하</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_bkpk_degradation">
+		<text>배낭 열화</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_percentage_parts">
+		<text>부품에 대한 비율 시스템</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_percentage_parts_desc">
+		<text>활성화하면 세부 항목의 부품이 전체 내구도(1 ~ 100% 상태)를 공유합니다.
+		\n이 옵션이 비활성화되면 항목은 4가지 조건 범주(25%, 50%, 75% 및 100% 조건) 중 하나를 사용합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_restock">
+		<text>상인 재입고 주기(시간)</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_restock_desc">
+		<text>상인이 인벤토리를 완전히 재입고하기까지의 시간을 결정합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_arty_chance">
+		<text>아티팩트 리스폰 확률</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_arty_chance_desc">
+		<text>아티팩트는 일반적으로 이상현상 필드 내부에서 에미션 및 (보다 가능성이 적지만) 사이오닉 폭풍 동안 재생성됩니다.
+		\n이 옵션은 이상현상 필드가 아티팩트를 생성할 가능성을 제어합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_outfit_drops">
+		<text>시체의 의상 전리품</text>
+	</string>
+	<string id="ui_mm_gameplay_economy_diff_outfit_drops_desc">
+		<text>시체에서 의상을 찾는 방법을 제어합니다.
+		\n \n"프로그레시브"는 의상 드랍이 플레이어의 진행 상황에 따라 달라짐을 의미하며, 플레이어의 순위가 높을수록 전리품에서 더 나은 의상을 찾을 수 있습니다.
+		</text>
+	</string>
+	
+<!-- Gameplay - Disguise -->
+	<string id="ui_mm_title_disguise">
+		<text>위장 설정</text>
+	</string>
+	<string id="ui_mm_desc_disguise">
+		<text>플레이어는 절도 및 암살과 같은 다양한 목적을 위해 실제 신원을 숨기면서 다른 진영의 구성원으로 위장할 수 있습니다. 다음 설정은 위장 시스템의 측면을 제어합니다. 이 기능을 자세히 설명하는 자세한 기사는 PDA 백과사전에서 찾을 수 있습니다.</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_disguise_state">
+		<text>위장 시스템 활성화</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_active_item">
+		<text>활성화 아이탬</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_active_item_desc">
+		<text>활성화하면 NPC가 플레이어가 들고 있는 아이템의 유형과 상태를 고려합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_active_item_factor">
+		<text>활성 아이템의 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_weapon">
+		<text>플레이어 무기</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_weapon_desc">
+		<text>활성화하면 NPC가 플레이어의 메인 슬롯에 있는 무기의 유형과 상태를 고려합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_weapon_factor">
+		<text>플레이어 무기의 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_outfit">
+		<text>플레이어 복장</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_outfit_desc">
+		<text>활성화되면 NPC가 플레이어의 복장 슬롯에 있는 갑옷의 유형과 상태를 고려합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\n의상 상태는 변장 시스템의 중요한 요소입니다. NPC는 손상된 의상을 매우 의심스럽게 여깁니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_outfit_factor">
+		<text>플레이어 복장의 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_helmet">
+		<text>플레이어 헬멧</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_helmet_desc">
+		<text>활성화되면 NPC가 플레이어가 헬멧 슬롯에 있거나 통합되어 있는 헬멧의 유형과 상태를 관찰합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\n헬멧은 플레이어의 얼굴과 신원을 가리기 때문에 변장 시스템에서 중요한 요소입니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_helmet_factor">
+		<text>플레이어 헬멧 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_backpack">
+		<text>플레이어 배낭</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_backpack_desc">
+		<text>활성화되면 NPC가 플레이어의 배낭 슬롯에 있는 배낭의 유형과 상태를 고려합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\n큰 배낭은 더 많은 관심을 끌지만 이 요소는 전반적으로 작은 영향을 미칩니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_backpack_factor">
+		<text>플레이어 배낭 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_inventory">
+		<text>플레이어의 인벤토리 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_inventory_desc">
+		<text>활성화하면 NPC가 플레이어 인벤토리에 있는 항목의 수량, 무게 및 크기를 고려합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\n많은 아이템, 특히 무기와 같은 대형 물체를 운반하는 것은 NPC에게 수상한 것으로 간주되지만 이 요소는 전반적으로 작은 영향을 미칩니다.  
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_inventory_factor">
+		<text>플레이어 인벤토리 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_speed">
+		<text>플레이어의 움직임</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_speed_desc">
+		<text>활성화하면 NPC를 관찰하여 플레이어의 이동 및 속도를 고려합니다.
+		\n \n이 요소는 전체 의심 요소를 계산할 때 이 요소의 중요도를 제어합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\nNPC가 근처에 있을 때 섞이도록 하고 뛰거나 점프하지 마세요.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_speed_factor">
+		<text>플레이어의 움직임 의심 요인 정도</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_distance">
+		<text>플레이어와 NPC 사이의 거리</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_distance_desc">
+		<text>활성화하면 플레이어와 NPC 사이의 거리가 고려됩니다.
+		\n \n이 요소는 의심이 계산되기 전에 최소 안전 거리를 제어합니다.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_distance_factor">
+		<text>최소 안전 거리 [미터]</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_stay_time">
+		<text>NPC 근처에서 보낸 플레이어의 시간</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_stay_time_desc">
+		<text>활성화하면 플레이어가 NPC와 안전한 거리 내에서 보낸 시간이 고려됩니다.
+		\n \n이 요소는 의심이 계산되기 전에 허용되는 최대 시간을 제어합니다.
+		\n \n%c[pda_green]팁:%c[ui_gray_2]
+		\n이 요소에는 대화에 소요된 시간이 포함되므로 너무 오래 머뭇거리지 마십시오.
+		</text>
+	</string>
+	<string id="ui_mm_gameplay_disguise_stay_time_factor">
+		<text>최대 안전 체류 시간 [초]</text>
+	</string>
+	
+<!-- Gameplay - Fast Travel -->
+	<string id="ui_mm_desc_fast_travel">
+		<text>PDA 지도에 있는 이동 표시를 클릭하여 존의 여러 위치로 빠르게 이동할 수 있습니다. 해당 위치를 처음 방문하면 빠른 이동 표시가 나타납니다. 다음 설정을 사용하여 빠른 이동의 측면을 제어할 수 있습니다.</text>
+	</string>
+	
+	<string id="ui_mm_lst_disabled">
+		<text>비활성화</text>
+	</string>
+	<string id="ui_mm_lst_visit_only">
+		<text>방문한 지역만</text>
+	</string>
+	<string id="ui_mm_lst_show_all">
+		<text>모두 보이기</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_fast_travel_state">
+		<text>빠른 여행 요건</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_on_combat">
+		<text>전투 중 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_on_overweight">
+		<text>과체중 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_on_damage">
+		<text>부상 시 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_on_emission">
+		<text>에미션 중 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_long_names">
+		<text>긴 이름 사용</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_visit_message">
+		<text>위치 방문 메시지</text>
+	</string>
+	<string id="ui_mm_gameplay_fast_travel_time">
+		<text>시간 변화 없는 빠른 여행</text>
+	</string>
+
+<!-- Gameplay - Backpack Travel -->
+	<string id="ui_mm_desc_backpack_travel">
+		<text>약간의 제한으로, PDA 지도에서 해당 지역을 클릭하면 해당 지역에서 생성한 은닉처로 빠르게 이동할 수 있습니다. 다음 설정을 통해 배낭 여행의 측면을 제어할 수 있습니다.</text>
+	</string>
+	
+	<string id="ui_mm_gameplay_backpack_travel_state">
+		<text>배낭 여행 활성화</text>
+	</string>
+	<string id="ui_mm_gameplay_backpack_travel_on_combat">
+		<text>전투 중 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_backpack_travel_on_damage">
+		<text>부상 시 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_backpack_travel_on_emission">
+		<text>에미션 중 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_backpack_travel_on_overweight">
+		<text>과체중 허용</text>
+	</string>
+	<string id="ui_mm_gameplay_backpack_travel_time">
+		<text>시간 변화 없는 배낭 여행</text>
+	</string>
+	
+<!-- Alife - General -->
+	<string id="ui_mm_title_alife">
+		<text>일반 A-Life 설정</text>
+	</string>
+	
+	<string id="ui_mm_lst_full">
+		<text>최대</text>
+	</string>
+	<string id="ui_mm_lst_on_smarts_only">
+		<text>스마트 지형만</text>
+	</string>
+	
+	<string id="ui_mm_alife_general_alife_stalker_pop">
+		<text>스토커 인구 계수</text>
+	</string>
+	<string id="ui_mm_alife_general_alife_stalker_pop_desc">
+		<text>스토커에 대한 승수는 영역 전체에서 숫자를 생성합니다. 숫자가 클수록 분대가 스폰될 가능성이 높아집니다.
+		\n \n%c[pda_yellow]주의:%c[ui_gray_2]
+		\n이 설정은 새 게임을 시작할 때 가장 큰 영향을 미칩니다. 진행 중인 게임에서 이 요소를 수정하면 이미 구역에 분대가 있기 때문에 인구가 매우 점진적으로 변경됩니다.
+		</text>
+	</string>
+	<string id="ui_mm_alife_general_alife_mutant_pop">
+		<text>돌연변이 숫자 계수</text>
+	</string>
+	<string id="ui_mm_alife_general_alife_mutant_pop_desc">
+		<text>존 전체의 돌연변이 스폰 번호에 대한 승수입니다. 숫자가 클수록 더 많은 돌연변이가 생성됩니다.
+		\n \n%c[pda_yellow]주의:%c[ui_gray_2]
+		\n이 설정은 새 게임을 시작할 때 가장 큰 영향을 미칩니다. 진행 중인 게임에서 이 요소를 수정하면 이미 영역에 존재하는 돌연변이로 인해 인구가 매우 점진적으로 변경됩니다.
+		</text>
+	</string>
+	<string id="ui_mm_alife_general_offline_combat">
+		<text>오프라인 전투</text>
+	</string>
+	<string id="ui_mm_alife_general_offline_combat_desc">
+		<text>이 옵션은 먼 지역에 있는 분대가 적과 싸울 수 있도록 함으로써 A-Life 시뮬레이션의 역동적인 측면을 추가합니다.
+		이 전투의 결과에 따라 파벌과 돌연변이 인구에 영향을 줄 수 있습니다.
+		\n \n%c[pda_yellow]주의:%c[ui_gray_2]
+		\n%c[ui_gray_1]•%c[ui_gray_2] 동적 관계 옵션이 활성화되면 진영 간의 전투가 진행되기 때문에 오프라인 전투가 관계 변경에 큰 역할을 합니다.
+		\n%c[ui_gray_1]•%c[ui_gray_2] 이 기능은 워페어 포함한 모든 게임 모드에서 작동합니다.
+		\n%c[ui_gray_1]•%c[ui_gray_2] 이 기능은 전체 스토커 인구를 줄일 수도 있습니다. 더 많은 인구를 원하는 경우 이 옵션을 활성화하지 마십시오.
+		</text>
+	</string>
+	<string id="ui_mm_alife_general_excl_dist">
+		<text>제외 반경</text>
+	</string>
+	<string id="ui_mm_alife_general_excl_dist_desc">
+		<text>스폰 지점(스마트 지형)이 플레이어의 제외 반경 내에 있는 경우 스쿼드는 스폰되지 않습니다.
+		\n플레이어 근처에서 보기 흉하고 불공정한 스폰을 방지하기 위한 것입니다.
+		</text>
+	</string>
+	<string id="ui_mm_alife_general_dynamic_anomalies">
+		<text>동적 이상 현상</text>
+	</string>
+	<string id="ui_mm_alife_general_dynamic_anomalies_desc">
+		<text>활성화되면 방출로 인해 각 지역에 새로운 이상 현상이 발생할 수 있습니다.
+		\n모든 에미션 이벤트 후에 특정 구역에 이상 현상이 나타나거나 사라질 수 있습니다.</text>
+	</string>
+	<string id="ui_mm_alife_general_dynamic_relations">
+		<text>동적 세력 관계</text>
+	</string>
+	<string id="ui_mm_alife_general_dynamic_relations_desc">
+		<text>활성화하면 진영 간의 관계가 존 내에서 일어나는 전투로 인해 바뀔 수 있습니다.
+		\n공통의 적의 죽음은 관계에 긍정적인 영향을 미칠 수 있으며 그 반대의 경우도 마찬가지입니다.
+		\n관계의 변화 정도는 희생자의 중요성에 따라 결정됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_general_war_goodwill_reset">
+		<text>적대 세력과의 우호도 재설정</text>
+	</string>
+	<string id="ui_mm_alife_general_war_goodwill_reset_desc">
+		<text>특정 진영이 플레이어 진영의 적이 되면 플레이어는 이전에 그들과 함께 얻은 모든 호의를 잃게 됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_general_heli_engine_sound">
+		<text>헬리콥터 소리</text>
+	</string>
+	<string id="ui_mm_alife_general_heli_spawn">
+		<text>헬기 순찰대</text>
+	</string>
+	
+<!-- Alife - Events -->
+	<string id="ui_mm_title_emission">
+		<text>에미션</text>
+	</string>
+	<string id="ui_mm_title_psi_storm">
+		<text>정신파 폭풍</text>
+	</string>
+
+	<string id="ui_mm_lst_every_12h">
+		<text>6~12시간마다</text>
+	</string>
+	<string id="ui_mm_lst_every_24h">
+		<text>12~24시간마다</text>
+	</string>
+	<string id="ui_mm_lst_every_2d">
+		<text>1~2일마다</text>
+	</string>
+	<string id="ui_mm_lst_every_4d">
+		<text>2~4일마다</text>
+	</string>
+	<string id="ui_mm_lst_kill_at_end">
+		<text>끝날 때 사망</text>
+	</string>
+	<string id="ui_mm_lst_kill_at_wave">
+		<text>웨이브가 진행됨에 따라 사망</text>
+	</string>
+	<string id="ui_mm_lst_kill_at_vortex">
+		<text>소용돌이 폭발 때 사망</text>
+	</string>
+	<string id="ui_mm_lst_turn_to_zombie">
+		<text>좀비화</text>
+	</string>
+	<string id="ui_mm_lst_explode">
+		<text>폭발</text>
+	</string>
+	<string id="ui_mm_lst_unhurt">
+		<text>사망하지 않음</text>
+	</string>
+	<string id="ui_mm_lst_siren_radio">
+		<text>사이렌과 라디오</text>
+	</string>
+	<string id="ui_mm_lst_siren">
+		<text>사이렌만</text>
+	</string>
+	<string id="ui_mm_lst_radio">
+		<text>라디오만</text>
+	</string>
+	<string id="ui_mm_lst_no_warning">
+		<text>경고 없음</text>
+	</string>
+	
+	<string id="ui_mm_alife_event_emission_state">
+		<text>에미션 활성화</text>
+	</string>
+	<string id="ui_mm_alife_event_emission_frequency">
+		<text>빈도</text>
+	</string>
+	<string id="ui_mm_alife_event_emission_fate">
+		<text>스토커의 운명</text>
+	</string>
+	<string id="ui_mm_alife_event_emission_warning">
+		<text>경고</text>
+	</string>
+	<string id="ui_mm_alife_event_emission_task">
+		<text>현재 임무 숨기기</text>
+	</string>
+	
+	<string id="ui_mm_alife_event_psi_storm_state">
+		<text>정신파 폭풍 활성화</text>
+	</string>
+	<string id="ui_mm_alife_event_psi_storm_frequency">
+		<text>빈도</text>
+	</string>
+	<string id="ui_mm_alife_event_psi_storm_fate">
+		<text>스토커의 운명</text>
+	</string>
+	<string id="ui_mm_alife_event_psi_storm_warning">
+		<text>경고</text>
+	</string>
+	<string id="ui_mm_alife_event_psi_storm_task">
+		<text>현재 임무 숨기기</text>
+	</string>
+	
+<!-- Alife - 워페어 - General -->
+	<string id="ui_mm_prst_warfare_default">
+		<text>빠른 호흡</text>
+	</string>
+	<string id="ui_mm_prst_warfare_yoko">
+		<text>느린 호흡</text>
+	</string>
+	
+	<string id="ui_mm_title_warfare">
+		<text>워페어 메인 설정</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_general_all_out_war">
+		<text>총력전</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_all_out_war_desc">
+		<text>활성화되면 모든 진영은 다른 모든 진영에 적대적입니다. DrX의 Dynamic Relations가 감지되면 게임 시작 시에만 적용가능합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_starting_locations">
+		<text>무작위 시작 위치</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_starting_locations_desc">
+		<text>활성화되면 플레이어는 영역의 임의 기지에서 스폰됩니다. 다른 모든 베이스는 random_stalker_chance 및 random_mutant_chance 옵션을 사용하여 채워집니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_starting_character">
+		<text>무작위 캐릭터 시작</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_starting_character_desc">
+		<text>이 옵션이 활성화되면 새 게임을 시작한 후 플레이어의 이름과 진영이 무작위로 지정됩니다. random_starting_locations와 함께 사용하는 것이 가장 좋습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_stalker_chance">
+		<text>랜덤 스토커 확률</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_stalker_chance_desc">
+		<text>random_starting_locations가 활성화된 경우 해당 스토커 분대가 기지 또는 자원 지점에 생성될 확률(0 - 100)입니다. 이것은 단일 분대가 스폰될 기회입니다. 기지의 최대 인구가 2이고 random_stalker_chance가 50으로 설정된 경우 첫 번째 분대가 스폰될 확률은 50%이고 두 번째 분대가 스폰될 확률은 다시 50%입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_monster_chance">
+		<text>랜덤 돌연변이 확률</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_random_monster_chance_desc">
+		<text>random_starting_locations가 활성화된 경우 해당 돌연변이 분대가 영토 지점에 생성될 확률(0 - 100)입니다. 포인트당 하나의 돌연변이만 생성됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_auto_capture">
+		<text>자동 점령 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_auto_capture_desc">
+		<text>활성화하면 플레이어는 auto_capture_time에 지정된 시간 동안 auto_capture_distance에 지정된 거리 내에 서서 포인트를 캡처할 수 있습니다. 여러 지점에 가까우면 가장 가까운 기지가 선택되고 나머지 기지와 자원 지점이 차례로 선택됩니다. 영토 포인트는 자동 캡처가 불가능합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_auto_capture_max_distance">
+		<text>자동 점령 최대 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_auto_capture_max_distance_desc">
+		<text>플레이어와 이 거리 내에 있는 지점은 자동으로 점령됩니다. 플레이어와 점령되는 지점 사이의 거리가 이보다 크면 점령이 중지됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_auto_capture_wait_time">
+		<text>자동 점령 대기 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_auto_capture_wait_time_desc">
+		<text>수동으로 지점을 캡처하는 데 걸리는 게임 내 시간(분)입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_fog_of_war">
+		<text>전장의 안개 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_fog_of_war_desc">
+		<text>활성화하면 플레이어 또는 같은 진영의 모든 분대까지 fog_of_war_distance 범위 내의 것만 표시됩니다. show_unfriendly_squads 및 hide_smarts는 개체가 PDA에 표시되는지 여부에 여전히 영향을 미칩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_fog_of_war_distance">
+		<text>전쟁 안개의 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_fog_of_war_distance_desc">
+		<text>fog_of_war가 활성화되면 플레이어 또는 플레이어 진영의 분대에 대한 이 범위 내의 모든 것이 PDA에 표시됩니다. show_unfriendly_squads 및 hide_smarts는 개체가 PDA에 표시되는지 여부에 여전히 영향을 미칩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_hide_unfriendly_squads">
+		<text>적대적 분대 숨기기</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_hide_unfriendly_squads_desc">
+		<text>활성화되면 중립 및 적군 분대가 PDA에 표시되지 않습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_hide_smarts">
+		<text>지형 표시 숨기기</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_hide_smarts_desc">
+		<text>활성화하면 스마트 지형 아이콘이 PDA에서 렌더링되지 않습니다. 플레이어 진영의 목표는 여전히 PDA에 표시됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_hide_underground_smarts">
+		<text>지도에 지하 지형 정보 숨기기</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_hide_underground_smarts_desc">
+		<text>활성화하면 지하 지형 표기가 PDA에서 숨겨집니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enemy_new_game_bonus">
+		<text>적 보너스 시작 분대 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enemy_new_game_bonus_desc">
+		<text>활성화하면 적군 분대는 초기 분대가 약간 더 많고 중립 및 우호적 진영은 초기 분대가 약간 적어집니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enemy_base_boost">
+		<text>적 기지 부스트</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enemy_base_boost_desc">
+		<text>플레이어 진영의 모든 적들은 실제 소유한 것 외에 일정 이상 수의 기지를 소유한 것처럼 취급됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enemy_resource_boost">
+		<text>적 자원 부스트</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enemy_resource_boost_desc">
+		<text>플레이어 진영의 모든 적들은 실제로 소유하고 있는 것 외에도 정해진 수의 자원을 소유하고 있는 것처럼 취급됩니다. 자원은 방어/공격/순찰 분대의 리스폰 시간과 스폰된 분대의 숙련도에 영향을 미칩니다. 더 많은 자원 수는 더 나은 분대에서 더 빠른 리스폰 시간을 의미합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_influence_weight">
+		<text>액터 영향 가중치</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_influence_weight_desc">
+		<text>각 영향력 지점이 대상에 추가하는 우선 순위입니다. 일반적인 우선 순위 번호는 1에서 10 사이입니다. 숫자가 높을수록 영향이 추가된 포인트를 목표로 삼을 가능성이 더 높습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_novice_squad_price">
+		<text>초보자 지원 가격</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_novice_squad_price_desc">
+		<text>초보 분대 가격입니다. 이 금액 이상의 돈을 소유 하고 있을 시 자신의 진영의 기지를 마우스 오른쪽 버튼으로 클릭하면 해당 기지에서 분대가 즉시 생성됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_advanced_squad_price">
+		<text>고급 지원 가격</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_advanced_squad_price_desc">
+		<text>고급 스쿼드의 가격. 이 금액 이상의 돈을 소유 하고 있을 시 자신의 진영의 기지를 마우스 오른쪽 버튼으로 클릭하면 해당 기지에서 분대가 즉시 생성됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_veteran_squad_price">
+		<text>베테랑 스쿼드 가격</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_veteran_squad_price_desc">
+		<text>베테랑 스쿼드의 가격. 이 금액 이상의 돈을 소유 하고 있을 시 자신의 진영의 기지를 마우스 오른쪽 버튼으로 클릭하면 해당 기지에서 분대가 즉시 생성됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_heli_price">
+		<text>지원 헬리콥터 가격</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_heli_price_desc">
+		<text>헬리콥터 가격입니다. 이 금액 이상의 돈이 있고 자신의 진영의 기지를 마우스 오른쪽 버튼으로 클릭하면 헬리콥터를 구입할 수 있습니다. 해당 맵에는 진영당 헬리콥터가 하나만 있을 수 있습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight">
+		<text>적 등급 보상 가중치</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight_desc">
+		<text>적을 죽이면 Actor_support_reward_money + (enemy_rank * Actor_support_enemy_rank_weight)가 보상으로 지급됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_support_reward_money">
+		<text>포상금</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_support_reward_money_desc">
+		<text>적을 죽이면 Actor_support_reward_money + (enemy_rank * Actor_support_enemy_rank_weight)가 보상으로 지급됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_support_reward_influence">
+		<text>영향력 보상</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_actor_support_reward_influence_desc">
+		<text>적을 죽일 때마다 이 정도의 영향력 포인트를 보상으로 받습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level">
+		<text>맵 당 최대 돌연변이 무리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_desc">
+		<text>맵에 돌연변이 무리 수가 이보다 적을 때마다 리스폰이 시도됩니다. 해당 맵에서 다른 돌연변이 무리가 그 대상이 될 수 있으며 돌연변이는 monster_min_faction_respawn 및 monster_max_faction_respawn 변수를 기반으로 비어 있는 지점이나 은신처에서 생성됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn">
+		<text>최소 돌연변이 리스폰</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn_desc">
+		<text>해당 지점의 레벨에 이미 monster_max_squads_per_level 돌연변이 분대가 있는 경우 은신처 또는 비어 있지 않은 기지/자원이 돌연변이 무리를 생성하기 전에 경과하는 최소 시간입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn">
+		<text>최대 돌연변이 리스폰</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn_desc">
+		<text>해당 지점의 레벨에 이미 monster_max_squads_per_level 돌연변이 분대가 있는 경우 은신처 또는 비어 있는 기지/자원이 돌연변이 무리를 생성하기 전에 경과하는 최대 시간입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_zombies_act_as_faction">
+		<text>좀비 진영 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_zombies_act_as_faction_desc">
+		<text>활성화되면 좀비화된 스토커가 세력 전쟁에 참여합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat">
+		<text>돌연변이 오프라인 전투 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat_desc">
+		<text>활성화하면 돌연변이가 오프라인 전투에 참여합니다. 비활성화되면 돌연변이가 존에서 더 눈에 띄게 나타납니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_disable_smart_pop_cap">
+		<text>스마트 인구 한도 비활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_disable_smart_pop_cap_desc">
+		<text>활성화하면 스마트 지형이 초과된 분대를 자동으로 제거하지 않습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_purge_zone_on_emission">
+		<text>에미션 시 맵 초기화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_purge_zone_percentage">
+		<text>초기화 영역 백분율</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_debug_logging">
+		<text>디버그 로깅(로그 파일 확장)</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_debug_logging_desc">
+		<text>활성화되면, 워페어는 디버그 로깅을 사용합니다. 디버그 로깅은 전쟁에서 대부분의 기능의 시작과 끝을 기록하므로 로그 크기가 상당히 부풀려집니다.</text>
+	</string>
+	
+<!-- Alife - 워페어 - Faction -->
+	<string id="ui_mm_title_warfare_faction">
+		<text>워페어 팩션 설정</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_faction_participate_in_warfare">
+		<text>워페어에 참가</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_spawn_on_new_game">
+		<text>새 게임에서 스폰</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_random_spawn_entries">
+		<text>무작위 스폰 항목</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_linked_level_targeting">
+		<text>레벨 링크 타겟팅</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_ignore_empty_targets">
+		<text>비어있는 대상 무시</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_offline_power_multiplier">
+		<text>오프라인 전력 배율기</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_offline_power_multiplier_desc">
+		<text>분대가 오프라인 전투에서 피해를 입힐 때 이 값이 곱해집니다. 예를 들어 이 값이 2로 설정되면 이 진영에 속한 분대는 오프라인 전투에서 일반 분대보다 두 배의 피해를 줍니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_expansion_aggression">
+		<text>확장된 침략</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_expansion_aggression_desc">
+		<text>기지가 허용된 수보다 적거나 process_targets가 호출될 때마다 0에서 100 사이의 임의의 숫자가 생성됩니다. 이 숫자가 expand_aggression보다 작거나 같으면 진영은 새 목표를 선택합니다. 그렇지 않으면 진영은 새로운 대상을 선택하지 않습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_night_activity_chance">
+		<text>야간 활동 확률</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_night_activity_chance_desc">
+		<text>진영이 야간에 침공군을 파견하거나 순찰대를 파견할 가능성. 야간 시간은 8:00pm에서 6:00am 사이 또는 20:00에서 6:00 사이로 간주됩니다.</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_faction_min_faction_respawn">
+		<text>최소 부활 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_faction_respawn_desc">
+		<text>기지가 방어 분대를 생성하기 위해 거쳐야 하는 최소 시간입니다. 이것은 기지의 가용 자원과 함께 기지 방어 리스폰 시간을 결정합니다. 기지의 가용 자원은 total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)에 의해 결정됩니다. 기지의 재생성 시간은 최소 및 최대 진영 재생성 시간 사이의 값을 resource_count / warfare.resource_count 계수로 선택하여 결정됩니다. 재생성 시간 = (100% - own_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_faction_respawn">
+		<text>최대 리스폰 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_faction_respawn_desc">
+		<text>기지가 방어 분대를 생성하기 위해 통과해야 하는 최대 시간입니다. 이것은 기지의 가용 자원과 함께 기지 방어 리스폰 시간을 결정합니다. 기지의 가용 자원은 total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)에 의해 결정됩니다. 기지의 재생성 시간은 resource_count / warfare.resource_count 계수로 min_faction_respawn과 max_faction_respawn 사이의 값을 선택하여 결정됩니다. 재생성 시간 = (100% - own_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_keep_last_base">
+		<text>마지막 기지 유지</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_faction_min_invasion_size">
+		<text>최소 침공 인구 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_invasion_size_desc">
+		<text>최소 침공 크기 승수입니다. 이는 max_invasion_size 및 해당 진영이 소유한 기지의 수와 함께 사용하여 최종 침략_크기를 계산합니다. 이것은 스마트 지형 max_population에 대한 승수이므로 스토커 게임플레이 옵션의 스토커 인구 계수가 최종 침공 규모에 영향을 미칩니다. 현재 침공 크기 = (100% - own_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). 현재 침공 인구 = min(1, target.max_population * 현재 침공 크기)</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_invasion_size">
+		<text>최대 침략 인구 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_invasion_size_desc">
+		<text>최대 침공 크기 승수입니다. 이는 max_invasion_size 및 해당 진영이 소유한 기지의 수와 함께 사용하여 최종 침략_크기를 계산합니다. 이것은 스마트 지형 max_population에 대한 승수이므로 스토커 게임플레이 옵션의 스토커 인구 계수가 최종 침공 규모에 영향을 미칩니다. 현재 침공 크기 = (100% - own_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). 현재 침공 인구 = min(1, target.max_population * 현재 침공 크기)</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_invasion_depart_time">
+		<text>최소 침공 출발 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_invasion_depart_time">
+		<text>최대 침공 출발 시간</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_faction_min_patrol_squads">
+		<text>최소 순찰 인구 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_patrol_squads_desc">
+		<text>최소 순찰대 인구 계수. 진영이 기지를 소유하지 않으면 각 기지가 (이론적으로는 소유하지 않기 때문에) min_patrol_squads * max_population 순찰 분대의 양을 갖습니다. 현재 순찰 분대 계수 = (100% - own_base_percentage) * min_patrol_squds + (handed_base_percentage * max_patrol_squads. 현재 허용되는 순찰 쿼드 = base.max_population * 현재 순찰 분대 계수.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_patrol_squads">
+		<text>최대 순찰 인구 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_patrol_squads_desc">
+		<text>최대 순찰대 인구 계수. 파벌이 모든 기지를 소유할 때 각 기지에는 max_patrol_squads * max_population 순찰 분대의 수가 있습니다. 현재 순찰 분대 계수 = (100% - own_base_percentage) * min_patrol_squds + (handed_base_percentage * max_patrol_squads. 현재 허용되는 순찰 쿼드 = base.max_population * 현재 순찰 분대 계수.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_patrol_time">
+		<text>최소 순찰 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_patrol_time_desc">
+		<text>기지가 순찰대를 생성하기 위해 거쳐야 하는 최소 시간입니다. 이것은 기지의 사용 가능한 자원과 함께 기지 순찰 재생성 시간을 결정합니다. 기지의 가용 자원은 total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)에 의해 결정됩니다. 기지의 순찰 재생성 시간은 min_patrol_time과 max_patrol_time 사이의 값을 resource_count / warfare.resource_count 계수로 선택하여 결정됩니다. 재생성 시간 = (100% - own_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_patrol_time">
+		<text>최대 순찰 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_patrol_time_desc">
+		<text>기지가 순찰대를 생성하기 위해 통과해야 하는 최대 시간입니다. 이것은 기지의 사용 가능한 자원과 함께 기지 순찰 재생성 시간을 결정합니다. 기지의 가용 자원은 total_resources = global_resources + (regional_resources * 2) + (local_resources * 3)에 의해 결정됩니다. 기지의 순찰 재생성 시간은 min_patrol_time과 max_patrol_time 사이의 값을 resource_count / warfare.resource_count 계수로 선택하여 결정됩니다. 재생성 시간 = (100% - own_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_patrol_hunt_chance">
+		<text>순찰대 습격 확률</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_patrol_hunt_chance_desc">
+		<text>기지가 순찰대의 새로운 목표물을 찾고 있을 때, 현재 레벨이나 연계된 레벨에 적의 순찰대가 있는 경우, 기지는 적의 순찰대를 목표물로 지정할 기회입니다. 분대에 적의 순찰대가 목표로 지정되지 않은 경우 평소와 같이 순찰할 기지 근처의 영토 지점이 지정됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_patrol_rest_time">
+		<text>최소 순찰 휴식 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_patrol_rest_time_desc">
+		<text>순찰대가 영토 지점에서 대기하는 최소 시간입니다. 야간 활동 기회는 또한 새로운 영토 지점으로 보낼지 여부에 영향을 미칩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_patrol_rest_time">
+		<text>최대 순찰 휴식 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_patrol_rest_time_desc">
+		<text>순찰대가 영토 지점에서 대기하는 최대 시간입니다. 야간 활동 기회는 또한 새로운 영토 지점으로 보낼지 여부에 영향을 미칩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_resurgence_wait_time">
+		<text>최소 부활 대기 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_resurgence_wait_time">
+		<text>최대 부활 대기 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_random_squad_count">
+		<text>무작위 분대 수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_random_squad_count_desc">
+		<text>활성화되면 이 진영의 모든 분대는 min_random_squad_count와 max_random_squad_count 사이의 임의의 수의 NPC를 갖게 됩니다.</text>
+	</string>	
+	<string id="ui_mm_alife_warfare_faction_min_random_squad_count">
+		<text>최소 무작위 분대 수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_random_squad_count_desc">
+		<text>random_squad_count가 활성화된 경우, 이것은 이 진영에 대해 분대가 가질 수 있는 최소 NPC 수가 됩입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_random_squad_count">
+		<text>최대 무작위 분대 수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_random_squad_count_desc">
+		<text>random_squad_count가 활성화되면 분대가 이 진영에 대해 가질 수 있는 최대 NPC 수입니다.</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_faction_random_patrols">
+		<text>무작위 순찰</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_random_patrols">
+		<text>최대 무작위 순찰</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_random_patrol_time">
+		<text>최대 무작위 순찰 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_random_patrol_time">
+		<text>최대 무작위 순찰 시간</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_faction_invasion_departure_chance">
+		<text>침공 출발 확률</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_invasion_departure_chance_desc">
+		<text>현재 process_targets 업데이트 중에 침략이 출발할 확률입니다. 이것은 게임 내 1~5분마다 호출됩니다.</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_faction_base_priority">
+		<text>기본 우선순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_base_priority_desc">
+		<text>진영이 기지를 얼마나 우선시하는지. 일반적인 우선 순위 번호는 0에서 10 사이입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_resource_priority">
+		<text>자원 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_resource_priority_desc">
+		<text>진영이 자원 포인트를 얼마나 우선시하는지. 일반적인 우선 순위 번호는 0에서 10 사이입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_territory_priority">
+		<text>영토 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_territory_priority_desc">
+		<text>진영이 영토 포인트를 얼마나 우선시하는지. 일반적인 우선 순위 번호는 0에서 10 사이입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_flag_priority">
+		<text>진영 플래그 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_flag_priority_desc">
+		<text>gamedata/configs/misc/simulation_objects_props.ltx 파일에서 소유 진영에 대해 플래그가 지정된 포인트의 기본 우선 순위를 지정합니다. 예를 들어 Clear Sky가 영역 지점을 보고 있는 경우 해당 파일에 해당 지점에 대해 csky = 1이 정의되어 있으면 해당 지점의 우선 순위를 2만큼 높입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_is_being_targeted_priority">
+		<text>우선 대상 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_is_being_targeted_priority_desc">
+		<text>기지가 다른 기지의 목표가 되는 경우 침략에 대응하기 위해 이 정도의 우선 순위를 추가합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_weaker_priority">
+		<text>낮은 대상 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_weaker_priority_desc">
+		<text>베이스가 덜 강력한 분대가 있는 포인트를 얼마나 우선시하는지 결정합니다</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_stronger_priority">
+		<text>강한 분대 우선</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_stronger_priority_desc">
+		<text>베이스가 더 강력한 분대가 있는 포인트를 얼마나 우선시하는지 정합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_on_same_level_priority">
+		<text>동일한 수준의 우선순위 대상</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_on_same_level_priority_desc">
+		<text>베이스가 자신과 같은 레벨에 있는 포인트를 얼마나 우선시하는지 정합니다.</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base">
+		<text>기지당 최대 스마트 타겟</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base_desc">
+		<text>베이스가 한 번에 목표로 삼을 수 있는 포인트 수.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_resource_count_modifier">
+		<text>자원 점수 배수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_resource_count_modifier_desc">
+		<text>각 기지의 사용 가능한 자원 포인트에 추가되는 자원 포인트 수. 이것은 부정적일 수 있습니다. 숫자가 높을수록 재생성 시간이 빨라집니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_base_count_modifier">
+		<text>베이스 점수 배수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_base_count_modifier_desc">
+		<text>각 진영의 소유 기지 수에 추가되는 기지 수입니다. 이것은 부정적일 수 있습니다. 숫자가 높을수록 더 많은 순찰과 더 많은 침공이 발생합니다.</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_faction_enemy_faster_respawn">
+		<text>적의 빠른 리스폰 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_manual_capture_wait_time">
+		<text>수동 점령 대기 시간</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_offline_combat_distance">
+		<text>오프라인 전투 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_disable_offline_combat">
+		<text>오프라인 전투 비활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_disable_offline_combat_desc">
+		<text>활성화되면 분대는 오프라인 전투에 참여하지 않습니다. 이것은 당신이 그들에게 접근할 때만 전쟁을 야기하게 할 것입니다. 이것은 전반적인 전쟁을 느리게 하고 당신과 당신 주위의 분대를 중심으로 전쟁이 돌아가도롣 만들 것입니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts">
+		<text>스마트 오프라인 전투 시뮬레이션</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts_desc">
+		<text>활성화되면 분대는 목표 지점을 방어할 때만 오프라인 전투를 시뮬레이션합니다. 두 분대가 근처에 있어도 다른 스마트 지형에서 대기하는 경우 오프라인 전투에 참여하지 않습니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_enable_offline_news">
+		<text>오프라인 뉴스 이벤트 활성화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_enable_offline_news_desc">
+		<text>활성화하면 아군 분대가 오프라인 전투에 참가하거나 온라인 전투에 참가하거나 기지를 아군 세력에 의해 빼앗거나 잃을 때마다 오프라인 뉴스를 수신합니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_offline_news_display_percentage">
+		<text>오프라인 뉴스 표시 비율</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_offline_news_display_percentage_desc">
+		<text>0에서 100 사이의 숫자입니다. 이 비율의 오프라인 뉴스 메시지만 표시됩니다.</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_randomize_squad_count">
+		<text>분대원 수 무작위화</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_min_squad_count">
+		<text>최소 분대원 수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_max_squad_count">
+		<text>최대 분대원 수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_factions_keep_last_base">
+		<text>최후 베이스 유지</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_zombie_mode">
+		<text>좀비 모드</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_faction_target_faction_stronger_priority">
+		<text>더 강한 목표를 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_faction_weaker_priority">
+		<text>더 약한 목표를 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_target_resource_priority">
+		<text>자원을 우선 순위</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_faction_lvl_k00_marsh_priority">
+		<text>지역 (늪지대) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_k01_darkscape_priority">
+		<text>지역 (검은 풍경) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l01_escape_priority">
+		<text>지역 (코돈) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l02_garbage_priority">
+		<text>지역 (쓰레기장) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l03_agroprom_priority">
+		<text>지역 (아그로프롬) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l04_darkvalley_priority">
+		<text>지역 (검은 계곡) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l05_bar_priority">
+		<text>지역 (로스토크) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l06_Rostok_priority">
+		<text>지역 (무법지대) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l07_military_priority">
+		<text>지역 (군사기지) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l08_yantar_priority">
+		<text>지역 (얀타) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l09_deadcity_priority">
+		<text>지역 (죽은 도시) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l10_limansk_priority">
+		<text>지역 (리만스크) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l10_radar_priority">
+		<text>지역 (레이더) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l10_red_forest_priority">
+		<text>지역 (붉은 숲) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l11_hospital_priority">
+		<text>지역 (병원 폐허) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l11_pripyat_priority">
+		<text>지역 (프리피야트) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_priority">
+		<text>지역 (체르노빌 원자력 발전소 (남쪽)) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l12u_sarcofag_priority">
+		<text>지역 (석관) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l12u_control_monolith_priority">
+		<text>지역 (모노리스 제어 센터) 우선 순위</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_2_priority">
+		<text>지역(체르노빌 원자력 발전소 (북쪽)) 지역</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_l13_generators_priority">
+		<text>지역(발생기) 지역</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_zaton_priority">
+		<text>지역(자톤) 지역</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_jupiter_priority">
+		<text>지역(주피터) 지역</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_pripyat_priority">
+		<text>지역(프리피야트 외곽) 지역</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_jupiter_underground_priority">
+		<text>지역(주피터 지하) 지역</text>
+	</string>
+	<string id="ui_mm_alife_warfare_faction_lvl_k02_trucks_cemetery_priority">
+		<text>지역(트럭 묘지) 지역</text>
+	</string>
+	
+	
+<!-- Alife - 워페어 - Azazel Mode  -->
+	<string id="ui_mm_title_warfare_azazel">
+		<text>워페어 아자젤 모드 설정</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_azazel_state">
+		<text>아자젤 모드</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_azazel_respawn_as_companions">
+		<text>동료로 부활</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_respawn_as_actor_faction">
+		<text>같은 팩션맴버로 부활</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_respawn_as_allies">
+		<text>아군 스토커로 부활</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_respawn_as_neutrals">
+		<text>중립 스토커로 부활</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_respawn_as_enemies">
+		<text>적 스토커로 부활</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_respawn_as_nearest">
+		<text>가장 가까운 스토커로 부활</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_companion_dist_mult">
+		<text>동료 부활 거리 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_actor_faction_dist_mult">
+		<text>팩션맴버 부활 거리 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_friend_dist_mult">
+		<text>친구 부활 거리 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_ally_dist_mult">
+		<text>아군 스토커 부활 거리 계수</text>
+	</string>	
+	<string id="ui_mm_alife_warfare_azazel_neutral_dist_mult">
+		<text>중립 스토커 부활 거리 계수</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_enemy_dist_mult">
+		<text>적 스토커 부활 거리 계수</text>
+	</string>
+	
+	<string id="ui_mm_alife_warfare_azazel_companion_min_respawn_dist">
+		<text>최소 동료 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_companion_max_respawn_dist">
+		<text>최대 동료 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_actor_faction_min_respawn_dist">
+		<text>최소 같은 팩션맴버 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_actor_faction_max_respawn_dist">
+		<text>최대 같은 팩션맴버 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_ally_min_respawn_dist">
+		<text>최소 아군 스토커 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_ally_max_respawn_dist">
+		<text>최대 아군 스토커 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_neutral_respawn_min_dist">
+		<text>최소 중립 스토커 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_neutral_respawn_max_dist">
+		<text>최대 중립 스토커 부활 거리</text>
+	</string>	
+	<string id="ui_mm_alife_warfare_azazel_enemy_respawn_min_dist">
+		<text>최소 적 스토커 부활 거리</text>
+	</string>
+	<string id="ui_mm_alife_warfare_azazel_enemy_respawn_max_dist">
+		<text>최대 적 스토커 부활 거리</text>
+	</string>
+	
+<!-- Alife - Dynamic News -->
+	<string id="ui_mm_desc_dynamic_news">
+		<text>임무 및 사망 보고서에서 일상적인 농담과 자잘한 소식에 이르기까지 스토커는 다양한 이유로 의사 소통합니다. 다음 설정을 사용하면 PDA가 수신할 메시지 유형을 필터링할 수 있습니다.</text>
+	</string>
+	
+	<string id="ui_mm_alife_dynamic_news_message_duration">
+		<text>HUD의 메시지 지속 시간(초)</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_death_stalker_news">
+		<text>SOS/사망 보고(적 습격)</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_death_mutant_news">
+		<text>SOS/사망 보고(돌연변이 습격)</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_generic_death_news">
+		<text>사망 보고서 및 발견</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_death_report_news">
+		<text>사망 보고서(부고 기사)</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_tips_news">
+		<text>팁 뉴스</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_kill_wounded_news">
+		<text>위협</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_found_artifact_news">
+		<text>아티팩트 발견</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_heli_call_news">
+		<text>헬리콥터 요청</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_loot_news">
+		<text>전리품 발견</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_cycle_of_special_news">
+		<text>특별 뉴스의 시간 주기(초)</text>
+	</string>
+
+	<string id="ui_mm_alife_dynamic_news_reaction_news">
+		<text>스토커 반응</text>
+	</string>
+	
+	<string id="ui_mm_alife_dynamic_news_weather_news">
+		<text>날씨 잡담</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_time_news">
+		<text>시간 잡담</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_nearby_activity_news">
+		<text>주변 활동 잡담</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_dumb_zombie_news">
+		<text>좀비 통신 시도</text>
+	</string>
+	
+	<string id="ui_mm_alife_dynamic_news_bounty_news">
+		<text>현상금 잡담</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_cycle_of_task_news">
+		<text>임무 뉴스의 시간 주기(초)</text>
+	</string>
+
+	<string id="ui_mm_alife_dynamic_news_random_msg_news">
+		<text>무작위 농담</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_factions_report_news">
+		<text>세력 활동</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_zone_activity_news">
+		<text>존 관련 활동</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_found_dead_news">
+		<text>시체 발견</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_surge_news">
+		<text>에미션 예측</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_cycle_of_random_news">
+		<text>무작위 뉴스의 시간 주기(초)</text>
+	</string>
+
+	<string id="ui_mm_alife_dynamic_news_companions_news">
+		<text>동료 농담</text>
+	</string>	
+	<string id="ui_mm_alife_dynamic_news_cycle_of_companions_news">
+		<text>동료 농담의 시간 주기(초)</text>
+	</string>
+	
+<!-- Others -->
+	<string id="ui_mm_title_other">
+		<text>다른 설정</text>
+	</string>
+	
+	<string id="ui_mm_other_localization">
+		<text>언어</text>
+	</string>
+	<string id="ui_mm_other_discord">
+		<text>디스코드 상태</text>
+	</string>
+	<string id="ui_mm_other_discord_desc">
+		<text>이 옵션이 활성화되어 있는 동안 discord에 연결되어 있으면 모든 사람이 볼 수 있도록 게임 상태가 프로필에 표시됩니다.
+		표시되는 정보는 레벨, 현 임무, 진영, 건강 및 게임 모드입니다.</text>
+	</string>
+	<string id="ui_mm_other_important_save">
+		<text>맵 변경 시 자동 저장</text>
+	</string>
+	<string id="ui_mm_other_autosave_timer">
+		<text>15분마다 자동 저장</text>
+	</string>
+	<string id="ui_mm_other_autosave_timer_new">
+		<text>X분마다 자동 저장(0 = 비활성화)</text>
+	</string>
+	<string id="ui_mm_other_quicksave_cnt">
+		<text>빠른 저장 횟수</text>
+	</string>
+	<string id="ui_mm_other_debug_hud">
+		<text>디버그 HUD</text>
+	</string>
+	<string id="ui_mm_other_debug_map_hud">
+		<text>디버그 맵 스팟</text>
+	</string>
+	<string id="ui_mm_other_debug_map_hud_desc">
+		<text>추가 디버그 정보와 함께 구역의 모든 분대에 대한 지도 마커를 표시합니다.</text>
+	</string>
+	<string id="ui_mm_other_debug_error">
+		<text>디버그 오류 표시</text>
+	</string>
+	<string id="ui_mm_other_debug_error_desc">
+		<text>콘솔에 오류가 기록된 경우 HUD에 대한 알림을 표시합니다.</text>
+	</string>
+	
+	
+	
+	<string id="st_sk_desc">
+		<text>인식하지 못하는 npc를 조용히 제압할 수 있는 실험적인 기능입니다.\n암살을 수행하려면 자신이나 피해자가 누구에게도 보이지 않는 상태에서 적절한 무기(스페나츠 칼과 같은 무기 또는 저소음 총으로 헤드샷)로 npc를 때려야 합니다. 다른 npc 성공하면 npc는 근처의 동맹이나 친구에게 알리지 않고 죽지만, 누군가가 당신이 죽은 npc 근처에 있는 것을 목격하다면 그들은 당신이 그를 죽였다는 것을 깨닫고 모두가 평소와 같이 반응할 것입니다.\n이 기능은 여전히 작동하기 때문에 기본적으로 비활성화되어 있습니다. 진행 상황이 심각하고 균형에 심각한 영향을 줄 수 있습니다(적절한 경우 아군 npc를 자유롭게 죽이거나 변장한 경우 적 기지를 제거하는 능력으로 인해).</text>
+	</string>
+	<string id="ui_mm_menu_silent_kills"><text>암살</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_enabled"><text>암살 활성화</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_melee_enabled"><text>근접 무기로 암살 허용</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok"><text>모든 근접 무기 암살 허용</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok_desc"><text>선택하지 않으면 근접 무기는 "can_stealth_stab" 구성 값이 참인 경우에만 암살에 사용할 수 있으며 기본적으로 스페츠나츠 스위치블레이드만 사용할 수 있습니다.</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_gun_enabled"><text>무소음 총으로 암살 허용</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_headshot_only"><text>헤드샷만 허용</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_fresh_time"><text>암살 이후의 의혹 시간</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_fresh_time_desc"><text>당신이 죽은 시체 근처에서 다가갈시 이 시간동안 근처에 있으면 다른 npc가 당신이 살인자임을 알아 차립니다.</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_suspect_dist"><text>시체로부와 플레이어 거리</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_suspect_dist_desc"><text>최소 이 거리에서 벗어나야 암살이 가능합니다.</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist"><text>근접 암살 목격자 최소거리</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist_desc"><text>이 거리(미터 단위) 내에 암살 대상 외에 다른 npc가 있는 경우 근접 암살 시도는 항상 실패합니다(비가 내리면 감소).</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist"><text>저격 암살 목격자 최소거리</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist_desc"><text>이 거리(미터 단위) 내에 암살 대상 외에 다른 npc가 있는 경우 저격 암살 시도는 항상 실패합니다(비가 내리면 감소).</text></string>
+	
+	
+	<string id="ui_mm_gameplay_economy_diff_condition_buy_override"><text>아이탬 처분 최소 내구도</text></string>
+	<string id="ui_mm_gameplay_economy_diff_condition_buy_override_desc"><text>이것은 상인이 아이템 조건을 수락해야 하는 %%의 값이며, 0으로 설정하면 각 상인 구성 파일에 의해 아이템의 최소 조건이 결정됩니다.</text></string>
+
+</string_table>

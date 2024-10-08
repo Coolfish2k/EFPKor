@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+  <string id="st_anabiotic_combat">
+      <text>근처에 적이 있음으로 아나바이오틱스를 복용하는 것은 안전하지 않습니다.</text>
+  </string>
+
+   <string id="st_psy_death_scene">
+      <text>당신은 죽음보다 더 끔찍한 운명으로 부터 벗어났다...</text>
+  </string>
+
+  <string id="st_psy_zombification_scene">
+      <text>존이 당신에게 두 번째 기회을 줬습니다....</text>
+  </string>
+</string_table>

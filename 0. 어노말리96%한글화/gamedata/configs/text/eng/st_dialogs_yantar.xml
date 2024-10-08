@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- (Military Mechanic) -->
+	<string id="army_yan_mec_about_tool_0">
+		<text>당신은 누구야?</text>
+	</string>
+	<string id="army_yan_mec_about_tool_1">
+		<text>나는 내무군 소속이고, 콜사인은 "페레그린"이야. 우리들은 장비의 유지보수를 돕기 위해 병사들을 이곳에 배치해 두었어. 그리고 나는 파트타임으로 일하는 기술자이기도 하지. 뭔가 부서진게 있다면, 내가 수리해줄 수 있어.</text>
+	</string>
+	<string id="army_yan_mec_about_tool_2">
+		<text>현재 상황은 좀 어때?</text>
+	</string>
+	<string id="army_yan_mec_about_tool_3">
+		<text>솔직히 말하자면, 엿같아. 높으신 분들께서 보급을 존나게 잘 해주신 덕에 내가 일하는 데 필요한 도구도 없다고. 과학자들이 여기에서 쓰는 장비들은 그다지 작업에 도움이 되지는 않아서, 좀 더 높은 품질의 작업을 수행하기에는... 오래된 수신기를 수리하는 데는 성공했지만, 여전히 쓸데없는 잡음만 내뿜고 있지. 우리 병사들이 몇 년 전에 군 창고에서 죽어버렸는데도, 아직까지도 그들의 목소리가 나오고 있다고.</text>
+	</string>
+	<string id="army_yan_mec_about_tool_4">
+		<text>뭐, 여기는 존이니까, 무슨 일이 일어날지 아무도 모르지. 어쨌든, 잘 되길 바랄게.</text>
+	</string>
+
+	
+<!-- (Military Cooker) -->
+	<string id="meet_povar_army_0">
+		<text>당신은 누구야?</text>
+	</string>
+	<string id="meet_povar_army_1">
+		<text>아마도, 여기 요리사라고 보면 될 것 같군. 난 오믈렛처럼 간단한 요리도 만들 줄 모르는데, 어째서인지 군에서 그 보직을 맡게 되어 버렸지 뭐야. 난 진짜 군인은 아니어서, 얀타 호수의 이곳으로 배정받았어. 어쨌든, 사람들은 나를 스피릿이라고 부르지. 주로 난 주류를 취급하지. 여기 있으면 꽤나 우울하다고. 그리고 너도 알다시피... 여긴 과학자들의 주 기지거든. 간부들이 가끔씩 여기로 사찰을 하러 오곤 하는데, 내가 술을 마시는 걸 별로 좋아하지 않지. 그들이 마지막으로 여기 왔을 때, 내 눈앞에서 내가 마시던 보드카를 다 쏟아버리더군, 개새끼들.</text>
+	</string>
+	<string id="meet_povar_army_2">
+		<text>계속해봐.</text>
+	</string>
+	<string id="meet_povar_army_3">
+		<text>그래, 나는 이 근처에서 탄을 구하는게 어렵다는 걸 알지, 특히나 사하로프가 아무 것도 팔지 않는 상태에서는 말야. 내가 물건들을 좀 가져다 줄 수는 있지만, 안타깝게도 소련 때 썼던 것밖에는 없어. 그리고 방어구도 조금 가지고 있는데, 내가 훔치는 데 성공한 것들을 모두 가지고 있지.
+		\n어떻게 할래? 네 개의 9x18 탄창이나 두 개의 5.45 탄창은 보드카 다섯 병, 그리고 5.45 탄창 네 개는 열 병이야.
+		\n보드카 열 병이면, 7.62mm 7N1 탄창 하나 또는 12x70 산탄 세 박스 정도를 나눠줄 수 있으니, 선택하라고.
+		\n보드카 15병 그리고 7000 루블이 있다면, 7.62x54mm PP 탄환 세 탄창을 받을 수 있을 거야. 알다시피 그것들은 꽤 비싸서 말이지...
+		\n그리고 20병을 가져온다면, 창고를 뒤져서 베릴 방탄복 한 벌을 줄게. 내가 구두쇠라고 생각하지는 말라고... 그다지 나쁘지는 않다고, 가장 좋은 물건들은 병사들한테 지급되니까. 그 녀석들은 은닉처에 내가 쓸 만한 장비들을 놓아 두지. 난 벙커 밖에 있는 창고에 물건들을 놓아둘 거야. 난 소매품만 취급한다고.</text>
+	</string>
+	<string id="meet_povar_army_4">
+		<text>생각해 볼게. 고마워.</text>
+	</string>
+
+	<string id="barter_povar_army_0">
+		<text>보드카를 좀 가져왔어.</text>
+	</string>
+	<string id="barter_povar_army_1">
+		<text>훌륭해! 특별히 네가 원하는 게 있어?</text>
+	</string>
+		<string id="barter_povar_army_2">
+			<text>9x18 네 상자.</text>
+		</string>
+		<string id="barter_povar_army_3">
+			<text>5.45 두 상자.</text>
+		</string>
+		<string id="barter_povar_army_4">
+			<text>5.45 네 상자.</text>
+		</string>
+		<string id="barter_povar_army_5">
+			<text>벅샷 탄 세 상자.</text>
+		</string>
+		<string id="barter_povar_army_6">
+			<text>7.62 7N1 한 상자.</text>
+		</string>
+		<string id="barter_povar_army_7">
+			<text>PKP 탄약 세 상자.</text>
+		</string>
+		<string id="barter_povar_army_8">
+			<text>베릴 방탄복.</text>
+		</string>
+	<string id="barter_povar_army_10">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_11">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_12">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_13">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_14">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_15">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_16">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+	<string id="barter_povar_army_9">
+		<text>내 동료들에게 신호를 보냈어. 가져가.</text>
+	</string>
+
+	<string id="remember_dyx_barter_0">
+		<text>다시 말해줘, 뭘 가지고 있지?</text>
+	</string>
+	<string id="remember_dyx_barter_1">
+		<text>이게 내가 가지고 있는 물건들이야. 보드카 다섯 병에 9x18 4 탄창, 보드카 다섯 병에 5.45x39 2 탄창, 보드카 열 병에 5.45x39 4 탄창, 보드카 열 병에 12x70 3 탄창, 보드카 열 병에 7.62x54 7N1 한 탄창, 보드카 열다섯 병과 7000 루블로 PKP 전용탄 세 박스, 그리고 보드카 20병으로 베릴 방탄복이야.</text>
+	</string>
+
+
+<!-- Kruglov -->
+	<string id="yan_ecolog_kruglov_start_dialog_1">
+		<text>반가워, 스토커.</text>
+	</string>
+
+	<!-- yan_ecolog_semenov -->
+	<string id="yan_ecolog_semenov_start_dialog_1">
+		<text>아, 스토커, 필요한 게 뭔가?</text>
+	</string>
+	<string id="yan_ecolog_semenov_start_dialog_yan_ecolog_semenov_task_1">
+		<text>아직 데이터를 더 모아야 해. 뮤턴트를 좀 더 찾아보자고.</text>
+	</string>
+
+	<!-- yan_ecolog_vasilyev -->
+	<string id="yan_ecolog_vasilyev_start_dialog_1">
+		<text>반가워, 스토커.</text>
+	</string>
+	
+
+<!-- Sakharov -->
+	<string id="st_yan_saharov_message_free_upgrade">
+		<text>스토커, 자네가 우리들을 구했네! 자네가 제때 찾아와 도와주지 않았더라면 우리 벙커는 파멸을 맞이했을 것일세. 감사의 표시로, 날 찾아온다면 자네의 싸이-헬멧을 무료로 업그레이드 해주겠네!</text>
+	</string>
+	<string id="yan_stalker_sakharov_start_1">
+		<text>안녕하신가, 스토커. 무슨 일로 왔나?</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_brain_scorcher">
+		<text>브레인 스코처에 대해 뭘 알려줄 수 있지?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_brain_scorcher">
+		<text>흠, 그래... 현장 연구원들은 시설의 가장자리 부분만 돌아다닐 수밖에 없어서, 우리가 조금이나마 알아낸 것들은 대부분 전해들었던 것일세. 간접적이라는 말이지. 우리가 아는 건 이 시설의 효과라네. 어떤 사람이 지나치게 접근하게 된다면 그 사람의 정신을 침범하는 것처럼 보인다네. 증상은 혼란, 환각, 좁아지는 시야, 그리고 다소 비전문적으로 들릴 수도 있겠네만, 좀비화가 있다네. 굳이 과학적인 평가를 내려야 한다면, 난 그걸 원격 정신파-발신기라고 부르고 싶구만, 물론 그런 결과를 내려면 좀 더 적극적인 연구를 수행해야겠지.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_psi_helmet">
+		<text>교수, 나는 정신파 보호 헬멧이 필요해. 내가 맡은 일은 브레인 스코처 지역을 지나가야만 할 수 있는 일이라서, 그게 없으면 난 일을 마치지 못할 거야.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet">
+		<text>자네가 그 물리적으로 불안정한 지역을 지나가는 것에 대한 위험성을 이해하고 있을 거라고 가정하겠네만, 동의하겠나?... 오, 알겠네, 자네가 그렇다고 알고 있겠네. 그렇지 않았다면 내게 물어보지도 않았겠지. 그렇다네, 우리가 조심스럽게 작업하고 있는 이 모델이 있네만, 아직 완성되지 않았고, 최종 단계의 교정을 하지 않은 상태라네. 우린 지금 당장 10,000 루블 정도로 자네에게 이 정신파 헬멧을 줄 수도 있지만, 그렇게 한다면 아직 시험되지 않은 상태의 물건을 사용하는 데 대한 위험성을 감당해야만 할 걸세! 하지만 다른 방안이 하나 더 있네. 우리가 교정 작업을 더 빨리 하는 대신에, 더 많은 비용이 들게 되고, 자네도 좀 더 오랜 시간을 기다려야겠지. 그 방법을 사용한다면 17,500 루블 정도의 비용을 받아야겠네. 만약 자네가 그만큼의 비용을 감당할 의사가 있다면, 우리들은 즉시 교정의 마무리 작업을 시작할 거고, 물건이 준비되기까지 대략적으로 이틀 정도 걸릴 걸세.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet_free">
+		<text>자네가 그 물리적으로 불안정한 지역을 지나가는 것에 대한 위험성을 이해하고 있을 거라고 가정하겠네만, 동의하겠나?... 오, 알겠네, 자네가 그렇다고 알고 있겠네. 그렇지 않았다면 내게 물어보지도 않았겠지. 그렇다네, 우리가 조심스럽게 작업하고 있는 이 모델이 있네만, 아직 완성되지 않았고, 최종 단계의 교정을 하지 않은 상태라네.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_1">
+		<text>내겐 시간이 없어. 프로토타입을 가져가겠어.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_1">
+		<text>자네가 그래야겠다면. 난 자네가 하는 일이 완벽하게 작동하는 상태의 장비가 필요할 거라고 확신하네만... 오, 거의 잊어버릴 뻔했구만. 자네는 언제든지 최종 교정 작업을 위해 우리를 찾아와 헬멧을 맡겨둘 수 있네. 만약 뭔가 잘못된 듯한 기분이 든다면, 바로 우리들을 찾아오게나. 우리는 더 이상의 손실도 용납할 수 없네. 그럼, 10,000 루블을 주시게나.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_2">
+		<text>여기 돈이야. 고마워, 사하로프 교수.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_2">
+		<text>아닐세. 하지만 먼저 시험을 해보기를 권장하겠네. 자네는 바로 북쪽에 있는 연구소의 정신파 방출기를 해체해서 우리들을 도와줄 수 있네. 그 장비가 자네의 의식을 지켜줄 수 있기를 바라겠네...</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_3">
+		<text>당신의 작업을 마무리해줬으면 좋겠군. 이 헬멧을 완전히 교정해줘.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_3">
+		<text>자네가 이걸 가져다주니 정말 안심이 되는구먼. 우리가 마지막 교정 작업을 마치게 되면 부상 위험을 엄청나게 낮출 수 있다네, 그리고 우린 시험해보지 않은 장비를 자네에게 공급한 일로 죄책감을 느끼고 싶지는 않고... 자, 자네가 이미 우리들의 작업에 금전적인 도움을 준 적이 있으니, 최종 교정 작업은 8,000 루블 정도가 들 걸세, 그리고 자네는 대략 이틀 정도를 기다려야 하고.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_1">
+		<text>완전히 교정된 헬멧이 내 인내심만큼의 가치가 있기를 바라는데.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1">
+		<text>그렇게 될 걸세. 우리가 이 헬멧의 교정 작업을 끝낸다면, 헬멧의 정신파 보호 능력이 극대화되어 자네가 어떠한 정신 피해를 입을 위험도 겪지 않으면서 존을 자유롭게 지나다닐 수 있을걸세. 그럼... 17,500 루블 되겠네.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1_free">
+		<text>그렇게 될 걸세. 우리가 이 헬멧의 교정 작업을 끝낸다면, 헬멧의 정신파 보호 능력이 극대화되어 자네가 어떠한 정신 피해를 입을 위험도 겪지 않으면서 존을 자유롭게 지나다닐 수 있을걸세. 자네가 우리들을 도와주었으니, 이 장비를 무료로 제공해 주겠네.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_2">
+		<text>좋아, 완전히 교정된 정신파 헬멧이 만들어지는 걸 기다리고 있을게. 마법을 부려보라고.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2">
+		<text>고맙네, 스토커. 지금 최종 교정 작업을 시작해야겠군. 이틀 정도 뒤에 다시 찾아와주게.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_3">
+		<text>준비가 됐어?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3">
+		<text>그렇다네! 여기 있네. 하지만 먼저 시험을 해보기를 권장하겠네. 자네는 바로 북쪽에 있는 연구소의 정신파 방출기를 해체해서 우리들을 도와줄 수 있네. 그 장비가 자네의 의식을 지켜줄 수 있기를 바라겠네...</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3_1">
+		<text>아직일세. 나중에 다시 오게나.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_3_1">
+		<text>생각을 좀 해봐야겠어.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_3_1">
+		<text>좋네. 걱정은 하지 말게나, 우리가 계속 정신파 헬멧을 가지고 있을 테니.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_ask">
+		<text>존이 과학 연구에 어떤 도움을 주었는지 말씀해 주시겠어, 교수?  </text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_1">
+		<text>당연히 지대하지! 밤하늘의 별 인공물은 야생에서 발견되었을 때 그것의 성질에 상관없이, 정확한 실험 조건에 노출되었을 때 호기심 많은 탄도 방지 특성을 띠기 시작한다. 몇 년 안에, 우리는 바디아머나 케블라 플레이트와 같은 기술의 눈부신 발전을 볼 수 있을 거야.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_2">
+		<text>오, 맞아! 다양한 인간형 돌연변이의 조직 샘플을 조사하는 것은 상당히 계몽적인 관행이었지. 과학계 전반은 무엇이 블러드서커가 모습을 감추게끔 발달하게 했는지, 또는 스노크가 그 유명한 유연성을 갖도록 진화했는지 여전히 확신하지 못하고 있어. 이러한 돌연변이의 원인과 본질에 대해 더 많이 알수록, 우리는 인류의 진화 경로를 더 정확하게 예측할 수 있을 거라고! 별로 재미없나? 흠.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_3">
+		<text>음, 최근에 우리는 블러드서커에 대한 흥미로운 일련의 실험을 수행했는데, 그것은 사실, 다시 생각해 보면, 그쪽 스토커들은 모르는 것이 더 나을 수도 있다는 것을 밝혀냈지.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_4">
+		<text>지식인으로서, 다음 사실을 이해할 수 있으면 좋겠군. 우리의 연구는 살덩이의 소위 "눈"이 광수용체뿐만 아니라 후각 수용체이기도 하다는 걸 밝혀냈네!\n그들은 눈으로만 볼 뿐만 아니라 냄새도 함께 맡는다는 게야!\n그 누가 흔한 돼지가 언젠가 가장 특이한 형태의 공감각과 함께 단단한 생물로 변이할 것이라고 생각이나 했겠나? 뇌의 교차 인지로 인한 것뿐만 아니고 감각 기관의 변화에 의해서도 발생하는 거네!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_5">
+		<text>물론이지! 수년간 다양한 돌연변이 부위를 연구한 결과, 우리는 더 많은 논란의 여지가 있는 목적으로 살덩이 눈, 스노크 힘줄 또는 시도우자이언트 근육 섬유와 같은 장기와 조직을 상품화하는 것에 가까워지고 있네. 최근에 나온 샘플 봤나? 우리는 가능한 한 많은 수의 보조자들에게 이식하고 있어. 모든 자원 봉사자들에게 말일 세. 더 발전하면, 우리는 세계를 뒤집어 엎을 수 있을 거야!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_6">
+		<text>존이 내 연구에 도움이 되었다고 말하는 것은 절제된 표현일 게야. 우리가 이룬 발견들은 과학자로서 나의 신용을 크게 향상시켰다네. 아마도 나의 가장 큰 업적 중 하나는 협력적인 노력이었을 게지: 나의 동료들과, 우리는 성공적으로 통제된 실험실 조건 하에서 희귀한 표피 아티팩트를 합성했을 정도지 - 정말로 노벨상을 받을 만한 결과일세!\n안타깝게도, 아티팩트의 성질은 그 이후로 우리의 조사에 저항이라도 하는 것처럼 독립적으로 진화하고 있어. 우리의 눈부신 업적에도 불구하고, 우리가 더 강력한 인공물을 효율적으로 다시 합성하기까지는 상당한 시간이 걸리겠지.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_7">
+		<text>동료인 브렌트 교수가 있어. 그는 돌연변이 단백질이 인체에 미치는 영향을 연구하는 데 매우 열중이지. 100 라드 바의 단골 손님 중 돌연변이를 섭취한 스토커를 연구하고 최악의 부작용을 피하기 위해 어떤 일을 하는지 기록함으로써 방사선이 남긴 해악등을 연구해서 점점 통찰력이 높아지고 있지.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_8">
+		<text>아, 왜 아니겠나! 우르친 아티팩트에 대해 들어본 적이 있나? 처음에, 우리는 중요한 안정성 덕분에 적어도 2022년까지 연구실 조건에서 그러한 경이로움을 재현하는 것은 비현실적이라고 생각했지. 그러나 우리는 그 비밀을 예정보다 빨리 풀 수 있을 것같네.\n최고의 타이밍이야. 그들은 존에서 자연적으로 찾는 것이 점점 더 어려워지고 있고, 각각의 것들은 강력한 방사선 방지 의상과 약물을 만드는 데 필수적일세. 생각해 보면, 바로 당신들이 우르친 실험의 결과로부터 여러 번 혜택을 받았을 텐데. 우리의 진보된 보호복과 혈청을 사용해 본 적이 없는 전문 존 탐험가는 없겠지. </text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_9">
+		<text>뭐라고? 미안하지만, 오늘은 별로 이야기하고 싶지 않아. 어젯밤 동네 돌연변이들에게서 들은 비명소리와 발톱소리에 신경이 곤두서서 거의 집중할 수가 없어.\n아마도 과학 장비를 구입하거나 다른 사람이 도움이 필요한 사람이 있는지 살펴보도록.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_10">
+		<text>수년 전, 중력에 대한 우리의 이해는 최초의 배척기와 이온 구동장치를 개발하기 시작할 수 있었네.\n\n하지만 스토커들이 중력에 기초한 이상현상에서 가져온 꾸준한 아티팩트가 없었다면, 그러한 발견은 우리 생애에 결코 가능하지 않았을 걸세. 우리의 발견이 대중에게 공개되기까지는 훨씬 더 많은 시간이 걸릴 것이지만, 스토커들이 과학이 별들을 향해 다시 길을 터주는 것을 도왔다는 것은 부인할 수 없는 사실이야!\n그리고 감히 말하건대, 소용돌이와 같은 몇몇 중력 이상 현상들이 과학계에 의해 공간 자체를 짜내는 것으로 알려져 있기 때문에, 어쩌면 텔레포테이션 또한 시간이 지나면 환상이 될 수 없을지도 모른다고!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_11">
+		<text>에너지 분야는 그 지역에서 우리의 연구로부터 상당한 이익을 얻었어. 우리는 비정상적인 에너지 출력을 안전하게 활용하도록 설계된 특수 장치뿐만 아니라 달빛 공예품을 전국의 일부 발전소에 눈에 띄지 않게 도입하기 시작했지. 더욱 정교해지면, 그들은 잠재적으로 화석 연료를 미래 세대를 위해 완전히 대체할 수 있다네.\n\n시간이 지나면 훨씬 더 강력한 배터리 유형 아티팩트에 대해서도 동일한 시도를 할 수 있어. 하지만, 제 동료들은 배터리 한 개라도 원자로 세 개를 초과하는 출력을 낼 수 있다고 추정하지! 당연히, 그러한 놀라운 힘을 다룰 때, 우리는 우리의 실험에서 느리고 신중해야 하겠지만.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_end">
+		<text>나중에, 지금 더 급한 일이 있을 걸로 안다만?</text>
+	</string>
+
+	<!-- yan_merc_guards -->
+	<string id="yan_merc_guards_start_2">
+		<text>넌 잘못된 곳에 와 있어, 친구... 그러니 우리가 잘못된 시간으로도 만들어주기 전에 떠나는 게 좋을 거야.</text>
+	</string>
+	<string id="yan_merc_guards_start_3">
+		<text>문제라도 일으키려 하는 건가? 문제거리를 겪고 싶지 않으면 당장 나가!</text>
+	</string>
+	<string id="yan_merc_guards_start_4">
+		<text>꺼지라고 친구. 그럼 우리들은 계속 평화를 유지할 수 있을 테니까.</text>
+	</string>
+</string_table>

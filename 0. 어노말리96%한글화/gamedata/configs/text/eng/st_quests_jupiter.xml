@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON JUPITER (YANOV) MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_text">
+		<text>다음 임무를 받아야 한다.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_about">
+		<text>그래, 동료중 하나가 도움이 필요하다더군.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_finish">
+		<text>행운을 빌지 스토커.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Mutant Tissue Experiment Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_name">
+		<text>투카레프 %s 실험</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_text">
+		<text>%s 채취하여 투카레프에게 돌아가야한다.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_about">
+		<text>특정 돌연변이에 대한 실험을 해야해. 하나 사냥해줘.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_fetch_about">
+		<text>%s이(가) 필요해. 충분히 보수하지.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_fetch_finish">
+		<text>잘 했어. 필요 하던거야. 보상이야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Find Missing Scientist Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_name">
+		<text>실종된 과학자 찾기</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_text">
+		<text>실종된 과학자를 찾아야 한다.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_about">
+		<text>과학자 중 한 명이 실종됐어. 연구 원정을 나가서 돌아오지 않고 있어. 그가 연구하던 지역은 여기야. 거기에서 그를 찾을 수 있는지 알아 봐.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_finish">
+		<text>고마워 스토커.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Recover Stolen PDA Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_name">
+		<text>투카레프에게 도난당한 PDA 되찾아주기</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_text">
+		<text>투카레프가 중요한 연구가 포함된 PDA를 도난당했다. 그것을 찾아서 그에게 돌려줘야한다.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_about">
+		<text>도둑놈들이 우리의 이동 연구실에 침입하여 물건을 훔쳐갔어. 그놈들이 가져간 것 중 하나는 매우 중요한 연구 데이터가 있는 PDA였다고! 마침 그놈들이 장물을 어디에 숨겨 놓았는지에 대한 정보를 받았어. 확인 해봐. PDA를 찾으면 충분히 보상하지.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_finish">
+		<text>찾았구나! 정말 다행이야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Search Jupiter Underground Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_name">
+		<text>주피터 지하 탐색</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_text">
+		<text>주피터 지하에서 잃어버린 연구문서를 수복해야한다.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_about">
+		<text>우리의 최고 과학자 중 한 명이 프리피야트에서 돌아오는 길에 지하 통로에서 사망했어. 그는 최근 중요한 연구들를 수행하던 차였지. 젠장... 그 연구 성과를 내게 가져다 줘.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_finish">
+		<text>고마워. 그의 희생이 값졌기를.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_text">
+		<text>다음 임무를 받아야 한다.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_about">
+		<text>한 스토커를 찾아가 봐. 그리고 뭘 할 수 있는지 물어보라고. 보수가 괜찮을 거야.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_finish">
+		<text>행운을 빌어.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Arms Dealer Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_name">
+		<text>무기 거래 - %s</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_text">
+		<text>로키에게 %s를(을) 구해줘야 한다.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_about">
+		<text>프리덤은 지금 이곳에서 점점 버티 힘들어 하고 있어. 무기가 필요해. 많이.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_fetch_about">
+		<text>%s가(이) 필요해. 브레인 스코쳐를 지나 여기까지 올 수 있다면 기꺼이 보답하지.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_fetch_finish">
+		<text>잘 했어. 무기들이 많을수록 잠이 더 잘 오거든. 여기 보상이야.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Clear Monolith Beachhead Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_name">
+		<text>모노리스 상륙 거점 소탕하기</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_text">
+		<text>프리덤을 향한 공격에 대비하여 지정된 지역의 모노리스를 소탕하라.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_about">
+		<text>모노리스거 침공을 준비하고 있다는 보고야. 우리 주 공격대가 진입할 수 있도록 해당 지역을 비워 줘.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_finish">
+		<text>잘했어! 이제 침공을 시작할 수 있겠어! 뭐, 지금이 아니라 나중에... 아마도 내일. 어쨌든 고마워 친구.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Hunt Artefact Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_name">
+		<text>로키에게 "%s" 아티팩트를 구해주기</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_text">
+		<text>로키는 부하 중 한 명을 위해 %s 아티팩트를 요청했다.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_about">
+		<text>우리 부대원 중 한 명을 임무에 보낼건데 최대한 잘 무장시켜서 보내야 할거 같아. 그러려면 특별한 유물이 필요해.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_fetch_about">
+		<text>"%s" 아티팩트를 가지고 와 줘. 가지고 와주면 충분히 보상할게.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_fetch_finish">
+		<text>완벽해. 잘했어 친구.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Search Monolith Control Center (Chernobyl) Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_name">
+		<text>모노리스 제어 센터 탐색</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_text">
+		<text>체르노빌 원자력 발전소의 비밀 연구소에서 프로토타입 무기와 관련된 문서를 찾아야 한다.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_about">
+		<text>체르노빌 원자력 발전소의 비밀 연구소 내부에 새로운 무기에 대한 계획이 있다는 정찰이 있어. 그들과 맞서려면 그걸 회수해야 해. 위험이 얼마나 심각한지 알지만, 문서를 회수해 줄 의향이 있다면 좋은 보상을 해줄게.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_finish">
+		<text>정말 대단해. 정말 고생했어.</text>
+	</string>
+
+
+	<!-- Klenov (Bandit Trader) Default Storyline Task -->
+
+	<string id="drx_sl_jup_cont_trader_bandit_default_task_name">
+		<text>다음 임무 받기</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_default_task_text">
+		<text>다음 임무를 받아야 한다.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_default_task_about">
+		<text>어이 작업이 좀 있어. 가서 그놈이 말한대로 해줘. 알겠냐?</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_default_task_finish">
+		<text>그래.</text>
+	</string>
+	
+
+	<!-- Klenov (Bandit Trader) Retrieve Weapons Shipment Storyline Task -->
+
+	<string id="drx_sl_jup_cont_trader_bandit_task_1_name">
+		<text>무기 선적물 회수</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_1_text">
+		<text>클레노프가 무기 선적물을 찾아 주피터의 컨테이너 창고로 가져오는 임무를 맡겼다.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_1_about">
+		<text>오늘 무기를 받기로 했는데 술탄 부하들이 군 순찰 때문에 중간에 숨겨놨데나. 염병, 위치는 분명하니까, 가서 가져와.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_1_finish">
+		<text>믿을만 하구만. 잘했다!</text>
+	</string>
+	
+
+	<!-- Klenov (Bandit Trader) Kill the Enemy Scout Storyline Task -->
+
+	<string id="drx_sl_jup_cont_trader_bandit_task_2_name">
+		<text>적 정찰병 사살</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_2_text">
+		<text>클레노프가 적의 정찰병을 찾아내 죽이라는 임무를 맡겼다.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_2_about">
+		<text>적의 정찰병이 우리 녀석들을 건드렸어. 어떻게 됐냐고? 셋이 뒤졌지. 또 다른 실패의 위험을 감수할 순 없어. 그러니 그 개자식을 찾아서 죽여.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_2_finish">
+		<text>드디어! 이제 다음 약탈을 준비할 수 있겠어. 여기 상이야.</text>
+	</string>
+	
+
+	<!-- Klenov (Bandit Trader) Escort the Bandits Spy Storyline Task -->
+
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_name">
+		<text>밴딧 스파이 호위</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_text">
+		<text>적에게 잠입한 스파이를 제외한 다른 분대를 죽이고 기지까지 호송해야 한다. 스파이는 SVD로 무장했다.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_about">
+		<text>잘 들어. 우리는 적군 사이에 소식통을 가지고 있어. 한동안 우리에게 놈들의 움직임에 대해 알려주고 있었지. 다만, 최근 그에게서 아무 소식도 듣지 못했어. 염병, 보나마나 의심받고 있는게 분명하겠지. 그 새끼를 꺼내오지 못하면 얼마가지 못해 축출당할거야.
+		\n그놈을 데려와. 그녀석이 다른 스토커들과 함께 있다는 걸 명심해, 먼저 그들을 죽여야 해. SVD를 들고 있을 테니 잘 구분하라고. 아마, 니가 도중 뒤져도 의심을 받으면 안 되니까 그놈도 널 사격해 오긴 할텐데, 죽이진 말고. 알겠지? 이제 가 봐. 어서!</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_finish">
+		<text>진짜 둘 다 무사히 돌아왔구나? 히히, 농담이야. 여기 돈.</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_msg_join">
+		<text>썅, 쏘지 마! 쏘지 말라고! 모두 죽었어! 나야 나! 스파이! 나, 나 구하러 온거 맞지? 그래... 어서 클레노프 한테 돌아가자....</text>
+	</string>
+	<string id="drx_sl_jup_cont_trader_bandit_task_3_msg_leave">
+		<text>해냈어... 개씨빨, 해냈다고! 와 씨바, 뒤지는 줄 알았네. 고마워 형씨, 난 가볼게.</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
+
+	<string id="jup_b6_scientist_tech_task_1_name">
+		<text>과학자 호위</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_text">
+		<text>과학자들은 연구를 하는 동안 그들을 호위해야 한다. 연구가 성공적으로 수행되면, 그들을 다시 캠프로 돌려보내야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_about">
+		<text>현장 연구를 도와줄 경험이 풍부한 스토커가 필요해. 준비됐어?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_fetch_finish">
+		<text>지켜줘서 고마워, 감사의 표시로 받아 줘.</text>
+	</string>
+
+	<string id="jup_b6_scientist_tech_task_2_name">
+		<text>"%s" 아티팩트 찾기</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_text">
+		<text>%s 아티팩트를 찾으라는 요청을 받았다. 찾으면 투카레프에게 가져가야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_about">
+		<text>우리는 특정 종류의 아티팩트를 구하고 있어. 관심 있으면 알려 주지.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_about">
+		<text>"%" 아티팩트가 필요해. 들어본 적 있어?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_finish">
+		<text>엄청나! 우리가 찾고 있는 것을 정확히 찾아왔군. 이 옷을 가져가. 그것은 존에서 훌륭한 보호를 제공해줄 거야. 값도 꽤나 잘 훌륭할 거라 확신하지.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
+
+	<string id="jup_b6_scientist_tech_task_3_name">
+		<text>뇌 vs 근육</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_text">
+		<text>생태학자 가드 그룹을 이끌고 밴딧와의 전투에 참여해라.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_about">
+		<text>내 연구원들은 끊임없는 위험에 처해있어. 지역 전체에 밴딧들이 있고 모두가 수수방관 하고 있지. 가서 내 부하들과 함께 그 지역을 청소해버려. A-레벨 병신들이라고 무시하지마. 이 녀석들 싸울 줄은 아는 놈들이니까. 이제 나가서 승리로 이끌어보라고!</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_finish">
+		<text>훌륭해. 고마워.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
+
+	<string id="jup_b220_trapper_task_1_name">
+		<text>돌연변이 청소</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_text">
+		<text>돌연변이가 근처에서 발견되어 일부 지역 주민들에게 이 지역을 위험하게 만들고 있다. 돌연변이 위협을 줄이기 위해 사냥대를 이끌어야 한다. 작업이 완료되면 트레퍼에게 다시 보고해야 한다.</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_about">
+		<text>이 근방에서 발견되는 다양한 돌연변이 은신처를 줄여 야노프 주변을 좀 더 안전하게 유지하고 있어. 그걸 위해 작은 그룹의 사냥꾼을 조직한 참이야. 그들끼리 가도 되긴 하겠지만 그래도 그들을 이끌어줄 경험이 있는 사람이 있으면 더 확실하겠지. 관심있나?</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_finish">
+		<text>고마워, 스토커. 덕분에 이 근방이 훨씬 더 안전해졌을 거야. 여기 당신의 몫이야.</text>
+	</string>
+
+	<string id="jup_b220_trapper_task_2_name">
+		<text>요인 암살</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_text">
+		<text>트레퍼가 높은 가치의 목표를 암살해 달라 의뢰했다.</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_about">
+		<text>제거해야 할 위험한 위협이 있어. 이번에는 돌연변이가 아니라 인간이지. 접근하기 쉽지 않을 것이지만 성공만 한다면 좋은 대가를 지불할 것을 약속하지. 일할 준비 됐나?</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_finish">
+		<text>훌륭한 일처리군. 여기 네 몫.</text>
+	</string>
+
+
+	<!-- FIND WEAPON FOR HUNTSMAN TASK -->
+	<string id="jup_b220_trapper_task_3_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_text">
+		<text>트래퍼는 완벽한 상태의 특정 화기를 찾고 있다.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_about">
+		<text>내 사냥꾼 중 한 명이 특정 화기를 사려고 하더라고. 하나 추적해 주겠어?</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_about">
+		<text>%s이(가) 필요해. 아는 사냥꾼 하나가 있어. 위험한 게임을 추구하는 녀석이라 총기의 상태가 훌륭해야만 한다더군. 하나 찾아준다면 돈을 많이 지불해 주지.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_finish">
+		<text>훌륭한 일처리군. 여기 네 몫.</text>
+	</string>
+
+
+	<!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
+	<string id="jup_b220_trapper_task_4_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_text">
+		<text>트래퍼는 당신이 %s를 가져다 준다면 돈을 잘 지불하겠다고 했다.</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_about">
+		<text>특정 돌연변이에 대한 현상금이 있어. 관심 있어?</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_fetch_about">
+		<text>이 돌연변이를 죽이고 %s를 가져오면 잘 쳐주지, 스토커.</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_fetch_finish">
+		<text>아, 또 다른 위협은 사라졌고 캠프를 위한 새로운 장식이 생겼군. 여기.</text>
+	</string>
+
+
+	<!--- Call of Chernobyl -->
+
+
+	<string id="jup_b217_stalker_tech_task_1_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_text">
+		<text>니트로가 장비 업그레이드하기 위해 %s를 요구했다.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_about">
+		<text>난 새로운 도구가 필요해, 스토커. 존에서 구하기 힘들어. 도와줄 의향이 있다면,필요한 걸 말해줄게.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_about">
+		<text>난 새로운 도구가 필요해, 스토커. 존에서 구하기 힘들어. 도와줄 의향이 있다면,필요한 걸 말해줄게.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_finish">
+		<text>완벽해! 이게 바로 내가 원하는 거야, 스토커, 장비 정비가 필요하시면 지금 바로 해줄게.</text>
+	</string>
+
+	<string id="jup_b217_stalker_tech_task_2_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_text">
+		<text>니트로가 장비 업그레이드하기 위해 %s를 요구했다.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_about">
+		<text>네가 가져온 툴킷은 좋지만, 필요한 모든 것이 들어 있진 않아. 더 좋은 세트를 찾아 줄 수 있어?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_about">
+		<text>네가 가져온 툴킷은 좋지만, 필요한 모든 것이 들어 있진 않아. 더 좋은 세트를 찾아 줄 수 있어?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_finish">
+		<text>워! 찾았구나! 여기, 내가 답례로 돈을 좀 주겠다고 약속했잖아.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_text">
+		<text>니트로가 장비 업그레이드하기 위해 %s를 요구했다.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_about">
+		<text>네가 가져온 툴킷은 좋지만, 필요한 모든 것이 들어 있지 않아. 혹시 더 좋은 세트를 찾아 줄 수 있나요?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_about">
+		<text>네가 가져온 툴킷은 좋지만, 필요한 모든 것이 들어 있지 않아. 혹시 더 좋은 세트를 찾아 줄 수 있나요?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_finish">
+		<text>워! 찾았구나! 여기, 내가 답례로 돈을 좀 주겠다고 약속했잖아.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- Jup A6 Yar -->
+	<string id="jup_b19_freedom_yar_task_1_name">
+		<text>특별 배달</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_text">
+		<text>메시지를 전달해야 해야해. 이런 일에 휘말리게 되다니.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_about">
+		<text>좋아, 아주 간단한 일이 있어. 내 친구 에이샷에게 메시지를 전해줘. 그녀석 PDA를 고쳐야 해서. 여기로 가져오라고 말해 줘.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_finish">
+		<text>하하, 그녀석 그냥 장난친 거야, 스토커. 참을성이 상당한데.</text>
+	</string>
+
+	<string id="jup_b19_freedom_yar_task_1_dm_query">
+		<text>전할 말이 있어서 왔어.</text>
+	</string>
+
+	
+<!-- (Ecologists) -->
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_name">
+		<text>필드 스캔</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text0">
+		<text>이상현상 스캐너를 가져와야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text1_0">
+		<text>이상현상 스캐너를 현장에 가지고 가야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text1_1">
+		<text>이상현상 스캐너를 현장에 가지고 가야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text2">
+		<text>스캐너를 배치해야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text3">
+		<text>결과를 보고 해야 한다.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_about">
+		<text>우리 그룹은 변칙적인 형성에 대한 실험을 진행함으로써 배출물과 인공물이 어떤 관계를 맺고 있는지 알아내려고 최선을 다하고 있어. 하지만, 우리 연구팀이 최우선 자격이 있는 팀이 아니기 때문에, 우리의 임무를 위해 자원 봉사자가 긴급히 필요해. 이 고급 스캐너를 가지고 이상 징후가 있는 곳에 갖다 놓으면 데이터가 우리 컴퓨터로 보내질 거야.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_finish">
+		<text>데이터를 받았어. 스캐너는 의도한 대로 작동하고 있어. 고마워 스토커. 정말 고마워.</text>
+	</string>
+
+	
+<!-- (Monolith Mechanic) -->
+	<string id="mechanic_monolith_jup_depo_task_1_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_text">
+		<text>정비소 기술자가 %s를 가져오라고 했다.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_about">
+		<text>최근에 이곳에 기지가 생겼습니다, 그러나 우리 형제들을 위한 도구는 극심히 부족합니다. 형제애를 위한 기본적인 도구들을 찾을 수 있겠습니까? 매우 귀중할 자산이 될 것입니다.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_fetch_about">
+		<text>최근에 이곳에 기지가 생겼습니다, 그러나 우리 형제들을 위한 도구는 극심히 부족합니다. 형제애를 위한 기본적인 도구들을 찾을 수 있겠습니까? 매우 귀중할 자산이 될 것입니다.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_1_fetch_finish">
+		<text>훌륭합니다. 발판을 마련하고 힘을 키우는 데 도움이 될 겁니다. 저는 당신이 할인을 받을 만하다고 믿습니다. 형제여.</text>
+	</string>
+
+	<string id="mechanic_monolith_jup_depo_task_2_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_text">
+		<text>정비소 기술자가 %s를 가져오라고 했다.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_about">
+		<text>저번 전투에선 우리의 무기가 이교도들의 무기보다 약간 열악하다는 것이 보였습니다. 그들에겐 유능한 기술자들도 있습니다. 이런 상황에서 우리 형제들을 구하기 위해서는 훌륭한 일을 할 수 있는 도구가 필요합니다. 도와주시겠습니까, 형제여?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_fetch_about">
+		<text>저번 전투에선 우리의 무기가 이교도들의 무기보다 약간 열악하다는 것이 보였습니다. 그들에겐 유능한 기술자들도 있습니다. 이런 상황에서 우리 형제들을 구하기 위해서는 훌륭한 일을 할 수 있는 도구가 필요합니다. 도와주시겠습니까, 형제여?</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_2_fetch_finish">
+		<text>훌륭합니다. 우리 형제들에게 공급된 장비는 이 지역의 다른 모든 장비보다 우세한 것으로 판명될 것입니다. 추가로 요금 감면해드리겠습니다.</text>
+	</string>
+
+	<string id="mechanic_monolith_jup_depo_task_3_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_text">
+		<text>정비소 기술자가 %s를 가져오라고 했다.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_about">
+		<text>우리는 그들 모두를 능가할 수 있을 겁니다, 형제여! 그러기 위해서는 무기를 교정할 수 있는 도구가 필요합니다. 세트를 찾아서 가져다 주십시오.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_fetch_about">
+		<text>우리는 그들 모두를 능가할 수 있을 겁니다, 형제여! 그러기 위해서는 무기를 교정할 수 있는 도구가 필요합니다. 세트를 찾아서 가져다 주십시오.</text>
+	</string>
+	<string id="mechanic_monolith_jup_depo_task_3_fetch_finish">
+		<text>이제 해결되었습니다. 최근의 발견으로, 우리는 주변 지역을 정복할 것입니다. 지금부터 제가 할 수 있는 한 최선을 다하겠습니다.</text>
+	</string>
+	
+	
+<!-- (Bandits Mechanic) -->
+	<string id="jup_cont_mech_bandit_task_1_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_text">
+		<text>정비소의 밴딧 기술자가 %s를 가져오라고 했다.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_about">
+		<text>스토커들이 모든 걸 낚아채서 야노프에게 방어선을 세웠어, 그 개자식들. 우린 아무것도 없어! 도구가 필요해 좀 갖다 줘, 응?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_fetch_about">
+		<text>스토커들이 모든 걸 낚아채서 야노프에게 방어선을 세웠어, 그 개자식들. 우린 아무것도 없어! 도구가 필요해 좀 갖다 줘, 응?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_1_fetch_finish">
+		<text>아, 좋아! 앞으론 할인도 좀 해주지.</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_2_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_text">
+		<text>정비소의 밴딧 기술자가 %s를 가져오라고 했다.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_about">
+		<text>너무 귀찮게 하고 싶진 않지만 키트 하나만 더 가져다 줄래? 더 나은 키트가 필요해, 알지? 제대로 된 업그레이드 없이는 여기 우리에게 힘든 일이야, 응.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_fetch_about">
+		<text>너무 귀찮게 하고 싶진 않지만 키트 하나만 더 가져다 줄래? 더 나은 키트가 필요해, 알지? 제대로 된 업그레이드 없이는 여기 우리에게 힘든 일이야, 응.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_2_fetch_finish">
+		<text>고마워, 친구. 넌 진짜 상남자야, 알지?</text>
+	</string>
+
+	<string id="jup_cont_mech_bandit_task_3_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_text">
+		<text>정비소의 밴딧 기술자가 %s를 가져오라고 했다.</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_about">
+		<text>이봐, 친구, 네가 가져온 다른 두 가지 도구들은 정말 도움이 되긴 하지만 그래도 여전히 최고의 도구가 필요해. 있잖아... 딱 보면! 크으 지린다... 하게 만드는 그런거 있잖아. 앙?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_fetch_about">
+		<text>이봐, 친구, 네가 가져온 다른 두 가지 도구들은 정말 도움이 되긴 하지만 그래도 여전히 최고의 도구가 필요해. 있잖아... 딱 보면! 크으 지린다... 하게 만드는 그런거 있잖아. 앙?</text>
+	</string>
+	<string id="jup_cont_mech_bandit_task_3_fetch_finish">
+		<text>이야, 존나 씨발 앞뒤 양옆으로 지리겠구만! 정말 보기 힘든거거든... 더 할인해 주지, 넌 그럴 자격이 있어. 고마워, 형씨.</text>
+	</string>
+
+	
+	<!-- Bonesetter (Loner Medic) -->
+	<string id="jup_a6_stalker_medik_task_1_name">
+		<text>%s 찾기</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_text">
+		<text>본세터에게 %s가 필요합니다.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_about">
+		<text>맨날 이정도 부상자가 들어차고 또 그걸 매일 치료해야 하고. 시팔, 의료용품 보관소가 거덜 나겠어. 조만간 붕대와 의료용 키트가 다 떨어질 거야. 가서 약 제조 도구 하나만 찾아줘 분명 도움이 될 거야.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_fetch_about">
+		<text>맨날 이정도 부상자가 들어차고 또 그걸 매일 치료해야 하고. 시팔, 의료용품 보관소가 거덜 나겠어. 조만간 붕대와 의료용 키트가 다 떨어질 거야. 가서 약 제조 도구 하나만 찾아줘 분명 도움이 될 거야.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_task_1_fetch_finish">
+		<text>워 씨벌! 고맙다 야.</text>
+	</string>
+</string_table>

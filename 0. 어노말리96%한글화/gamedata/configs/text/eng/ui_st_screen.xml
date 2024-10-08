@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_ignite_fire">
+		<text>불을 붙인다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_ignite_wait">
+		<text>다시 불을 붙일 수 있을 때까지 잠시 기다려주세요</text>
+	</string>
+	<string id="st_ignite_far">
+		<text>근처에 모닥불이 없거나, 너무 멀찍이 떨어져 있습니다</text>
+	</string>
+	<string id="st_extinguish_fire">
+		<text>불을 끈다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="actor_inventory_box_use">
+		<text>개인 은닉처 열기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="cant_walk">
+		<text>너무 지쳐 움직일 수 없습니다.</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>너무 많은 짐을 들고 있어 움직일 수 없습니다.</text>
+	</string>
+	<string id="car_character_use">
+		<text>문 열기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_use_action_sit">
+		<text>앉기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>대화하기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>시체 수색 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>시체 수색 ($$ACTION_USE$$)\n시체 끌기 (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>임무 완료:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>임무 실패:</text>
+	</string>
+	<string id="general_in_item">
+		<text>물건 받음:</text>
+	</string>
+	<string id="general_in_money">
+		<text>돈을 받음:</text>
+	</string>
+	<string id="general_new_task">
+		<text>새로운 임무:</text>
+	</string>
+	<string id="general_out_item">
+		<text>물건 잃음:</text>
+	</string>
+	<string id="general_out_money">
+		<text>돈을 잃음:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>임무 취소:</text>
+	</string>
+	<string id="general_update_task">
+		<text>임무 갱신됨:</text>
+	</string>
+	<string id="gun_jammed">
+		<text> </text>
+	</string>
+							
+				 
+		  
+	<string id="st_item_taken">
+		<text>%s</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>상자를 수색한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>물건 가지기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b10_ufo_searching_tips">
+		<text>비행물체를 수색한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b1_bar_door">
+		<text>문이 막힘</text>
+	</string>
+	<string id="jup_b1_door_is_closed">
+		<text>문이 안쪽에서 잠겨있음</text>
+	</string>
+	<string id="jup_b202_treasures_closed">
+		<text>보관함이 잠김</text>
+	</string>
+	<string id="jup_b205_tip_door_closed">
+		<text>암호가 필요함</text>
+	</string>
+	<string id="jup_b205_tip_door_decode">
+		<text>암호를 입력 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b206_use_plant">
+		<text>식물을 가져간다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_place_tips">
+		<text>스캐너 설치 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_remove_tips">
+		<text>스캐너 회수 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="lx8_raduga">
+		<text>레인보우 공격성 억제기\n외부 방출형 복합체 모형\n축소비 1:20</text>
+	</string>
+	<string id="pas_b400_tip_switcher">
+		<text>스위치 활성화 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a18_use_idol">
+		<text>장치를 조사한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a25_blow_up_enter_door">
+		<text>폭발물을 설치한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>회복시키기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>엘리베이터의 전력이 끊겼습니다</text>
+	</string>
+	<string id="pri_b306_generator_use">
+		<text>발전기를 켠다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>잠자기</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>잠을 잘 수 없습니다! 출혈이 심하고 방사능 노출을 겪고 있습니다. 약을 사용하거나 의사를 찾아가세요.</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>잠을 잘 수 없습니다! 출혈이 심합니다. 약을 사용하거나 의사를 찾아가세요.</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>잠을 잘 수 없습니다! 방사능 노출을 겪고 있습니다. 약을 사용하거나 의사를 찾아가세요.</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>잠자기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_autosave">
+		<text>자동 저장 중...</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>이제 무기를 꺼내들 수 있습니다.</text>
+	</string>
+	<string id="st_codelock">
+		<text>암호가 필요 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_detective_news">
+		<text>실종된 스토커의 비밀을 밝혀낸 보답으로 스카도브스크의 개인 은닉처에 의약품이 비치되었습니다.</text>
+	</string>
+	<string id="st_duty_first_reward_news">
+		<text>듀티를 도와준 보답으로 야노브의 개인 은닉처에 PS5-M 전천후 보호복이 비치되었습니다.</text>
+	</string>
+	<string id="st_duty_second_reward_news">
+		<text>듀티를 도와준 보답으로 야노브의 개인 은닉처에 PSZ-9d 듀티 방호복이 비치되었습니다.</text>
+	</string>
+	<string id="st_freedom_first_reward_news">
+		<text>프리덤을 도와준 보답으로 야노브의 개인 은닉처에 프리덤의 바람 슈트가 비치되었습니다.</text>
+	</string>
+	<string id="st_freedom_second_reward_news">
+		<text>프리덤을 도와준 보답으로 야노브의 개인 은닉처에 프리덤 가드 슈트가 비치되었습니다.</text>
+	</string>
+	<string id="st_freeplay_text_ok">
+		<text>당신은 헬리콥터에 도착하지 않았고 탈출 분대는 당신 없이 존을 떠났습니다.</text>
+	</string>
+	<string id="st_freeplay_text_yes_no">
+		<text>정말 존을 떠나시겠습니까? 이제 돌아갈 수 없습니다.</text>
+	</string>
+	<string id="st_game_over">
+		<text> </text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text> </text>
+	</string>
+	<string id="st_game_paused">
+		<text>게임 중지됨</text>
+	</string>
+	<string id="st_game_saved">
+		<text>게임 저장됨</text>
+	</string>
+	<string id="st_herald_of_justice_news">
+		<text>맥파이의 정체를 밝혀준 보답으로 아티팩트가 스카도브스크의 개인 은닉처에 비치되었습니다.</text>
+	</string>
+	<string id="st_jup_b41_door_locked">
+		<text>격리가 완료될 때까지 기다려 주십시오</text>
+	</string>
+	<string id="st_lx8_button_press_true">
+		<text>출입 허가</text>
+	</string>
+	<string id="st_lx8_lift_button">
+		<text>엘리베이터로 올라가기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_pri_b306_go_down">
+		<text>엘리베이터로 내려가기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>정신 파동 수치가 위험 수준에 도달했습니다. 더 나아가려면 보호구가 필요합니다.</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>보호 종료 시간</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>방사능 수치가 위험 수준에 도달했습니다. 더 나아가려면 보호구가 필요합니다.</text>
+	</string>
+	<string id="st_search_helicopter">
+		<text>헬리콥터를 조사한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>은닉처를 수색한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>시</text>
+	</string>
+	<string id="st_tip">
+		<text>메시지</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>문이 막힘</text>
+	</string>
+	<string id="tip_door_close">
+		<text>문 닫기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_closed_base_alarm">
+		<text>문이 잠김 - 캠프가 비상상황입니다</text>
+	</string>
+	<string id="tip_door_closed_hide_weapon">
+		<text>문이 잠김 - 무기를 넣어 주십시오</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>문이 잠김</text>
+	</string>
+	<string id="tip_door_no_electricity">
+		<text>문에 전력이 연결되어 있지 않습니다</text>
+	</string>
+	<string id="tip_door_open">
+		<text>문 열기 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>관문이 닫힘</text>
+	</string>
+	<string id="tip_need_access_card">
+		<text>인증 카드 사용 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_no_access_card">
+		<text>인증 카드가 필요합니다</text>
+	</string>
+	<string id="tip_open_another_site">
+		<text>문이 이쪽에서 열리지 않습니다</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="ui_st_mp_create">
+		<text>만들기</text>
+	</string>
+	<string id="zat_b12_conteiner_full_locked">
+		<text>상자가 잠겨 있습니다. 두 개의 열쇠가 필요합니다.</text>
+	</string>
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>열쇠 사용 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>열쇠를 모두 사용 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_locked">
+		<text>상자가 잠겨 있습니다. 두 번째 열쇠가 필요합니다.</text>
+	</string>
+	<string id="zat_b12_conteiner_open">
+		<text>상자를 연다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b14_door_locked_hint">
+		<text>문이 안쪽에서 잠겨있습니다.</text>
+	</string>
+	<string id="zat_b57_balon_use_hint">
+		<text>가스 탱크 연결 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b57_gas_warning">
+		<text>경고! 화학적 위험 발생!</text>
+	</string>
+	<string id="zat_b57_vintil_press">
+		<text>밸브를 돌린다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b33_car_searching_tip">
+		<text>자동차를 수색한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_resupply_ready">
+		<text>로고베츠 중위와 키릴로프 중위에게 의약품과 총알을 보급받을 수 있습니다.</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>최근 존에 에미션이 발생했습니다.</text>
+	</string>
+	<string id="st_mutant_hunter_news">
+		<text>위험한 뮤턴트들을 처리한 대가로 야노브의 개인 은닉처에 탄약이 비치되었습니다.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>이미 발견된 곳의 은닉처 위치정보를 받았습니다.</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>은닉처 발견</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>은닉처 정보 수신함</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>아무 키나 누르세요</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>미라클 머신을 멈춘다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>브레인 스코처를 멈춘다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_down_red_forest_tips">
+		<text>다리를 내린다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_stop_red_forest_tips">
+		<text>다리를 멈춘다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_up_red_forest_tips">
+		<text>다리를 올린다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="drx_sl_tips_rad_switcher_press">
+		<text>브레인 스코처를 작동한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_make_a_wish">
+		<text>소원을 빈다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_lx18_pda">
+		<text>PDA 녹음을 듣는다</text>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<text>누군가 문을 잡아두고 있습니다.</text>
+	</string>
+	<string id="st_labx18_pass_to_1st_door">
+		<text>잘했습니다, 동료 여러분. 2층의 접근 권한을 드리게 되어 기쁩니다. 우리 연구소에 어떤 일이 일어나고 있는지 곧 알게 되실 겁니다. 접근 코드는 1243입니다. X18 연구소 소장, 표트르 일리치 칼루긴.</text>
+	</string>
+	<string id="st_labx18_pass_to_2nd_door">
+		<text>동료 여러분께, 내일부터는 여러분이 중앙 실험실에 있는 컨테이너를 살펴보러 가야 한다는 것을 알려드리겠습니다. 여러분께서는 두 시간마다 컨테이너를 조사해야 합니다. 모든 사항을 저에게 직접 보고해 주시기 바랍니다. 중앙 실험실 코드는 9524입니다. X18 연구소 소장, 표트르 일리치 칼루긴.</text>
+	</string>
+	<string id="st_yan_saharov_message">
+		<text>잘했네, 결국 자네가 성공했군. 우리들이 연구소 안에 있는 기계를 연구해야 한다는 중요한 사실을 잊지 말게. 우리가 살펴볼 수 있도록 그걸 꺼 주게.</text>
+	</string>
+	<string id="st_yan_saharov_message_2">
+		<text>잘 듣게나, 이 프로토타입으로는 강한 에미션을 오래 버틸 수가 없네. 예상컨대, 에미션이 감지될 때마다, 타이머가 작동할 걸세. 시간이 다 지나면, 프로토타입은 자네를 보호하지 못할 테니, 부디 시간이 얼마나 남았는지를 잘 살펴보기 바라네.</text>
+	</string>
+	<string id="st_yan_saharov_message_3">
+		<text>대단하군. 에미션은 끝났고 자네는 아직 살아있구만 그래. 아, 그리고 가끔 시간날 때마다 우리 벙커에 들러주지 않겠나?</text>
+	</string>
+	<string id="tips_warlab_switcher_press">
+		<text>발전기를 끈다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>이 문을 열려면 암호가 필요합니다</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>($$ACTION_USE$$) 를 눌러 문의 암호를 해독하세요</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>해독 중</text>
+	</string>
+	<string id="bar_arena_actor_afraid">
+		<text>싸움이 끝났습니다! 도전자가 너무 쫄아서 싸우러 나오지도 않았나봅니다!</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>10초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>20초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>30초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>40초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>50초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>싸움이 시작된 지 1분이 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>1분 10초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>1분 20초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>1분 30초가 지났습니다!</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>싸움이 시작됐습니다!</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>주목! 주목! 아레나에서 새로운 싸움이 시작되고 있습니다! 왼쪽 코너는 - 존의 가장 무시무시한 악몽이며, 언제나 굶주려 있는 블러드서커! 그리고 오른쪽 코너는... 사람? 그렇습니다, 사람입니다! 이 스토커에게 박수갈채를 보내줍시다!</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>주목! 주목! 아레나에서 새로운 싸움이 시작되고 있습니다! 왼쪽 코너는 - 숟가락을 구부리는 쿵푸 마스터 - 버러! 그리고 오른쪽 코너는 - 끊임없이 사냥감을 경계중인 바로 그 남자!</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>이런, 도전자가 죽고 말았군요! 놀랐습니다!</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>이런, 도전자가 상대를 죽이기는 했지만, 시간은 이미 지나버렸습니다. 그는 패배했습니다!</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>주목! 주목! 아레나에서 새로운 싸움이 시작되고 있습니다! 왼쪽 코너는 - 하얗고, 북실하고 좆같이 빡돌아 있는... 사칭견! 그리고 오른쪽 코너는 - 어디서 왔는지도, 어디로 갈지도 모르는 수수께끼의 도전자입니다.</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>주목! 주목! 아레나에서 새로운 싸움이 시작되고 있습니다! 왼쪽 코너는 - 여러분이 잘 알고, 사랑하는 만큼, 여러분을 덮쳐서 죽여버리고 싶어하는 그 녀석! 그 짐승입니다! 그리고 오른쪽 코너는 - 어쨌든 지금까지는 살아남아 발버둥치고 있는 - 우리의 스토커입니다!</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>주목! 주목! 아레나에서 새로운 싸움이 시작되고 있습니다! 왼쪽 코너는 - 무술의 달인이자 만병 치료사 - 스노크! 그리고 오른쪽 코너는 - 과거나 미래 따위는 존재하지 않는 듯한 그 남자입니다!</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>시간이 다 지났습니다! 도전자는 졌지만, 아직 살기 위해 싸우고 있습니다!</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>오! 도전자가 시간 내에 상대를 죽이는 데 성공했습니다! 그가 이겼습니다!</text>
+	</string>
+	<string id="st_death_count">
+		<text>당신은 %s 번 죽었습니다.</text>
+									 
+																		  
+		  
+	</string>
+												  
+		  
+ 
+	<string id="st_msg_unlocked_routes">
+		<text>당신의 PDA에 새로운 장소가 표시되었습니다.</text>
+	</string>
+	<string id="st_zone_disappeared">
+		<text> 소원이 이루어졌습니다 ! </text>
+	</string>
+	
+	<string id="st_screen_kick">
+		<text>추방</text>
+	</string>
+	<string id="st_screen_field_dress">
+		<text>해체하기</text>
+	</string>
+	<string id="st_nobody_left_to_replace">
+		<text>대신할 사람이 없습니다.</text>
+	</string>
+	<string id="st_nothing_useful">
+		<text>쓸만한 것이 없습니다</text>
+	</string>
+						   
+		  
+	<string id="st_ui_heli">
+		<text>헬리콥터</text>
+	</string>
+	<!-- AWR -->
+																   
+		  
+					   
+	<string id="st_tiski_no_info">
+		<text>이 장치를 쓰도록 허락받지 않았습니다</text>
+	</string>
+	<string id="st_tiski">
+		<text>작업대를 사용한다 ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_awr_tiski">
+		<text>수리한다 ($$ACTION_USE$$)</text>
+	</string>
+	
+	<!-- Lost to the Zone -->
+	<string id="st_impending_doom">
+		<text>에미션 임박</text>
+	</string>
+	
+	<!-- Ironman -->
+	<string id="st_ironman_new_life">
+		<text>새 목숨 수여됨! 당신은 %s 번 죽었습니다. 남은 목숨: %s</text>
+	</string>
+	
+	<!-- Toggle Animations -->
+	<string id="st_toggle_animation_on">
+		<text>아이템 사용 애니메이션 활성화됨</text>
+	</string>
+	<string id="st_toggle_animation_off">
+		<text>아이템 사용 애니메이션 비활성화됨</text>
+	</string>
+	<!-- Disguise -->
+	<string id="ui_st_disguse_disabled">
+		<text>변장시스템이 해제되었습니다.</text>
+	</string>
+	<string id="ui_st_disguse_back_to_default">
+		<text>당신은 다시 %s 의 일원으로 받아들여집니다.</text>
+	</string>
+	<string id="ui_st_disguse_monolith">
+		<text>모두가 당신이 %s 의 일원이라는 것을 기억하고 있기 때문에, 당신은 모노리스의 일원처럼 변장할 수 없습니다.</text>
+	</string>
+	<string id="ui_st_disguse_someone_saw">
+		<text>당신이 옷을 갈아입는 것을 보았기 때문에, 모두가 당신이 %s 의 일원이라는 것을 기억하고 있습니다.</text>
+	</string>
+	<string id="ui_st_disguse_someone_remember">
+		<text>당신이 최근에 목격되었기 때문에, 모두가 당신이 %s 의 일원이라는 것을 기억하고 있습니다.</text>
+	</string>
+	<string id="ui_st_disguse_naked">
+		<text>아무 옷도 입지 않았기 때문에 사람들은 당신이 %s 의 일원이라는 사실을 알게 되었습니다.</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn">
+		<text>이 옷의 패치는 손상되어 있기 떄문에, 사람들은 당신이 %s의 일원이라고 생각할 것입니다.</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn_now">
+		<text>이 옷의 %s 가 떼어졌기 때문에, 더 이상 변장용으로 사용할 수 없습니다.</text>
+	</string>
+	<string id="ui_st_disguse_patch_attach_now">
+		<text>이 옷에 %s 를 붙였기 때문에, 이제 변장용으로 사용할 수 있습니다.</text>
+	</string>
+	<string id="ui_st_disguse_on">
+		<text>이 옷을 입음으로써 사람들은 당신을 %s 의 일원이라고 생각합니다.</text>
+	</string>
+	<string id="st_disguse_actor_exposed">
+		<text>당신은 발각되었습니다! 모두가 당신이 변장하고 있는 %s 의 일원이라는 것을 알았습니다.</text>
+	</string>
+	
+	<string id="st_news_disguse_enemy_expose_1">
+		<text>침입자다!!!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_2">
+		<text>첩자다!! 쏴버려!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_3">
+		<text>첩자다!! 어서! 발사!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_4">
+		<text>이 자식은 적이다!!! 당장 쏴버려!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_5">
+		<text>거기 서라, 이 더러운 범죄자놈! 이제 벌금을 내라! 아니면 감옥으로 보내주마. 네놈이 훔쳐간 물건들은 모두 압수하겠다.</text>
+	</string>
+	
+	<string id="st_news_disguse_natural_expose_1">
+		<text>너 진짜 첩자였어?! 누가 보냈냐?</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_2">
+		<text>비밀요원? 지금 장난하냐?</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_3">
+		<text>넌 누구도 못 속여, 멍청아.</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_4">
+		<text>꺼져.</text>
+	</string>
+	
+<!-- DoctorX Questlines -->
+    <string id="st_drx_questlines_and_this_one">
+        <text>그리고 이번엔...</text>
+    </string>
+    <string id="st_drx_questlines_joined">
+        <text>당신은 다음 세력에 가입했다:</text>
+    </string>
+    <string id="st_drx_questlines_faction">
+        <text> 세력.</text>
+    </string>
+	
+<!-- Bribe -->
+	<string id="st_bribe_expired">
+		<text>%s 와(과)의 휴전은 만료되었습니다.</text>
+	</string>
+	<string id="st_bribe_broke">
+		<text>당신이 규칙을 어겼기 때문에, %s 와(과)의 거래는 끝났습니다!</text>
+	</string>
+	
+<!-- UPD -->
+	<string id="st_upd_low">
+		<text>전력 낮음</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>당신은 다목적 전력 장치(UPD)를 가지고 있지 않습니다</text>
+	</string>
+	
+<!-- Goodwill -->
+	<string id="st_news_goodwill_update_title">
+		<text>당신의 평판이 바뀌었습니다</text>
+	</string>
+	<string id="st_news_goodwill_intro_1">
+		<text>최근 당신의 노력에 대한 소문이 퍼지고 있습니다.</text>
+	</string>
+	<string id="st_news_goodwill_intro_lose_1">
+		<text>최근 당신의 실패에 대한 소문이 퍼지고 있습니다.</text>
+	</string>
+	<string id="st_news_goodwill_main_1">
+		<text>당신은 %s 들 사이에서 신용을 얻어갑니다.</text>
+	</string>
+	<string id="st_news_goodwill_main_lose_1">
+		<text>당신은 %s 들 사이에서 신용을 잃어갑니다.</text>
+	</string>
+	<string id="st_news_goodwill_enemy_1">
+		<text>%s 들은 이에 호의적이지 못합니다.</text>
+	</string>
+<!-- Bad turn -->
+	<string id="st_bad_turn_into_bandit">
+		<text>당신은 세력에서 추방되었습니다!</text>
+	</string>
+	<string id="st_bad_turn_into_bandit_news">
+		<text>%c[0,255,0,0]당신은 세력에서 추방되었습니다!</text>
+	</string>
+	<string id="st_bad_turn_into_zombie">
+		<text>당신은 심각한 정신파-방사능 수준에 노출되어 좀비가 되었습니다!</text>
+	</string>
+	<string id="st_bad_turn_into_zombie_news">
+		<text>%c[0,255,64,0]당신은 심각한 정신파-방사능 수준에 노출되어 좀비가 되었습니다!</text>
+	</string>
+	<string id="st_bad_turn_dezombification">
+		<text>좀비화 상태에서 회복하는 데 성공했습니다!</text>
+	</string>
+	<string id="st_bad_turn_dezombification_news">
+		<text>%c[0,255,64,0]좀비화 상태에서 회복하는 데 성공했습니다!</text>
+	</string>
+	
+<!-- Travel -->
+	<string id="st_travel_event">
+		<text>적이 근처에 있을때 이동하는 것은 안전하지 않습니다</text>
+	</string>
+	<string id="st_travel_overloaded">
+		<text>너무 많은 짐을 들고 있습니다</text>
+	</string>
+	<string id="st_travel_already_here">
+		<text>이미 목적지에 도착했습니다</text>
+	</string>
+	<string id="bp_to">
+		<text>이동 중</text>
+	</string>
+	<string id="bp_open">
+		<text>가방 열기</text>
+	</string>
+	
+<!-- Stash placement -->
+	<string id="st_stash_created">
+		<text>은닉처 생성됨</text>
+	</string>
+	<string id="st_stash_placed">
+		<text>이미 어딘가에 은닉처를 만들었습니다</text>
+	</string>
+	<string id="st_stash_unsafe">
+		<text>이곳에 은닉처를 만들 수 없습니다</text>
+	</string>
+	<string id="st_itm_stash">
+		<text>은닉처</text>
+	</string>
+	<string id="st_itm_stash_of_character">
+		<text>%s 의 은닉처</text>
+	</string>
+	
+<!-- Sleep -->
+	<string id="st_sleep_awake">
+		<text>당신은 잠을 잘 필요가 없습니다</text>
+	</string>
+	<string id="st_sleep_awake_wired">
+		<text>당신은 카페인 수치가 높아 잠을 잘 수 없습니다</text>
+	</string>
+	<string id="st_sleep_bleeding">
+		<text>당신은 피를 흘리고 있습니다. 의료 지원을 받으세요</text>
+	</string>
+	<string id="st_sleep_bleeding_irradiated">
+		<text>당신은 피를 흘리고 방사능에 중독되어 있습니다. 의료 지원을 받으세요</text>
+	</string>
+	<string id="st_sleep_deprived">
+		<text>당신은 모르는 사이에 죽임을 당했습니다</text>
+	</string>
+	<string id="st_sleep_event">
+		<text>이러는 동안 잠을 잘 만큼 미치지 않으셨기를 바랍니다</text>
+	</string>
+	<string id="st_sleep_exhausted">
+		<text>당신은 지쳤고 휴식이 필요합니다</text>
+	</string>
+	<string id="st_sleep_exhausted_final">
+		<text>당신은 매우 지쳤습니다 - 즉시 휴식하세요!</text>
+	</string>
+	<string id="st_sleep_irradiated">
+		<text>당신은 방사능에 중독되어 있습니다. 의료 지원을 받으세요</text>
+	</string>
+	<string id="st_cant_sleep_find_shelter_mlr">
+		<text>잠을 자기 위해 더 안전한 장소가 필요합니다</text> 
+	</string>
+	<string id="st_cant_sleep_outside_tent_mlr">
+		<text>잠을 자기 위해 천막 안으로 들어가야 합니다</text> 
+	</string>
+	
+<!-- Skinning -->
+	<string id="st_body_decayed">
+		<text>이미 부패가 진행되었습니다</text>
+	</string>
+	<string id="st_body_useless">
+		<text>쓸만한 것이 없습니다</text>
+	</string>
+	<string id="st_body_knife_needed">
+		<text>칼이 필요합니다</text>
+	</string>
+	<string id="st_body_knife_bad">
+		<text>칼의 상태가 매우 좋지 않습니다</text>
+	</string>
+	<string id="st_body_knife_weak">
+		<text>이 뮤턴트를 해체하려면 더 강한 칼이 필요합니다</text>
+	</string>
+	
+<!-- Campfire -->
+	<string id="st_only_campfire_save">
+		<text>수동 저장 해제됨 (모닥불에서만 저장)</text>
+	</string>
+	<string id="st_only_campfire_load">
+		<text>살아있을 때 불러오기 해제됨</text>
+	</string>
+	<string id="st_only_campfire_quit">
+		<text>살아있을 때 게임 종료하기 해제됨</text>
+	</string>
+	<string id="st_swsh">
+		<text>캔을 따기 위해 날카로운 것이 필요합니다</text>
+	</string>
+	<string id="st_camp_m">
+		<text>불을 지필 수 있는 것이 필요합니다</text>
+	</string>
+	<string id="st_camp_help">
+		<text>모닥불을 지피는 데 성공했습니다</text>
+	</string>
+	<string id="st_fail">
+		<text>모닥불을 지피는 데 실패했습니다</text>
+	</string>
+	<string id="st_ui_no_save_campfire">
+		<text>당신은 모닥불 근처에서만 %s 을(를) 할 수 있습니다.</text>
+	</string>
+	<string id="st_ui_campfire_prereq">
+		<text>모닥불에 불을 붙이기 위해서는 성냥이나 부싯돌이 필요합니다.</text>
+	</string> 
+	
+<!-- Items -->
+	<string id="st_imm_smoke_fail">
+		<text>담배를 피우기 위해서는 성냥이 필요합니다</text>
+	</string>
+	<string id="st_imm_smoke_already_used">
+		<text>이미 더 좋은 효과를 주는 물건을 사용 중입니다</text>
+	</string>
+	<string id="st_imm_befor_swiss">
+		<text>캔을 따기 위해 날카로운 것이 필요합니다</text>
+	</string>
+	<string id="st_imm_need_swiss">
+		<text>캔을 따기 위해 스위스 나이프가 필요합니다</text>
+	</string>
+	<string id="st_imm_swiss_broken">
+		<text>스위스 나이프가 부러졌습니다</text>
+	</string>
+	<string id="st_stash_no_backpack_found">
+		<text>배낭을 매고 있지 않습니다</text>
+	</string>
+	
+	<string id="st_itm_manager_greater_effect">
+		<text>이미 더 좋은 효과를 주는 물건을 사용 중입니다 :%s </text>
+	</string>
+	<string id="st_itm_manager_missing_requirements">
+		<text>%s 가 필요합니다!</text>
+	</string>
+<!-- Notes -->
+	<string id="st_recipe_is_known">
+		<text>이미 읽은 쪽지입니다</text>
+	</string>
+	<string id="st_letter_is_known">
+		<text>이미 읽은 쪽지입니다</text>
+	</string>
+	
+<!-- Hardcore Saving -->
+	<string id="st_ui_no_save_timer">
+		<text>타이머가 활성화되어 있으므로, 아직 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	
+	<string id="st_ui_no_save_combat">
+		<text>전투 중에 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_surge">
+		<text>에미션이나 정신파 폭풍 도중 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_bleed">
+		<text>출혈 중에는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_radiation">
+		<text>방사능에 중독된 상태에서는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_bleed_radiation">
+		<text>출혈 또는 방사능 중독 상태에서는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_injury_1">
+		<text>평범한 부상을 입은 상태에서는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_injury_2">
+		<text>심각한 부상을 입은 상태에서는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_injury_3">
+		<text>극심한 부상을 입은 상태에서는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+	<string id="st_ui_no_save_injury_4">
+		<text>치명적인 부상을 입은 상태에서는 %s 을(를) 할 수 없습니다.</text>
+	</string>
+
+	<string id="st_pri_special_trader_mlr_message2">
+		<text>미커:\n 주문이 도착했어, 스토커. 와서 가져가.</text>
+	</string>
+	<string id="st_pri_special_trader_mlr_message">
+		<text>그리핀:\n 스토커, 너는 신디케이트의 영역에 들어왔다. 공격은 하지 않겠지만, 부디 적절하게 처신하길 바란다. 일거리를 찾고 있다면, 몇 가지 주선할 게 있다.</text>
+ 	</string>
+<!-- Lost to the Zone -->
+	<string id="st_lttz_eidolon_strelok_message">
+		<text>정찰대가 머리를 땅에 쳐박았군. 프리피야트 중심으로 마지막 공격을 시작할 때가 왔다.</text>
+	</string>
+	<string id="st_lttz_stancia_strelok_message">
+		<text>다음은 석관지역에 들어갈 거야. 출발하기 전에 긴장 단단히 해두라고. 어려운 일이 될 테니까.</text>
+	</string>
+	<string id="st_lttz_mon_strelok_message">
+		<text>샤드는 엄중히 경비되고 있다. 경비병들을 모두 죽여야 해.</text>
+	</string>
+	<string id="st_lttz_limansk_rogue_message">
+		<text>이봐, 터프가이. 리만스크에 문제가 생겼어. 네 도움이 필요해. 여기 내 좌표야.</text>
+	</string>
+	<string id="st_lttz_kat_rogue_message">
+		<text>이건 쉬운 일이 아닐거야. 천천히 전진해. 문과 모퉁이들을 잘 살펴.</text>
+	</string>
+	<string id="st_lttz_gen_stitch_message">
+		<text>이봐, 당신인가? 여기로 와봐, 빨리!</text>
+	</string>
+	<string id="st_lttz_intercepted_transmission_message">
+		<text>...지금은 버려진 간이역의 작업장에 있는 캠프다. 우리는 적 SR 부대로 향하는 중이고 준비가 되면...</text>
+	</string>
+	<string id="st_lttz_yanov_invitation_message">
+		<text>드디어 이곳에 온 모양이네. 야노브 역에 들러서 이야기를 나누지 않겠어?</text>
+	</string>
+	<string id="st_lttz_yanov_invitation2_message">
+		<text>이봐, 스토커. 이리로 와서 이야기 좀 하지 않겠어?</text>
+	</string>
+	<string id="st_lttz_pripyat_strelok_message">
+		<text>나는 버려진 병원 근처의 모노리스 병력과 교전 중이다. 지원해 주면 감사하겠다.</text>
+	</string>
+	<string id="st_lttz_pripyat_rogue_message">
+		<text>도-도와... 줘... 누가 좀... 날 도와...</text>
+	</string>
+	<string id="st_lttz_pripyat_stitch_message">
+		<text>젠장, 젠장, 젠장! 누가 좀 도와줘! 아무도 없어?!</text>
+	</string>
+	<string id="st_lttz_pripyat_degtyarev_message">
+		<text>SSU의 알렉산드르 알렉산드로비치 덱탸레프 대령이 알린다. 당신이 여기 있는 것을 안다, 스트렐록. 그리고 당신도 우리가 왜 여길 와 있는지 알겠지. 무기를 거두고 천천히, 한 발자국씩 밖으로 걸어나와. 순순히 협조하면 유혈사태 없이 넘어갈 수 있을 것이다.</text>
+	</string>
+	<string id="st_lttz_pripyat_strelok_message2">$
+		<text>당신은 존을 벗어날 수 없어, 대령, 당신이 발전소를 급습하든 지구 반대편으로 도망쳐 숨어지내든 상관없이 말이지. 존은 존속하는 한, 전 세계를 위협하고 말 거야. 당신 상부가 보자기로 싸맨다고 해서 어떻게 될 일이 아니라고. 미안하지만 같이 갈 수는 없을 것 같군.</text>
+	</string>
+	<string id="st_lttz_pripyat_unisg_message">
+		<text>이게 당신이 우리 일을 방해하는 마지막 시간이 될 거야, 대령. 기도나 올려라.</text>
+	</string>
+	<string id="st_lttz_oa_army_degtyarev_jup_meet_msg">
+		<text>%s, 나는 %s 이다. 주피터에서 나와 만나자, 당신이랑 상의하고 싶은 게 있다.</text>
+	</string>
+	<string id="st_oa_transmission_decryption">
+		<text>수신문 해석 중</text>
+	</string>
+</string_table>
