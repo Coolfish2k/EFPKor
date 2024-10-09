@@ -551,7 +551,6 @@
 
 <!-- st_items_upgrades_simple -->
 
-<!-- Outfits -->
 	<string id="st_upgr_o_physical">
 		<text>방어복 업그레이드 세트</text>
 	</string>
