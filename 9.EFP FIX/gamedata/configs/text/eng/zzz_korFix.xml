@@ -1,6 +1,232 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
+   <string id="st_af_new_surge_name">
+		<text>서지 프로텍터</text>
+	</string>
+	<string id="st_af_new_surge_descr">
+		<text>A simple device consisting of a ton of resistors and replaceable fuses. It protects the user by limiting the effective amount of electricity that comes into direct contact with the body through diverting it to the resistor-fuse complex, mitigating a majority of the shock at the cost of blowing the fuses. This makes it almost foolproof against Electro Anomalies, but it can only endure so many strong electric shocks before all the fuses are blown out. Most stalkers construct these devices with spare electronic trash, which is in no shortage in the Zone. Even though the device is heavy and disposable, it is extremely useful for navigating electrical anomaly fields. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
+		%c[0,140,140,140]특징:\n
+		%c[d_cyan] �  기술 물품\n
+		%c[d_cyan] �  하나의 환경 제어 장치만 장착가능\n
+		%c[d_cyan] � %c[ui_gray_2] 전자 부품으로 수리 가능
+		</text>
+	</string>
 
+	<string id="st_af_new_surge_up_name">
+		<text>업그레이드된 서지 프로텍터</text>
+	</string>
+	<string id="st_af_new_surge_up_descr">
+		<text>An upgraded Surge Protector making use of an artifact to better disperse electrical shock. Errant surges electricity are routed through the same path, but due to the presence of the artifact, some shock is partially absorbed and the overall damage to the components is reduced. In addition, the artifact constantly emits a mild muscle relaxing current, which helps with soreness and fatigue. \n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]It should be noted that such a module will not be able to work properly and provide sufficient protection if your suit does not meet the minimum protection requirements while in an abnormal field.\n \n \n
+		%c[0,140,140,140]특징:\n
+		%c[d_cyan] � 기술 물품\n
+		%c[d_cyan] �  하나의 환경 제어 장치만 장착가능\n
+		%c[d_cyan] � %c[ui_gray_2] 전자 부품으로 수리 가능
+		</text>
+	</string>
+
+    <string id="ui_mcm_slotControl_plate_up_chance">
+        <text>업그레이드된 방탄판을 얻을 확률(곱연산)</text>
+    </string>
+
+    <string id="st_surge_compat">
+        <text>호환 품목:</text>
+    </string>
+    
+    <string id="st_autodoc_compat">
+        <text>호환 약품:</text>
+    </string>
+
+    <string id="st_autodoc_capacity_hp">
+        <text>체력 안정제: </text>
+    </string>
+    <string id="st_autodoc_capacity_rads">
+        <text>항방사선제: </text>
+    </string>
+    <string id="st_autodoc_capacity_dmgres">
+        <text>진통제: </text>
+    </string>
+
+        <string id="st_autodoc_enable">
+        <text>활성화 - </text>
+    </string>
+    <string id="st_autodoc_disable">
+        <text>비활성화 - </text>
+    </string>
+    <string id="st_autodoc_hp">
+        <text>체력 안정제</text>
+    </string>
+    <string id="st_autodoc_rads">
+        <text>항방사선제</text>
+    </string>
+    <string id="st_autodoc_dmgres">
+        <text>진통제</text>
+    </string>
+
+    <string id="st_armor_penetrated">
+        <text>총알이 플레이트를 관통했습니다!</text>
+    </string>
+    <string id="st_armor_broken">
+        <text>착용중인 플레이트가 완전히 부숴졌습니다.</text>
+    </string>
+    <string id="st_armor_absorbed">
+        <text>플레이트가 총알을 효과적으로 저지했습니다.</text>
+    </string>
+
+    <string id="ui_mcm_slotControl_ballisticRepair">
+        <text>기술자의 플레이트 수리 허용</text>
+    </string>
+    <string id="ui_mcm_slotControl_hp">
+        <text>LSM 일반 부상 임계값</text>
+    </string>
+    <string id="ui_mcm_slotControl_hp_crit">
+        <text>LSM 심각한 부상 임계값</text>
+    </string>
+    <string id="ui_mcm_slotControl_rads">
+        <text>LSM 누적 방사선 임계값</text>
+    </string>
+    
+        <string id="st_stim_none">
+            <text>자극제가 아닙니다.</text>
+        </string>
+
+        <string id="st_af_new_surge_name">
+            <text>서지 프로텍터</text>
+        </string>
+        <string id="st_af_new_surge_descr">
+            <text>A simple device consisting of a ton of resistors and replaceable fuses. It protects the user by limiting the effective amount of electricity that comes into direct contact with the body through diverting it to the resistor-fuse complex, mitigating a majority of the shock at the cost of blowing the fuses. This makes it almost foolproof against Electro Anomalies, but it can only endure so many strong electric shocks before all the fuses are blown out. Most stalkers construct these devices with spare electronic trash, which is in no shortage in the Zone. Even though the device is heavy and disposable, it is extremely useful for navigating electrical anomaly fields. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
+            %c[0,140,140,140]특징:\n
+            %c[d_cyan] � 기술 물품\n
+            %c[d_cyan] � 하나의 환경 제어 장치만 장착가능\n
+            %c[d_cyan] � %c[ui_gray_2] 전자 부품으로 수리 가능
+            </text>
+        </string>
+
+        <string id="st_af_new_surge_up_name">
+            <text>업그레이드된 서지 프로텍터</text>
+        </string>
+        <string id="st_af_new_surge_up_descr">
+            <text>An upgraded Surge Protector making use of an artifact to better disperse electrical shock. Errant surges electricity are routed through the same path, but due to the presence of the artifact, some shock is partially absorbed and the overall damage to the components is reduced. In addition, the artifact constantly emits a mild muscle relaxing current, which helps with soreness and fatigue. \n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]It should be noted that such a module will not be able to work properly and provide sufficient protection if your suit does not meet the minimum protection requirements while in an abnormal field.\n \n \n
+            %c[0,140,140,140]특징:\n
+            %c[d_cyan] � 기술 물품\n
+            %c[d_cyan] �  하나의 환경 제어 장치만 장착가능\n
+            %c[d_cyan] � %c[ui_gray_2] 전자 부품으로 수리 가능
+            </text>
+        </string>
+
+	<string id="st_plate_cap_0">
+		<text>%c[d_red]추가 플레이트를 삽입 할 공간이 없습니다.</text>
+	</string>
+	<string id="st_plate_cap_1">
+		<text>추가 케블라 플레이트를 삽입할 수 있습니다.</text>
+	</string>
+	<string id="st_plate_cap_2">
+		<text>추가 방탄 플레이트를 삽입할 수 있습니다.</text>
+	</string>
+	<string id="st_plate_in">
+		<text>\n 장착 된 플레이트:</text>
+	</string>
+	<string id="st_remove_plate">
+		<text>플레이트 제거</text>
+	</string>
+	<string id="st_insert_plate">
+		<text>장비에 플레이트 추가</text>
+	</string>
+
+	<string id="st_af_kevlar_name">
+		<text>케블라 플레이트</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>케블라 플레이트는 경량 방탄복으로 직접 사용하거나 사용중인 방탄조끼에 삽입하여 방어력을 강화시킬 목적으로 설계되었습니다. 케블라 이미 시장에서 검증 된 안전한 방탄소재이며, 놀라운 수준의 중량 대비 방어력은 많은 이들이 선호하는 이유 중 하나입니다. 케블라 플레이트는 피격 시 직접적으로 총탄을 방어하며 다양한 작전에서 폭넓게 사용될 수 있습니다. 단독으로 사용 시 권총탄은 아주 효과적으로 방어할 수 있으나, 소총탄 이상의 공격에 대해서는 방어 능력을 기대하기 어렵기 때문에 주의하는것이 좋습니다.\n \n
+		%c[ui_gray_2]속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 II / BR3 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>강철 방탄 플레이트</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>가장 흔하게 쓰이는 방탄 소재중 하나인 강철 방탄 플레이트는, 특수 열처리 및 설계되어 총탄에 피격 시 총알을 직접 파괴시킴으로써 사용자를 보호합니다. 그러나 이러한 특성때문에 방탄판은 매우 무겁고 두껍기 때문에 사용자의 이동에 큰 제약을 가져다 줄 수 있지만, 방어능력은 믿음직스럽습니다. 권총탄과 소총탄을 효과적으로 방어합니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] 강철 소재의 특성 상 감전에 매우 취약하며, 특히 이런 소재를 방탄판으로써 직접 사용 한다는것은 사용자가 감전될 시 더 큰 부상을 당할 수 있음을 뜻합니다. 전기 이상현상 지역 또는 유사 상황에서 작전을 수행할 때는 각별한 주의가 필요합니다.\n\n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 III+ / BR4 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_name">
+		<text>세라믹 방탄 플레이트</text>
+	</string>
+	<string id="st_af_ceramic_descr">
+		<text>SAPI로도 알려진 세라믹 방탄 플레이트는 강력한 방어능력 덕에 전 세계 군사조직에서 선호되는 방탄 플레이트 중 하나입니다. 피격 시 세라믹이 깨지며 운동량을 효과적으로 분산시켜 착용자를 보호하는 방식으로 작동하며 권총탄 뿐만 아니라 대구경탄에도 유의미한 방어능력을 가지고 있습니다. 하지만 이러한 특성때문에 지속성과 내구성은 매우 나쁘며 전투가 지속될수록 방어능력이 급격하게 하락합니다. 또한 세라믹 방탄 플레이트는 상당히 두껍기때문에 움직임에 다소 제약을 줍니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 IV / BR5 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_polymer_name">
+		<text>초고분자량 폴리에틸렌(UHMWPE) 방탄 플레이트</text>
+	</string>
+	<string id="st_af_polymer_descr">
+		<text>폴리에틸렌(PE)는 간단하고 다양한 특성과 비반응성 화학 구조로 인해 산업 및 상업용으로 사용되는 소재 입니다. 초고분자량 폴리에틸렌은 방탄 소재로써 사용될 때 아주 가벼운 무게와 강력한 보호 성능을 특징을 가지며, 총알이 소재에 닿으면 총알의 열을 사용해 스스로 빠르게 표면을 녹인 후 총알을 소재 안에 가둡니다. 이러한 작동구조는 지속 전투에서 안정적인 보호능력과 내구성을 보장합니다. 하지만, 대구경탄 및 소총 철갑탄에 대한 방어능력은 떨어지며, 매우 비싼 가격은 단점입니다. \n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] 방탄복이 작동하는 매커니즘 특성 상 사용자는 열 관리에 각별한 주의가 필요합니다. 만약, 뜨거운 열 근처에서 오래 있거나 고온 이상현상등에 노출되면 방탄복의 내구성은 빠르게 감소하며 방어능력에 영구적인 손상을 입을 수 있습니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 III / BR4 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	
+	<string id="st_af_new_kevlar_up_name">
+		<text>케블라-아라미드 방탄 플레이트</text>
+	</string>
+	<string id="st_af_new_kevlar_up_descr">
+		<text>케블라-아라미드 방탄 플레이트 기존의 케블라 플레이트에서 무게 대비 방어능력이라는 장점을 유지하면서 내구성은 향상시킨 제품입니다. 여전히 권총탄은 아주 효과적으로 방어할 수 있으나, 소총탄 이상의 공격에 대해서는 방어 능력을 기대하기 어렵기 때문에 주의하는것이 좋습니다.\n \n\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 II / BR3 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	<string id="st_af_plates_up_name">
+		<text>탄소강 방탄 플레이트</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>탄소강 방탄 플레이트는 기존 강철 방탄 플레이트에서 방어능력을 강화 한 제품으로 기존 제품 대비 더 뛰어난 방어능력을 제공합니다. 덕분에 대구경탄 및 소구경 소총 철갑탄에 대한 방어능력을 얻었으며, 클래스 IV 수준의 방어를 기대 할 수 있는 제품 중 가장 싼 가격으로 민간시장 및 돈 없는 초짜 스토커들에게 인기가 많습니다. 비록 무거운 무게때문에 군에서는 자주 사용되는 제품은 아니지만 그래도 총알에 관통되는 것 보단 무거운게 낫습니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] 강철 소재의 특성 상 감전에 매우 취약하며, 특히 이런 소재를 방탄판으로써 직접 사용 한다는것은 사용자가 감전될 시 더 큰 부상을 당할 수 있음을 뜻합니다. 전기 이상현상 지역 또는 유사 상황에서 작전을 수행할 때는 각별한 주의가 필요합니다.\n\n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 IV / BR5 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_up_name">
+		<text>강화강 세라믹 플레이트</text>
+	</string>
+	<string id="st_af_ceramic_up_descr">
+		<text>차세대 세라믹 플레이트로써 기존 세라믹 플레이트에 강철소재를 합성하여 지속 전투 시 내구성을 끌어올린 제품입니다. 미군과 러시아군 모두 독자 개발했던 전적이 있으며, 저격 철갑탄 및 기관총 등 고화력 수준의 위협에서 생존을 보장하기 위해 설계되었습니다. 이러한 위협에서 사용자를 효과적으로 보호하긴 하나, 정작 이런 위협을 가하는 적은 지구상에 많이 존재하지 않았고 결국 널리 사용되진 못했습니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 IV / BR6 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] � %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_polymer_up_name">
+		<text>초고분자량 폴리에틸렌(UHMWPE)/세라믹 방탄 플레이트</text>
+	</string>
+	<string id="st_af_polymer_up_descr">
+		<text>UHMWPE층 아래에 세라믹층이 존재하는 복합소재 방탄 플레이트 입니다. 기존 UHMWPE 방탄판을 더 두껍게 구성하여 내구성을 향상시키거나, 기존 세라믹 방탄판을 더 두껍게 구성하여 대구경 탄에 대한 방어능력을 향상시키려는 시도는 있었지만 모두 소재 특성상 개선될 수 없는 단점이 있어 좌절되었고, 그에 대한 절충안으로 개발 된 복한소재 방탄 플레이트 입니다. 세라믹과 UHMWPE 소재의 장점만 합쳐두어 뛰어난 방탄 성능과 내구성을 모두 가지고 있습니다. 하지만 여전히 높은 가격은 단점입니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] PE 소재의 특성 상 사용자는 열 관리에 각별한 주의가 필요합니다. 만약, 뜨거운 열 근처에서 오래 있거나 고온 이상현상등에 노출되면 방탄복의 내구성은 빠르게 감소하며 방어능력에 영구적인 손상을 입을 수 있습니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] � %c[ui_gray_2] 군용품\n
+		%c[d_cyan] � %c[ui_gray_2] 클래스 IV / BR5 인증\n
+		%c[d_cyan] � %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	
 <!-- Weapon Parts Overhaul (WPO) -->
 
 	<!-- Jammin -->
