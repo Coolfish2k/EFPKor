@@ -1,8 +1,7 @@
 [설치법 1] *추천*
-	0. GitHub 메인화면에서 .7z으로 끝나는 파일 클릭해서 열기 (예: EFPKor.7z)
-	1. 클릭 후 우상단에 작은 다운로드 아이콘 클릭 (마우스를 올리면 Download raw file 이라고 뜸)
-	2. 다운 받은 후 다른 모드처럼 MO2 에서 설치 
-	!!!! 내가 직접 따로 만들어서 올리는거라 가끔 고장날수있음 고장나면 밑에 설치법2 보고 따라서 수동으로 파일 집어넣으면 됨!!!
+	1. https://github.com/Coolfish2k/EFPKor/raw/refs/heads/main/EFPKor.7z 링크 들어가면 바로 다운로드가 시작됨
+	2. MO2에서 설치
+	3. 필요한거만 체크해도 되지만 EFP유저라면 전부 다 체크하는걸 추천함
 
 [설치법 2]
 	0. GitHub 에서 " <>CODE " 클릭 후 Download ZIP 클릭
