@@ -35,7 +35,8 @@ fix2
   - Magazine Redux 및 Anomaly Magazines 모드 일부 한글화
       * 9.EFP FIX폴더의 zzz_mag_magredux_kor.xml
       * 바닐라 일부 저격소총 및 탄창형 샷건 << 이름만 번역됨
-      * Bas, PPP, EFPWP 및 드럼탄창 << 이름만 번역됨 
+      * Bas, PPP, EFPWP 및 드럼탄창 << 이름만 번역됨
+  - Magazine Redux-Ammo Check 모드 한글화
   - 로딩스크린 개선
       * 로딩스크린에서 버전을 올바르게 표시함 (1.5.2)
   - 아이템 업그레이드 키트가 영어를 출력하는 문제를 임시로 고침
