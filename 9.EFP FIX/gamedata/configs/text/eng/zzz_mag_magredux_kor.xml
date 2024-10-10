@@ -19,11 +19,11 @@
 	</string>
 
 	<string id="st_mag_retool">
-		<text>구경 변환</text>
+		<text>탄창 개조</text>
 	</string>
 	
 	<string id="st_mag_err_retool">
-		<text>탄창의 구경을 변환하기 전에 장전 된 탄약을 모두 제거해야 합니다.</text>
+		<text>탄창을 개조하기 전에 장전 된 탄약을 모두 제거해야 합니다.</text>
 	</string>
 	<!-- MCM -->
 	
@@ -1227,11 +1227,11 @@
 
 
 		<string id="st_mag_pkm_pkm">
-			<text>7.62x54R PKM 박스탄창</text>
+			<text>7.62x54R PKM 박스</text>
 		</string>
 		<string id="st_mag_pkm_pkm_descr">
 			<text>
-				Heavy box that holds 100 rounds of 7.62x54R ammunition in a belt, for use with the PKM. It is advised to bring a few of these if you plan on hunting Pseudogiants or Chimeras.
+				7.52x54R 탄약 100발을 수납할 수 있는 PKM용 박스입니다.
 			</text>
 		</string>
 
@@ -1240,7 +1240,7 @@
 		</string>
 		<string id="st_mag_l96a1_pkm_descr">
 			<text>
-			Modified L96A1 Magazine calibre 7.62x54.
+			7.62x54R 탄약을 사용할 수 있도록 개조된 L96A1용 탄창입니다.
 			</text>
 		</string>
 		
@@ -1249,7 +1249,7 @@
 		</string>
 		<string id="st_mag_sv98_7.62x54_descr">
 			<text>
-				Standard 10발 polymer magazine for the SV-98 sniper rifle. The SV-98 is used primarily by Russian law enforcement; limited numbers have found their way into the hands of the Duty faction through secret channels.
+			폴리머로 제작된 SV-98 저격소총용 탄창입니다.
 			</text>
 		</string>
 		
@@ -1258,7 +1258,7 @@
 		</string>
 		<string id="st_mag_svd_7.62x54_descr">
 			<text>
-				Standard 10발 magazine for the SVD and SVU sniper rifle. The SVD is popular with members of all factions, if they can get their hands on such a rifle. 
+			SVD와 SVU 저격소총에서 사용할 수 있는 10발 탄창입니다.
 			</text>
 		</string>
 
@@ -1267,7 +1267,7 @@
 		</string>
 		<string id="st_mag_svd_7.62x54_extended_descr">
 			<text>
-				Extended 20발 magazine for the SVD and SVU sniper rifle. Commonly used with the SVU-A rifle to allow it to temporarily fill the role of LMG in close quarters engagements.
+			SVD와 SVU 저격소총에서 사용할 수 있는 20발 확장탄창 입니다. SVU-A와 특히 궁합이 잘 맞습니다.
 			</text>
 		</string>
 		
@@ -1276,16 +1276,16 @@
 		</string>
 		<string id="st_mag_svt40_7.62x54_descr">
 			<text>
-				Standard 10발 magazine used with the SVT-40 rifle. The SVT-40 is a classic Great War rifle that is popular with many stalkers, especially Loners.
+			SVT-40 소총에 호환되는 10발 탄창입니다.
 			</text>
 		</string>
 		
 		<string id="st_mag_svt40_pkm">
-			<text>7.62x54R SVT-40 10발탄창</text>
+			<text>개조된 7.62x54R SVT-40 10발탄창</text>
 		</string>
 		<string id="st_mag_svt40_pkm_descr">
 			<text>
-				Standard 10발 magazine used with the SVT-40 rifle. The SVT-40 is a classic Great War rifle that is popular with many stalkers, especially Loners. This variant has been modified slightly to allow for loading of 7.62x54R machine gun rounds.
+			SVT-40 소총에 호환되는 10발 탄창입니다. PKM 전용 기관총탄을 삽탄할 수 있도록 개조를 거쳤습니다.
 			</text>
 		</string>
 		
@@ -1294,7 +1294,7 @@
 		</string>
 		<string id="st_mag_svt40_7.62x39_descr">
 			<text>
-				SVT-40 magazine modified to load the intermediate 7.62x39mm round.
+				SVT-40 소총에 호환되는 10발 탄창입니다. 7.62x39mm 탄약을 사용할 수 있도록 개조를 거쳤습니다.
 			</text>
 		</string>
 		
@@ -1303,7 +1303,7 @@
 		</string>
 		<string id="st_mag_trg_magnum_300_descr">
 			<text>
-				5발 magazine for the Sako TRG-42, L96 AWM and M24 SWS. This magazine was originally designed for the Sako, however, it has been 'modified' slightly to accommodate different rifles. Works fine in most rifles, as long as you remember to tap the magazine every once in a while.
+				Sako TRG-42, L96 AWM, M24 SWS 저격소총과 호환되는 5발 탄창입니다. 본래는 Sako TRG-42 저격소총에만 호환되지만, 약간의 개조를 통해 다른 저격소총에도 사용할 수 있게 되었습니다.
 			</text>
 		</string>
 
@@ -1312,7 +1312,7 @@
 		</string>
 		<string id="st_mag_l96a1m_magnum_300_descr">
 			<text>
-				Standard-issue 10발 magazine for the L96A1 that fits the slightly larger and considerably more powerful .338 Lapua Magnum. The L96 is a favorite of Western mercenaries and Monolith forces.
+			L96A1 .338용 10발 표준 탄창입니다.  
 			</text>
 		</string>
 		
@@ -1321,7 +1321,7 @@
 		</string>
 		<string id="st_mag_m98b_magnum_300_descr">
 			<text>
-				10발 magazine compatible with the Barrett M98B.
+			바렛 M98B 볼트액션 저격소총에 사용되는 10발 탄창입니다.
 			</text>
 		</string>
 		
@@ -1331,7 +1331,7 @@
 		</string>
 		<string id="st_mag_vssk_12.7x55_descr">
 			<text>
-			Standard 5발 magazine used in the VSSK sniper rifle.
+			VSSK 저격소총에 사용되는 5발 탄창입니다.
 			</text>
 		</string>
 
@@ -1340,7 +1340,7 @@
 		</string>
 		<string id="st_mag_ash12_12.7x55_descr">
 			<text>
-			Standard ASh-12 Magazine with capacity for 10 rounds. It is unlikely more than 10 rounds will ever be needed for human targets.
+			ASh-12 돌격소총에 사용 가능한 10발 탄창입니다. 이 총의 구경을 생각해봤을 때 10발이면 충분합니다.
 			</text>
 		</string>
 
@@ -1349,7 +1349,7 @@
 		</string>
 		<string id="st_mag_ash12_ext_12.7x55_descr">
 			<text>
-			Extended ASh-12 Magazine with capacity for 20 rounds. For when you need to bring down giant mutants.
+			ASh-12 돌격소총에 사용 가능한 20발 확장탄창입니다. 주로 대인전보다는 뮤턴트를 상대할 때 사용됩니다.
 			</text>
 		</string>
 
@@ -1358,7 +1358,7 @@
 		</string>
 		<string id="st_mag_m82_12.7x55_descr">
 			<text>
-				10발 magazine for the Barrett M82 rifle, modified to fit 12.7x55mm STs rounds. The first stalker to bring such a monster of a weapon discarded it after running out of ammunition; enterprising technicians have retrofitted this weapon to fire more common rounds without needing to replace the very heavy barrel.
+				바랫 M82 소총에 사용되는 10발 탄창으로써 12.7x55mm 탄약과 호환되도록 개조되었습니다.
 			</text>
 		</string>
 		
@@ -1368,7 +1368,7 @@
 		</string>
 		<string id="st_mag_saiga12s_12x70_descr">
 			<text>
-			Standard Saiga-12S magazine with capacity for 8 shotshells. The Saiga is a good quality shotgun that is popular with Dutyers.
+			Saiga-12S 산탄총에 사용할 수 있는 표준탄창입니다. 12게이지 샷건탄을 8발 장전할 수 있습니다.
 			</text>
 		</string>
 
@@ -1377,7 +1377,7 @@
 		</string>
 		<string id="st_mag_saiga12s_ext_12x70_descr">
 			<text>
-			Extended Saiga-12S magazine with capacity for 12 shotshells. More shells means more mutants you can kill each each magazine.
+			Saiga-12S 산탄총에 사용할 수 있는 확장탄창입니다. 12게이지 샷건탄을 12발 장전할 수 있습니다.
 			</text>
 		</string>
 		
@@ -1386,25 +1386,25 @@
 		</string>
 		<string id="st_mag_usas12_12x70_descr">
 			<text>
-			20-shell 드럼for the USAS-12 automatic shotgun. The firepower offered by the USAS-12 is unrivaled at short range, although the weight and magazine bulk makes it impractical to carry around.
+			USAS-12 자동 산탄총에 사용 가능한 드럼탄창입니다. 12게이지 샷건탄을 20발 장전할 수 있습니다.
 			</text>
 		</string>
 
 		<string id="st_mag_vepr_12x70">
-			<text>12게이지 Vepr-12 탄창</text>
+			<text>12게이지 Vepr-12 10발 탄창</text>
 		</string>
 		<string id="st_mag_vepr_12x70_descr">
 			<text>
-				Standard 10-shell magazine for the Vepr-12. Despite their similarities, the Vepr cannot share magazines with the Saiga.
+				Vepr-12 산탄총에 사용 가능한 10발 탄창 입니다.
 			</text>
 		</string>
 
 		<string id="st_mag_vepr_compact_12x70">
-			<text>12게이지 Vepr-12 소형 탄창</text>
+			<text>12게이지 Vepr-12 5발 탄창</text>
 		</string>
 		<string id="st_mag_vepr_compact_12x70_descr">
 			<text>
-				A small magazine for the Vepr-12 with only five shell capacity. Don't be fooled - the magazine can fit in your pocket and is extremely easy to load.
+				총 5발을 장전할 수 있는 Vepr-12용 소형 탄창입니다. 주무장으로 사용한다면 부족한 장탄수지만, 장탄수가 줄어든 만큼 탄창의 크기도 컴팩트해져 주머니에도 들어갑니다. 따라서 부무장으로 사용할때는 더 나은 선택이 될 수 있습니다.
 			</text>
 		</string>
 
@@ -1504,7 +1504,7 @@
 	</string>
 	<string id="st_mag_sr1m_9x21_descr">
 		<text>
-		Standard 9x21 SR1M Magazine with a capacity of 18 rounds. The SR1M is the latest development in Russian handgun technology, firing a proprietary 9x21 round also used in the SR-2 Veresk PDW.
+		SR1M 에 사용 가능한 18발 표준탄창 입니다.
 		</text>
 	</string>
 	
@@ -1513,7 +1513,7 @@
 	</string>
 	<string id="st_mag_sr1m_9x21ext_descr">
 		<text>
-		Extended 9x21 SR1M Magazine with a capacity of 26 rounds. The SR1M is the latest development in Russian handgun technology, firing a proprietary 9x21 round also used in the SR-2 Veresk PDW.
+		SR1M에 사용 가능한 확장탄창입니다. 9x21mm 탄약 26발을 장전할 수 있습니다.
 		</text>
 	</string>
 	
@@ -1522,7 +1522,7 @@
 	</string>
 	<string id="st_mag_pl15_9x19_fmj_descr">
 		<text>
-		Standard 9x19 PL15 Magazine with a capacity of 16 rounds.
+		PL15 권총용 16발 탄창입니다.
 		</text>
 	</string>
 	
@@ -1531,43 +1531,43 @@
 	</string>
 	<string id="st_mag_pl15_9x19_fmjext_descr">
 		<text>
-		Extended 9x19 PL15 Magazine with a capacity of 24 rounds.
+		PL15 권총용 24발 확장탄창 입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_sigp220_11.43x23_fmj">
-		<text>.45 SigP220 12발 탄창</text>
+		<text>.45 SIG P220 12발 탄창</text>
 	</string>
 	<string id="st_mag_sigp220_11.43x23_fmj_descr">
 		<text>
-		Standard .45 SigP220 Magazine with a capacity of 12 rounds.
+		45구경을 사용하는 SIG P220 권총용 12발 탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_sigp220_11.43x23_fmjext">
-		<text>.45 SigP220 20발 확장탄창</text>
+		<text>.45 SIG P220 20발 확장탄창</text>
 	</string>
 	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
 		<text>
-		Extended .45 SigP220 Magazine with a capacity of 20 rounds.
+		45구경을 사용하는 SIG P220 권총용 20발 확장탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_sig226_9x19_fmj">
-		<text>9x19 SigP226 15발 탄창</text>
+		<text>9x19 SIG P226 15발 탄창</text>
 	</string>
 	<string id="st_mag_sig226_9x19_fmj_descr">
 		<text>
-		Standard 9x19 SigP226 Magazine with a capacity of 15 rounds.
+		9x19mm 탄약을 사용하는 SIG P226 권총용 탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_sig226_9x19_fmjext">
-		<text>9x19 SigP226 20발 확장탄창</text>
+		<text>9x19 SIG P226 20발 확장탄창</text>
 	</string>
 	<string id="st_mag_sig226_9x19_fmjext_descr">
 		<text>
-		Extended 9x19 SigP226 Magazine with a capacity of 20 rounds.
+		9x19mm 탄약을 사용하는 SIG P226 권총용 20발 확장탄창입니다.
 		</text>
 	</string>
 	
@@ -1576,7 +1576,7 @@
 	</string>
 	<string id="st_mag_usptac_9x19_fmj_descr">
 		<text>
-		Standard 9x19 USP Magazine with a capacity of 22 rounds.
+		9x19mm 탄약을 사용하는 USP권총용 22발 확장탄창입니다.
 		</text>
 	</string>
 	
@@ -1585,7 +1585,7 @@
 	</string>
 	<string id="st_mag_usptac_9x19_fmjext_descr">
 		<text>
-		Extended 9x19 USP Magazine with a capacity of 30 rounds.
+		총 30발을 장전할 수 있는 9mm USP 권총용 확장탄창입니다.
 		</text>
 	</string>
 
@@ -1595,7 +1595,7 @@
 	</string>
 	<string id="st_mag_wp99_9x19_fmjext_descr">
 		<text>
-		Extended 9x19 Walther P99 Magazine with a capacity of 16 rounds.
+		왈터 P99 권총을 위한 16발 확장탄창입니다.
 		</text>
 	</string>
 
@@ -1604,7 +1604,7 @@
 	</string>
 	<string id="st_mag_p220_9x19_u2p2bas_descr">
 		<text>
-		Standard 9x19 P220 Custom Nine Magazine with a capacity of 19 rounds.
+		19발을 장전할 수 있는 P220용 커스텀 탄창입니다. "커스텀 나인" 이라고도 불립니다.
 		</text>
 	</string>
 
@@ -1613,7 +1613,7 @@
 	</string>
 	<string id="st_mag_sks_7.62x39_descr">
 		<text>
-		Standard SKS Magazine with a capacity of 20 rounds.
+		SKS 카빈에 사용할 수 있는 20발 탄창입니다.
 		</text>
 	</string>
 	
@@ -1622,7 +1622,7 @@
 	</string>
 	<string id="st_mag_toz106_20x70_descr">
 		<text>
-		Standard TOZ 106 Magazine with a capacity of 2 shells.
+		20게이지 샷건탄 2발을 장전할 수 있는 탄창으로써 TOZ-106 볼트액션 산탄총에 사용할 수 있습니다.
 		</text>
 	</string>
 	
@@ -1631,7 +1631,7 @@
 	</string>
 	<string id="st_mag_etoz106_20x70_descr">
 		<text>
-		Extended TOZ 106 Magazine with a capacity of 4 shells.
+		TOZ-106 볼트액션 산탄총에 사용할 수 있는 4발 탄창입니다. 20게이지 샷건탄과 호환됩니다.
 		</text>
 	</string>
 	
@@ -1644,7 +1644,7 @@
 	</string>
 	<string id="st_mag_toz106_20x70_zhekan_descr">
 		<text>
-		Standard TOZ 106 Magazine with a capacity of 2 Slug shells.
+		20게이지 샷건탄 2발을 장전할 수 있는 탄창으로써 TOZ-106 볼트액션 산탄총에 사용할 수 있습니다.
 		</text>
 	</string>
 	
@@ -1653,7 +1653,7 @@
 	</string>
 	<string id="st_mag_etoz106_20x70_zhekan_descr">
 		<text>
-		Extended TOZ 106 Magazine with a capacity of 4 Slug shells.
+		TOZ-106 볼트액션 산탄총에 사용할 수 있는 4발 탄창입니다. 20게이지 샷건탄과 호환됩니다.
 		</text>
 	</string>
 	
@@ -1666,7 +1666,7 @@
 	</string>
 	<string id="st_mag_dvl_7.62x51_descr">
 		<text>
-		Standard DVL10 Magazine with a capacity of 10 rounds.
+		DVL10 저격소총에 사용할 수 있는 20발 확장탄창입니다.
 		</text>
 	</string>
 		
@@ -1675,16 +1675,16 @@
 	</string>
 	<string id="st_mag_basremington700_7.62x51">
 		<text>
-		Extended Remington 700 Magazine with a capacity of 12 rounds.
+		7.62x51mm 탄약을 사용하는 레밍턴 700 저격소총에 사용할 수 있는 확장탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_remingtonarchangel_7.62x51">
-		<text>7.62x51 레밍턴 "Archangel" 키트 전용 확장탄창</text>
+		<text>7.62x51 레밍턴 "아크엔젤" 키트 전용 확장탄창</text>
 	</string>
 	<string id="st_mag_remingtonarchangel_7.62x51_descr">
 		<text>
-		Extended Remington Archangel Kit Magazine with a capacity of 20 rounds.
+		아크엔젤 커스텀 키트를 적용한 레밍턴 저격소총에 호환되는 확장탄창입니다. 
 		</text>
 	</string>
 	
@@ -1693,7 +1693,7 @@
 	</string>
 	<string id="st_mag_remingtonla_300">
 		<text>
-		Standard Remington 700 Magazine with a capacity of 5 rounds.
+		.300 구경 탄약을 사용하는 레밍턴 700을 위한 5발 탄창입니다.
 		</text>
 	</string>
 	
@@ -1702,7 +1702,7 @@
 	</string>
 	<string id="st_mag_k98_7.92x33_descr">
 		<text>
-		Standard Kar 98 Magazine with a capacity of 5 rounds.
+		Kar-98 소총에 사용되는 5발 탄창입니다.
 		</text>
 	</string>
 	
@@ -1711,7 +1711,7 @@
 	</string>
 	<string id="st_mag_valbas_9x39_pab9_descr">
 		<text>
-		Extended 9x39 AS VAL Magazine with a capacity of 30 rounds.
+		9x39mm 탄약을 사용하는 AS VAL의 확장탄창입니다.
 		</text>
 	</string>
 	
@@ -1720,7 +1720,7 @@
 	</string>
 	<string id="st_mag_basvintorez_9x39_pab9_descr">
 		<text>
-		Extended 9x39 VSS Magazine with a capacity of 20 rounds.
+		9x39mm 탄약을 사용하는 툭수저격소총인 VSS의 확장탄창입니다.
 		</text>
 	</string>
 	
@@ -1729,25 +1729,25 @@
 	</string>
 	<string id="st_mag_basextvintorez_9x39_pab9_descr">
 		<text>
-		Extended 9x39 VSS Magazine with a capacity of 30 rounds.
+		9x39mm 탄약을 사용하는 툭수저격소총인 VSS의 확장탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_svd_5.56">
-		<text>5.56x45 표준 SVD 10발 탄창</text>
+		<text>5.56x45mm 표준 SVD 10발 탄창</text>
 	</string>
 	<string id="st_mag_svd_5.56_descr">
 		<text>
-		Standard 5.56x45 SVD Magazine with a capacity of 10 rounds.
+		5.56x45mm 탄환을 사용하는 SVD 를 위한 탄창입니다. 5.56x45mm NATO 탄약 10발을 장전할 수 있습니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_svd_5.56_extended">
-		<text>5.56x45 SVD 20발 확장탄창</text>
+		<text>5.56x45mm SVD 20발 확장탄창</text>
 	</string>
 	<string id="st_mag_svd_5.56_extended_descr">
 		<text>
-		Extended 5.56x45 SVD Magazine with a capacity of 20 rounds.
+		5.56x45mm 탄환을 사용하는 SVD 를 위한 확장탄창입니다. 5.56x45mm NATO 탄약 20발을 장전할 수 있습니다.
 		</text>
 	</string>
 	
@@ -1756,43 +1756,43 @@
 	</string>
 	<string id="st_mag_sksext_7.62x39_descr">
 		<text>
-		Extended 7.62x39 SKS Magazine with a capacity of 30 rounds.
+		SKS 카빈에 사용되는 30발 확장탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_sks_7.62x54ext">
-		<text>7.62x54 SKS 30발 확장탄창</text>
+		<text>개조된 7.62x54 SKS 30발 확장탄창</text>
 	</string>
 	<string id="st_mag_sks_7.62x54ext_descr">
 		<text>
-		Extended 7.62x54 SKS Magazine with a capacity of 30 rounds.
+		SKS 카빈에 사용되는 30발 확장탄창입니다. 7.62x54R 탄약을 사용하도록 개조되었습니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_sks_7.62x54">
-		<text>7.62x54 SKS 20발 박스탄창</text>
+		<text>개조된 7.62x54 SKS 20발 박스탄창</text>
 	</string>
 	<string id="st_mag_sks_7.62x54_descr">
 		<text>
-		Standard 7.62x54 SKS Magazine with a capacity of 20 rounds.
+		SKS 카빈에 사용되는 20발 탄창입니다. 7.62x54R 탄약을 사용하도록 개조되었습니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_dvl_338">
-		<text>.338 구경 페더렐 DVL10 저격소총용 탄창</text>
+		<text>.338 구경 DVL10 페더렐 저격소총용 탄창</text>
 	</string>
 	<string id="st_mag_dvl_338fed_descr">
 		<text>
-		Standard .338 Federal DVL10 Magazine with a capacity of 10 rounds.
+		.338 구경을 사용하는 DVL10 페더렐 저격소총용 탄창입니다.
 		</text>
 	</string>
 	
 	<string id="st_mag_akalfa_7.62x39_bas">
-		<text>7.62x39 알파AK 30발 표준탄창</text>
+		<text>7.62x39 알파 AK 30발 표준탄창</text>
 	</string>
 	<string id="st_mag_akalfa_7.62x39_bas_descr">
 		<text>
-		Standard 7.62x39 AK Alfa Magazine with a capacity of 30 rounds.
+		7.62x39mm를 사용하는 알파 AK를 위한 탄창입니다.
 		</text>
 	</string>
 	
@@ -1801,7 +1801,7 @@
 	</string>
 	<string id="st_mag_akalfa_5.56x45_bas_descr">
 		<text>
-		Standard 5.56x45 AK Alfa Magazine with a capacity of 30 rounds.
+		5.56x45mm를 사용하는 알파 AK를 위한 탄창입니다.
 		</text>
 	</string>
 	
@@ -1810,16 +1810,16 @@
 	</string>
 	<string id="st_mag_sr2m_9x21_veresk_descr">
 		<text>
-		Standard 9x21 SR-2M Veresk Magazine with a capacity of 30 rounds.
+		SR-2M 베레스크 기관단총을 위한 30발 표준탄창입니다. 
 		</text>
 	</string>
 	
 	<string id="st_mag_sr2m_9x18_veresk">
-		<text>SR-2M 9x18 베레스크 30발 표준탄창</text>
+		<text>개조된 SR-2M 9x18 베레스크 30발 표준탄창</text>
 	</string>
 	<string id="st_mag_sr2m_9x18_veresk_descr">
 		<text>
-		Standard 9x18 SR-2M Veresk Magazine with a capacity of 30 rounds.
+		SR-2M 베레스크 기관단총을 위한 30발 탄창입니다. 기존의 9x21mm대신 9x18mm 마카로프 탄약을 사용하도록 개조되었지만, 좋은 선택은 아닙니다. 
 		</text>
 	</string>
 
@@ -1829,7 +1829,7 @@
 	</string>
 	<string id="st_mag_efpwp_vpo_101_5_descr">
 		<text>
-		Magazine for VPO-101 and compatible systems, manufactured by Molot arms with a capacity of 5 rounds of 7.62x51 caliber ammo.
+		Molot arms에서 개발된 VPO-101 볼트액션 소총에 사용 가능한 5발 탄창입니다. 
 		</text>
 	</string>
 	<string id="st_mag_efpwp_vpo_101_10">
@@ -1837,7 +1837,7 @@
 	</string>
 	<string id="st_mag_efpwp_vpo_101_10_descr">
 		<text>
-		Magazine for VPO-101 and compatible systems, manufactured by Molot arms with a capacity of 10 rounds of 7.62x51 caliber ammo.
+		Molot arms에서 개발된 VPO-101 볼트액션 소총에 사용 가능한 10발 탄창입니다. 
 		</text>
 	</string>
 	<string id="st_mag_efpwp_vpo_101_5_alt">
@@ -1846,7 +1846,7 @@
 
 	<string id="st_mag_efpwp_vpo_101_5_alt_descr">
 		<text>
-		Rechambered magazine for VPO-101 and compatible systems with a capacity of 5 rounds of 7.62x39 caliber ammo.
+		VPO-101 볼트액션 소총에서 7.62x39mm 탄약을 사용할 수 있도록 개조된 5발 탄창입니다.
 		</text>
 	</string>
 	<string id="st_mag_efpwp_vpo_101_10_alt">
@@ -1854,7 +1854,7 @@
 	</string>
 	<string id="st_mag_efpwp_vpo_101_10_alt_descr">
 		<text>
-		Rechambered magazine for VPO-101 and compatible systems with a capacity of 10 rounds of 7.62x39 caliber ammo.
+		VPO-101 볼트액션 소총에서 7.62x39mm 탄약을 사용할 수 있도록 개조된 10발 탄창입니다.
 		</text>
 	</string>
 
@@ -1863,7 +1863,7 @@
 	</string>
 	<string id="st_mag_efpwp_vpo_101_5_alt2_descr">
 		<text>
-		Magazine for VPO-101 and compatible systems, manufactured by Molot arms with a capacity of 5 rounds of 7.62x54 caliber ammo.
+		VPO-101 볼트액션 소총에서 7.62x54R 탄약을 사용할 수 있도록 개조된 5발 탄창입니다.
 		</text>
 	</string>
 	<string id="st_mag_efpwp_vpo_101_10_alt2">
@@ -1871,7 +1871,7 @@
 	</string>
 	<string id="st_mag_efpwp_vpo_101_10_alt2_descr">
 		<text>
-		Magazine for VPO-101 and compatible systems, manufactured by Molot arms with a capacity of 10 rounds of 7.62x54 caliber ammo.
+		VPO-101 볼트액션 소총에서 7.62x54R 탄약을 사용할 수 있도록 개조된 10발 탄창입니다.
 		</text>
 	</string>
 
@@ -1879,32 +1879,32 @@
 		<text>RPK-16 5.45x39 95발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_95_545_drum_descr">
-		<text>95-round polymer Izhmash magazine for 5.45x39 ammo.</text>
+		<text>RPK에서 주로 사용되는 95발 폴리머 드럼탄창입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_95_545_drum2">
 		<text>개조된 RPK-16 5.56x45 95발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_95_545_drum2_descr">
-		<text>95-round polymer Izhmash magazine rechambered for 5.56x45 ammo.</text>
+		<text>RPK에서 주로 사용되는 95발 폴리머 드럼탄창의 5.56x45mm NATO 개조 버전입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_75_762x39_drum">
 		<text>AK 7.62x39 75발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_75_762x39_drum_descr">
-		<text>75-round metal magazine for 7.62x39 ammo.</text>
+		<text>7.62x39mm 탄약을 사용하는 AK 돌격소총을 위한 75발 드럼탄창입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_50_762x51_drum">
 		<text>SA58 7.62x51 50발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_50_762x51_drum_descr">
-		<text>50 rnd, drum 7.62x51 magazine.</text>
+		<text>SA58 돌격소총과 호환되는 50발 드럼탄창입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_50_762x51_drum2">
-		<text>개조된 SA58 7.62x51 50발 드럼탄창</text>
+		<text>개조된 SA58 7.62x51 50발 드럼탄창(SCAR)</text>
 	</string>
 	<string id="st_mag_overlylarge_50_762x51_drum2_descr">
 		<text>SCAR 소총에 사용할 수 있도록 개조된 SA58 드럼탄창 입니다.</text>
@@ -1914,111 +1914,111 @@
 		<text>글록 9x19mm 50발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_50_9x19_drum_descr">
-		<text>High capacity magazine for Glock family of pistols holding up to 50 rounds.</text>
+		<text>9x19mm탄약 50발을 장전할 수 있는 글록 권총용 드럼탄창입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_50_9x19_drum2">
 		<text>개조된 글록 9x18mm 50발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_50_9x19_drum2_descr">
-		<text>High capacity magazine for Glock family of pistols holding up to 50 rounds.</text>
+		<text>9x18mm탄약 50발을 장전할 수 있는 글록 권총용 드럼탄창입니다.</text>
 	</string>
 
 	<string id="st_mag_overlylarge_mp5_50_9x19_drum">
 		<text>HK MP5 9x19 50발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_mp5_50_9x19_drum_descr">
-		<text>50-round 9x19 magazine for MP5.</text>
+		<text>MP5 기관단총을 위한 50발 드럼탄창입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_mp5_50_9x19_drum2">
 		<text>개조된 HK MP5 9x18 50발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_mp5_50_9x19_drum2_descr">
-		<text>Rechambered 50-round 9x18 magazine for MP5.</text>
+		<text>MP5 기관단총을 위한 50발 드럼탄창입니다. 9x18mm 탄약을 사용하게끔 개조되었습니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_84_9x18_drum">
 		<text>PM 9x18PM 84발 'makeshift' 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_84_9x18_drum_descr">
-		<text>Makeshift 84-round PM magazine.</text>
+		<text>PM권총용 84발 드럼탄창 입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_84_9x18_drum2">
 		<text>PM 9x19PM 84발 'makeshift' 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_84_9x18_drum2_descr">
-		<text>Makeshift 84-round PM magazine.</text>
+		<text>PM권총용 84발 드럼탄창을 개조해 9x19mm탄약을 사용할 수 있게끔 만들었습니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_sks_75_762x39_drum">
 		<text>SKS 7.62x39 75발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_sks_75_762x39_drum_descr">
-		<text>75-round blued steel magazine is designed for use with the SKS carbines that accept external magazines.</text>
+		<text>SKS 카빈에 사용 가능한 75발 드럼탄창입니다. 7.62x39mm 탄약 75발을 장전할 수 있습니다.</text>
 	</string>
 		
 	<string id="st_mag_overlylarge_sks_75_762x39_drum2">
-		<text>개조된 SKS 7.62x54 75발 드럼탄창e</text>
+		<text>개조된 SKS 7.62x54 75발 드럼탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_sks_75_762x39_drum2_descr">
-		<text>Rechambered 75-round blued steel magazine is designed for use with the SKS carbines that accept external magazines.</text>
+		<text>SKS 카빈에 사용 가능한 75발 드럼탄창입니다. 더 나은 화력투사를 위해 7.62x54R 탄약을 장전할 수 있도록 개조되었습니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_100_556x45_drum">
-		<text>5.56x45 STANAG 100발 확장탄창</text>
+		<text>5.56x45mm NATO STANAG 100발 확장탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_100_556x45_drum_descr">
-		<text>100-round metal high capacity magazine for 5.56x45 ammo.</text>
+		<text>5.56x45mm NATO 탄약을 사용하는 STANAG 100발 확장탄창 입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_100_556x45_drum2">
-		<text>개조된 5.56x45 STANAG 100발 확장탄창</text>
+		<text>5.56x45mm NATO AUG 100발 확장탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_100_556x45_drum2_descr">
-		<text>100-round metal high capacity magazine for 5.56x45 ammo, modified to fit AUG systems.</text>
+		<text>5.56x45mm NATO 탄약을 사용하는 STANAG 100발 확장탄창을 AUG 돌격소총에 사용할 수 있도록 개조한 제품입니다.</text>
 	</string>
 	
 	<string id="st_mag_overlylarge_40_mp7_mag">
-		<text>개조된 HK MP7 9x19 30발 표준크기 탄창</text>
+		<text>개조된 HK MP7 9x19 30발 탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_40_mp7_mag_descr">
-		<text>30-round 9x19 magazine for MP7.</text>
+		<text>9x19mm 탄약을 사용할 수 있게끔 개조된 MP7용 탄창입니다. 9x19mm탄약을 30발 장전할 수 있습니다. 원래는 4.6x30mm 탄약을 사용하는 기관단총이지만 Zone에서 4.6x30mm 탄약은 구할 수 없기 떄문에, 기술자들은 간단한 개조를 거쳐 9x19mm 또는 9x18mm와 호환되도록 만듭니다. 이 탄창은 9x19mm와 호환되며 9x18mm버전보다 신뢰성이 뛰어납니다.</text>
 	</string>
 
 	<string id="st_mag_overlylarge_40_mp7_mag2">
-		<text>개조된 HK MP7 9x18 30발 표준크기 탄창</text>
+		<text>개조된 HK MP7 9x18 30발 탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_40_mp7_mag2_descr">
-		<text>Rechambered 30-round magazine for MP7 to fit 9x18 ammo.</text>
+		<text>9x19mm 탄약을 사용할 수 있게끔 개조된 MP7용 탄창입니다. 9x18mm탄약을 30발 장전할 수 있습니다. 원래는 4.6x30mm 탄약을 사용하는 기관단총이지만 Zone에서 4.6x30mm 탄약은 구할 수 없기 떄문에, 기술자들은 간단한 개조를 거쳐 9x19mm 또는 9x18mm와 호환되도록 만듭니다. 이 탄창은 9x18mm와 호환됩니다.</text>
 	</string>
 
 	<string id="st_mag_overlysmall_20_mp7_mag">
-		<text>개조된 HK MP7 9x19 20발 소형탄창</text>
+		<text>개조된 HK MP7 9x19 20발 탄창</text>
 	</string>
 	<string id="st_mag_overlysmall_20_mp7_mag_descr">
-		<text>20-round 9x19 magazine for MP7.</text>
+		<text>20발을 장전할 수 있는 MP7 기관단총용 탄창입니다. 4.6x30mm 탄약 대신 9x19mm 탄약을 사용합니다.</text>
 	</string>
 
 	<string id="st_mag_overlysmall_20_mp7_mag2">
-		<text>개조된 HK MP7 9x18 20발 소형탄창</text>
+		<text>개조된 HK MP7 9x18 20발 탄창</text>
 	</string>
 	<string id="st_mag_overlysmall_20_mp7_mag2_descr">
-		<text>Rechambered 20-round magazine for MP7 to fit 9x18 ammo.</text>
+		<text>20발을 장전할 수 있는 MP7 기관단총용 탄창입니다. 4.6x30mm 탄약 대신 9x18mm 탄약을 사용합니다.</text>
 	</string>
 
 	<string id="st_mag_overlylarge_20_12x70_mag">
 		<text>Saiga-12전용 MaxRounds Powermag 20발 탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_20_12x70_mag_descr">
-		<text>MaxRounds Powermag 20-round magazine, compatible with the Saiga-12 shotgun.</text>
+		<text>Saiga-12 산탄총에 사용할 수 있는 20발 드럼탄창 입니다.</text>
 	</string>
 
 	<string id="st_mag_overlylarge_20_12x70_mag2">
 		<text>Vepr-12 전용 MaxRounds Powermag 20발 탄창</text>
 	</string>
 	<string id="st_mag_overlylarge_20_12x70_mag2_descr">
-		<text>MaxRounds Powermag 20-round magazine, compatible with the Vepr-12 shotgun.</text>
+		<text>Vepr-12 산탄총에 사용할 수 있는 20발 드럼탄창 입니다.</text>
 	</string>
 </string_table>

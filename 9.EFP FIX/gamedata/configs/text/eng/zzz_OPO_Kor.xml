@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="encyclopedia_addons">
+		<text>애드온</text>
+	</string>
+    <string id="st_paintkit_sunrise">
+        <text>'선라이즈' 위장 개조 키트</text>
+    </string>
+    <string id="st_paintkit_sunrise_descr">
+        <text>로너 기술자들이 심혈을 기울여 제작한 특별 개조 키트입니다. 다양한 단열재, 방탄재, 방열재 및 옷감이 포함되어 있으며 모두 위장을 위해 도색이 되어있습니다.</text>
+    </string>
+
+    <string id="st_paintkit_lcs">
+        <text>용병 LCS 개조 키트</text>
+    </string>
+    <string id="st_paintkit_lcs_descr">
+        <text>
+            다양하고 유연한 방탄재와 파우치, 스트랩 그리고 푸른 도색이 되어있는 LCS 개조 키트입니다. 보통 용병들은 존에서 오래 생활하기 보다는 목적을 위해 짧게 치고 빠지는 경우가 많은데, LCS 슈트는 이런 부분을 염두해 모듈화 설계가 되어 있기 때문에 이 키트를 사용하면 사용자의 상황이나 작전 성격에 맞게 개조가 가능합니다.
+        </text>
+    </string>
+    <string id="st_paintkit_dooty">
+        <text>듀티 PS5 아머 개조 키트</text>
+    </string>
+    <string id="st_paintkit_dooty_descr">
+        <text>
+            듀티들 사이에서 사용되는 다양한 방탄재와 단열소재가 포함된 개조 키트 입니다. 역사가 오래 됐을 뿐만 아니라 ZONE에서 가장 안전하다고도 할 수 있는 로스토크에 자리잡은 듀티는 다른 팩션들에 비해 안정적으로 팩션을 운영하고 있으며, 생존이라는 문제에서 벗어났을 뿐만 아니라 더 나아가 연구 및 개발까지 가능한 환경을 구축했습니다. 이 키트는 그 결과물 중 하나이며, 다양한 물리적 및 환경적 요소에 맞서 듀티 대원들이 조금 더 안전하고 편안하게 작전을 수행할 수 있도록 합니다. 대원의 성향에 따라 폭넓게 커스텀 할 수 있도록 만들어진 이 키트는 PS5 슈트와 호환됩니다.
+        </text>
+    </string>
+
+    <string id="st_paintkit_eco">
+        <text>'젬스톤' SSP 절연 키트</text>
+    </string>
+    <string id="st_paintkit_eco_descr">
+        <text>
+            우크라이나 과학부의 공식 직인이 찍혀있는 이 키트는 SSP 환경 보호복의 유지보수를 위한 다양한 보호재와 단열재를 포함하고 있습니다. 공식적으로는 단순한 유지보수 키트일 뿐이지만, 비공식적으로는 유지보수 뿐만 아니라 다양한 상황에 맞게 개조가 가능한 커스텀 개조 키트입니다. 본 키트에는 보호재와 단열재 그리고 생명유지장치의 메뉴얼이 포함되어 있습니다.
+        </text>
+    </string>
+    <string id="st_paintkit_exo">
+        <text>외골격 설치 키트</text>
+    </string>
+    <string id="st_paintkit_exo_descr">
+        <text>
+            일부 의류를 외골격으로 개조하기 위한 특수 도구와 외골격 프레임, 전원공급 시스템이 포함되어 있는 설치 키트 입니다. 외골격은 특성 상 보통 공장에서 완제품으로 제작되어 존 내부로 반입되지만, 일부 경험많은 스토커 기술자들은 일부 공구와 "재활용" 프레임을 사용해 기존 의류에 외골격 프레임을 설치하고 사용할 수 있도록 개조하는데 성공했습니다. 이 키트를 이용하여 외골격 프레임을 설치할 때, 기존 의류에 영구적인 손상을 주기 때문에 한번 설치하면 되돌릴 수 없습니다.
+        </text>
+    </string>
+    
+    <string id="st_paintkit_noso">
+        <text>'라이노' 중무장 돌격 패키지</text>
+    </string>
+    <string id="st_paintkit_noso_descr">
+        <text>
+        단단한 CZ-M10 헬멧, 외골격 추가 장갑판, 그리고 설치 도구가 포함된 패키지 입니다. 호환되는 일부 외골격 슈트에 사용 가능하며 외골격 프레임과 엑소슈트에 영구적으로 장갑판을 부착하고 헬멧을 설치합니다. 업그레이드 시 사용되는 대부분의 총탄을 막을 수 있을정도로 강력하지만 무거운 무게와 시스템 사용량이 늘어난다는것은 단점입니다. 주로 적진을 빠르게 돌파하거나 강력한 공세가 예상되는 작전에서 사용합니다. 
+        </text>
+    </string>
+
+    <string id="st_paintkit_seva">
+        <text>'패스파인더' SEVA 업그레이드 키트</text>
+    </string>
+    <string id="st_paintkit_seva_descr">
+        <text>
+            SEVA 바디슈트를 향상시키기 위한 특수 키트 입니다. 클리어스카이가 생산하는 이 키트는 노비코프가 그동안 Zone에서 설계하고 제작한 방어구들의 데이터를 활용해 만들어졌으며 극히 한정적인 수량만 구할 수 있는 유니크 키트 입니다. 키트 안에는 어떻게 구했는지도 모를 비싸고 희귀한 의류 소재들이 들어있으며 덕분에 키트를 적용하면 변덕스러운 Zone의 환경변화에 거의 구애받지 않고 활동할 수 있습니다. 키트 사용시 특정 SEVA 슈트를 패스파인더(Pathfinder) 변형으로 업그레이드 하게 됩니다.
+        </text>
+    </string>
+
+    <string id="st_paintkit_ace">
+        <text>'에이스' SEVA 업그레이드 키트</text>
+    </string>
+    <string id="st_paintkit_ace_descr">
+        <text>
+            SEVA 바디슈트를 향상시키기 위한 특수 키트 입니다. 이 키트는 최고의 환경 보호복을 만들어달라는 어느 용병 클라이언트의 의뢰를 받은 노비코프가 제작했습니다. 부유한 클라이언트의 요청에 따라 키트를 구성하는 항목들은 비용은 전혀 신경쓰지 않은, 최고의 재로들로만 구성되어 있어 시중에서 볼 수 있는 그 어떤 슈트보다 튼튼하고 편안하고 가볍습니다. 이런 개인 맞춤형 키트가 대중에게 공개 되고 판매되는 이유는 노비코프가 키트를 완성하기 직전, 클라이언트가 키메라에게 갈기갈기 찢겨버렸기 때문입니다. 
+        </text>
+    </string>
+    
+    <string id="ui_mcm_menu_armormod">
+        <text>방어구 커스텀 키트</text>
+    </string>
+    <string id="ui_mcm_armormod_title">
+        <text>방어구 커스텀 키트 설정</text>
+    </string>
+    <string id="ui_mcm_armormod_salvage_chance">
+        <text>업그레이드 회수 확률</text>
+    </string>
+    <string id="ui_mcm_armormod_salvage_chance_desc">
+        <text>Control what percent of upgrades will be returned to the player when upgrading gear. Refunds will be returned at random, so there is no guarantee.</text>
+    </string>
+    <string id="st_ui_itm_upgrade_base">
+        <text>의류 개조</text>
+    </string>
+    <string id="st_ui_itm_upgrade_choice">
+        <text>개조 선택</text>
+    </string>
+    <string id="st_ui_mm_modify">
+        <text>개조</text>
+    </string>
+	
+    <string id="st_no_helm">
+        <text>헬멧이 현재 의류과 호환되지 않습니다.</text>
+    </string>
+    <string id="st_no_helmkit">
+        <text>헬멧을 교체하기 위해서는 헬멧 수리 키트가 필요합니다.</text>
+    </string>
+    <string id="st_helm_success">
+        <text>성공적으로 헬멧을 변경했습니다.</text>
+    </string>
+    <string id="ui_inv_max_condition">
+        <text>최대 내구도</text>
+    </string>
+    <string id="st_part_repaired">
+        <text>수리 성공(%s) 수리 후 내구도 : %s%</text>
+    </string>
+    <string id="st_dot">
+        <text>�</text>
+    </string>
+    <string id="st_ui_repair_new">
+        <text>신규</text>
+    </string>
+    
+    
+    <string id="st_total_repair">
+        <text>복원 된 내구도: </text>
+    </string>
+
+    <string id="st_can_repair">
+        <text>수리 가능한 구성요소: </text>
+    </string>
+    <string id="st_type_2">
+        <text>옷감</text>
+    </string>
+    <string id="st_type_4">
+        <text>방탄소재</text>
+    </string>
+    <string id="st_type_3">
+        <text>방열소재</text>
+    </string>
+    <string id="st_type_5">
+        <text>외골격 프레임</text>
+    </string>
+    <string id="st_type_1">
+        <text>헬멧</text>
+    </string>
+
+    <string id="st_tier_base">
+        <text>다음과 같은 의류 수리에 사용됨: </text>
+    </string>
+    <string id="st_tier_1">
+        <text>경갑, 방독면</text>
+    </string>
+    <string id="st_tier_2">
+        <text>평갑, 일반 방탄헬멧, 방독면</text>
+    </string>
+    <string id="st_tier_3">
+        <text>중갑 의류, 중갑 헬멧, 외골격</text>
+    </string>
+
+    
+    <string id="st_type_integrity">
+        <text>구성요소:</text>
+    </string>
+     
+    
+	<string id="ui_mcm_outfit_title">
+		<text>의류 소재 오버홀(OPO)</text>
+	</string>
+	<string id="ui_mcm_menu_outfit">
+		<text>의류 소재 오버홀(OPO)</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_1">
+		<text>경갑 소재 데미지 배수</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_1_desc">
+		<text>Multiplier on how much damage parts of light outfits (novice jackets, light LCS suits) take.</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_2">
+		<text>평갑 소재 데미지 배수</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_2_desc">
+		<text>Multiplier on how much damage parts of medium outfits (Sunrise suits, PS5 suits, light plate carriers) take.</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_3">
+		<text>중갑 소재 데미지 배수</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_3_desc">
+		<text>Multiplier on how much damage parts of heavy outfits (SKAT-9 armor, exosuits, exoskeletons) take. Be mindful that heavy outfits take less condition damage overall so it is more balanced to keep this coefficient relatively high.</text>
+	</string>
+	<string id="ui_mcm_outfit_debug">
+		<text>Debug logging</text>
+	</string>
+	<string id="ui_mcm_outfit_debug_desc">
+		<text>Debug logging</text>
+	</string>
+	<string id="ui_mcm_outfit_round">
+		<text>긁힘 데미지 감소</text>
+	</string>
+	<string id="ui_mcm_outfit_round_desc">
+		<text>Check this option to make it so very small amounts of damage do not accrue on the suit components. This will also tidy up display by making it so long floats aren't printed in item stats.</text>
+	</string>
+    
+	<string id="ui_mcm_outfit_ui">
+		<text>소재 수리 창 띄우기</text>
+	</string>
+	<string id="ui_mcm_outfit_ui_desc">
+		<text>Opens a window in repair interface that shows part restoration for outfits.</text>
+	</string>
+
+
+    
+    <string id="article_opo">
+        <text>의류 유지보수 방법</text>
+    </string>
+    <string id="article_opo_text">
+        <text>
+            의류 소재 오버홀(OAO) 모드는 기존 어노말리와는 다른 유지보수 시스템을 가지고 있으며 사용자는 올바른 도구와 소재를 사용하여야 합니다.
+            \n \n
+			%c[pda_green]I. 소재와 유지보수%c[ui_gray_1]\n
+            \n� 의류에는 최대 내구도가 존재하며, 이는 각 소재의 개별 내구도에 따라 결정됩니다.
+            \n� 의류는 0%일떄도 수리할 수 있지만, 최대 내구도 이상으로 수리하는것은 불가능합니다.
+            \n� 좋은 성능을 가진 의류일수록 소재 또한 희귀한 소재를 사용할 가능성이 높습니다.
+            \n� 기술자에게 의류 수리를 요청하면 모든 소재를 100%로 수리합니다.
+            \n� 의류 내구도가 감소할수록 최대 내구도 또한 감소할것이며, 의류의 소재는 개별적으로 데미지를 받게 됩니다..
+            \n \n
+			%c[pda_green]II. 수리 시스템과 작업대 시스템의 변화%c[ui_gray_1]\n
+            \n� 일부 수리 키트(재봉키트와 수리키트)는 의상 뿐만 아니라 소재도 함께 수리할 수 있습니다. 툴팁에서 어느 부위가 함께 수리되는지 확인할 수 있으며, 소재가 수리된다면 최대 내구도 또한 상승합니다.
+            \n� 기본 바느질 도구는 기본 옷감을 수선할 수 있습니다. 향상된 재봉 키트와 중갑 재봉 키트는 소재와 방열재를 수리합니다. 의상 수리 키트는 헬멧을 제외한 모든 의상과 포함된 소재를 수리합니다.
+            \n� 수리할 때 다양한 보조재를 사용할 수 있습니다. 보조재를 사용할 때 수리받는 의상의 소재와 일치하는 보조재(예: 케블라, 패브릭, 군용직물 등)를 사용한다면 그 소재의 내구도가 직접 상승합니다. 일치하는 소재가 없지만 의상 소재를 보조재로 사용할 경우 보조재의 효율성의 25% 만큼 카테고리의 내구도를 복구합니다.
+            \n� 소재를 작업대에서 교체하더라도 최대 내구도는 상승하지 않습니다. 그렇기 때문에 수리 키트를 소모하지 않으며 따로 비용이 들지 않습니다.
+			\n \n
+            %c[pda_green]III. 의류 분해%c[ui_gray_1]\n
+            \n� 의류를 분해하면 의류를 구성하고있던 소재를 얻을 수 있습니다.
+            \n� 분해하기 위해서는 적절한 분해 도구를 드래그하여 의류 위에 놓아야 합니다.
+            \n� 내구도는 소재의 양에 영향을 미칩니다.
+            \n� 이렇게 얻은 부품들은 수리 시 사용할 수 있지만, 합성하여 다른 소재를 제작하는데에도 사용할 수 있습니다. 이러한 제작 레시피는 상인에게서 구매할 수 있습니다.
+        </text>
+    </string>
+</string_table>

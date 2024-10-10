@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_rax_fav">
+		<text>즐겨찾기 추가</text>
+	</string>
+	<string id="st_rax_unfav">
+		<text>즐겨찾기 제거</text>
+	</string>
+	<string id="st_rax_junk">
+		<text>관심없음 추가</text>
+	</string>
+	<string id="st_rax_unjunk">
+		<text>관심없음 제거</text>
+	</string>
+
+
+
+	<string id="ui_mcm_title_SortingPlus">
+		<text>인벤토리 정렬</text>
+	</string>
+
+	<string id="ui_mcm_menu_SortingPlus">
+		<text>인벤토리 정렬</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playerinv">
+		<text>플레이어 인벤토리 정렬</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playerinv_desc">
+		<text>교환창을 제외한 플레이어의 모든 인벤토리를 뜻합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playertrade">
+		<text>플레이어 교환창 정렬</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_playertrade_desc">
+		<text>교환창에서의 플레이어 인벤토리를 뜻합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npcinv">
+		<text>NPC 인벤토리 정렬</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npcinv_desc">
+		<text>교환창을 제외한 NPC의 인벤토리를 뜻합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npctrade">
+		<text>NPC 교환창 정렬</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_npctrade_desc">
+		<text>교환창에서의 NPC 인벤토리를 뜻합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx">
+		<text>sortingplus.ltx 파일 사용</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx_desc">
+		<text>아래 설정을 무시하고 sortingplus.ltx 파일을 사용합니다.(커스텀 정렬 이용 시)</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_iconjunk">
+		<text>관심없음 아이콘</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconjunk_desc">
+		<text>관심없음으로 지정한 아이템에 아이콘을 표시합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitejunk">
+		<text>관심없음 강조</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitejunk_desc">
+		<text>관심없음으로 지정한 아이템을 강조합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortjunk">
+		<text>관심없음 카테고리 사용.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortjunk_desc">
+		<text>관심없음으로 지정된 모든 아이템들을 별도의 카테고리로 정렬합니다. 기본값은 가장 뒷쪽에 있습니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk">
+		<text>관심없음 아이템 자동 판매</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk_desc">
+		<text>교환창을 열 때 관심없음 품목을 자동으로 판매 리스트에 넣습니다. 플레이어가 판매 버튼을 누르기 전에 확인하고 뺄 수 있습니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs">
+		<text>즐겨찾기 아이콘</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs_desc">
+		<text>즐겨찾기로 지정한 아이템에 아이콘을 표시합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitefavs">
+		<text>즐겨찾기 강조</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_hilitefavs_desc">
+		<text>즐겨찾기로 지정한 아이템을 강조합니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortfavs">
+		<text>즐겨찾기 카테고리 사용</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_sortfavs_desc">
+		<text>즐겨찾기로 지정된 모든 아이템들을 별도의 카테고리로 정렬합니다. 기본값은 가장 앞쪽에 있습니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs">
+		<text>즐겨찾기 아이템 "전부이동" 비활성화</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs_desc">
+		<text>즐겨찾기에 등록 된 아이템은 "전부이동"(Move All) 시 이동되지 않습니다.</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort">
+		<text>아이템 마킹 시 인벤토리 새로고침</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort_desc">
+		<text>플레이어가 아이템을 즐겨찾기 또는 관심없음으로 지정할 때 마다 인벤토리를 새로고침합니다.</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_001loadout">
+		<text>탄창모드(ARM) 로드아웃</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_002mags">
+		<text>탄창모드(ARM) 탄창</text>
+	</string>
+
+	<string id="ui_mcm_SortingPlus_000favorites">
+		<text>즐겨찾기</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_999junk">
+		<text>관심없음</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_010weapons">
+		<text>무기</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_020outfits">
+		<text>의류</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_030artifacts">
+		<text>아티팩트</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_040devices">
+		<text>전자기기</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_050tools">
+		<text>도구</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_060medical">
+		<text>의약품</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_070foods">
+		<text>음식</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_080mutantfoods">
+		<text>뮤턴트 음식</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_090quest">
+		<text>퀘스트 아이템</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_100notes">
+		<text>노트 및 기록</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_110ammo">
+		<text>탄약</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_120mutantparts">
+		<text>뮤턴트 전리품</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_130misc">
+		<text>기타</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_140upgrades">
+		<text>업그레이드</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_150parts">
+		<text>파츠</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_usefunctors">
+		<text>아이템 우클릭 시 즐겨찾기/관심없음 표시</text>
+	</string>
+
+</string_table>
