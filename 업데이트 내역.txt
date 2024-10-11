@@ -56,13 +56,100 @@ fix2
 0.1.1
 	- 왜 빠졌는지 모를 라인 다시 집어넣고 우선순위 다시맞춤 (OPO 모드 관련)
 ----------------------------------------------------------------------------------------------------------------------------
+0.2.0
+  - 하이드아웃 가구모드 한글화
+      - z_hideoutfuniture_kor.xml
+  - 휘장에 사망 정보 표시모드 한글화
+      - zzz_misc.xml
+  - 자잘한 모드 한글화 추가
+    / MCM
+    / Quick Melee
+    / Slightly Tougher Important NPCs
+    / Devices Selector Key
+    / Fetch Tasks Shows Your Items
+    / Tagged Patches 1.1.3
+    / Item UI Improvements
+    / Skill System / Skill Expansion 2.0
+    / Smoother progress
+    / Faction based Economy
+    / Dynamic loadouts
+    / Weapon Cover Tilt
+    / Companion Teleport
+    / Upgradable Backpack
+    / Bounty Squad Expension
+    / Dynamic icon indicators
+    / Coffee
+    / Companion Anti Awol
+    / dialog dynamic UI
+    / Mag Pouches
+    / PDA Taskboard
+    / Fillable Canteens 2.0 등
+
+  - 가독성 수정 : 줄바꿈, 색상, 띄어쓰기 등.. 계속 수정해나갈 예정임
+----------------------------------------------------------------------------------------------------------------------------
 
 [WIP]
-  어노말리 96% 한글화 호환성 수정 / 미번역된 부분들 번역
-  EFP 무기 개조품(?) 한글화 (소음기, 조준경 등)
   번역된 한글들 가독성 수정 (볼드처리, 색처리, 점표시 등) - 일단 초벌 다 끝내고 할꺼같음
-
+  어노말리 게임 베이스 한글화
 
 [알려진 문제]
   MCM 툴팁 메인화면에서만 보임 내가 고칠수있는 부분이 아님
 
+[제작/수정 완료된 한글화] (90% 이상 완료 / 이후 수정 없을예정)
+  <EFP 아티팩트>
+    - zx_ArtifactKor.xml
+  <EFP 의약품>
+    - zx_EFPMedicItemKor.xml
+  <Ballistic>
+    - zx_ballisticsKor.xml
+  <Lootboxes>
+    - zx_st_items_lootboxes.xml
+  <BnS>
+    - zx_BnSKor.xml
+  <Mag Redux>
+    - zzz_mag_magredux_kor
+  <OPO>
+    - zzz_OPO_Kor
+  <OAO>
+    - zzz_korFix.xml
+    - zzx_EFPDCCustomV1.xml
+  <Hideout Funiture>
+    - z_hideoutfuniture_kor.xml
+  <Sorting Plus>
+    - z_ui_st_sortingplus_kor.xml
+  <EFPWP> 
+    - z_st_zmaid_ports.xml
+  <Dynamic News 픽스>
+    - z_st_dynamic_news.xml
+  <PDA 픽스>
+    - zz_pda_pack.xml
+  <로딩스크린 픽스>
+    - z_ui_st_loadsreen.xml
+  <기타> 
+    - zzz_misc.xml
+      / MCM
+      / Quick Melee
+      / Slightly Tougher Important NPCs
+      / Devices Selector Key
+      / Fetch Tasks Shows Your Items
+      / Tagged Patches 1.1.3
+      / Item UI Improvements
+      / Skill System / Skill Expansion 2.0
+      / Smoother progress
+      / Faction based Economy
+      / Dynamic loadouts
+      / Weapon Cover Tilt
+      / Companion Teleport
+      / Upgradable Backpack
+      / Bounty Squad Expension
+      / Dynamic icon indicators
+      / Coffee
+      / Companion Anti Awol
+      / dialog dynamic UI
+      / Mag Pouches
+      / PDA Taskboard
+      / Fillable Canteens 2.0
+      / 그 외 기타 (파일 제일 하단 참고)
+
+[작업중인 한글화]
+  - 어노말리 게임 베이스 한글화
