@@ -343,10 +343,10 @@
 		<text>처치 할 기능고장이 존재하지 않습니다.</text>
 	</string>
 	<string id="ui_st_unjam">
-		<text>기능고장 처치 완료.</text>
+		<text>기능고장 처치 완료</text>
 	</string>
 	<string id="ui_st_functional">
-		<text>총기 기능</text>
+		<text>문제 없음</text>
 	</string>
 	<string id="ui_st_oldjam">
 		<text>당신은 어노말리 탄창을 사용중입니다. 기능고장 처치 대신 재장전 하십시오.</text>

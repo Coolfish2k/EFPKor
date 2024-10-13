@@ -87,6 +87,16 @@ fix2
 
   - 가독성 수정 : 줄바꿈, 색상, 띄어쓰기 등.. 계속 수정해나갈 예정임
 ----------------------------------------------------------------------------------------------------------------------------
+0.2.1
+  - 자잘한 모드 한글화 추가
+    / Rotten Meat
+    / Fire Mode Check
+    / Item Highlight
+    / FDDA
+    / RF Quest (WIP)
+    / Food Toxic (WIP)
+
+
 
 [WIP]
   번역된 한글들 가독성 수정 (볼드처리, 색처리, 점표시 등) - 일단 초벌 다 끝내고 할꺼같음
@@ -126,30 +136,13 @@ fix2
   <로딩스크린 픽스>
     - z_ui_st_loadsreen.xml
   <기타> 
-    - zzz_misc.xml
-      / MCM
-      / Quick Melee
-      / Slightly Tougher Important NPCs
-      / Devices Selector Key
-      / Fetch Tasks Shows Your Items
-      / Tagged Patches 1.1.3
-      / Item UI Improvements
-      / Skill System / Skill Expansion 2.0
-      / Smoother progress
-      / Faction based Economy
-      / Dynamic loadouts
-      / Weapon Cover Tilt
-      / Companion Teleport
-      / Upgradable Backpack
-      / Bounty Squad Expension
-      / Dynamic icon indicators
-      / Coffee
-      / Companion Anti Awol
-      / dialog dynamic UI
-      / Mag Pouches
-      / PDA Taskboard
-      / Fillable Canteens 2.0
-      / 그 외 기타 (파일 제일 하단 참고)
+    - zzz_misc.xml 파일 참고(주석확인)
 
 [작업중인 한글화]
   - 어노말리 게임 베이스 한글화
+  - More Dynamic Tasks
+  - NVG
+  - key wrapper
+  - Fire mode check
+  - RF Quest
+  - Food Toxic

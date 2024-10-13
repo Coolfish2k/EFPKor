@@ -1321,7 +1321,7 @@
 	<string id ="ui_mcm_menu_dii_main_settings">
 		<text>메인 설정</text>
 	</string>
-	<string id ="ui_mcm_menu_dii_properties">
+	<string id ="ui_mcm_menu_dii_특징">
 		<text>속성</text>
 	</string>
 	<string id ="ui_mcm_menu_dii_custom_layers">
@@ -1347,11 +1347,11 @@
 	<string id="st_coffee_drink_descr">
 		<text>UCC 콜드브루 커피와 로브스타 라떼입니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] � %c[ui_gray_2] 음료\n
-		%c[d_blue] � %c[ui_gray_2] 수입품\n
-		%c[d_blue] � %c[ui_gray_2] 자극제\n
-		%c[d_blue] � %c[ui_gray_2] 강력한 숙취 효과\n
-		%c[d_blue] � %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] - %c[ui_gray_2] 음료\n
+		%c[d_blue] - %c[ui_gray_2] 수입품\n
+		%c[d_blue] - %c[ui_gray_2] 자극제\n
+		%c[d_blue] - %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_blue] - %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	<string id="st_ground_coffee">
@@ -1634,6 +1634,565 @@
 		<text>물을 담기 위해서는 수통이 필요합니다.</text>
 	</string>	
 
+<!-- RF Quest -->
+
+	<string id="tb_anon_sender">
+		<text>"익명의 발신자"</text>
+	</string>
+
+	<!-- PDA MESSAGES -->
+	<string id="tb_sooner_rf">
+		<text>RF 수신기를 구한다면 임무를 주도록 하지.</text>
+	</string>
+
+
+	<string id="tb_package_can_be_found">
+		<text>물건은 아마 </text>
+	</string>
+
+	<string id="tb_use_rf_on_freq">
+		<text> 에 있을꺼야. 도착해서 RF수신기 주파수를  </text>
+	</string>
+
+	<string id="tb_mhz_to_search">
+		<text> MHz 로 설정해.</text>
+	</string>
+
+
+	<string id="tb_dont_forget">
+		<text>이봐, 물건 잊어버리지 말라고. </text>
+	</string>
+
+	<string id="tb_freq_was_on">
+		<text>에 가서 </text>
+	</string>
+
+	<string id="tb_the_mhz">
+		<text> MHz로 주파수 설정해. 그럼 찾을 수 있을태니</text>
+	</string>
+
+	<!-- ROUGH LOCATION TEXTS -->
+
+	<string id="tb_loc_n_r">
+		<text>다음 지역의 북쪽: </text>
+	</string>
+	<string id="tb_loc_ne_r">
+		<text>다음 지역의 북동쪽: </text>
+	</string>
+	<string id="tb_loc_e_r">
+		<text>다음 지역의 동쪽: </text>
+	</string>
+	<string id="tb_loc_se_r">
+		<text>다음 지역의 남동쪽: </text>
+	</string>
+	<string id="tb_loc_s_r">
+		<text>다음 지역의 남쪽: </text>
+	</string>
+	<string id="tb_loc_sw_r">
+		<text>다음 지역의 남서쪽: </text>
+	</string>
+	<string id="tb_loc_w_r">
+		<text>다음 지역의 서쪽: </text>
+	</string>
+	<string id="tb_loc_nw_r">
+		<text>다음 지역의 북서쪽: </text>
+	</string>
+
+	<!-- LEVEL NAMES -->
+
+	<string id="tb_loc_mar">
+		<text>늪지대</text>
+	</string>
+	<string id="tb_loc_dsc">
+		<text>Darkscape</text>
+	</string>
+	<string id="tb_loc_esc">
+		<text>코돈</text>
+	</string>
+	<string id="tb_loc_gar">
+		<text>쓰레기장</text>
+	</string>
+	<string id="tb_loc_agr">
+		<text>아그로프롬</text>
+	</string>
+	<string id="tb_loc_val">
+		<text>검은 계곡</text>
+	</string>
+	<string id="tb_loc_bar">
+		<text>로스토크</text>
+	</string>
+	<string id="tb_loc_ros">
+		<text>the Wild Territory</text>
+	</string>
+	<string id="tb_loc_mil">
+		<text>군 창고</text>
+	</string>
+	<string id="tb_loc_yan">
+		<text>얀타</text>
+	</string>
+	<string id="tb_loc_cit">
+		<text>죽은 도시</text>
+	</string>
+	<string id="tb_loc_lim">
+		<text>리만스크</text>
+	</string>
+	<string id="tb_loc_rad">
+		<text>레이더</text>
+	</string>
+	<string id="tb_loc_red">
+		<text>붉은 숲</text>
+	</string>
+	<string id="tb_loc_pri">
+		<text>프리피야트</text>
+	</string>
+	<string id="tb_loc_aes1">
+		<text>남CNPP</text>
+	</string>
+	<string id="tb_loc_aes2">
+		<text>북CNPP</text>
+	</string>
+	<string id="tb_loc_gen">
+		<text>the Generators</text>
+	</string>
+	<string id="tb_loc_zat">
+		<text>자톤</text>
+	</string>
+	<string id="tb_loc_jup">
+		<text>주피터</text>
+	</string>
+	<string id="tb_loc_out">
+		<text>the Outskirts</text>
+	</string>
+	<string id="tb_loc_trc">
+		<text>트럭 묘지</text>
+	</string>
+	<string id="tb_loc_pol">
+		<text>the Meadow</text>
+	</string>
+	<string id="tb_loc_dbg">
+		<text>the Debug Level</text>
+	</string>
+
+	<string id="ui_mcm_reworked_rf_receiver_title">
+		<text>RF 수신기 재작업</text>
+	</string>
+	<string id="ui_mcm_menu_reworked_rf_receiver">
+		<text>RF 수신기 재작업</text>
+	</string>
+
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume">
+		<text>커스텀 비프음</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume_desc">
+		<text>비프음을 변경하려면 선택하세요.</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_beep_volume">
+		<text>비프음</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change">
+		<text>주파수를 변경할 때 마다 RF 소스 업데이트(성능에 영향)</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change_desc">
+		<text>성능에 영향을 줍니다.</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf">
+		<text>슬롯에서 RF 수신기 사용</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf_desc">
+		<text>RF 수신기를 손에 들고있지 않아도 사용이 가능합니다. 단, 슬롯에는 장착한 상태여야 합니다.</text>
+	</string>
+
+<!-- FDDA -->
+	<string id="ui_mcm_menu_EA_settings">
+		<text>FDDA 설정</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_animations">
+		<text>FDDA 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_backpack_addon">
+		<text>가방 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
+		<text>가방 애니메이션 활성화 시 자동 앉기 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot">
+		<text>뮤턴트 해체 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_item_anim">
+		<text>아이템 획득 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot_desc">
+		<text>note: it automatically turns off \n
+		\n if FDDA animations are off</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist">
+		<text>아이템 획득 애니메이션 거리</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist_desc">
+		<text>Default - 0.12, recommended value to fix \n
+		 magazines addon bug - 0.3-0.5</text>
+	</string>
+	
+	<string id="st_EA_ladder_item_not_allowed">
+      <text>당신의 손은 지금 바쁩니다.</text>
+    </string>
+
+<!-- Item Highlight-->
+	<string id="ui_mcm_title_new_item_highlight">
+		<text>신규 아이템 강조</text>
+	</string>
+
+	<string id="ui_mcm_menu_new_item_highlight">
+		<text>신규 아이템 강조</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type">
+		<text>강조표시 삭제</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type_desc">
+		<text>Focus with key requires left shift to be held down before mouseing over item.</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_a">
+		<text>투명도</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_r">
+		<text>R</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_g">
+		<text>G</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_b">
+		<text>B</text>
+	</string>
+
+	<string id="ui_mcm_lst_rax_nih_focus">
+		<text>마우스 오버 시 삭제</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_key_focus">
+		<text>마우스 오버 + 키 입력시 삭제</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_inv_close">
+		<text>인벤토리 닫을 때 삭제</text>
+	</string>
+
+<!-- Fire mode check -->
+	<string id="ui_mcm_menu_fireModeCheck">
+		<text>발사 모드 확인</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_title">
+		<text>발사 모드 확인</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode">
+		<text>Preferred firing mode checking method</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode_desc">
+		<text>%c[d_green]-%c[DEFAULT] Basic: Firing mode switch buttons behavior is unchanged. New mode is displayed after switching.
+\n-\n%c[d_green]-%c[DEFAULT] Dual key: "Previous Firing Mode" key displays the current mode without switching. "Next Firing Mode" key cycles between firing modes.
+\n-\n%c[d_green]-%c[DEFAULT] Single key: Both hotkeys work in the same way: Single tap for displaying current mode, double tap for switching modes. Helps free up one keybinding.</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode">
+		<text>표시 방법</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode_desc">
+		<text>Fire Mode Check Indicator display style</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui">
+		<text>바닐라 표시기 비활성화</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui_desc">
+		<text>Hide the on-screen firing mode indicator provided by the vanilla HUD.</text>
+	</string>
+	<string id="ui_mcm_lst_disabled">
+		<text>%c[ui_gray]비활성화됨</text>
+	</string>
+	<string id="ui_mcm_lst_basic">
+		<text>기본</text>
+	</string>
+	<string id="ui_mcm_lst_dual_key">
+		<text>Dual Key</text>
+	</string>
+	<string id="ui_mcm_lst_single_key">
+		<text>Single Key (recommended)</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Full</text>
+	</string>
+	<string id="ui_mcm_lst_text_only">
+		<text>Text only</text>
+	</string>
+	<string id="ui_mcm_lst_image_only">
+		<text>Image only</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_keybind_check_firemode_key">
+		<text>Check/Switch firemode key</text>
+	</string>
+
+<!-- Rotten meat -->
+  <string id="st_rotten_meat">
+      <text>육류 유통기한</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>Zone produced raw meat, which was not cooked in time. After two days have passed, this lump of stinky meat is beyond saving. Not even dogs would eat it anymore. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+	</string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>Zone produced meal, which was not consumed in time. After five days have passed, this bowl of stinky remains of food is beyond saving. What a terrible loss, indeed. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+	</string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>A rotten hand of a snork, which was not cooked in time. It saw better times definitely. Since you have no more use of it, the best course of action is to throw it as far away as possible, so it won't be able to crawl back for sure...</text>
+  </string>
+  <string id="ui_mcm_menu_meat_spoiling">
+    <text>육류 유통기한</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_cooked">
+    <text>요리된 고기가 상하기까지 걸리는 시간(Hour)</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_raw">
+    <text>생고기가 상하기까지 걸리는 시간(Hour)</text>
+  </string>
+
+<!-- Food Toxic -->
+    <string id="st_carbon">
+		<text>활성탄 정제</text>
+	</string>
+	<string id="st_carbon_descr">
+		<text> 코코넛 껍질이 주 재료인 활성탄 정제는 섭취한 독소와 중독증상을 완화시키는 약입니다. 이 정제는 독성 화학 물질이나 독극물을 붙잡고 가두어 신체가 독을 흡수하는것을 방지합니다. 또한 알콜에도 작용하기 때문에 음주 후 숙취해소제로도 사용할 수 있습니다. 출처를 알 수 없거나 올바르게 조리되지 못한 뮤턴트 고기를 먹었을 경우 중독 예방을 위해 식후에 섭취하는것이 좋습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 해독작용\n
+		%c[d_blue] - %c[ui_gray_2] 가벼운 숙취 해소 효과\n
+		</text>
+	</string>
+
+	<string id="st_emetic">
+		<text>에메틴</text>
+	</string>
+	<string id="st_emetic_descr">
+		<text>에메틴이 담긴 병 입니다. 에메틴은 구토를 유발시켜 잘못 섭취한 음식이나 물질을 강제로 신체에서 배출하도록 돕습니다. 또한 이 약은 미량의 독을 포함하고 있으므로 과다 섭취 시 신체에 심각한 손상을 줄 수 있습니다. 이 약을 복용하기 전 다른 처치를 먼저 하는것이 좋으며, 꼭 필요할때만 복용하는것이 좋습니다. 사용방법: 스포이드를 사용하여 1회 당 2-3방울 점적투여 하십시오. \n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 해독작용\n
+		%c[d_blue] - %c[ui_gray_2] 구토유발\n
+		%c[d_blue] - %c[ui_gray_2] 숙취 해소 효과\n
+		</text>
+	</string>
+
+	<string id="st_decoction_dog">
+		<text>눈먼 개 진액</text>
+	</string>
+	<string id="st_decoction_dog_descr">
+		<text>눈먼 개의 심장과 간에서 추출한 보라색 액체입니다. 스토커들에게는 '개털'이라고도 불리며 피로와 피곤함을 해소하기 위한 민간요법으로 유명합니다. 악취가 심하지만 맛은 그다지 나쁘진 않습니다. 크바스 한 잔을 마시고 있다고 상상하면 거의 같은 맛이 납니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 민간요법\n
+		</text>
+	</string>
+
+	<string id="st_decoction_boar">
+		<text>멧돼지 발굽 추출액</text>
+	</string>
+	<string id="st_decoction_boar_descr">
+		<text>멧돼지 발굽을 분쇄하여 만든 거칠고 불투명한 갈색 액체로 흙 맛이 납니다. 방사선에 중독되었을때 복용 시 증상을 조금 완화시킵니다.\n\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 민간요법\n
+		</text>
+	</string>
+
+	<string id="st_decoction_flesh">
+		<text>플레쉬 세럼 추출물</text>
+	</string>
+	<string id="st_decoction_flesh_descr">
+		<text>Rank purple liquid that burns the nose hairs on smelling. This disgusting concoction is made from the raw meat and eyes of mutated pigs. Accelerates the body's healing mechanisms by unknown means, and thus the best thing for a wounded stalker recovering from his injuries. However, the taste makes you wish for a bullet.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 민간요법\n
+		</text>
+	</string>
+
+	<string id="st_decoction_krovoso">
+		<text>블러드서커 맥주</text>
+	</string>
+	<string id="st_decoction_krovoso_descr">
+		<text>Opaque, oily red fluid resembling blood plasma made from the heart and tentacles of the fearsome bloodsucker. Causes the body to rapidly produce red blood cells and platelets and hastens natural wound regeneration, making it extremely potent at dealing with bleeding and open wounds. In demand amongst Duty members to seal up wounds incurred when clearing mutant nests. The taste is not too bad either, but the texture of the medicine makes it hard to swallow. \n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 존 내수품\n
+		</text>
+	</string>
+
+	<string id="st_decoction_cat">
+		<text>'호랑이의 눈' 토닉</text>
+	</string>
+	<string id="st_decoction_cat_descr">
+		<text>Fizzy, clear liquid with the aroma of ammonia made from fermented Lurker eye and Cat Thyroid gland. A potent alternative to the more popular 'Hair of the Dog', this drink is used by experienced hunters to chase their prey for long distances and stay mentally alert even after days in the field. However, catching cats is more difficult than dogs, and oftentimes Lurkers will make meals out of hapless stalkers, so this is a relatively uncommon concoction.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 존 내수품\n
+		</text>
+	</string>
+
+	<string id="st_decoction_chimera">
+		<text>'에이펙스 프레데터'</text>
+	</string>
+	<string id="st_decoction_chimera_descr">
+		<text>Murky, bitter medicine made from the heart and flesh of the mighty Chimera. Stored in a flask as direct exposure to light denatures the active ingredients. Chimera blood have high amounts of unknown organic molecules that superficially resemble steroids, which scientists believe grant the monster its stupendous power, stamina, and regenerative ability. This medicine allows stalkers to have a small fraction of the Chimera's ability, but due to the difficulty of sourcing ingredients it is extremely rare. The medicine is also highly toxic to the blood, so extended use is not recommended.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 존 내수품\n
+		</text>
+	</string>
+
+	<string id="st_decoction_giant">
+		<text>사칭거인 엘릭서</text>
+	</string>
+	<string id="st_decoction_giant_descr">
+		<text>Potent medicine brewed from the hand and eyes of the Pseudogiant. If not shaken, sediment collects at the bottom which is thicker than mixed concrete. Legends speak of Monolith fighters who have continued to fight despite taking rifle rounds to the chest or having limbs blown off with explosivesD, completely and totally numb to all pain. Revered as a gift of the Zone.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 민간요법\n
+		%c[d_blue] - %c[ui_gray_2] 엄청난 피해 저항력 증가\n
+		</text>
+	</string>
+
+	<string id="st_breadmold">
+		<text>오래된 빵</text>
+	</string>
+	<string id="st_breadmold_descr">
+		<text>Old piece of bread partially covered in mold. Not particularly safe to eat, but still nutritious.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 음식\n
+		%c[d_red] - %c[ui_gray_2] 나쁜 품질\n
+		</text>
+	</string>
+
+	<string id="st_nuts_new_descr">
+		<text>Bag of 'Dee's Nuts' brand assorted nuts. Contains peanuts, hazelnuts, cashews and almonds in a nice and popular blend. Nutrition value is quite high, and is quite easy to eat on the trail. Especially delicious if combined with raisins. Imported from South Africa.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 음식\n
+		%c[d_blue] - %c[ui_gray_2] 수입품\n
+		%c[d_blue] - %c[ui_gray_2] 높은 품질\n
+		%c[d_blue] - %c[ui_gray_2] 깨끗한 식품\n
+		</text>
+	</string>
+
+	<string id="st_poison_0">
+		<text>괜찮아진 것 같군.</text>
+	</string>
+	<string id="st_poison_1">
+		<text>속이 좀 안좋은데..</text>
+	</string>
+	<string id="st_poison_2">
+		<text>몸이 안좋은 기분이야.</text>
+	</string>
+	<string id="st_poison_3">
+		<text>몸이 아파오고 있어..</text>
+	</string>
+	<string id="st_poison_4">
+		<text>몸상태가 정말 나쁜데..</text>
+	</string>
+	<string id="st_poison_5">
+		<text>곧 죽을꺼같아...</text>
+	</string>
+
+
+	<string id="st_poison_add">
+		<text>중독</text>
+	</string>
+
+	<string id="st_poison_subtract">
+		<text>체내 독 제거에 효과적</text>
+	</string>
+
+	<string id="st_dot">
+		<text>-</text>
+	</string>
+	<!-- 0-25 -->
+	<string id="st_poison_mag_0">
+		<text>미미한 </text>
+	</string>
+	<!-- 25-75 -->
+	<string id="st_poison_mag_1">
+		<text>소량의</text>
+	</string>
+	<!-- 75-200 -->
+	<string id="st_poison_mag_2">
+		<text>적당한</text>
+	</string>
+	<!-- 200+ -->
+	<string id="st_poison_mag_3">
+		<text>엄청난</text>
+	</string>
+
+	<string id="st_poison_verbose">
+		<text>체내 독 수치: </text>
+	</string>
+
+	<string id="ui_mcm_menu_poison">
+		<text>중독</text>
+	</string>
+	<string id="ui_mcm_poison_title">
+		<text>음식으로 인한 중독 설정</text>
+	</string>
+	<string id="ui_mcm_poison_verbosity">
+		<text>상세 수준:</text>
+	</string>
+	
+	<string id="ui_mcm_poison_verbosity_desc">
+		<text>Off: No message indications of poisoning.\n \nApproximate: Rough estimates on poisoning level.\n \nExact: Gives exact poison level out of 1000.</text>
+	</string>
+	<string id="ui_mcm_lst_poison_off">
+		<text>끄기</text>
+	</string>
+	<string id="ui_mcm_lst_poison_approx">
+		<text>근사값</text>
+	</string>
+	<string id="ui_mcm_lst_poison_full">
+		<text>전부</text>
+	</string>
+	<string id="ui_mcm_poison_bar">
+		<text>중독 UI 활성화</text>
+	</string>
+	<string id="ui_mcm_poison_bar_desc">
+		<text>Show toxicity bar while consuming items that confer or remove poisoning.</text>
+	</string>
+	<string id="ui_mcm_poison_doc">
+		<text>의사 NPC의 치료</text>
+	</string>
+	<string id="ui_mcm_poison_doc_desc">
+		<text>Determines if doctors completely purge poisoning on heal and how.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lst_america">
+		<text>비허용</text>
+	</string>
+	<string id="ui_mcm_lst_canada">
+		<text>Canada</text>
+	</string>
+	<string id="ui_mcm_lst_scandinavia">
+		<text>허용</text>
+	</string>
+	<string id="ui_mcm_poison_chance">
+		<text>해독제 드랍 확률</text>
+	</string>
+	<string id="ui_mcm_poison_chance_desc">
+		<text>Chance for stalkers to drop activated charcoal.</text>
+	</string>
+	<string id="ui_mcm_poison_enabled">
+		<text>중독 활성화</text>
+	</string>
+	<string id="ui_mcm_poison_enabled_desc">
+		<text>Enables the features provided by this mod - toxin accrual on food and decoction consumption, negative status effects due to poisoning level, and dropping of activated charcoal.\n \nNote that this will purge your existing toxins. Don't cheat!</text>
+	</string>
+	<string id="ui_mcm_poison_dev">
+		<text>Dev mode</text>
+	</string>
+	<string id="ui_mcm_poison_dev_desc">
+		<text>Enables console printing and allows some functions.</text>
+	</string>
+
+
 <!-- misc -->
 	<string id="ui_mcm_body_health_system_ui_keybind">
 		<text>BHS HUD 키</text>
@@ -1658,4 +2217,206 @@
 	<string id="ui_mcm_all_recipes_unlocked_show_all_recipes">
 		<text>모든 레시피 잠금해제</text>
 	</string>
+		<string id="ui_mcm_eft_jump_sounds_title">
+		<text>EFT 점프/착지 효과음</text>
+	</string>
+	<string id="ui_mcm_menu_eft_jump_sounds">
+		<text>EFT 점프/착지 효과음</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume">
+		<text>볼륨</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume_desc">
+		<text>점프/착지 볼륨</text>
+	</string>
+	    <string id="ui_mcm_menu_rax_mmt">
+        <text>미니맵 토글</text>
+    </string>
+	<string id="ui_mcm_rax_mmt_keybind">
+		<text>미니맵 토글 키</text>
+	</string>
+
+	<string id="ui_mcm_rax_mmt_keybind_desc">
+		<text>This key bind can be configured to require aditional modifier keys to mitigate conflicts.</text>
+	</string>
+	<string id="ui_mcm_rax_mmt_update_mcm">
+		<text>Update MCM to see this feature. Key defaults to slash [/]</text>
+	</string>
+
+    <string id="ui_mcm_menu_companion_inv">
+        <text>동료 인벤토리 해제</text>
+    </string>
+
+	<string id="ui_mcm_companion_inv_show_all">
+		<text>인벤토리의 모든 아이템 표시</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_all_desc">
+		<text>[Cheaty] This will show every item, even technical and animation items you have no busniess touching. This option colors the items it reveals red.</text>
+	</string>
+	<string id="ui_mcm_companion_inv_show_klep">
+		<text>함께하는동안 얻은 아이템 표시</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_klep_desc">
+		<text>This options show all items except those the companion started with. Anything they have picked up that would other wise be hidden is revealed. This option colors the items it reveals gold.</text>
+	</string>
+    <string id="ui_mcm_menu_rax_cir">
+        <text>동료 인벤토리 제어</text>
+    </string>
+
+	<string id="ui_mcm_rax_cir_keybind">
+		<text>동료 인벤토리 제어 키</text>
+	</string>
+
+	<string id="ui_mcm_rax_cir_keybind_desc">
+		<text>Will open the companions inventory as long as they are on the same screen.</text>
+	</string>
+	<string id="ui_mcm_rax_cir_modifier">
+		<text>동료 변경 키</text>
+	</string>
+
+	<string id="ui_mcm_rax_cir_modifier_desc">
+		<text>Pressing the key with this modifier will open the next companions inventory.</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_cir_update_mcm">
+		<text>Update MCM to see this feature. Key defaults to F8</text>
+	</string>
+
+
+
+	<string id="ui_mcm_title_nomorefriendlyfire">
+		<text>동료 오사 방지</text>
+	</string>
+	<string id="ui_mcm_menu_nomorefriendlyfire">
+		<text>동료 오사 방지</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_npcprotect">
+		<text>NPC 보호</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_npcprotect_desc">
+		<text>동료가 플레이어로부터 받는 피해 무시</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_acprotect">
+		<text>플레이어 보호</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_acprotect_desc">
+		<text>플레이어가 동료로부터 받는 피해 무시</text>
+	</string>
+
+	<string id="st_tt_base_cost">
+		<text>평균 가치:</text>
+	</string>
+	<string id="st_tt_af_base_cost">
+		<text>아티팩트 평균 가치:</text>
+	</string>
+
+	<string id="ui_mcm_menu_faster_tooltip">
+		<text>툴팁 딜레이</text>
+	</string>
+
+	<string id="ui_mcm_faster_tooltip_delay">
+		<text>딜레이 (ms)</text>
+	</string>
+
+	    <string id="ui_mcm_menu_rax_wwt">
+        <text>손목시계 확인</text>
+    </string>
+
+	<string id="ui_mcm_rax_wwt_keybind">
+		<text>손목시계가 인벤토리에 있다면 버튼을 눌렀을 때 시간을 확인할 수 있습니다.</text>
+	</string>
+
+	<string id="ui_mcm_rax_wwt_keybind_desc">
+		<text>This key bind can be configured to require aditional modifier keys to mitigate conflicts.</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_wwk_update_mcm">
+		<text>Update MCM to see this feature. Key defaults to F6.</text>
+	</string>
+
+
+
+
+
+
+<!-- ///////// -->
+<!-- WIP Below -->
+<!-- ///////// -->
+
+
+
+
+
+
+<!-- key wrapper -->
+	<string id="ui_mcm_key_wrapper_v">
+			<text>소프트 랩으로 변경</text>
+	</string>
+
+
+	<string id="ui_mcm_key_wrapper_v_desc">
+			<text>This key bind should be a hard wrap, however there is a way to get a very similar behavior as a softwrap. This may need to be unchecked if the key misbehaves.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_enable">
+			<text>Enable</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind">
+			<text>Wrapper key</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_geiger">
+			<text>Due to the way the geiger counter script works the mode and modifier of this key cannot be chosen. It will instead be bound to both single press and single press with shift held.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_toggle">
+			<text>This key is curently set to be held down in the Anomaly settings, if you would like to use it with this system it will need to be changed to be a toggle.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_modkey">
+			<text>This wrap will be disabled if left bound to shift, alt or control.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind_modifier">
+			<text>Cannot be bound to a modifier!\n</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind_conflict">
+			<text>Cannot set two wraps to the same key/mode/modifier combo.\n</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_too_many_redirects">
+			<text>Hard wrap limit reached, no more keys to use as redirects. See Readme.\n</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind_toggle">
+			<text>Disabled due to key not being set as toggle in Anomal settings.\n</text>
+	</string>
+	<string id="ui_mcm_key_wrap_about_text">
+			<text>MCM Key Wrapper is a utility that allows Anomaly engine keys to be bound as MCM Key Binds.\n\n It does this by "wrapping" the keys in a bit of code that ridirects key press event.\n There are two types of redirects used by the wrappers: soft and hard.\n\n Soft redirects work on keys that are only listened for by scripts, not the engine. They work by lying to the scripts about what keys do what. You can enable an unlimited number of wraps that use a soft redirect.\n\n Hard redirects work by rebinding the key to something obscure like the Yen key and then triggering that key when the MCM Keybind is triggered. There are only a limited number of these obscure keys available, 17 by default, this places a hard limit on the number of wraps that can be enabled that use hard redirects. If you exceed that number the extra wraps will be disabled. See the readme for more details.\n\n\n There is an experimental third type of wrap that can be either a hard wrap or a soft wrap. When set as a soft wrap a script is setup to emulate the engine behavior of the key bind. This may not be an exact match and you may need to set these to be a hard wrap for compatablity</text>
+	</string>
+
+	<string id="ui_mcm_mcm_key_wrapper_about_unbind_disabled">
+			<text>Unbind disabled wraps</text>
+	</string>
+	<string id="ui_mcm_mcm_key_wrapper_about_unbind_disabled_desc">
+			<text>Cleans up conflict list. Cannot be undone.</text>
+	</string>
+
+
+	<string id="ui_mcm_key_wrap_about">
+			<text>About</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_virtual">
+			<text>This is a soft wrap and does not count toward the limited number of hard wraps that you can enable.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_redirect">
+			<text>This is a hard wrap and you can only have a limited number of them enabled at one time.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper">
+			<text>Key Wrapper</text>
+	</string>
+
+	<string id="ui_mcm_key_wrapper_wraps_were_disabled">
+			<text>Wraps were disabled:\n\n</text>
+	</string>	
+	<string id="ui_mcm_key_wrapper_not_level_present">
+			<text>Wraps are only accessible in a loaded game.</text>
+	</string>	
 </string_table>
