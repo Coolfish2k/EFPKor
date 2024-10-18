@@ -134,6 +134,8 @@ fix2
     - z_ui_st_sortingplus_kor.xml
   <EFPWP> 
     - z_st_zmaid_ports.xml
+  <Utjan's Improved UI + Utjan's QoL bundle>
+    - z_kor_improvedUI.xml
   <Dynamic News 픽스>
     - z_st_dynamic_news.xml
   <PDA 픽스>
