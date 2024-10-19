@@ -1828,16 +1828,16 @@
       <text>육류 유통기한</text>
     </string>
   <string id="st_rotten_meat_raw_descr">
-		<text>Zone produced raw meat, which was not cooked in time. After two days have passed, this lump of stinky meat is beyond saving. Not even dogs would eat it anymore. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+		<text>존에서 생산된 조리되지 않은 생고기 입니다. 끔찍한 냄새와 변색된 표면을 보면 이미 상했다는것을 알 수 있습니다.</text>
 	</string>
   <string id="st_rotten_meat_cooked_descr">
-		<text>Zone produced meal, which was not consumed in time. After five days have passed, this bowl of stinky remains of food is beyond saving. What a terrible loss, indeed. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+		<text>존에서 생산된 고기 입니다. 제때 먹지 않아 이미 상했으며 어떻게든 활용할 방법은 없어 보입니다. 냄새가 다른 뮤턴트들을 끌어들이기 전에 어서 처분하는것이 좋습니다. Zone produced meal, which was not consumed in time. After five days have passed, this bowl of stinky remains of food is beyond saving. What a terrible loss, indeed. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
 	</string>
   <string id="st_rotten_meat_snork_descr">
-    <text>A rotten hand of a snork, which was not cooked in time. It saw better times definitely. Since you have no more use of it, the best course of action is to throw it as far away as possible, so it won't be able to crawl back for sure...</text>
+    <text>이미 상한 스노크의 손 입니다. 이미 상해버린 손은 표본으로써의 가치도 전무하고 먹을수도 없기 때문에 그냥 버리는게 낫습니다.</text>
   </string>
   <string id="ui_mcm_menu_meat_spoiling">
-    <text>육류 유통기한</text>
+    <text>상한 뮤턴트 고기</text>
   </string>
   <string id="ui_mcm_meat_spoiling_expiration_hours_cooked">
     <text>요리된 고기가 상하기까지 걸리는 시간(Hour)</text>
