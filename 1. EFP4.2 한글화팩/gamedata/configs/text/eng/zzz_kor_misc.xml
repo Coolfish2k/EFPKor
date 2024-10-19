@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Quick Melee -->
+    <string id="ui_mcm_menu_haru_quick_melee">
+        <text>빠른 근접공격</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_keybind_knife">
+        <text>빠른 근접공격 키</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_keybind_desc">
+        <text>빠른 근접공격 키를 설정합니다. 기본값은 C입니다.</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_mcm">
+        <text>기본값은 C입니다. 이 옵션을 변경하려면 MCM을 업데이트 하세요.</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_use_only_fav">
+        <text>즐겨찾기 된 근접무기만 사용</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_use_only_fav_desc">
+        <text>가방에서 근접무기 사용 옵션을 활성화 했을 때 즐겨찾기 된 근접무기만 사용합니다.</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_work_from_inv">
+        <text>가방에서 근접무기 사용</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_work_from_inv_desc">
+        <text>근접무기를 슬롯에 장착하고 있지 않더라도 가방에 들어있다면 사용합니다.</text>
+    </string>
+
+<!-- Slightly Tougher Important NPCs [Haruka Update]-->
+	<string id="ui_mcm_menu_tougher_npcs">
+		<text>NPC 피해량 설정</text>
+	</string>
+	
+	<string id="ui_mcm_tougher_npcs_important_dmg">
+		<text>중요 NPC가 다른 NPC로부터 받는 피해량</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_player_important_dmg">
+		<text>중요 NPC가 플레이어로부터 받는 피해량</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_monster_important_dmg">
+		<text>중요 NPC가 뮤턴트로부터 받는 피해량</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_dmg">
+		<text>동료 스쿼드 리더가 NPC로부터 받는 피해량</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_squad_member_dmg">
+		<text>동료 스쿼드 멤버가 NPC로부터 받는 피해량</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_player_companion_dmg">
+		<text>동료가 플레이어로부터 받는 피해량</text>
+	</string>
+	
+	<string id="ui_mcm_tougher_npcs_monster_companion_dmg">
+		<text>동료가 뮤턴트로부터 받는 피해량</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_hit_dmg">
+		<text>동료가 다른 개체에게 주는 피해량</text>
+	</string>
+
+<!-- Devices Selector Key  -->
+	<string id="ui_mcm_menu_detector_selector">
+		<text>
+		기기 선택 키설정
+		</text>
+	</string>
+		<string id="ui_mcm_detector_selector_keybind_anomaly">
+		<text>
+		감지기 선택 키
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_lights">
+		<text>
+		손전등 선택키
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_radio">
+		<text>
+		RF 수신기 선택 키
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_geiger">
+		<text>
+		가이거 계수기 선택 키
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_glowsticks">
+		<text>
+		형광봉 선택 키
+		</text>
+	</string>
+	<string id="ui_mcm_detector_selector_keybind_detector_anomaly">
+		<text>
+		이상현상 감지기 선택 키
+		</text>
+	</string>
+
+<!-- Smoother progress -->
+	<string id="ui_mcm_menu_smooth_prog">
+		<text>부드러운 진행</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_title">
+		<text>부드러운 진행 옵션</text>
+	</string>
+
+	<string id="ui_mcm_smooth_prog_tier1">
+		<text>1티어 업그레이드 비용 배수</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_tier2">
+		<text>2티어 업그레이드 비용 배수</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_tier3">
+		<text>3티어 업그레이드 비용 배수</text>
+	</string>
+	<string id="ui_mcm_smooth_prog_wpn_upgr_mult">
+		<text>무기 업그레이드 비용 배수</text>
+	</string>
+	<string id="ui_mcm_desc_smooth">
+		<text>변경 후에는 세이브를 저장 후 불러와야 합니다!</text>
+	</string>
+
+<!-- Faction based Economy -->
+	<string id="ui_mcm_faction_economy_title">
+		<text>팩션 기반 경제</text>
+	</string>
+	<string id="ui_mcm_menu_faction_economy">
+		<text>팩션 경제</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_faction_discounts">
+		<text>팩션 할인 배수</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_faction_discounts_desc">
+		<text>Enables multiplier based on the relations of factions.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_goodwill_mul">
+		<text>동맹 팩션 할인 배수</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_goodwill_mul_desc">
+		<text>Enables multiplier based goodwill. (by default applies only for your faction)</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill">
+		<text>동맹 팩션 할인율을 모든 팩션에 적용</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_ignore_faction_goodwill_desc">
+		<text>Makes it so goodwill multiplier works for all factions.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_reputation_mul">
+		<text>관계도 배수</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_reputation_mul_desc">
+		<text>Enables multiplier based on actor reputation.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_north_level_mul">
+		<text>북쪽 지역에서의 높은 가격</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_north_level_mul_desc">
+		<text>Makes it so prices at north are higher because of deficit.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_chance_for_extra_item">
+		<text>플레이어 팩션의 상인이 추가 아이템을 판매할 확률</text>
+	</string>
+	<string id="ui_mcm_faction_economy_required_supply_level">
+		<text>다른 팩션 물품 구매 시 동맹 필요</text>
+	</string>
+	<string id="ui_mcm_faction_economy_required_supply_level_desc">
+		<text>Goodwill level at which traders from other factions begin selling faction gear.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_goodwill_mul">
+		<text>동맹 가격 배수</text>
+	</string>
+	<string id="ui_mcm_faction_economy_rep_mul">
+		<text>관계도 가격 배수</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_special">
+		<text>특수 탄 수량</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount">
+		<text>일반 탄 수량</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_special_desc">
+		<text>Amount of special (AP, HP, slugs, darts etc.) ammo, that would be spawned in stock based on weapons sold by trader.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_ammo_amount_desc">
+		<text>Amount of normal ammo, that would be spawned in stock based on weapons sold by trader.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_trade_GUI">
+		<text>물물교환 창에서 추가 정보 표시</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_special_ammo_spawns">
+		<text>특수 탄 스폰 활성화</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_trade_GUI_desc">
+		<text>Enables additonal info next to the trader portrait with info about current multiplier and supply lvl.</text>
+	</string>
+	<string id="ui_mcm_faction_economy_use_special_ammo_spawns_desc">
+		<text>Enables special ammo spawn rules for traders. Instead of using trader files, ammo instead gets spawned based on sold weapons.</text>
+	</string>
+	<string id="st_haruka_sulpplies_level">
+		<text>보급레벨 </text>
+	</string>
+	<string id="st_haruka_multiplier">
+		<text>배수</text>
+	</string>
+
+
+	<string id="st_deal_dolg_buy_ammo">
+		<text>모든 스토커들은 주목! 듀티는 뮤턴트 둥지 사냥에 나설 계획이다. 함께 참가할 봉사자들이나 자원을 기부할 스토커가 있다면 페트렌코에게 문의하도록.</text>	
+	</string>
+	<string id="st_deal_freedom_1">
+		<text>여어 스토커들 잘 지내고있냐? 우리가 곧... 엄청난 세일을 할꺼라서 말이야! 아 씹 렌카가 저번 에미션때 죽었다고? 그 새끼 내 돈 빌려갔는데 좆같네... 어찌됐던 구하기 존나 힘든 탄이랑 슈트 팔 예정이니까 많이 와달라고 헤헤.</text>	
+	</string>
+
+	<string id="st_sid_food_sale">
+		<text>시드로비치가 스토커들에게 알림. 울프 덕분에 방금 "초록" 옷 애들이랑 거래를 잘 끝내서 말야, 통조림을 몇 박스 더 받아 왔어. 오늘까지 통조림 할인하니까 잘 알아둬.</text>	
+	</string>
+
+	<string id="st_sakharov_mutant_surplus">
+		<text>과학자 팩션과 거래중인 모든 스토커들에게 알림: 현재 우리는 충분한 뮤턴트 샘플을 가지고 있습니다. 당분간 뮤턴트 샘플은 가져오지 말아주세요. 가져오더라도 보관할 공간이 충분하지 않습니다. 감사합니다. - 사하로프 교수</text>	
+	</string>
+	<string id="st_sakharov_artifact_need">
+		<text>과학자 팩션과 거래중인 모든 스토커들에게 알림: 현재 아티팩트 샘플이 부족합니다. 어떤 샘플이라도 가져오시면 후하게 쳐 드립니다. 감사합니다. - 사하로프 교수</text>	
+	</string>
+	<string id="st_sid_ammo_buy">
+		<text>시드로비치가 스토커들에게 알림. 남쪽 전초기지에서 총격전이 발생하는 바람에 보급책으로부터 당분간 물자 조달이 힘들것이라는 이야기를 들었어. 참고해두라고.</text>	
+	</string>
+	<string id="st_barkeep_food_sale">
+		<text>.</text>	
+	</string>
+
+<!-- Dynamic loadouts -->
+	<string id="ui_st_pumping_station">
+		<text>펌프 기지 (늪지대)</text>
+	</string>
+	<string id="ui_st_train_hangar">
+		<text>기차 보관소 (쓰레기장)</text>
+	</string>
+	<string id="ui_st_village_ruins">
+		<text>마을 잔해 (군 창고)</text>
+	</string>
+
+<!-- Weapon Cover Tilt -->
+	<string id="ui_mcm_weapon_cover_tilt_title">
+		<text>무기 접힘 모션</text>
+	</string>
+	<string id="ui_mcm_menu_weapon_cover_tilt">
+		<text>무기 접힘 모션</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enabled">
+		<text>활성화</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed">
+		<text>애니메이션 관성</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+		<text>값이 낮을수록 애니메이션은 빨라집니다.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+		<text>소지무개 영향</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+		<text>The higher the number, the greater is effect of the weight of the weapon on the speed of the animation</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+		<text>활성화 반경(미터법)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+		<text>무기 길이 배수</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+		<text>This will change trigger radius dependency on weapon length, with more value, there will be more difference between short and long weapons</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+		<text>활성화 시 소음기 부착 상태 고려</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+		<text>Weapons with attachable silencers when they are attached will have increased trigger radius by about 0.1 meters</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+		<text>기울일 때 효과음</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x">
+		<text>무기 위치 오프셋 (X)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+		<text>&lt; 0 - left. &gt; 0 - right</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y">
+		<text>무기 위치 오프셋 (Y)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+		<text>&lt; 0 - down. &gt; 0 - up.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z">
+		<text>무기 위치 오프셋 (ㅋ)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+		<text>&lt; 0 - backward. &gt; 0 - forward</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+		<text>무기 흔들림(요잉)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+		<text>When a weapon is raised, it will be randomly yawed by +- a given degree for more animation variation</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation">
+		<text>무기 흔들림(롤링)</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+		<text>When a weapon is raised, it will be randomly rolled by +- a given degree for more animation variation</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+		<text>수동 기울임 활성화</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+		<text>수동 기울임 키바인딩</text>
+	</string>
+	
+<!-- Companion Teleport -->
+    <string id="ui_mcm_menu_haru_companion_tp">
+		<text>동료 순간이동</text>
+	</string>
+	<string id="ui_mcm_haru_companion_tp_keybind">
+		<text>동료 순간이동 키</text>
+	</string>
+    <string id="ui_mcm_haru_companion_tp_keybind_desc">
+		<text>Changes the key used for Companion Teleport. Default key is {. Behaviour of the key can be changed in related MCM tab.</text>
+	</string>
+    <string id="ui_mcm_menu_haru_companion_tp_warn">
+		<text>이 옵션을 보기 위해서는 MCM을 업데이트 해야 합니다. 기본 키는 { 입니다.</text>
+	</string>
+
+
+<!-- Upgradable Backpack -->
+	<string id="st_upg_carry_1_name">
+		<text>가방 구조 개선 (+5kgs)</text>
+	</string>
+	<string id="st_upg_carry_1_descr">
+		<text>가방의 구조를 변경하고 무게 배분을 효율적으로 개선하여 총 보관량을 늘립니다.</text>
+	</string>
+	<string id="st_upg_carry_2_name">
+		<text>가방 구조 개선 (+10kgs)</text>
+	</string>
+	<string id="st_upg_carry_2_descr">
+		<text>가방의 구조를 변경하고 무게 배분을 효율적으로 개선하여 총 보관량을 늘립니다.</text>
+	</string>
+	<string id="st_upg_carry_3_name">
+		<text>가방 구조 개선 (+15kgs)</text>
+	</string>
+	<string id="st_upg_carry_3_descr">
+		<text>가방의 구조를 변경하고 무게 배분을 효율적으로 개선하여 총 보관량을 늘립니다.</text>
+	</string>
+
+<!-- Bounty Squad Expension -->
+	<string id="ui_mcm_menu_bountysquads">
+		<text>현상금 스쿼드 확장</text>
+	</string>
+	<string id="ui_mcm_title_bountysquads">
+		<text>현상금 스쿼드 확장</text>
+	</string>
+
+	<string id="ui_mcm_bountysquads_delay">
+		<text>스폰 간격 딜레이</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_desc">
+		<text>This is the minimum amount of time (in in-game hours) that must pass before even considering to spawn a bounty squad. Whether a bounty squad spawns depends on each faction's chance to spawn a bounty squad.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn">
+		<text>스폰 업데이트 딜레이</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn_desc">
+		<text>This is the amount of time (in real seconds) in-between updates to the actor's faction, reputation, and spawn check. This time is counted after game-load, so the actor must be within linked-level range of a hostile position for this amount of time before a bounty squad has any chance of spawning.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state">
+		<text>플레이어 위치정보 딜레이</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state_desc">
+		<text>This is the amount of time (in real seconds) in-between updates to the actor's location. Bounty squads will re-target the actor's current position after this much time. They will also back off if the actor is in a 'safe' location with nearby allies.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance">
+		<text>기본 스폰 확률 (퍼센트)</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance_desc">
+		<text>This is the base spawn chance: the percent chance for a bounty squad to spawn on a given update when the actor has not killed any members of that faction. The total spawn chance for a bounty squad to spawn is calculated as (base_spawn_chance * faction_multiplier), where the faction multiplier depends on how many of the faction's members have died to the actor. Recommended to keep this value low, as the faction multiplier will ensure that bounty squads eventually become very likely to spawn.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment">
+		<text>Multiplier increment per death</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
+		<text>If the actor is especially belligerent to a specific faction, they will have a higher chance to send bounty squads after them. Each time the actor kills a STALKER, the victim's faction will increase their multiplier to spawn a bounty squad, faction_multiplier, by this amount. For example, if this value is set to 0.5, the first time that the actor kills a member of a faction will increase the multiplier to 1.5. The next victim will increase it to 2.0, and so on. This value is then multiplied by the base spawn chance whenever that faction considers spawning a bounty squad.</text>
+	</string>
+
+<!-- Dynamic icon indicators -->
+	<string id ="ui_mcm_dii_scale">
+		<text>스케일</text>
+	</string>
+	<string id ="ui_mcm_dii_scale_desc">
+		<text>Scale of all the indicators.</text>
+	</string>
+	<string id ="ui_mcm_dii_show">
+		<text>보이기</text>
+	</string>
+	<string id ="ui_mcm_dii_show_desc">
+		<text>Toggle the display of indicator on or off.</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x">
+		<text>수평 값</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_x_desc">
+		<text>The way element is positioned horizontally. (left\right)</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y">
+		<text>수직 값</text>
+	</string>
+	<string id ="ui_mcm_dii_anchor_y_desc">
+		<text>The way element is positioned vertically. (top\bottom)</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x">
+		<text>수평 오프셋</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_x_desc">
+		<text>Offset from the edge of icon in pixels. Useful if some other addon is adding info on the icon.</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y">
+		<text>수직 오프셋</text>
+	</string>
+	<string id ="ui_mcm_dii_offset_y_desc">
+		<text>Offset from the edge of icon in pixels. Good for items that have condition\uses bars.</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x">
+		<text>수평 여백</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_x_desc">
+		<text>Amount of pixels between columns of icons.</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y">
+		<text>수직 여백</text>
+	</string>
+	<string id ="ui_mcm_dii_spacing_y_desc">
+		<text>Amount of pixels between rows of icons,</text>
+	</string>
+	<string id ="ui_mcm_dii_limit">
+		<text>아이콘 표시 제한</text>
+	</string>
+	<string id ="ui_mcm_dii_limit_desc">
+		<text>Enables the limit of displayed icons based on Max displayed setting</text>
+	</string>
+	<string id ="ui_mcm_dii_amount">
+		<text>최대 표시</text>
+	</string>
+	<string id ="ui_mcm_dii_amount_desc">
+		<text>Maximum amount of icons displayed for this category, if item has more than that, they won't be shown. Allows for reducing the visual clutter on items that have many stats.</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_right">
+		<text>오른쪽</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_left">
+		<text>왼쪽</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_top">
+		<text>위</text>
+	</string>
+	<string id ="ui_mcm_lst_dii_bottom">
+		<text>아래</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_artefact">
+		<text>아티팩트</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_consumable">
+		<text>음식 및 음료</text>
+	</string>
+	<string id ="ui_mcm_desc_dii_prop_upgrade_kit">
+		<text>업그레이드 키트</text>
+	</string>
+
+	<string id ="ui_mcm_menu_dii">
+		<text>다이나믹 아이콘(DII)</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_main_settings">
+		<text>메인 설정</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_특징">
+		<text>속성</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers">
+		<text>유저 정의</text>
+	</string>
+	<string id ="ui_mcm_menu_dii_custom_layers_main">
+		<text>메인</text>
+	</string>
+
+<!-- Coffee -->
+	<string id="st_brewed_coffee">
+		<text>브루 커피</text>
+	</string>
+	<string id="st_brewed_coffee_descr">
+		<text>따뜻할 때 바로 마셔야 가장 맛이 좋습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		</text>
+	</string>
+	
+	<string id="st_coffee_drink">
+		<text>UCC "Ready To Drink" 콜드 브루 커피</text>
+	</string>
+	<string id="st_coffee_drink_descr">
+		<text>UCC 콜드브루 커피와 로브스타 라떼입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 음료\n
+		%c[d_blue] - %c[ui_gray_2] 수입품\n
+		%c[d_blue] - %c[ui_gray_2] 자극제\n
+		%c[d_blue] - %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_blue] - %c[ui_gray_2] 깨끗한 식품\n
+		</text>
+	</string>
+	<string id="st_ground_coffee">
+		<text>그라운드 커피 팩</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>바로 내려 마실 수 있는 그라운드 커피 한 봉지 입니다. 커피를 내리려면 물과 조리도구가 필요합니다. \n \n
+		%c[ui_gray_3]특징:\n
+		</text>
+	</string>
+
+<!-- Companion Anti Awol-->
+	<string id="ui_mcm_companion_anti_awol_title">
+		<text>동료 탈주 방지</text>
+	</string>
+	<string id="ui_mcm_menu_companion_anti_awol">
+		<text>동료 탈주 방지</text>
+	</string>
+
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol">
+		<text>플레이어 거리에 따른 동료의 "전투 무시"를 활성화 합니다.</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_desc">
+		<text>Enabling/Disabling companion ignore combat based on distance from the player</text>
+	</string>
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance">
+		<text>전투 무시 거리(따라오기)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_player_distance_desc">
+		<text>Companion will ignore combat when they reach the specified distance from the player (in meter)</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance">
+		<text>전투 돌입 거리 (따라오기)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_player_distance_desc">
+		<text>Companion will re-engage combat when they reach the specified distance from the player (in meter)</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_distance">
+		<text>전투 무시 거리 (위치로 이동)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_distance_desc">
+		<text>Companion will ignore combat when they reach the specified distance from the go to marker (in meter)</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_goto_distance">
+		<text>전투 돌입 거리 (위치로 이동)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_allow_combat_goto_distance_desc">
+		<text>Companion will re-engage combat when they reach the specified distance from the go to marker (in meter)</text>
+	</string>
+
+	
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_enemy">
+		<text>적 거리에 따른 동료의 "전투 무시"를 활성화 합니다.</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_enable_companion_anti_awol_enemy_desc">
+		<text>Enabling/Disabling companion ignore combat based on distance between the player and enemy</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance">
+		<text>전투 무시 거리 (따라오기)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_enemy_distance_desc">
+		<text>Companion will ignore combat when the enemy is outside of the specified distance from the player (in meter)</text>
+	</string>
+
+
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_enemy_distance">
+		<text>전투 무시 거리 (위치로 이동)</text>
+	</string>
+	<string id="ui_mcm_companion_anti_awol_companion_ignore_combat_goto_enemy_distance_desc">
+		<text>Companion will ignore combat when the enemy is outside of the specified distance from the go to marker (in meter)</text>
+	</string>
+
+<!-- dialog dynamic UI -->
+	<string id="ui_mcm_demonized_dialog_fov_title">
+		<text>역동적인 대화 UI</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_dialog_fov">
+		<text>대화 UI</text>
+	</string>
+
+	<string id="ui_mcm_demonized_dialog_fov_enabled">
+		<text>활성화</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_enabled">
+		<text>확대 활성화</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_zoom_fov_modifier">
+		<text>확대 값</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov">
+		<text>최소 확대 값</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_min_zoom_fov_desc">
+		<text>With zoom enabled, the FOV will change to at least this value</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov">
+		<text>거리에 따른 확대</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_distance_fov_desc">
+		<text>This changes the FOV so that the character is the same size no matter how far away they are from the player</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_fov_smoothing">
+		<text>부드러운 확대</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_track_npc">
+		<text>NPC에 초점 고정</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier">
+		<text>카메라 회전 값</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_turn_modifier_desc">
+		<text>Camera rotation factor for adjusting the position of the character, 0 means no rotation, negative values will rotate the camera in the other direction</text>
+	</string>
+	<string id="ui_mcm_demonized_dialog_fov_smoothing">
+		<text>부드러운 초점 고정</text>
+	</string>
+
+<!-- Mag Pouches-->
+	<string id="st_af_pistolpouch_name">
+		<text>
+		소형 탄창 파우치
+		</text>
+	</string>
+	<string id="st_af_pistolpouch_descr">
+		<text>
+		권총 탄창과 같은 작은 탄창을 위한 추가 파우치 2구 입니다. 벨트에 장착할 수 있습니다.\n
+		</text>
+	</string>
+
+	<string id="st_af_riflepouch_name">
+		<text>
+		중형 탄창 파우치
+		</text>
+	</string>
+	<string id="st_af_riflepouch_descr">
+		<text>
+		소총 탄창 파우치 입니다. 2개의 추가 탄창을 수납할 수 있습니다. 벨트에 장착할 수 있습니다.\n
+		</text>
+	</string>
+
+	<string id="st_af_heavypouch_name">
+		<text>
+		대형 탄창 파우치
+		</text>
+	</string>
+	<string id="st_af_heavypouch_descr">
+		<text>
+		대형 탄창 파우치 입니다. 추가 대형 탄창 수납을 위한 두 개의 공간이 있습니다. 벨트에 장착할 수 있습니다.\n
+		</text>
+	</string>
+
+<!-- PDA Taskboard -->
+	<string id="ui_mcm_menu_pda_taskboard">
+		<text>PDA 임무 목록</text>
+	</string>
+	<string id="ui_mcm_pda_taskboard_banner">
+		<text>PDA 임무 목록</text>
+	</string>
+	<string id="ui_mcm_pda_taskboard_scanning_range">
+		<text>스캔 거리</text>
+	</string>
+	<string id="ui_mcm_pda_taskboard_taskboard_key">
+		<text>단축키</text>
+	</string>
+	<string id="st_pda_accept_task">
+		<text>임무 수락</text>
+	</string>
+	<string id="st_pda_refresh_tasks">
+		<text>임무 새로고침</text>
+	</string>
+	<string id="st_pda_next_task">
+		<text>다음 임무</text>
+	</string>
+	<string id="pda_btn_taskboard">
+		<text>임무 목록</text>
+	</string>
+	<string id="st_pda_caption_setup_bounty_task">
+		<text>현상금 임무</text>
+	</string>
+	<string id="st_pda_caption_setup_assault_task">
+		<text>기지 공격 임무</text>
+	</string>
+	<string id="st_pda_caption_setup_spy_task">
+		<text>스파이 탈출 임무</text>
+	</string>
+	<string id="st_pda_caption_on_init_delivery_task">
+		<text>배달 임무</text>
+	</string>
+	<string id="st_pda_caption_setup_measure_task">
+		<text>정찰 임무</text>
+	</string>
+	<string id="st_pda_caption_on_init_fate_task">
+		<text>Fate Tasks</text>
+	</string>
+	<string id="st_pda_caption_setup_dominance_task">
+		<text>Dominance Tasks</text>
+	</string>
+	<string id="st_pda_caption_setup_fetch_task">
+		<text>물품 의뢰 임무</text>
+	</string>
+	<string id="st_pda_caption_script">
+		<text>스크립트 임무</text>
+	</string>
+	<string id="st_pda_caption_rest">
+		<text>기타 임무</text>
+	</string>
+
+<!-- Fillable Canteens 2.0 -->
+	<string id="st_empty_canteen">
+		<text>수통(비어있음)</text>
+	</string>
+	<string id="st_empty_canteen_descr">
+		<text>비어있는 군용 수통입니다. 안에 물을 담을 수 있습니다. \n \n</text>
+	</string>
+	<string id="st_dirty_water">
+		<text>수통(더러운 물)</text>
+	</string>
+	<string id="st_dirty_water_descr">
+		<text>더러운 물로 채워진 군용 수통. 급하더라도 최소한 끓인 후 음용하는게 좋아보입니다. 정제약으로 정제하는것이 가장 좋습니다. \n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] - %c[ui_gray_2] 음료\n</text>
+	</string>
+	<string id="st_boiled_water">
+		<text>수통(끓인 물)</text>
+	</string>
+	<string id="st_boiled_water_descr">
+		<text>고온에 한번 끓인 물이 들어있는 군용 수통입니다. 그냥 마실 수 있지만 정제약으로 정제해서 깨끗한 물을 얻을 수 있습니다. \n \n
+		%c[ui_gray_3]PR특징OPERTIES:\n
+		%c[d_blue] - %c[ui_gray_2] 음료\n</text>
+	</string>
+	<string id="st_haruka_fill">
+		<text>채우기</text>
+	</string>
+	<string id="st_akvatab2">
+		<text>정제약</text>
+	</string>
+	<string id="st_akvatab2_descr">
+		<text>플라스틱 통에 담긴 정제약입니다. 더러운 물에 사용하면 박테리아와 바이러스를 제거해 좀 더 깨끗한 물로 만들어 줍니다. 한 번에 두개의 알약을 사용하십시오.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_red] - %c[ui_gray_2] 느린 사용 (알약)\n
+		</text>
+	</string>
+	<string id="st_haruka_roast_unlit_campfire">
+		<text>불이 꺼진 모닥불에서는 사용할 수 없습니다.</text>
+	</string>
+	
+	<string id="st_roast_all">
+		<text>모두 굽기</text>
+	</string>
+
+	<string id="st_boil_all">
+		<text>모두 끓이기</text>
+	</string>
+
+	<string id="st_boil">
+		<text>끓이기</text>
+	</string>
+
+	<string id="st_roast">
+		<text>굽기</text>
+	</string>
+	<string id="st_water_pump_spot">
+		<text>수원지</text>
+	</string>
+
+	<string id="st_water_pump_fill">
+		<text>수통 채우기 ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_water_pump_no_canteen">
+		<text>물을 담기 위해서는 수통이 필요합니다.</text>
+	</string>	
+
+<!-- FDDA -->
+	<string id="ui_mcm_menu_EA_settings">
+		<text>FDDA 설정</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_animations">
+		<text>FDDA 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_backpack_addon">
+		<text>가방 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_enable_crouch_toggle_backpack_addon">
+		<text>가방 애니메이션 활성화 시 자동 앉기 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot">
+		<text>뮤턴트 해체 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_item_anim">
+		<text>아이템 획득 애니메이션 활성화</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_mutant_loot_desc">
+		<text>note: it automatically turns off \n
+		\n if FDDA animations are off</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist">
+		<text>아이템 획득 애니메이션 거리</text>
+	</string>
+
+	<string id="ui_mcm_EA_settings_take_dist_desc">
+		<text>Default - 0.12, recommended value to fix \n
+		 magazines addon bug - 0.3-0.5</text>
+	</string>
+	
+	<string id="st_EA_ladder_item_not_allowed">
+      <text>당신의 손은 지금 바쁩니다.</text>
+    </string>
+
+<!-- Item Highlight-->
+	<string id="ui_mcm_title_new_item_highlight">
+		<text>신규 아이템 강조</text>
+	</string>
+
+	<string id="ui_mcm_menu_new_item_highlight">
+		<text>신규 아이템 강조</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type">
+		<text>강조표시 삭제</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_clear_type_desc">
+		<text>Focus with key requires left shift to be held down before mouseing over item.</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_a">
+		<text>투명도</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_r">
+		<text>R</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_g">
+		<text>G</text>
+	</string>
+	<string id="ui_mcm_new_item_highlight_highlight_clr_b">
+		<text>B</text>
+	</string>
+
+	<string id="ui_mcm_lst_rax_nih_focus">
+		<text>마우스 오버 시 삭제</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_key_focus">
+		<text>마우스 오버 + 키 입력시 삭제</text>
+	</string>
+	<string id="ui_mcm_lst_rax_nih_inv_close">
+		<text>인벤토리 닫을 때 삭제</text>
+	</string>
+
+<!-- Fire mode check -->
+	<string id="ui_mcm_menu_fireModeCheck">
+		<text>발사 모드 확인</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_title">
+		<text>발사 모드 확인</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode">
+		<text>Preferred firing mode checking method</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode_desc">
+		<text>%c[d_green]-%c[DEFAULT] Basic: Firing mode switch buttons behavior is unchanged. New mode is displayed after switching.
+\n-\n%c[d_green]-%c[DEFAULT] Dual key: "Previous Firing Mode" key displays the current mode without switching. "Next Firing Mode" key cycles between firing modes.
+\n-\n%c[d_green]-%c[DEFAULT] Single key: Both hotkeys work in the same way: Single tap for displaying current mode, double tap for switching modes. Helps free up one keybinding.</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode">
+		<text>표시 방법</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode_desc">
+		<text>Fire Mode Check Indicator display style</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui">
+		<text>바닐라 표시기 비활성화</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui_desc">
+		<text>Hide the on-screen firing mode indicator provided by the vanilla HUD.</text>
+	</string>
+	<string id="ui_mcm_lst_disabled">
+		<text>%c[ui_gray]비활성화됨</text>
+	</string>
+	<string id="ui_mcm_lst_basic">
+		<text>기본</text>
+	</string>
+	<string id="ui_mcm_lst_dual_key">
+		<text>Dual Key</text>
+	</string>
+	<string id="ui_mcm_lst_single_key">
+		<text>Single Key (recommended)</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Full</text>
+	</string>
+	<string id="ui_mcm_lst_text_only">
+		<text>Text only</text>
+	</string>
+	<string id="ui_mcm_lst_image_only">
+		<text>Image only</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_keybind_check_firemode_key">
+		<text>Check/Switch firemode key</text>
+	</string>
+
+<!-- Rotten meat -->
+  <string id="st_rotten_meat">
+      <text>육류 유통기한</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>존에서 생산된 조리되지 않은 생고기 입니다. 끔찍한 냄새와 변색된 표면을 보면 이미 상했다는것을 알 수 있습니다.</text>
+	</string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>존에서 생산된 고기 입니다. 제때 먹지 않아 이미 상했으며 어떻게든 활용할 방법은 없어 보입니다. 냄새가 다른 뮤턴트들을 끌어들이기 전에 어서 처분하는것이 좋습니다. Zone produced meal, which was not consumed in time. After five days have passed, this bowl of stinky remains of food is beyond saving. What a terrible loss, indeed. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+	</string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>이미 상한 스노크의 손 입니다. 이미 상해버린 손은 표본으로써의 가치도 없고 먹을수도 없기 때문에 그냥 버리는게 낫습니다.</text>
+  </string>
+  <string id="ui_mcm_menu_meat_spoiling">
+    <text>상한 뮤턴트 고기</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_cooked">
+    <text>요리된 고기가 상하기까지 걸리는 시간(Hour)</text>
+  </string>
+  <string id="ui_mcm_meat_spoiling_expiration_hours_raw">
+    <text>생고기가 상하기까지 걸리는 시간(Hour)</text>
+  </string>
+
+
+<!-- misc -->
+	<string id="ui_mcm_body_health_system_ui_keybind">
+		<text>BHS HUD 키</text>
+	</string>
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>조준경 토글</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>조준경 변경/토글</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+        <text>%c[d_green]-%c[DEFAULT] 한번 누름: 현재 스코프를 장착하거나 제거합니다. 
+            \n\n%c[d_green]-%c[DEFAULT] 두번 누름: 호환되는 다음 스코프로 변경합니다.
+        </text>
+	</string>
+	<string id="ui_mcm_toggle_scope_keybind_toggle_scope">
+		<text>작동 키</text>
+	</string>
+	<string id="ui_mcm_menu_all_recipes_unlocked">
+		<text>레시피 잠금해제</text>
+	</string>
+	<string id="ui_mcm_all_recipes_unlocked_show_all_recipes">
+		<text>모든 레시피 잠금해제</text>
+	</string>
+		<string id="ui_mcm_eft_jump_sounds_title">
+		<text>EFT 점프/착지 효과음</text>
+	</string>
+	<string id="ui_mcm_menu_eft_jump_sounds">
+		<text>EFT 점프/착지 효과음</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume">
+		<text>볼륨</text>
+	</string>
+	<string id="ui_mcm_eft_jump_sounds_volume_desc">
+		<text>점프/착지 볼륨</text>
+	</string>
+	    <string id="ui_mcm_menu_rax_mmt">
+        <text>미니맵 토글</text>
+    </string>
+	<string id="ui_mcm_rax_mmt_keybind">
+		<text>미니맵 토글 키</text>
+	</string>
+
+	<string id="ui_mcm_rax_mmt_keybind_desc">
+		<text>This key bind can be configured to require aditional modifier keys to mitigate conflicts.</text>
+	</string>
+	<string id="ui_mcm_rax_mmt_update_mcm">
+		<text>Update MCM to see this feature. Key defaults to slash [/]</text>
+	</string>
+
+    <string id="ui_mcm_menu_companion_inv">
+        <text>동료 인벤토리 해제</text>
+    </string>
+
+	<string id="ui_mcm_companion_inv_show_all">
+		<text>인벤토리의 모든 아이템 표시</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_all_desc">
+		<text>[Cheaty] This will show every item, even technical and animation items you have no busniess touching. This option colors the items it reveals red.</text>
+	</string>
+	<string id="ui_mcm_companion_inv_show_klep">
+		<text>함께하는동안 얻은 아이템 표시</text>
+	</string>
+
+	<string id="ui_mcm_companion_inv_show_klep_desc">
+		<text>This options show all items except those the companion started with. Anything they have picked up that would other wise be hidden is revealed. This option colors the items it reveals gold.</text>
+	</string>
+    <string id="ui_mcm_menu_rax_cir">
+        <text>동료 인벤토리 제어</text>
+    </string>
+
+	<string id="ui_mcm_rax_cir_keybind">
+		<text>동료 인벤토리 제어 키</text>
+	</string>
+
+	<string id="ui_mcm_rax_cir_keybind_desc">
+		<text>Will open the companions inventory as long as they are on the same screen.</text>
+	</string>
+	<string id="ui_mcm_rax_cir_modifier">
+		<text>동료 변경 키</text>
+	</string>
+
+	<string id="ui_mcm_rax_cir_modifier_desc">
+		<text>Pressing the key with this modifier will open the next companions inventory.</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_cir_update_mcm">
+		<text>Update MCM to see this feature. Key defaults to F8</text>
+	</string>
+
+
+
+	<string id="ui_mcm_title_nomorefriendlyfire">
+		<text>동료 오사 방지</text>
+	</string>
+	<string id="ui_mcm_menu_nomorefriendlyfire">
+		<text>동료 오사 방지</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_npcprotect">
+		<text>NPC 보호</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_npcprotect_desc">
+		<text>동료가 플레이어로부터 받는 피해 무시</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_acprotect">
+		<text>플레이어 보호</text>
+	</string>
+	<string id="ui_mcm_nomorefriendlyfire_acprotect_desc">
+		<text>플레이어가 동료로부터 받는 피해 무시</text>
+	</string>
+
+	<string id="st_tt_base_cost">
+		<text>평균 가치:</text>
+	</string>
+	<string id="st_tt_af_base_cost">
+		<text>아티팩트 평균 가치:</text>
+	</string>
+
+	<string id="ui_mcm_menu_faster_tooltip">
+		<text>툴팁 딜레이</text>
+	</string>
+
+	<string id="ui_mcm_faster_tooltip_delay">
+		<text>딜레이 (ms)</text>
+	</string>
+
+	    <string id="ui_mcm_menu_rax_wwt">
+        <text>손목시계 확인</text>
+    </string>
+
+	<string id="ui_mcm_rax_wwt_keybind">
+		<text>손목시계가 인벤토리에 있다면 버튼을 눌렀을 때 시간을 확인할 수 있습니다.</text>
+	</string>
+
+	<string id="ui_mcm_rax_wwt_keybind_desc">
+		<text>This key bind can be configured to require aditional modifier keys to mitigate conflicts.</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_wwk_update_mcm">
+		<text>Update MCM to see this feature. Key defaults to F6.</text>
+	</string>
+
+
+
+
+
+
+<!-- ///////// -->
+<!-- WIP Below -->
+<!-- ///////// -->
+
+
+
+
+
+
+<!-- key wrapper -->
+	<string id="ui_mcm_key_wrapper_v">
+			<text>소프트 랩으로 변경</text>
+	</string>
+
+
+	<string id="ui_mcm_key_wrapper_v_desc">
+			<text>This key bind should be a hard wrap, however there is a way to get a very similar behavior as a softwrap. This may need to be unchecked if the key misbehaves.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_enable">
+			<text>Enable</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind">
+			<text>Wrapper key</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_geiger">
+			<text>Due to the way the geiger counter script works the mode and modifier of this key cannot be chosen. It will instead be bound to both single press and single press with shift held.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_toggle">
+			<text>This key is curently set to be held down in the Anomaly settings, if you would like to use it with this system it will need to be changed to be a toggle.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_modkey">
+			<text>This wrap will be disabled if left bound to shift, alt or control.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind_modifier">
+			<text>Cannot be bound to a modifier!\n</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind_conflict">
+			<text>Cannot set two wraps to the same key/mode/modifier combo.\n</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_too_many_redirects">
+			<text>Hard wrap limit reached, no more keys to use as redirects. See Readme.\n</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_bind_toggle">
+			<text>Disabled due to key not being set as toggle in Anomal settings.\n</text>
+	</string>
+	<string id="ui_mcm_key_wrap_about_text">
+			<text>MCM Key Wrapper is a utility that allows Anomaly engine keys to be bound as MCM Key Binds.\n\n It does this by "wrapping" the keys in a bit of code that ridirects key press event.\n There are two types of redirects used by the wrappers: soft and hard.\n\n Soft redirects work on keys that are only listened for by scripts, not the engine. They work by lying to the scripts about what keys do what. You can enable an unlimited number of wraps that use a soft redirect.\n\n Hard redirects work by rebinding the key to something obscure like the Yen key and then triggering that key when the MCM Keybind is triggered. There are only a limited number of these obscure keys available, 17 by default, this places a hard limit on the number of wraps that can be enabled that use hard redirects. If you exceed that number the extra wraps will be disabled. See the readme for more details.\n\n\n There is an experimental third type of wrap that can be either a hard wrap or a soft wrap. When set as a soft wrap a script is setup to emulate the engine behavior of the key bind. This may not be an exact match and you may need to set these to be a hard wrap for compatablity</text>
+	</string>
+
+	<string id="ui_mcm_mcm_key_wrapper_about_unbind_disabled">
+			<text>Unbind disabled wraps</text>
+	</string>
+	<string id="ui_mcm_mcm_key_wrapper_about_unbind_disabled_desc">
+			<text>Cleans up conflict list. Cannot be undone.</text>
+	</string>
+
+
+	<string id="ui_mcm_key_wrap_about">
+			<text>About</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_virtual">
+			<text>This is a soft wrap and does not count toward the limited number of hard wraps that you can enable.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper_redirect">
+			<text>This is a hard wrap and you can only have a limited number of them enabled at one time.</text>
+	</string>
+	<string id="ui_mcm_key_wrapper">
+			<text>Key Wrapper</text>
+	</string>
+
+	<string id="ui_mcm_key_wrapper_wraps_were_disabled">
+			<text>Wraps were disabled:\n\n</text>
+	</string>	
+	<string id="ui_mcm_key_wrapper_not_level_present">
+			<text>Wraps are only accessible in a loaded game.</text>
+	</string>	
+</string_table>

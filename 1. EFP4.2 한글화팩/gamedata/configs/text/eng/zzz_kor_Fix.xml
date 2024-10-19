@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Outfit Attatchment Overhaul (OAO)-->
+	<string id="st_no_frame_equipped">
+		<text>배낭 프레임이 설치되지 않았습니다</text>
+	</string>
+	<string id="st_equipped_frame">
+		<text>설치된 배낭 프레임:</text>
+	</string>
+	<string id="st_remove_frame">
+		<text>설치된 프레임 제거</text>
+	</string>
+	<string id="st_install_frame">
+		<text>배낭에 설치</text>
+	</string>
+  
+	<string id="st_af_new_frames_name">
+		<text>알루미늄 프레임</text>
+	</string>
+	<string id="st_af_new_frames_descr">
+		<text>괜찮은 품질의 알루미늄 프레임은 가방 중량을 분산시키고 더 효율적인 수납이 가능하도록 합니다. 알루미늄은 가볍고 튼튼하지만 전기 전도성을 높이는 단점이 존재합니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 프레임은 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] - %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+
+	<string id="st_af_new_frames_up_name">
+		<text>강화된 알루미늄 프레임</text>
+	</string>
+	<string id="st_af_new_frames_up_descr">
+		<text>알루미늄 프레임을 개선해 기존보다 더 효율적으로 무개를 분산할 수 있습니다. /n괜찮은 품질의 알루미늄 프레임은 가방 중량을 분산시키고 더 효율적인 수납이 가능하도록 합니다. 알루미늄은 가볍고 튼튼하지만 전기 전도성을 높이는 단점이 존재합니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 프레임은 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] - %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_grid_name">
+		<text>티타늄 그리드</text>
+	</string>
+	<string id="st_af_new_grid_descr">
+		<text>배낭의 무게를 보다 효율적으로 분산시키는 데 사용되는 고품질 티타늄 그리드입니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 고품질 티타늄 그리드는 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] - %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] - %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+	
+	<string id="st_af_new_grid_up_name">
+		<text>강화된 티타늄 그리드</text>
+	</string>
+	<string id="st_af_new_grid_up_descr">
+		<text>기존 티타늄 그리드를 강화하여 더 효율적으로 무개를 분산할 수 있습니다.\n배낭의 무게를 보다 효율적으로 분산시키는 데 사용되는 고품질 티타늄 그리드입니다. 조절 가능한 스트랩과 하네스 덕분에 사용자의 체형이나 가방의 구조에 상관없이 설치가 가능하며 단단한 착용감으로 인해 사용자는 프레임을 장착하고도 불편함 없이 뛰거나 달릴 수 있습니다. 고품질 티타늄 그리드는 가방에 직접 설치해야 하지만, 필요없는 경우 장비나 무기 수리 시 재료로 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] - %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] - %c[ui_gray_2] 한 번에 하나의 프레임만 착용 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 가방에 직접 설치\n
+		</text>
+	</string>
+	
+
+	<string id="st_af_new_camelbak_name">
+		<text>카멜백</text>
+	</string>
+	<string id="st_af_new_camelbak_descr">
+		<text>낙타의 혹을 참고해 만든 카멜백은 사용자의 등이나 허리에 착용하는, 물로 채워진 작은 가방입니다. 입에 물고있을 수 있는 튜브가 있어 긴급한 상황에서도 수분을 공급받을 수 있습니다. 군용품으로써 위장 도색이 되어있어 장시간 대기해야하는 작전 등에서 유용하게 사용할 수 있습니다. 제품은 고품질 직물로 만들어지기 때문에 더이상 사용하지 않는 카멜백은 수리 재료로 활용할 수 있습니다.\n \n%c[d_red]\n\n%c[d_red]경고:% c[ui_gray_2]\n \n%c[default]물은 전기 전도도가 낮지만 신체에 가까워지면 전류에 더 취약해질 수 있습니다. 이러한 이유로 카멜백을 소지할 때는 주변 환경에 특별히 주의하는 것이 좋습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 한 번에 하나의 카멜백만 장착 가능\n
+		</text>
+	</string>
+
+	<string id="st_af_new_camelbak_up_name">
+		<text>보온 카멜백</text>
+	</string>
+	<string id="st_af_new_camelbak_up_descr">
+		<text>보온 소재가 추가된 카멜백으로 내부의 물을 더 오래 차갑게 유지하고 공급받을 수 있습니다.\n낙타의 혹을 참고해 만든 카멜백은 사용자의 등이나 허리에 착용하는, 물로 채워진 작은 가방입니다. 입에 물고있을 수 있는 튜브가 있어 긴급한 상황에서도 수분을 공급받을 수 있습니다. 군용품으로써 위장 도색이 되어있어 장시간 대기해야하는 작전 등에서 유용하게 사용할 수 있습니다. 제품은 고품질 직물로 만들어지기 때문에 더이상 사용하지 않는 카멜백은 수리 재료로 활용할 수 있습니다.\n \n%c[d_red]\n\n%c[d_red]경고:% c[ui_gray_2]\n \n%c[default]물은 전기 전도도가 낮지만 신체에 가까워지면 전류에 더 취약해질 수 있습니다. 이러한 이유로 카멜백을 소지할 때는 주변 환경에 특별히 주의하는 것이 좋습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 한 번에 하나의 카멜백만 장착 가능\n
+		</text>
+	</string>
+	<string id="st_af_huntkit_name">
+		<text>야전 해체 키트</text>
+	</string>
+	<string id="st_af_new_camelbak_up_descr">
+		<text>다양한 모양의 칼과 갈고리 등이 들어있는 드레싱 키트입니다. 거의 모든 알려진 뮤턴트를 해체할 수 있도록 도구가 구성되어 있으며 벨트에 장착 후 손쉽게 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		</text>
+	</string>
+   <string id="st_af_new_surge_name">
+		<text>서지 프로텍터</text>
+	</string>
+	<string id="st_af_new_surge_descr">
+		<text>수많은 저항과 퓨즈로 구성된 간단한 보호장치입니다. 신체가 전기와 접촉할 경우, 전기를 저항 퓨즈 복합체로 전환하고 퓨즈가 끊어짐으로써 전기 피해를 감소화 합니다. 이로 인해 전기 이상 현상에 대해 거의 완벽하게 보호되지만 강력한 전기를 순간적으로 받을 경우 모든 퓨즈가 끊어지고 보호능력을 상실 할 위험이 있습니다. 이와 관련한 지식이 있는 대부분의 스토커들은 존에서 얻을 수 있는 값싼 전자 부품들로 이런 장비를 직접 만들기도 합니다. 장치가 무겁고 일회용임에도 불구하고 전기 이상 영역을 탐색하는 데 매우 유용합니다.\n \n
+		%c[0,140,140,140]특징:\n
+		%c[d_cyan] -  기술 물품\n
+		%c[d_cyan] -  하나의 환경 제어 장치만 장착가능\n
+		%c[d_cyan] - %c[ui_gray_2] 전자 부품으로 수리 가능
+		</text>
+	</string>
+
+	<string id="st_af_new_surge_up_name">
+		<text>업그레이드된 서지 프로텍터</text>
+	</string>
+	<string id="st_af_new_surge_up_descr">
+		<text>아티팩트를 활용하여 전류를 더 효율적으로 분산시키는 업그레이드된 서지 보호기입니다. 작동방식은 기존의 서지 프로텍터와 거의 비슷하지만, 아티팩트가 전류 흡수에 도움을 주며 덕분에 장치와 퓨즈를 더 오래 사용할 수 있습니다. 또한, 아티팩트는 가벼운 근육 이완 전류를 지속적으로 방출하여 통증과 피로를 완화하는 데 도움이 됩니다.\n\n
+		%c[0,140,140,140]특징:\n
+		%c[d_cyan] - 기술 물품\n
+		%c[d_cyan] -  하나의 환경 제어 장치만 장착가능\n
+		%c[d_cyan] - %c[ui_gray_2] 전자 부품으로 수리 가능
+		</text>
+	</string>
+
+    <string id="ui_mcm_slotControl_plate_up_chance">
+        <text>업그레이드된 방탄판을 얻을 확률(곱연산)</text>
+    </string>
+
+    <string id="st_surge_compat">
+        <text>호환 품목:</text>
+    </string>
+    
+    <string id="st_autodoc_compat">
+        <text>호환 약품:</text>
+    </string>
+
+    <string id="st_autodoc_capacity_hp">
+        <text>체력 안정제: </text>
+    </string>
+    <string id="st_autodoc_capacity_rads">
+        <text>항방사선제: </text>
+    </string>
+    <string id="st_autodoc_capacity_dmgres">
+        <text>진통제: </text>
+    </string>
+
+        <string id="st_autodoc_enable">
+        <text>활성화 - </text>
+    </string>
+    <string id="st_autodoc_disable">
+        <text>비활성화 - </text>
+    </string>
+    <string id="st_autodoc_hp">
+        <text>체력 안정제</text>
+    </string>
+    <string id="st_autodoc_rads">
+        <text>항방사선제</text>
+    </string>
+    <string id="st_autodoc_dmgres">
+        <text>진통제</text>
+    </string>
+
+    <string id="st_armor_penetrated">
+        <text>총알이 플레이트를 관통했습니다!</text>
+    </string>
+    <string id="st_armor_broken">
+        <text>착용중인 플레이트가 완전히 부숴졌습니다.</text>
+    </string>
+    <string id="st_armor_absorbed">
+        <text>플레이트가 총알을 효과적으로 저지했습니다.</text>
+    </string>
+
+    <string id="ui_mcm_slotControl_ballisticRepair">
+        <text>기술자의 플레이트 수리 허용</text>
+    </string>
+    <string id="ui_mcm_slotControl_hp">
+        <text>LSM 일반 부상 임계값</text>
+    </string>
+    <string id="ui_mcm_slotControl_hp_crit">
+        <text>LSM 심각한 부상 임계값</text>
+    </string>
+    <string id="ui_mcm_slotControl_rads">
+        <text>LSM 누적 방사선 임계값</text>
+    </string>
+    
+        <string id="st_stim_none">
+            <text>자극제가 아닙니다.</text>
+        </string>
+
+        <string id="st_af_new_surge_name">
+            <text>서지 프로텍터</text>
+        </string>
+        <string id="st_af_new_surge_descr">
+            <text>A simple device consisting of a ton of resistors and replaceable fuses. It protects the user by limiting the effective amount of electricity that comes into direct contact with the body through diverting it to the resistor-fuse complex, mitigating a majority of the shock at the cost of blowing the fuses. This makes it almost foolproof against Electro Anomalies, but it can only endure so many strong electric shocks before all the fuses are blown out. Most stalkers construct these devices with spare electronic trash, which is in no shortage in the Zone. Even though the device is heavy and disposable, it is extremely useful for navigating electrical anomaly fields. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
+            %c[0,140,140,140]특징:\n
+            %c[d_cyan] - 기술 물품\n
+            %c[d_cyan] - 하나의 환경 제어 장치만 장착가능\n
+            %c[d_cyan] - %c[ui_gray_2] 전자 부품으로 수리 가능
+            </text>
+        </string>
+
+        <string id="st_af_new_surge_up_name">
+            <text>업그레이드된 서지 프로텍터</text>
+        </string>
+        <string id="st_af_new_surge_up_descr">
+            <text>An upgraded Surge Protector making use of an artifact to better disperse electrical shock. Errant surges electricity are routed through the same path, but due to the presence of the artifact, some shock is partially absorbed and the overall damage to the components is reduced. In addition, the artifact constantly emits a mild muscle relaxing current, which helps with soreness and fatigue. \n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]It should be noted that such a module will not be able to work properly and provide sufficient protection if your suit does not meet the minimum protection requirements while in an abnormal field.\n \n \n
+            %c[0,140,140,140]특징:\n
+            %c[d_cyan] - 기술 물품\n
+            %c[d_cyan] -  하나의 환경 제어 장치만 장착가능\n
+            %c[d_cyan] - %c[ui_gray_2] 전자 부품으로 수리 가능
+            </text>
+        </string>
+
+	<string id="st_plate_cap_0">
+		<text>%c[d_red]추가 플레이트를 삽입 할 공간이 없습니다.</text>
+	</string>
+	<string id="st_plate_cap_1">
+		<text>추가 케블라 플레이트를 삽입할 수 있습니다.</text>
+	</string>
+	<string id="st_plate_cap_2">
+		<text>추가 방탄 플레이트를 삽입할 수 있습니다.</text>
+	</string>
+	<string id="st_plate_in">
+		<text>\n 장착 된 플레이트:</text>
+	</string>
+	<string id="st_remove_plate">
+		<text>플레이트 제거</text>
+	</string>
+	<string id="st_insert_plate">
+		<text>장비에 플레이트 추가</text>
+	</string>
+
+	<string id="st_af_kevlar_name">
+		<text>케블라 플레이트</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>케블라 플레이트는 경량 방탄복으로 직접 사용하거나 사용중인 방탄조끼에 삽입하여 방어력을 강화시킬 목적으로 설계되었습니다. 케블라 이미 시장에서 검증 된 안전한 방탄소재이며, 놀라운 수준의 중량 대비 방어력은 많은 이들이 선호하는 이유 중 하나입니다. 케블라 플레이트는 피격 시 직접적으로 총탄을 방어하며 다양한 작전에서 폭넓게 사용될 수 있습니다. 단독으로 사용 시 권총탄은 아주 효과적으로 방어할 수 있으나, 소총탄 이상의 공격에 대해서는 방어 능력을 기대하기 어렵기 때문에 주의하는것이 좋습니다.\n \n
+		%c[ui_gray_2]속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 II / BR3 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>강철 방탄 플레이트</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>가장 흔하게 쓰이는 방탄 소재중 하나인 강철 방탄 플레이트는, 특수 열처리 및 설계되어 총탄에 피격 시 총알을 직접 파괴시킴으로써 사용자를 보호합니다. 그러나 이러한 특성때문에 방탄판은 매우 무겁고 두껍기 때문에 사용자의 이동에 큰 제약을 가져다 줄 수 있지만, 방어능력은 믿음직스럽습니다. 권총탄과 소총탄을 효과적으로 방어합니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] 강철 소재의 특성 상 감전에 매우 취약하며, 특히 이런 소재를 방탄판으로써 직접 사용 한다는것은 사용자가 감전될 시 더 큰 부상을 당할 수 있음을 뜻합니다. 전기 이상현상 지역 또는 유사 상황에서 작전을 수행할 때는 각별한 주의가 필요합니다.\n\n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 III+ / BR4 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_name">
+		<text>세라믹 방탄 플레이트</text>
+	</string>
+	<string id="st_af_ceramic_descr">
+		<text>SAPI로도 알려진 세라믹 방탄 플레이트는 강력한 방어능력 덕에 전 세계 군사조직에서 선호되는 방탄 플레이트 중 하나입니다. 피격 시 세라믹이 깨지며 운동량을 효과적으로 분산시켜 착용자를 보호하는 방식으로 작동하며 권총탄 뿐만 아니라 대구경탄에도 유의미한 방어능력을 가지고 있습니다. 하지만 이러한 특성때문에 지속성과 내구성은 매우 나쁘며 전투가 지속될수록 방어능력이 급격하게 하락합니다. 또한 세라믹 방탄 플레이트는 상당히 두껍기때문에 움직임에 다소 제약을 줍니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 IV / BR5 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_polymer_name">
+		<text>초고분자량 폴리에틸렌(UHMWPE) 방탄 플레이트</text>
+	</string>
+	<string id="st_af_polymer_descr">
+		<text>폴리에틸렌(PE)는 간단하고 다양한 특성과 비반응성 화학 구조로 인해 산업 및 상업용으로 사용되는 소재 입니다. 초고분자량 폴리에틸렌은 방탄 소재로써 사용될 때 아주 가벼운 무게와 강력한 보호 성능을 특징을 가지며, 총알이 소재에 닿으면 총알의 열을 사용해 스스로 빠르게 표면을 녹인 후 총알을 소재 안에 가둡니다. 이러한 작동구조는 지속 전투에서 안정적인 보호능력과 내구성을 보장합니다. 하지만, 대구경탄 및 소총 철갑탄에 대한 방어능력은 떨어지며, 매우 비싼 가격은 단점입니다. \n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] 방탄복이 작동하는 매커니즘 특성 상 사용자는 열 관리에 각별한 주의가 필요합니다. 만약, 뜨거운 열 근처에서 오래 있거나 고온 이상현상등에 노출되면 방탄복의 내구성은 빠르게 감소하며 방어능력에 영구적인 손상을 입을 수 있습니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 III / BR4 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	
+	<string id="st_af_new_kevlar_up_name">
+		<text>케블라-아라미드 방탄 플레이트</text>
+	</string>
+	<string id="st_af_new_kevlar_up_descr">
+		<text>케블라-아라미드 방탄 플레이트 기존의 케블라 플레이트에서 무게 대비 방어능력이라는 장점을 유지하면서 내구성은 향상시킨 제품입니다. 여전히 권총탄은 아주 효과적으로 방어할 수 있으나, 소총탄 이상의 공격에 대해서는 방어 능력을 기대하기 어렵기 때문에 주의하는것이 좋습니다.\n \n\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 II / BR3 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	<string id="st_af_plates_up_name">
+		<text>탄소강 방탄 플레이트</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>탄소강 방탄 플레이트는 기존 강철 방탄 플레이트에서 방어능력을 강화 한 제품으로 기존 제품 대비 더 뛰어난 방어능력을 제공합니다. 덕분에 대구경탄 및 소구경 소총 철갑탄에 대한 방어능력을 얻었으며, 클래스 IV 수준의 방어를 기대 할 수 있는 제품 중 가장 싼 가격으로 민간시장 및 돈 없는 초짜 스토커들에게 인기가 많습니다. 비록 무거운 무게때문에 군에서는 자주 사용되는 제품은 아니지만 그래도 총알에 관통되는 것 보단 무거운게 낫습니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] 강철 소재의 특성 상 감전에 매우 취약하며, 특히 이런 소재를 방탄판으로써 직접 사용 한다는것은 사용자가 감전될 시 더 큰 부상을 당할 수 있음을 뜻합니다. 전기 이상현상 지역 또는 유사 상황에서 작전을 수행할 때는 각별한 주의가 필요합니다.\n\n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 IV / BR5 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_ceramic_up_name">
+		<text>강화강 세라믹 플레이트</text>
+	</string>
+	<string id="st_af_ceramic_up_descr">
+		<text>차세대 세라믹 플레이트로써 기존 세라믹 플레이트에 강철소재를 합성하여 지속 전투 시 내구성을 끌어올린 제품입니다. 미군과 러시아군 모두 독자 개발했던 전적이 있으며, 저격 철갑탄 및 기관총 등 고화력 수준의 위협에서 생존을 보장하기 위해 설계되었습니다. 이러한 위협에서 사용자를 효과적으로 보호하긴 하나, 정작 이런 위협을 가하는 적은 지구상에 많이 존재하지 않았고 결국 널리 사용되진 못했습니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 IV / BR6 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		%c[d_cyan] - %c[ui_gray_2] 장착 시 이동속도 감소\n
+		</text>
+	</string>
+	<string id="st_af_polymer_up_name">
+		<text>UHMWPE/세라믹 방탄 플레이트</text>
+	</string>
+	<string id="st_af_polymer_up_descr">
+		<text>초고분자량 폴리에티넬(UHMWPE)층 아래에 세라믹층이 존재하는 복합소재 방탄 플레이트 입니다. 기존 UHMWPE 방탄판을 더 두껍게 구성하여 내구성을 향상시키거나, 기존 세라믹 방탄판을 더 두껍게 구성하여 대구경 탄에 대한 방어능력을 향상시키려는 시도는 있었지만 모두 소재 특성상 개선될 수 없는 단점이 있어 좌절되었고, 그에 대한 절충안으로 개발 된 복한소재 방탄 플레이트 입니다. 세라믹과 UHMWPE 소재의 장점만 합쳐두어 뛰어난 방탄 성능과 내구성을 모두 가지고 있습니다. 하지만 여전히 높은 가격은 단점입니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default] PE 소재의 특성 상 사용자는 열 관리에 각별한 주의가 필요합니다. 만약, 뜨거운 열 근처에서 오래 있거나 고온 이상현상등에 노출되면 방탄복의 내구성은 빠르게 감소하며 방어능력에 영구적인 손상을 입을 수 있습니다.\n \n
+		%c[ui_gray_2]아이템 속성:\n
+		%c[d_cyan] - %c[ui_gray_2] 군용품\n
+		%c[d_cyan] - %c[ui_gray_2] 클래스 IV / BR5 인증\n
+		%c[d_cyan] - %c[ui_gray_2] 한번에 하나의 플레이트만 삽입 가능\n
+		</text>
+	</string>
+	
+<!-- Weapon Parts Overhaul (WPO) -->
+
+	<!-- Jammin -->
+	<string id="kb_unjam">
+		<text>기능고장 처치</text>
+	</string>
+	<string id="ui_st_misfire">
+		<text>총기 불발!</text>
+	</string>
+	<string id="ui_st_jam">
+		<text>총기 기능고장 발생!</text>
+	</string>
+	<string id="ui_st_superjam">
+		<text>심각한 기능고장 발생!</text>
+	</string>
+	<string id="ui_st_nothing">
+		<text>처치 할 기능고장이 존재하지 않습니다.</text>
+	</string>
+	<string id="ui_st_unjam">
+		<text>기능고장 처치 완료</text>
+	</string>
+	<string id="ui_st_functional">
+		<text>문제 없음</text>
+	</string>
+	<string id="ui_st_oldjam">
+		<text>당신은 어노말리 탄창을 사용중입니다. 기능고장 처치 대신 재장전 하십시오.</text>
+	</string>
+	<string id="ui_st_unjam_fail">
+		<text>처치 실패. 무언가 단단히 고장난듯 하다.</text>
+	</string>
+	<string id="ui_st_parts_damage">
+		<text>무기 내부 부품이 손상되었습니다.</text>
+	</string>
+	<string id="st_news_parts_alreadygood">
+		<text>무기 부품을 교체 할 필요가 없습니다.</text>
+	</string>
+	<string id="ui_st_heat1">
+		<text>, 아직 따뜻함.</text>
+	</string>
+	<string id="ui_st_heat2">
+		<text>, 뜨거움!</text>
+	</string>
+	<string id="ui_st_heat3">
+		<text>, 아주 뜨거움!</text>
+	</string>
+	
+	<string id="st_unjam">
+		<text>기능고장 처치</text>
+	</string>
+	<!-- Messages -->
+	<string id="st_news_parts_success">
+		<text>교체된 부품: </text>
+	</string>
+	<string id="st_news_parts_repair_success">
+		<text>수리된 부품: </text>
+	</string>
+	<string id="st_news_parts_fail">
+		<text>%c[d_red]현재 무기에 장착되어있는 부품의 상태가 더 좋습니다.</text>
+	</string>
+	<string id="st_news_parts_incompatible">
+		<text>%c[d_red]이 부품은 현재 무기와 호환되지 않습니다.</text>
+	</string>
+	<string id="st_news_parts_barrel">
+		<text>%c[d_red]총열은 야전에서 교체가 불가능합니다.</text>
+	</string>
+	<string id="st_news_parts_trigger">
+		<text>%c[d_red]방아쇠는 야전에서 교체가 불가능합니다.</text>
+	</string>
+	<string id="st_news_parts_rusty">
+		<text>%c[d_red]야전에서 수리하기에는 무기가 너무 손상되었습니다.</text>
+	</string>
+	<string id="st_news_dis_items">
+		<text>%c[d_red]올바른 해체 도구가 필요합니다.</text>
+	</string>
+	<string id="st_news_fieldstrip">
+		<text>제거된 부품:</text>
+	</string>
+	<string id="st_news_cleaned">
+		<text>청소된 부품:</text>
+	</string>
+
+	<!-- MCM -->
+	<string id="ui_mcm_menu_wpo">
+		<text>무기 부품 오버홀(WPO)</text>
+	</string>
+	<string id="ui_mcm_wpo_title">
+		<text>무기 부품 오버홀 설정</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam">
+		<text>기능고장 옵션</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon">
+		<text>자원/경제 옵션</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc">
+		<text>기타 옵션</text>
+	</string>
+	<string id="ui_mcm_menu_wpojam">
+		<text>기능고장 옵션</text>
+	</string>
+	<string id="ui_mcm_menu_wpoecon">
+		<text>자원/경제 옵션</text>
+	</string>
+	<string id="ui_mcm_menu_wpomisc">
+		<text>기타 옵션</text>
+	</string>
+
+	<string id="ui_mcm_wpo_wpojam_keybind">
+		<text>기능고장 처치 키</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_jamchance">
+		<text>기능고장 확률 배수</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_jamchance_desc">
+		<text>총기 기능고장이 발생할 배수를 설정합니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_superjam">
+		<text>심각한 기능고장 활성화 (Super jams)</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_superjam_desc">
+		<text>심각한 기능고장 기능을 활성화/비활성화 합니다. 심각한 기능고장 발생 시 장전 된 모든 탄약을 완전히 비워야 합니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_simplejam">
+		<text>심각한 기능고장 발생 시 탄창제거</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_simplejam_desc">
+		<text>활성화 할 경우, 심각한 기능고장 발생 시 장전 버튼을 누름으로써 탄창을 제거하여 인벤토리에서 뒤적거릴 필요가 없습니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_heat">
+		<text>총기 과열 활성화</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_heat_desc">
+		<text>총알을 발사할 때 마다 총기는 점점 뜨거워지며, 이는 내구도, 기능고장 및 부품 손상에 영향을 줍니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_oldammo">
+		<text>낡은 탄약 사용 시 부품 추가 손상</text>
+	</string>
+	<string id="ui_mcm_wpo_wpojam_oldammo_desc">
+		<text>낡은 탄약은 총열의 손상을 증가시키고 기능고장 확률을 증가시킵니다.</text>
+	</string>
+
+	<string id="ui_mcm_wpo_wpoecon_degradation">
+		<text>비오는 날씨에서의 총기 손상</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_degradation_desc">
+		<text>비오는 날씨에서 추가적인 총기 손상의 비율을 변경합니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_threshold">
+		<text>부품 손상 상태 임계값</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_threshold_desc">
+		<text>내부 부품에 손상을 줄 수 있는 총기의 내구도를 설정합니다. 낮을수록 전체적인 부품 손상은 감소합니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_repairkit">
+		<text>수리 키트의 부품 교체 여부</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+		<text>활성화 시 수리키트는 부품을 완전히 '교체'하고 내구도를 100%로 복원합니다. 비활성화시 수리키트는 부품을 '수리' 하며 25%의 내구도를 회복합니다. 난이도에 직접적인 영향을 미칩니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_fullservice">
+		<text>기술자 서비스</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+		<text>기술자가 제공하는 서비스 수준을 설정합니다. 	
+			\n\n Clean Weapon Only: 총기 부품을 제외한 총기 기본 내구도만 수리합니다.
+			\n\n Clean Parts: 조건에 맞는 경우 총기 부품도 수리할 수 있습니다.
+			\n\n Full service: 모든 서비스를 제공하며 스토커는 기술자에게 완전한 무기 수리를 의뢰할 수 있습니다.
+		</text>
+	</string>
+	
+	<string id="st_wpn_clean_cycle">
+		<text>서비스 변경</text>
+	</string>
+	<string id="st_wpn_clean_0">
+		<text>외부 청소</text>
+	</string>
+	<string id="st_wpn_clean_1">
+		<text>내부 청소</text>
+	</string>
+	<string id="st_wpn_clean_2">
+		<text>부품 교체</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altroll">
+		<text>총기 내구도 보정</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altroll_desc">
+		<text>라그랑주 보간법을 이용해 총기의 내구도를 결정합니다. 전반적으로 루팅되는 총기의 내구도가 감소합니다. 약탈과 수집을 좋아하는 유저에게 알맞으며, 아래 옵션과도 잘 어울립니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altpartroll">
+		<text>부품 내구도 보정</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+		<text>새로운 공식을 이용해 총기 부품의 내구도를 결정합니다. 낮은 티어에서는 드랍 품질이 좋아지며, 높은 티어에서는 반대로 품질이 나빠집니다.</text>
+	</string>
+	
+	<string id="ui_mcm_wpo_wpoecon_saletype">
+		<text>총기 판매 방법</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_saletype_desc">
+		<text>Determine how weapon selling works. \n \n
+			- 기본값: 바닐라 스토커와 동일하며 부품에 관계없이 총기의 내구도만을 계산합니다. (권장하지 않음)\n
+			- 완화됨: 무기 판매값은 부품의 손상 여부에 따라 변화합니다. 60%를 기준으로 낮으면 손상된 부품, 높으면 정상적인 부품이 됩니다. (권장)\n
+			- 제한됨: 손상된 부품이 있을경우 무기를 판매할 수 없습니다. (>60%) \n
+			참고 - 위 선택과는 관계없이 총기 부품 중 일부가 누락될 경우 판매할 수 없습니다.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lst_vanilla">
+		<text>기본값</text>
+	</string>
+	<string id="ui_mcm_lst_easy">
+		<text>완화됨</text>
+	</string>
+	<string id="ui_mcm_lst_hard">
+		<text>제한됨</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_easybarrel">
+		<text>작업대 없이 총열교체 가능</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_easytrigger">
+		<text>작업대 없이 방아쇠 교체 가능</text>
+	</string>
+	
+
+	<string id="ui_mcm_wpo_wpomisc_profanity">
+		<text>기능 고장 시 추가 대사</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_desc">
+		<text>기능 고장 시 추가 대사를 활성화합니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+		<text>추가 대사 딜레이</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+		<text>추가 대사 사이에 딜레이를 주어 스팸을 방지합니다.</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_profanity_language">
+		<text>추가 대사 언어</text>
+	</string>
+	<string id="ui_mcm_lst_eng">
+		<text>영어</text>
+	</string>
+	<string id="ui_mcm_lst_rus">
+		<text>러시아어</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_verbosity">
+		<text>기능고장 시스템 메세지</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+		<text>탄 걸림과 같은 기능고장에 관한 정보를 사용자에게 표시할 지 여부</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_fun">
+		<text>재미 레벨</text>
+	</string>
+	<string id="ui_mcm_lst_no">
+		<text>듀티</text>
+	</string>
+	<string id="ui_mcm_lst_yes">
+		<text>로너</text>
+	</string>
+	<string id="ui_mcm_lst_ofc">
+		<text>프리덤</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_debug">
+		<text>디버그 로그 활성화</text>
+	</string>
+	<string id="ui_mcm_wpo_wpomisc_debug_desc">
+		<text>Debug logging, enables a whole bunch of additional information in console log.</text>
+	</string>
+
+	<string id="st_field_strip">
+		<text>야전 분해</text>
+	</string>
+	<string id="st_field_strip_fail">
+		<text>이 총기에는 더이상 제거 할 부품이 없습니다.</text>
+	</string>
+	<string id="ui_st_missing">
+		<text>이 총기에는 완전히 망가진 부품이 있거나, 필수 부품이 장착되어 있지 않습니다.</text>
+	</string>
+
+	
+	<string id="article_wpo">
+		<text>무기 관리</text>
+	</string>
+	<string id="article_wpo_text">
+		<text>
+			%c[pda_green]퀵 FAQS%c[ui_gray_1]\n \n
+			\n\nQ. 왜 내 총이 100%에서 걸리나요?
+			\nA. 부품이 손상되었습니다. 상태를 확인하십시오.
+			\n\nQ. 탄 걸림을 빼려면 어떻게 해야 하나요?
+			\nA. 사용키를 두 번 탭합니다. 또는 인벤토리에서 무기를 마우스 오른쪽 버튼으로 클릭하여 직접 걸림을 뺍니다.
+			\n\nQ. 부품을 교체할 때 상태가 저하되는 이유는 무엇입니까?
+			\nA. 무기를 다시 윤활해야 합니다. 60% 미만에서는 발생하지 않습니다. Leatherman을 사용하여 양을 줄이거 나 작업대를 사용하여 깨끗이 교체 가능합니다.
+			\n\nQ. 기술자가 부품을 수리하지 않는 이유는 무엇입니까?
+			\nA. 부품을 청소해야 합니다. 기술자에게 부품을 구입하거나 무기 수리 키트를 사용할 수 있습니다. 이것이 WPO의 핵심 수명입니다. \n \n
+			무기 부품 정밀 검사는 게임에서 무기 유지 관리가 작동하는 방식을 크게 변경합니다. 모든 것을 이해하려면 이 안내서를 주의 깊게 읽으십시오.\n \n
+			
+			%c[pda_green]I. 부품 및 유지보수%c[ui_gray_1]\n
+			\n*무기 전체 상태(보통 사용하던 상태 표시줄)가 이제 유지 관리가 더 쉬워졌습니다. 정비사가 60% 저렴한 비용으로 이를 복원합니다. 모든 무기 수리 아이템은 훨씬 더 강력합니다.
+			\n*무기 부품은 유지 보수가 필요합니다. 마우스를 올리면 무기 부품의 상태를 한 눈에 볼 수 있습니다.
+			\n   *텍스트의 색상은 상태를 나타냅니다.
+			\n%c[d_red]    빠져있음
+			\n%c[d_orange]    망가짐 - 청소할 수 없음
+			\n%c[pda_yellow]   더러워짐 - 청소 할 수 있음%c[ui_gray_1]
+			\n*무기 부품은 무기를 필드 스트리핑하여 제거할 수 있습니다. 이렇게 하면 배럴이 아닌 모든 구성 요소가 제거됩니다.
+			\n*무기 부품은 드래그 앤 드롭으로 임시 교체할 수도 있습니다. %c[d_red]이것은 60%를 초과하는 경우 무기 상태를 고갈시킵니다. 이 영향을 줄이려면 레더맨이 있어야 합니다.
+			\n*올바른 수리 키트가 있는 경우 무기 부품을 작업대에서 무료로 교체할 수도 있습니다. %c[pda_yellow]배럴을 교체하는 두 가지 방법 중 하나입니다.
+			\n \n
+			%c[pda_green]II. 걸림 및 부품 손상%c[ui_gray_1]\n
+			\n*부품에는 5가지 수준의 손상이 있습니다: %c[d_red]망가짐%c[ui_gray_1], %c[d_red]손상됨%c[ui_gray_1], %c[d_orange]약간 손상됨%c[ui_gray_1], %c[0,250,250,0]더러워짐%c[ui_gray_1], %c[d_green]정상%c[ui_gray_1]
+			\n*파손된 부품이 많을수록 오작동이 발생할 확률이 높아집니다.
+			\n*오작동에는 오사, 탄 걸림, 심각한 탄 걸림의 세 가지 유형이 있습니다.
+			\n*오사와 탄 걸림은 탄 걸림을 해결하면 간단히 해결할 수 있습니다.
+			\n*걸림이 심하면 걸림을 제거하기 전에 탄창을 꺼내야 합니다.
+			\n*배럴은 탄 걸림 확률에 기여하지 않습니다. 그러나 더럽움 상태 아래에 있으면 무기 피해가 최대 50%까지 감소합니다.
+			\n* 청결도가 85%이하 (기본값, %c[pda_yellow]MCM: 부품 손상 조건 임계값d%c[ui_gray_1]) 미만의 무기를 발사하면 일정 확률로 무기 부품에 피해를 줍니다. 
+			\n*폭우 속에서 무기를 발사하면 무기 성능이 더 빨리 저하됩니다.
+			\n*무기를 너무 오래 발사하면 과열되어 더 많은 잼이 발생하고 더 빨리 성능이 저하됩니다.
+			%c[pda_green]III. 경제 변화%c[ui_gray_1]\n
+			\n*청소 키트가 있으면 "더러운" 무기 부품을 청소할 수 있습니다(상태 60% 이상). 이것은 또한 10% 상태를 회복합니다.
+			\n*수리 키트가 있으면 오른쪽 클릭 메뉴를 통해 부품을 교체할 수 있습니다. 이것은 사용 횟수를 소모하고 10% 상태를 복원합니다.%c[pda_yellow]이것은 배럴 교체의 차선책입니다.%c[ui_gray_1]
+			\n*기술자들은 무작위로 무기 부품을 심각한 가격 인상으로 판매합니다.
+			\n*60% 이상의 무기 부품은 파일, 장전대 또는 멀티툴로 수리할 수 있습니다.
+			\n*10% 이상의 무기 부품은 상인에서 구할 수 있는 매우 비싼 도구 키트로 수리할 수 있습니다.
+			\n \n 다른 모든 문제의 경우 디스코드에서 arti#3278을 ping하세요. Moddb 댓글을 읽기에는 너무 게으릅니다.
+		</text>
+	</string>
+	
+	<string id="st_partskit">
+		<text>부품 수리 키트</text>
+	</string>
+	<string id="st_partskit_descr">
+		<text>이 키트는 고급 정밀 공구 세트로, 마이크로 파일, 금속 에폭시, 전해질 욕조, 그리고 각종 윤활제, 휘발유 증류물 및 기타 용제를 포함합니다. 이 도구들을 올바르게 사용한다면 부품을 효과적으로 수리할 수 있습니다. 이 키트로는 심하게 망가진 고철이 아닌 한 대부분의 부품을 복원할 수 있습니다. 그러나, 이 키트를 완벽히 구성하는 것은 매우 어려운 일이기 때문에, 전문 기술자들에 의해 소량만 판매되고 있습니다.</text>
+	</string>
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<string id="st_clean_half">
+		<text>아래 단계 이후로는 수리 효과가 절반이 됩니다: </text>
+	</string>
+	<string id="st_damage_missing">
+		<text>누락된 </text>
+	</string>
+	<string id="st_damage_0">
+		<text>망가진 </text>
+	</string>
+	<string id="st_damage_1">
+		<text>매우 손상된 </text>
+	</string>
+	<string id="st_damage_2">
+		<text>조금 손상된 </text>
+	</string>
+	<string id="st_damage_3">
+		<text>더러운 </text>
+	</string>
+	<string id="st_damage_4">
+		<text>작동하는 </text>
+	</string>
+	<string id="st_damage_5">
+		<text>작동하는 </text>
+	</string>
+
+	<string id="st_wpo_replace_parts">
+		<text>부품 유지보수</text>
+	</string>
+	
+	<string id="st_wpo_repair">
+		<text>repair 25% condition to </text>
+	</string>
+	<string id="st_wpo_replace">
+		<text>교체 </text>
+	</string>
+	<string id="st_wpo_clean">
+		<text>청소 </text>
+	</string>
+	<string id="st_wpo_remove">
+		<text>제거 </text>
+	</string>
+
+	<string id="st_name_trigger">
+		<text>방아쇠 매커니즘</text>
+	</string>
+	<string id="st_name_spring">
+		<text>반동 스프링</text>
+	</string>
+	<string id="st_name_barrel">
+		<text>총열</text>
+	</string>
+	<string id="st_name_bolt_carrier">
+		<text>노리쇠 뭉치</text>
+	</string>
+	<string id="st_name_bolt">
+		<text>노리쇠</text>
+	</string>
+	<string id="st_name_gas_tube">
+		<text>가스 조절기</text>
+	</string>
+	<string id="st_name_extractor">
+		<text>추출기</text>
+	</string>
+	<string id="st_name_ejector">
+		<text>배출기</text>
+	</string>
+	<string id="st_name_pump">
+		<text>펌프</text>
+	</string>
+	<string id="st_name_hammers">
+		<text>공이치기</text>
+	</string>
+	<string id="st_name_chock">
+		<text>초크</text>
+	</string>
+	<string id="st_name_all">
+		<text>모두</text>
+	</string>
+	<string id="st_name_issues">
+		<text>상태 :</text>
+	</string>
+
+<!-- Lost To The Zone - Director's Cut DLTX (LTTZ) -->
+
+
+	<string id="war_chernobog_challenge_0">
+		<text>여전히 결단력이 넘치는군. 하지만 완전히 잘못된 길만 가고있어.</text>
+	</string>
+	<string id="war_chernobog_challenge_1">
+		<text>잠깐, 목소리? 뭐야? 무슨일이 일어나는거지?</text>
+	</string>
+	<string id="war_chernobog_challenge_2">
+		<text>넌 볼 수 있지만 보려하지 않고, 넌 들을 수 있지만 들으려 하지 않지. 나는 마스터로부터 너같은 놈이 평생 이해하지 못 할 힘을 부여받았어. 넌 날 막을 수 없어. 우리는 성공할것이다.</text>
+	</string>
+	<string id="war_chernobog_challenge_3">
+		<text>좆까! 어떻게든 방법을 찾아서 널 죽여버리겠어!</text>
+	</string>
+	
+	<string id="war_chernobog_final_0">
+		<text>이곳은 신성한 장소다. 넌 들어와서는 안돼.</text>
+	</string>
+	<string id="war_chernobog_final_1">
+		<text>그딴 말로 날 막아보겠다고? 웃기고있네. 내 총알이나 막아보시지.</text>
+	</string>
+	<string id="war_chernobog_final_100">
+		<text>그런걸로 날 막을 순 없어. 어떤 댓가를 지불하더라도 존은 봉쇄되어야해!</text>
+	</string>
+	<string id="war_chernobog_final_110">
+		<text>그딴걸로 날 막을 순 없지. 존을 확장시키도록 내버려두지 않을꺼야.</text>
+	</string>
+	<string id="war_chernobog_final_120">
+		<text>안된다고? 웬 미친 새끼도 지 마음대로 존을 이용하는데 내가 안될게 뭐가있어?</text>
+	</string>
+	<string id="war_chernobog_final_2">
+		<text>그만. 이곳에서 더 이상의 폭력을 허용하지 않겠다. 아무래도.. 갈등 해소를 위해 장소를 옮기는게 좋겠군.</text>
+	</string>
+	<string id="war_chernobog_final_3">
+		<text>뭐, 뭔.. 이번엔 또 뭐야?!</text>
+	</string>
+	<string id="war_chernobog_final_4">
+		<text>폭력을 원한다면, 좋다. 이 석관이 너의 무덤이 될 것이다.</text>
+	</string>
+	<string id="war_chernobog_final_5">
+		<text>정말 알 수가 없군..</text>
+	</string>
+
+	<string id="lttz_ms_endgame_title">
+		<text>대죄: 엔드게임</text>
+	</string>
+	<string id="lttz_ms_endgame_descr">
+		<text>모노리스 전쟁 연구소에 들어가서 체르노보그를 쫒으십시오.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr2">
+		<text>체르노브그를 쫒아 그가 에미션을 이용하려는것을 막으십시오.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr3">
+		<text>문을 잡고있는 체르노브그의 염동력을 약화시키기 위해 그가 방출하는 심령 투영체를 제거해야합니다.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr4">
+		<text>공동 의식의 방에 입장하십시오.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr5">
+		<text>체르노브그와 그의 경호부대를 사살하십시오.</text>
+    </string>
+
+</string_table>

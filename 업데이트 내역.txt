@@ -22,7 +22,6 @@
       * PDA 한글화 파일 통합
       * 로딩 스크린의 팁 파일 분리: 팁이 깨지는 문제를 해결함
   - Outfit Parts Overhaul (OPO) 한글화
-      * 9.EFP FIX폴더의 zzz_OPOKor.xml 
   - 폴더명을 직관적으로 변경함
 
 fix1
@@ -33,7 +32,6 @@ fix2
 ----------------------------------------------------------------------------------------------------------------------------
 241003
   - Magazine Redux 및 Anomaly Magazines 모드 일부 한글화
-      * 9.EFP FIX폴더의 zzz_mag_magredux_kor.xml
       * 바닐라 일부 저격소총 및 탄창형 샷건 << 이름만 번역됨
       * Bas, PPP, EFPWP 및 드럼탄창 << 이름만 번역됨
   - Magazine Redux-Ammo Check 모드 한글화
@@ -44,11 +42,8 @@ fix2
 0.1.0
   - 업데이트 자주 될꺼같아서 버전명 관리하기 쉽게 바꿈
   - Magazine Redux 및 Anomaly Magazines 모드 한글화 완료
-      * 9.EFP FIX폴더의 zzz_mag_magredux_kor.xml
   - Sorting Plus 모드 한글화
-      * 9.EFP FIX 폴더의 z_ui_st_sortingplus_kor.xml
-  - EFPWP (EFP 무기)에 포함된 모든 무기 한글화
-      * 9.EFP FIX 폴더의 z_st_zmaid_ports.xml
+  - EFPWP (EFP 무기)에 포함된 모든 무기 한글화 (EFPWP)
 
 * 이후 모드가 추가될 때 마다 가운데 숫자가 올라갈 예정 / 모드추가 없이 번역이 수정될 때 마다 끝에 숫자가 올라갈 예정
 * 현 시점상 존재하는 모든 모드가 번역이 완료되면 베타딱지 때고 1.0.0 버전으로 올릴꺼임
@@ -57,10 +52,8 @@ fix2
 	- 왜 빠졌는지 모를 라인 다시 집어넣고 우선순위 다시맞춤 (OPO 모드 관련)
 ----------------------------------------------------------------------------------------------------------------------------
 0.2.0
-  - 하이드아웃 가구모드 한글화
-      - z_hideoutfuniture_kor.xml
-  - 휘장에 사망 정보 표시모드 한글화
-      - zzz_misc.xml
+  - 하이드아웃 가구모드 한글화 (Hideout Funiture)
+  - 휘장에 사망 정보 표시모드 한글화 (Tagged Patches 1.1.3)
   - 자잘한 모드 한글화 추가
     / MCM
     / Quick Melee
@@ -93,7 +86,7 @@ fix2
     / Fire Mode Check
     / Item Highlight
     / FDDA
-    / RF Quest (WIP)
+    / RF Quest
     / Food Toxic (WIP)
 ----------------------------------------------------------------------------------------------------------------------------
 0.2.2
@@ -105,56 +98,49 @@ fix2
 ----------------------------------------------------------------------------------------------------------------------------
 0.2.3
   - Rotten meat 번역 수정
+  - Weapon Cover Tilt 번역 수정
+  - RF Side Quest 번역 수정
+  - OAO모드의 일부 아이템이 영문으로 보이는 문제 임시해결(?)
+  - 충돌을 일으킬 수 있는 스크립트 파일 전부 삭제
+  - 폴더 및 파일 정리
 ----------------------------------------------------------------------------------------------------------------------------  
 
 [WIP]
-  번역된 한글들 가독성 수정 (볼드처리, 색처리, 점표시 등) - 일단 초벌 다 끝내고 할꺼같음
-  어노말리 게임 베이스 한글화
-
-[알려진 문제]
-  MCM 툴팁 메인화면에서만 보임 내가 고칠수있는 부분이 아님
-
-[제작/수정 완료된 한글화] (90% 이상 완료 / 이후 수정 없을예정)
-  <EFP 아티팩트>
-    - zx_ArtifactKor.xml
-  <EFP 의약품>
-    - zx_EFPMedicItemKor.xml
-  <Ballistic>
-    - zx_ballisticsKor.xml
-  <Lootboxes>
-    - zx_st_items_lootboxes.xml
-  <BnS>
-    - zx_BnSKor.xml
-  <Mag Redux>
-    - zzz_mag_magredux_kor
-  <OPO>
-    - zzz_OPO_Kor
-  <OAO>
-    - zzz_korFix.xml
-    - zzx_EFPDCCustomV1.xml
-  <Hideout Funiture>
-    - z_hideoutfuniture_kor.xml
-  <Sorting Plus>
-    - z_ui_st_sortingplus_kor.xml
-  <EFPWP> 
-    - z_st_zmaid_ports.xml
-  <Utjan's Improved UI + Utjan's QoL bundle>
-    - z_kor_improvedUI.xml
-  <Dynamic News 픽스>
-    - z_st_dynamic_news.xml
-  <PDA 픽스>
-    - zz_pda_pack.xml
-  <로딩스크린 픽스>
-    - z_ui_st_loadsreen.xml
-  <기타> 
-    - zzz_misc.xml 파일 참고(주석확인)
-
-[작업중인 한글화]
+  - 번역된 한글들 가독성 수정 (볼드처리, 색처리, 점표시 등) - 일단 초벌 다 끝내고 할꺼같음
   - 어노말리 게임 베이스 한글화
   - More Dynamic Tasks
   - NVG
   - key wrapper
   - Fire mode check
-  - RF Quest
   - Food Toxic
   - EFP 스킬
+
+[알려진 문제]
+  MCM 툴팁 메인화면에서만 보임 내가 고칠수있는 부분이 아님
+  파일 불러오기 우선순위 때문에 원래 한글로 출력되던 부분도 영어로 출력될 수 있음 << 리폿좀 해주셈
+
+[제작/수정 완료된 한글화] (90% 이상 완료 / 이후 수정 없을예정)
+----------------------------------------------------------
+  [TheMrDemonized] Better Upgrades DLTX            - st_items_upgrades_simple
+  [Maid - Haruka] EFPWP                            - z_kor_EFPWP
+  [Arti] Food Toxines 22.07.26                     - z_kor_foodToxic
+  [Aoldry] Hideout Furniture                       - z_kor_hideoutfuniture
+  [Utjan] Item UI Improvements                     - z_kor_improvedUI
+  [Raven] Mod Configuration Menu MCM 1.6.5         - z_kor_mcm
+  [TB] RF Reciever Sidequests 1.7                  - z_kor_RFSideQuest
+  [Haruka] Skill System + 그 외 스킬관련            - z_kor_skills
+  [Raven] Sorting Plus                             - z_kor_sortingplus
+  [Utjan] Tagged Patches 1.1.3                     - z_kor_taggedPatches
+  [indyora] Dialogue Expanded v4                   - z_st_dynamic_news
+  [Arti] Outfit Attachment Overhaul                - z_st_slot_control + zzx_kor_DCCustomV1 + zzz_kor_Fix
+  [Maid - Haruka] EFP Artefact System              - zx_kor_Artifact
+  [Arti] Ballistics                                - zx_kor_Ballistic
+  [Mich] Boomsticks and Sharpsticks (BaS)          - zx_kor_BaS
+  [manzmnl] EFT Medic Item Overhaul [EFP Modified] - zx_kor_EFPMedic
+  [Arti] Lootboxes                                 - zx_kor_lootboxes
+  [Arti and Raven] Mags + 그 외 탄창관련            - zzz_kor_mag_magredux
+  [Arti] Outfit Parts Overhaul (OPO)               - zzz_kor_OPO
+
+  <기타>
+    zzz_kor_misc 및 zzz_kor_Fix 파일 내 주석 참고
+ 

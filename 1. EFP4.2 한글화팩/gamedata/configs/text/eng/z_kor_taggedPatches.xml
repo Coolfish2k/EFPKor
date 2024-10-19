@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+<!-- Tagged Patches 1.1.3  -->
+    <string id="ui_mcm_tagged_patches_title">
+        <text>휘장 추가 정보</text>
+    </string>
+     <string id="ui_mcm_menu_tagged_patches">
+        <text>휘장 추가 정보</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_detailed_wounds">
+        <text>자세한 부상 표시</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_detailed_wounds_desc">
+        <text>Show a list of wounds in addition to the final wound text</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_final_wound">
+        <text>마지막 피격부위 표시</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_name_and_weapon">
+        <text>사살한 사람 이름과 무기 표시</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_immersive_cause">
+        <text>몰입형 사망 원인 표시</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_show_range">
+        <text>사망 시 사살한 사람과의 거리 표시</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_show_range_desc">
+        <text>Only shows if "Name and Weapon" is enabled</text>
+    </string>
+	<string id="ui_mcm_tagged_patches_show_location">
+        <text>사망 지역 표시</text>
+    </string>
+    <string id="ui_mcm_tagged_patches_show_rank">
+        <text>사망자의 계급 표시</text>
+    </string>
+	<string id="tagged_patches_belonged">
+		<text>%c[0,255,255,255]이름: %c[ui_gray_2]</text>
+	</string>
+
+	<string id="tagged_patches_of_rank">
+		<text>&#09;%c[0,255,255,255]랭크: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_killedby">
+		<text>%c[0,255,255,255]사살한 사람:  %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_cause_pre">
+		<text>%c[0,255,255,255]사망원인: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_witha">
+		<text>&#09;%c[0,255,255,255]사용된 무기: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_range_of">
+		<text>&#09;%c[0,255,255,255]거리: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_actorpatch">
+		<text>%c[0,255,255,255]This patch belongs to %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_location">
+		<text>%c[0,255,255,255]사망한 장소: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_wounds">
+		<text>%c[0,255,255,255]부상 부위: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_finalwound">
+		<text>%c[0,255,255,255]치명타 부위: %c[ui_gray_2]</text>
+	</string>
+	
+	<string id="tagged_patches_mutantkill">
+		<text>뮤턴트에 의한 부상</text>
+	</string>
+	
+	<string id="tagged_patches_unknown">
+		<text>알수없는 사유로 사망함</text>
+	</string>
+	
+	<string id="tagged_patches_cause_melee">
+		<text>근접무기</text>
+	</string>
+	
+	<string id="tagged_patches_cause_explosion">
+		<text>폭발물</text>
+	</string>
+	
+	<string id="tagged_patches_cause_grenade">
+		<text>수류탄</text>
+	</string>
+	
+	<string id="tagged_patches_cause_weapon">
+		<text>총기</text>
+	</string>
+	
+	<string id="tagged_patches_cause_pistolsmg">
+		<text>권총탄 및 소구경탄</text>
+	</string>
+	
+	<string id="tagged_patches_cause_shotgun">
+		<text>산탄총(벅샷)</text>
+	</string>
+	
+	<string id="tagged_patches_cause_shotgun_slug">
+		<text>산탄총(슬러그탄)</text>
+	</string>
+	
+	<string id="tagged_patches_cause_rifle">
+		<text>소구경 소총탄</text>
+	</string>
+	
+	<string id="tagged_patches_cause_sniper">
+		<text>대구경 소총탄</text>
+	</string>
+	
+	<string id="tagged_patches_actor_strike">
+		<text>근접공격</text>
+	</string>
+	
+	<string id="tagged_patches_mountedgun">
+		<text>거치형 기관총</text>
+	</string>
+	
+	<string id="tagged_patches_helicopter">
+		<text>헬리콥터</text>
+	</string>
+	
+	<string id="tagged_patches_blind_dog">
+		<text>에게 먹힘</text>
+	</string>
+	<string id="tagged_patches_blind_dog_pre">
+		<text>눈먼 개</text>
+	</string>
+	
+	<string id="tagged_patches_bloodsucker">
+		<text>에게 흡혈당함</text>
+	</string>
+	<string id="tagged_patches_bloodsucker_pre">
+		<text>블러드서커</text>
+	</string>
+	
+	<string id="tagged_patches_boar">
+		<text>에 의해 죽음</text>
+	</string>
+	<string id="tagged_patches_boar_pre">
+		<text>멧돼지 </text>
+	</string>
+	
+	<string id="tagged_patches_burer">
+		<text>에 의해 죽음</text>
+	</string>
+	<string id="tagged_patches_burer_pre">
+		<text>버러</text>
+	</string>
+	
+	<string id="tagged_patches_cat">
+		<text>에게 긁혀서 사망함</text>
+	</string>
+	<string id="tagged_patches_cat_pre">
+		<text>고양이</text>
+	</string>
+	
+	<string id="tagged_patches_chimera">
+		<text>에게 갈기갈기 찢김</text>
+	</string>
+	<string id="tagged_patches_chimera_pre">
+		<text>키메라</text>
+	</string>
+	
+	<string id="tagged_patches_controller">
+		<text>가 뇌를 태워버림</text>
+	</string>
+	<string id="tagged_patches_controller_pre">
+		<text>컨트롤러</text>
+	</string>
+	
+	<string id="tagged_patches_flesh">
+		<text>죽음을 경험함</text>
+	</string>
+	<string id="tagged_patches_flesh_pre">
+		<text>플레시로부터</text>
+	</string>
+	
+	<string id="tagged_patches_fracture">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_fracture_pre">
+		<text>프렉쳐</text>
+	</string>
+	
+	<string id="tagged_patches_karlik">
+		<text>이 두들겨 팸</text>
+	</string>
+	<string id="tagged_patches_karlik_pre">
+		<text>칼릭</text>
+	</string>
+	
+	<string id="tagged_patches_poltergeist">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_poltergeist_pre">
+		<text>폴터가이스트</text>
+	</string>
+	
+	<string id="tagged_patches_pseudodog">
+		<text>에게 먹힘</text>
+	</string>
+	<string id="tagged_patches_pseudodog_pre">
+		<text>사칭 개</text>
+	</string>
+	
+	<string id="tagged_patches_pseudogeist">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_pseudogeist_pre">
+		<text>시우도가이스트</text>
+	</string>
+	
+	<string id="tagged_patches_pseudogiant">
+		<text>에 의해 압사당함</text>
+	</string>
+	<string id="tagged_patches_pseudogiant_pre">
+		<text>사칭거인</text>
+	</string>
+	
+	<string id="tagged_patches_psydog">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_psydog_pre">
+		<text>싸이-독</text>
+	</string>
+	
+	<string id="tagged_patches_pyrogeist">
+		<text>에 의해 화형당함</text>
+	</string>
+	<string id="tagged_patches_pyrogeist_pre">
+		<text>파이로가이스트</text>
+	</string>
+	
+	<string id="tagged_patches_snork">
+		<text>의 드랍킥을 맞고 사망함</text>
+	</string>
+	<string id="tagged_patches_snork_pre">
+		<text>스노크</text>
+	</string>
+	
+	<string id="tagged_patches_tushkano">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_tushkano_pre">
+		<text>투쉬카노</text>
+	</string>
+	
+	<string id="tagged_patches_zombie">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_zombie_pre">
+		<text>좀비</text>
+	</string>
+	
+	<string id="tagged_patches_psysucker">
+		<text>가 정신을 흡수함</text>
+	</string>
+	<string id="tagged_patches_psysucker_pre">
+		<text>싸이서커</text>
+	</string>
+	
+	<string id="tagged_patches_lurker">
+		<text>에 의해 사망함</text>
+	</string>
+	<string id="tagged_patches_lurker_pre">
+		<text>러커</text>
+	</string>
+	
+	<string id="tagged_patches_bone_whole_body">
+		<text>몸 전체</text>
+	</string>
+	<string id="tagged_patches_bone_pelvis">
+		<text>골반</text>
+	</string>
+	<string id="tagged_patches_bone_left_thigh">
+		<text>왼 허벅지</text>
+	</string>
+	<string id="tagged_patches_bone_left_calf">
+		<text>왼 종아리</text>
+	</string>
+	<string id="tagged_patches_bone_left_foot">
+		<text>왼발</text>
+	</string>
+	<string id="tagged_patches_bone_right_thigh">
+		<text>오른 허벅지</text>
+	</string>
+	<string id="tagged_patches_bone_right_calf">
+		<text>오른 종아리</text>
+	</string>
+	<string id="tagged_patches_bone_right_foot">
+		<text>오른발</text>
+	</string>
+	<string id="tagged_patches_bone_left_foot">
+		<text>왼발</text>
+	</string>
+	<string id="tagged_patches_bone_stomach">
+		<text>복부</text>
+	</string>
+	<string id="tagged_patches_bone_chest">
+		<text>가슴</text>
+	</string>
+	<string id="tagged_patches_bone_neck">
+		<text>목</text>
+	</string>
+	<string id="tagged_patches_bone_head">
+		<text>머리</text>
+	</string>
+	<string id="tagged_patches_bone_left_eye">
+		<text>왼쪽 눈</text>
+	</string>
+	<string id="tagged_patches_bone_right_eye">
+		<text>오른쪽 눈</text>
+	</string>
+	<string id="tagged_patches_bone_jaw">
+		<text>턱</text>
+	</string>
+	<string id="tagged_patches_bone_left_shoulder">
+		<text>왼쪽 어깨</text>
+	</string>
+	<string id="tagged_patches_bone_left_upper_arm">
+		<text>왼쪽 상완부</text>
+	</string>
+	<string id="tagged_patches_bone_left_forearm">
+		<text>왼쪽 하완부</text>
+	</string>
+	<string id="tagged_patches_bone_left_hand">
+		<text>왼손</text>
+	</string>
+	<string id="tagged_patches_bone_right_shoulder">
+		<text>오른쪽 어깨</text>
+	</string>
+	<string id="tagged_patches_bone_right_upper_arm">
+		<text>오른쪽 상완부</text>
+	</string>
+	<string id="tagged_patches_bone_right_forearm">
+		<text>오른쪽 하완부</text>
+	</string>
+	<string id="tagged_patches_bone_right_hand">
+		<text>오른손</text>
+	</string>
+	<string id="tagged_patches_bone_butt">
+		<text>둔부</text>
+	</string>
+</string_table>

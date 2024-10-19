@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+<!-- RF Quest -->
+
+	<string id="tb_anon_sender">
+		<text>"익명의 발신자"</text>
+	</string>
+
+	<!-- PDA MESSAGES -->
+	<string id="tb_sooner_rf">
+		<text>RF 수신기를 구한다면 임무를 주도록 하지.</text>
+	</string>
+
+
+	<string id="tb_package_can_be_found">
+		<text>물건은 </text>
+	</string>
+
+	<string id="tb_use_rf_on_freq">
+		<text> 에 있다. 도착해서 RF수신기 주파수를  </text>
+	</string>
+
+	<string id="tb_mhz_to_search">
+		<text> MHz 로 설정해.</text>
+	</string>
+
+
+	<string id="tb_dont_forget">
+		<text>이봐, 물건 까먹은건 아니지? </text>
+	</string>
+
+	<string id="tb_freq_was_on">
+		<text>]에 가서 </text>
+	</string>
+
+	<string id="tb_the_mhz">
+		<text>MHz로 주파수 설정해. 그럼 찾을 수 있을꺼야.</text>
+	</string>
+
+	<!-- ROUGH LOCATION TEXTS -->
+
+	<string id="tb_loc_n_r">
+		<text>[북쪽 /  </text>
+	</string>
+	<string id="tb_loc_ne_r">
+		<text>[북동쪽 / </text>
+	</string>
+	<string id="tb_loc_e_r">
+		<text>[동쪽 / </text>
+	</string>
+	<string id="tb_loc_se_r">
+		<text>[남동쪽 / </text>
+	</string>
+	<string id="tb_loc_s_r">
+		<text>[남쪽 / </text>
+	</string>
+	<string id="tb_loc_sw_r">
+		<text>[남서쪽 / </text>
+	</string>
+	<string id="tb_loc_w_r">
+		<text>[서쪽 / </text>
+	</string>
+	<string id="tb_loc_nw_r">
+		<text>[북서쪽 / </text>
+	</string>
+
+	<!-- LEVEL NAMES -->
+
+	<string id="tb_loc_mar">
+		<text>늪지대</text>
+	</string>
+	<string id="tb_loc_dsc">
+		<text>Darkscape</text>
+	</string>
+	<string id="tb_loc_esc">
+		<text>코돈</text>
+	</string>
+	<string id="tb_loc_gar">
+		<text>쓰레기장</text>
+	</string>
+	<string id="tb_loc_agr">
+		<text>아그로프롬</text>
+	</string>
+	<string id="tb_loc_val">
+		<text>검은 계곡</text>
+	</string>
+	<string id="tb_loc_bar">
+		<text>로스토크</text>
+	</string>
+	<string id="tb_loc_ros">
+		<text>the Wild Territory</text>
+	</string>
+	<string id="tb_loc_mil">
+		<text>군 창고</text>
+	</string>
+	<string id="tb_loc_yan">
+		<text>얀타</text>
+	</string>
+	<string id="tb_loc_cit">
+		<text>죽은 도시</text>
+	</string>
+	<string id="tb_loc_lim">
+		<text>리만스크</text>
+	</string>
+	<string id="tb_loc_rad">
+		<text>레이더</text>
+	</string>
+	<string id="tb_loc_red">
+		<text>붉은 숲</text>
+	</string>
+	<string id="tb_loc_pri">
+		<text>프리피야트</text>
+	</string>
+	<string id="tb_loc_aes1">
+		<text>남CNPP</text>
+	</string>
+	<string id="tb_loc_aes2">
+		<text>북CNPP</text>
+	</string>
+	<string id="tb_loc_gen">
+		<text>the Generators</text>
+	</string>
+	<string id="tb_loc_zat">
+		<text>자톤</text>
+	</string>
+	<string id="tb_loc_jup">
+		<text>주피터</text>
+	</string>
+	<string id="tb_loc_out">
+		<text>the Outskirts</text>
+	</string>
+	<string id="tb_loc_trc">
+		<text>트럭 묘지</text>
+	</string>
+	<string id="tb_loc_pol">
+		<text>the Meadow</text>
+	</string>
+	<string id="tb_loc_dbg">
+		<text>the Debug Level</text>
+	</string>
+
+	<string id="ui_mcm_reworked_rf_receiver_title">
+		<text>RF 수신기 재작업</text>
+	</string>
+	<string id="ui_mcm_menu_reworked_rf_receiver">
+		<text>RF 수신기 재작업</text>
+	</string>
+
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume">
+		<text>커스텀 비프음</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_custom_beep_volume_desc">
+		<text>비프음을 변경하려면 선택하세요.</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_beep_volume">
+		<text>비프음</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change">
+		<text>주파수를 변경할 때 마다 RF 소스 업데이트(성능에 영향)</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_update_sources_on_frequency_change_desc">
+		<text>성능에 영향을 줍니다.</text>
+	</string>
+	
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf">
+		<text>슬롯에서 RF 수신기 사용</text>
+	</string>
+	<string id="ui_mcm_reworked_rf_receiver_only_equip_rf_desc">
+		<text>RF 수신기를 손에 들고있지 않아도 사용이 가능합니다. 단, 슬롯에는 장착한 상태여야 합니다.</text>
+	</string>
+</string_table>
