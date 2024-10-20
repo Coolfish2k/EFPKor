@@ -50,19 +50,19 @@
 		</text>
 	</string>
 	<string id="st_ui_dbg_weather_title">
-		<text>Weather Editor 2.0</text>
+		<text>날씨 편집기 2.0</text>
 	</string>
 	<string id="st_ui_dbg_weather_file">
-		<text>Select weather file</text>
+		<text>날씨 파일 선택</text>
 	</string>
 	<string id="st_ui_dbg_weather_time">
-		<text>Select time</text>
+		<text>시간대 선택</text>
 	</string>
 	<string id="st_ui_dbg_weather_copy">
-		<text>Copy settings</text>
+		<text>설정 복사</text>
 	</string>
 	<string id="st_ui_dbg_weather_paste">
-		<text>Paste settings</text>
+		<text>설정 붙여넣기</text>
 	</string>
 	<string id="st_ui_dbg_weather_viewer">
 		<text>Viewer mode</text>
@@ -73,16 +73,16 @@
 		</text>
 	</string>
 	<string id="st_ui_dbg_weather_resume">
-		<text>Resume weather, and exit</text>
+		<text>날씨를 지속하고 종료</text>
 	</string>
 	<string id="st_ui_dbg_weather_clear">
-		<text>Clear cached values</text>
+		<text>캐시된 값 삭제</text>
 	</string>
 	<string id="st_ui_dbg_weather_help">
 		<text>About</text>
 	</string>
 	<string id="st_ui_dbg_weather_exit">
-		<text>Exit (weather will still paused in engine)</text>
+		<text>종료 (weather will still paused in engine)</text>
 	</string>
 	<string id="st_ui_dbg_weather_save_msg_error">
 		<text>File new (%s) is not valid.
@@ -101,29 +101,29 @@
 	</string>
 	
 	<string id="st_ui_dbg_lighting_title">
-		<text>Lighting Editor</text>
+		<text>조명 편집기</text>
 	</string>
 	
 	<string id="st_ui_dbg_hud_title">
-		<text>Weapon HUD Editor</text>
+		<text>무기 HUD 편집기</text>
 	</string>
 	<string id="st_ui_dbg_hud_alignment">
-		<text>Toggle crosshair</text>
+		<text>조준점 토글</text>
 	</string>
 	<string id="st_ui_dbg_hud_ratio">
 		<text>Apply on 4:3 and 16:9 parameters</text>
 	</string>
 	<string id="st_ui_dbg_hud_copy">
-		<text>Copy settings</text>
+		<text>설정 복사</text>
 	</string>
 	<string id="st_ui_dbg_hud_paste">
-		<text>Paste settings</text>
+		<text>설정 붙여넣기</text>
 	</string>
 	<string id="st_ui_dbg_hud_current_file">
-		<text>Save to file</text>
+		<text>파일로 저장</text>
 	</string>
 	<string id="st_ui_dbg_hud_resume">
-		<text>Resume</text>
+		<text>계속하기</text>
 	</string>
 	<string id="st_ui_dbg_hud_about">
 		<text>
@@ -155,32 +155,32 @@
 	</string>
 	
 	<string id="st_ui_dbg_launcher_console">
-		<text>Console</text>
+		<text>콘솔</text>
 	</string>
 	<string id="st_ui_dbg_launcher_target">
-		<text>Execute on Target</text>
+		<text>타겟을 대상으로 실행</text>
 	</string>
 	<string id="st_ui_dbg_launcher_action">
-		<text>Execute Action</text>
+		<text>액션 실행</text>
 	</string>
 	<string id="st_ui_dbg_launcher_toggle">
-		<text>Toggle Command</text>
+		<text>명령 토글</text>
 	</string>
 	<string id="st_ui_dbg_launcher_editor">
 		<text>Editors List</text>
 	</string>
 	
 	<string id="st_ui_dbg_spawn_type">
-		<text>Item type</text>
+		<text>아이템 종류</text>
 	</string>
 	<string id="st_ui_dbg_spawn_list">
-		<text>By list</text>
+		<text>리스트로</text>
 	</string>
 	<string id="st_ui_dbg_spawn_icon">
-		<text>By icon</text>
+		<text>아이콘으로</text>
 	</string>
 	<string id="st_ui_dbg_spawn_btn">
-		<text>Spawn</text>
+		<text>생성</text>
 	</string>
 	<string id="st_ui_dbg_spawn_name">
 		<text>Spawn by section</text>
@@ -195,13 +195,13 @@
 		<text>Select smart</text>
 	</string>
 	<string id="st_ui_dbg_spawn_point">
-		<text>Spawn at cursor</text>
+		<text>커서에 생성</text>
 	</string>
 	<string id="st_ui_dbg_spawn_nearby">
-		<text>Spawn at player</text>
+		<text>플레이어에 생성</text>
 	</string>
 	<string id="st_ui_dbg_spawn_inv">
-		<text>Spawn in inventory</text>
+		<text>인벤토리에 생성</text>
 	</string>
 	<string id="st_ui_dbg_spawn_log">
 		<text>Log</text>

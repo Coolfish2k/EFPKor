@@ -956,6 +956,150 @@
 
 
 <!-- misc -->
+    <string id="ui_mcm_menu_campfires_on_map">
+		<text>모닥불 아이콘</text>
+	</string>
+
+	<string id="ui_mcm_campfires_on_map_show_campfires">
+		<text>지도에 모닥불 표시</text>
+	</string>
+
+	<string id="ui_mcm_campfires_on_map_show_only_visited">
+		<text>방문한 모닥불만 표시</text>
+	</string>
+	<string id="ui_mcm_campfires_on_map_show_only_visited_desc">
+		<text>Makes it so only campfires that player interacted with are displayed on the map.</text>
+	</string>
+
+    <string id="st_campfire">
+		<text>모닥불</text>
+	</string>
+      <string id="st_campfire_visited">
+		<text>%c[ui_white]모닥불 (%c[d_orange]방문함%c[ui_white])</text>
+	</string>
+	<string id="st_haru_no_tool">
+		<text>%s업그레이드를 제거하기 위해서는 인벤토리에 [$tool_name] 를 보유하고 있어야 합니다.</text>
+	</string>
+	<string id="st_remove_upgrades">
+		<text>업그레이드 제거 [!]</text>
+	</string>
+	<string id="ui_mm_title_hud_configurator">
+		<text>
+		HUD 요소 토글
+		</text>
+	</string>
+	<string id="ui_mcm_menu_hud_configurator">
+		<text>
+		HUD 요소 토글
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_health_bar">
+		<text>
+		체력 바 숨기기
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_stamina_bar">
+		<text>
+		스테미너 바 숨기기
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_psy_bar">
+		<text>
+		정신력 바 숨기기
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_fire_mode">
+		<text>
+		발사 모드 숨기기
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_background">
+		<text>
+		체력/스테미너/정신력 바 배경 제거
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_ammo_check_warn">
+		<text>
+		MCM detected, ammo hud skipped, look in Mags Redux mcm to edit the ammo section.
+		</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_ammo_autofavorite">
+		<text>
+		현재 사용중인 무기의 탄약을 자동으로 즐겨찾기에 추가
+		</text>
+	</string>
+
+	<string id="ui_mcm_menu_SKIN_settings">
+		<text>S.k.I.n</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_desc">
+		<text>
+			S.k.I.n 모드는 뮤턴트를 해체할때 칼을 뽑지 않아도 해체할 수 있도록 합니다.
+			\nFDDA 모드의 "뮤턴트 해체 애니메이션" 옵션이 활성화 되어 있어야 합니다.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_enable">
+		<text>S.k.I.n 활성화</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_space">
+		<text>"모두 획득" 버튼을 스페이스바or엔터로 선택</text>
+	</string>
+
+	<string id="ui_mcm_SKIN_settings_equipped">
+		<text>칼이나 도끼가 슬롯에 장착되어 있어야 함</text>
+	</string>
+	
+
+	<string id="ui_mcm_menu_upgraded_sleep_bag">
+		<text>업그레이드 된 침낭</text>
+	</string>
+	<string id="ui_mcm_upgraded_sleep_bag_enabled">
+		<text>활성화</text>
+	</string>
+	<string id="ui_mcm_blyat_title">
+		<text>동료 HUD</text>
+	</string>
+	<string id="ui_mcm_menu_ui_blyat">
+		<text>동료 HUD</text>
+	</string>
+	<string id="ui_mcm_ui_blyat_enable_companion_ui">
+		<text>동료 HUD 활성화</text>
+	</string>
+	<string id="st_cai_combine_all">
+		<text>아이템 합치기</text>
+	</string>
+	<string id="st_dai_disassemble_all">
+		<text>모두 분해 [!]</text>
+	</string>
+
+	<string id="st_dai_disassemble_all_junk">
+		<text>관심없음 모두 분해 [!]</text>
+	</string>
+	<string id="st_ui_repair_kits_by_material">
+		<text>수리 키트 사용 시 보조재로 사용 가능</text>
+	</string>
+		<string id="ui_mcm_disassemble_all_items_title">
+		<text>모두 분해</text>
+	</string>
+	<string id="ui_mcm_menu_disassemble_all_items">
+		<text>모두 분해</text>
+	</string>
+
+	<string id="ui_mcm_disassemble_all_items_ammo_maker_compatibility">
+		<text>탄약 제조 호환성</text>
+	</string>
+	<string id="ui_mcm_disassemble_all_items_ammo_maker_compatibility_desc">
+		<text>Ammo Maker(탄약 제조)모드가 설치되어 있다면 "모두 분해" 버튼을 비활성화 합니다.</text>
+	</string>
+	<string id="st_stat_dmg">
+		<text>데미지</text>
+	</string>
+		<string id="st_tw8_total">
+		<text>총</text>
+	</string>
 	<string id="ui_mcm_body_health_system_ui_keybind">
 		<text>BHS HUD 키</text>
 	</string>
@@ -1108,77 +1252,59 @@
 <!-- ///////// -->
 <!-- WIP Below -->
 <!-- ///////// -->
-
-
-
-
-
-
-<!-- key wrapper -->
-	<string id="ui_mcm_key_wrapper_v">
-			<text>소프트 랩으로 변경</text>
+	<string id="ui_mcm_menu_dit">
+		<text>아이템 해체 수정</text>
+	</string>
+    <string id="ui_mcm_dit_slide">
+        <text>Disassembly Tools Tweaks</text>
+	</string>
+	<string id="ui_mcm_dit_outfit_knife">
+		<text>Outfit/Headgear disassembly need at least a swiss knife</text>
+	</string>
+    <string id="ui_mcm_dit_outfit_knife_desc">
+        <text>Prevents you from using grooming kits for disassembling outfits or headgears</text>
+	</string>
+	<string id="ui_mcm_dit_consume_warning">
+		<text>Warning on item consumption</text>
+	</string>
+    <string id="ui_mcm_dit_consume_warning_desc">
+        <text>Prevents you from consuming disassembly items with a prompt</text>
+	</string>
+	<string id="ui_mcm_dit_leatherman_limit">
+		<text>Leatherman condition warning</text>
+	</string>
+    <string id="ui_mcm_dit_leatherman_limit_desc">
+        <text>The condition at which you should get the consumption warning for leatherman tools</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit">
+		<text>Swiss knife condition warning</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit_desc">
+		<text>The condition at which you should get the consumption warning for swiss knifes</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit">
+		<text>Grooming condition warning</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit_desc">
+		<text>The condition at which you should get the consumption warning for grooming kits</text>
+	</string>
+    <string id="ui_mcm_dit_d_key">
+		<text>Unintentional disassembling modifier</text>
+	</string>
+    <string id="ui_mcm_dit_d_key_desc">
+		<text>What key modifier should be pressed to dissasemble an item</text>
+	</string>
+    <string id="ui_mcm_dit_b_key">
+		<text>Unintentional consumption modifier</text>
+	</string>
+    <string id="ui_mcm_dit_b_key_desc">
+		<text>What key modifier should be pressed to consume an item</text>
+	</string>
+	<string id="dit_no_consume_ctrl">
+		<text>%s실수로 해체하는것을 방지하기 위해,\n 왼쪽 쉬프트키를 누른 채 버튼을 눌러야 해체가 가능합니다.%s</text>
 	</string>
 
 
-	<string id="ui_mcm_key_wrapper_v_desc">
-			<text>This key bind should be a hard wrap, however there is a way to get a very similar behavior as a softwrap. This may need to be unchecked if the key misbehaves.</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_enable">
-			<text>Enable</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_bind">
-			<text>Wrapper key</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_geiger">
-			<text>Due to the way the geiger counter script works the mode and modifier of this key cannot be chosen. It will instead be bound to both single press and single press with shift held.</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_toggle">
-			<text>This key is curently set to be held down in the Anomaly settings, if you would like to use it with this system it will need to be changed to be a toggle.</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_modkey">
-			<text>This wrap will be disabled if left bound to shift, alt or control.</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_bind_modifier">
-			<text>Cannot be bound to a modifier!\n</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_bind_conflict">
-			<text>Cannot set two wraps to the same key/mode/modifier combo.\n</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_too_many_redirects">
-			<text>Hard wrap limit reached, no more keys to use as redirects. See Readme.\n</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_bind_toggle">
-			<text>Disabled due to key not being set as toggle in Anomal settings.\n</text>
-	</string>
-	<string id="ui_mcm_key_wrap_about_text">
-			<text>MCM Key Wrapper is a utility that allows Anomaly engine keys to be bound as MCM Key Binds.\n\n It does this by "wrapping" the keys in a bit of code that ridirects key press event.\n There are two types of redirects used by the wrappers: soft and hard.\n\n Soft redirects work on keys that are only listened for by scripts, not the engine. They work by lying to the scripts about what keys do what. You can enable an unlimited number of wraps that use a soft redirect.\n\n Hard redirects work by rebinding the key to something obscure like the Yen key and then triggering that key when the MCM Keybind is triggered. There are only a limited number of these obscure keys available, 17 by default, this places a hard limit on the number of wraps that can be enabled that use hard redirects. If you exceed that number the extra wraps will be disabled. See the readme for more details.\n\n\n There is an experimental third type of wrap that can be either a hard wrap or a soft wrap. When set as a soft wrap a script is setup to emulate the engine behavior of the key bind. This may not be an exact match and you may need to set these to be a hard wrap for compatablity</text>
-	</string>
-
-	<string id="ui_mcm_mcm_key_wrapper_about_unbind_disabled">
-			<text>Unbind disabled wraps</text>
-	</string>
-	<string id="ui_mcm_mcm_key_wrapper_about_unbind_disabled_desc">
-			<text>Cleans up conflict list. Cannot be undone.</text>
-	</string>
 
 
-	<string id="ui_mcm_key_wrap_about">
-			<text>About</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_virtual">
-			<text>This is a soft wrap and does not count toward the limited number of hard wraps that you can enable.</text>
-	</string>
-	<string id="ui_mcm_key_wrapper_redirect">
-			<text>This is a hard wrap and you can only have a limited number of them enabled at one time.</text>
-	</string>
-	<string id="ui_mcm_key_wrapper">
-			<text>Key Wrapper</text>
-	</string>
-
-	<string id="ui_mcm_key_wrapper_wraps_were_disabled">
-			<text>Wraps were disabled:\n\n</text>
-	</string>	
-	<string id="ui_mcm_key_wrapper_not_level_present">
-			<text>Wraps are only accessible in a loaded game.</text>
-	</string>	
 </string_table>

@@ -104,10 +104,25 @@ fix2
   - 충돌을 일으킬 수 있는 스크립트 파일 전부 삭제
   - 폴더 및 파일 정리
 ----------------------------------------------------------------------------------------------------------------------------  
+0.2.4
+  - Skills Expansion 번역 수정 및 Traits 모드 번역 추가
+  - 모드팩 내부의 QoL 섹션 90% 한글화 완료
+  - 베이스게임 한글화 수정 
+      * 어느게 더 높고 낮은지 알기 쉽게 바꿈
+      * 평판수정, 호감도, 등급명칭 수정내역
+      * 태그가 잘못 지정된 파일 그냥 삭제함 (st_smart_names.xml)
+      * 사용되지 않는 파일 일부 삭제함
+  - 베이스게임 한글화 추가
+      * 디버그 모드 (WIP)
+      * 심한 부상을 당한 스토커의 PDA 메세지
+
 
 [WIP]
   - 번역된 한글들 가독성 수정 (볼드처리, 색처리, 점표시 등) - 일단 초벌 다 끝내고 할꺼같음
   - 어노말리 게임 베이스 한글화
+      st_treasures.xml
+      ui_st_debug.xml
+
   - More Dynamic Tasks
   - NVG
   - key wrapper
@@ -128,7 +143,7 @@ fix2
   [Utjan] Item UI Improvements                     - z_kor_improvedUI
   [Raven] Mod Configuration Menu MCM 1.6.5         - z_kor_mcm
   [TB] RF Reciever Sidequests 1.7                  - z_kor_RFSideQuest
-  [Haruka] Skill System + 그 외 스킬관련            - z_kor_skills
+  [Utjan] Skills Expansion 2.0 + 그 외 스킬관련     - z_kor_skills
   [Raven] Sorting Plus                             - z_kor_sortingplus
   [Utjan] Tagged Patches 1.1.3                     - z_kor_taggedPatches
   [indyora] Dialogue Expanded v4                   - z_st_dynamic_news
@@ -141,6 +156,7 @@ fix2
   [Arti and Raven] Mags + 그 외 탄창관련            - zzz_kor_mag_magredux
   [Arti] Outfit Parts Overhaul (OPO)               - zzz_kor_OPO
 
-  <기타>
-    zzz_kor_misc 및 zzz_kor_Fix 파일 내 주석 참고
+  <그 외>
+    EFP 4.2 모드팩의 QoL섹션 약 90% 한글화 완료
+    번역 된 모드명은 zzz_kor_misc 및 zzz_kor_Fix 파일 내 주석 참고
  

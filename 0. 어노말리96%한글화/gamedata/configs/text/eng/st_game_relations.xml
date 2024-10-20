@@ -10,7 +10,7 @@
 		<text>로너</text>
 	</string>
 	<string id="actor_army">
-		<text>군인</text>
+		<text>내무군</text>
 	</string>
 	<string id="actor_bandit">
 		<text>밴딧</text>
@@ -117,13 +117,13 @@
 		<text>등급</text>
 	</string>
 	<string id="st_rank_novice">
-		<text>초짜</text>
+		<text>뉴비</text>
 	</string>
 	<string id="st_rank_trainee">
-		<text>신병</text>
+		<text>루키</text>
 	</string>
 	<string id="st_rank_experienced">
-		<text>경험자</text>
+		<text>아마추어</text>
 	</string>
 	<string id="st_rank_professional">
 		<text>프로</text>
@@ -132,10 +132,10 @@
 		<text>베테랑</text>
 	</string>
 	<string id="st_rank_expert">
-		<text>전문가</text>
+		<text>엘리트</text>
 	</string>
 	<string id="st_rank_master">
-		<text>달인</text>
+		<text>마스터</text>
 	</string>
 	<string id="st_rank_legend">
 		<text>전설</text>
@@ -146,13 +146,13 @@
 		<text>평판</text>
 	</string>
 	<string id="st_reputation_terrible">
-		<text>끔찍함</text>
+		<text>매우 끔찍함</text>
 	</string>
 	<string id="st_reputation_really_bad">
-		<text>혐오스러움</text>
+		<text>끔찍함</text>
 	</string>
 	<string id="st_reputation_very_bad">
-		<text>역겨움</text>
+		<text>아주 나쁨</text>
 	</string>
 	<string id="st_reputation_bad">
 		<text>나쁨</text>
@@ -161,16 +161,16 @@
 		<text>중립</text>
 	</string>
 	<string id="st_reputation_good">
-		<text>괜찮음</text>
+		<text>좋음</text>
 	</string>
 	<string id="st_reputation_very_good">
-		<text>좋음</text>
+		<text>아주 좋음</text>
 	</string>
 	<string id="st_reputation_really_good">
 		<text>훌륭함</text>
 	</string>
 	<string id="st_reputation_excellent">
-		<text>탁월함</text>
+		<text>매우 훌륭함</text>
 	</string>
 
 	<!-- Notifications -->
@@ -198,7 +198,7 @@
         <text>세력이 동맹을 맺었습니다.</text>
     </string>
     <string id="st_relations_deteriorating">
-        <text> 세력과의 관계가 나빠졌습니다.</text>
+        <text>세력과의 관계가 나빠졌습니다.</text>
     </string>
     <string id="st_relations_cease_fire">
         <text>세력들은 휴전을 선언했습니다.</text>
@@ -215,13 +215,13 @@
         <text>높음</text>
     </string>
 	<string id="st_ui_goodwill_3">
-        <text>개선됨</text>
+        <text>좋음</text>
     </string>
 	<string id="st_ui_goodwill_2">
-        <text>통상</text>
+        <text>보통</text>
     </string>
 	<string id="st_ui_goodwill_1">
-        <text>최소</text>
+        <text>낮음</text>
     </string>
 	
 </string_table>

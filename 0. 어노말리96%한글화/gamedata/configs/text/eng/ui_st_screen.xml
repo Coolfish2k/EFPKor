@@ -583,26 +583,26 @@
 		<text>당신의 평판이 바뀌었습니다</text>
 	</string>
 	<string id="st_news_goodwill_intro_1">
-		<text>최근 당신의 노력에 대한 소문이 퍼지고 있습니다.</text>
+		<text>최근 당신의 성공에 대한 소문이 퍼지고 있습니다.</text>
 	</string>
 	<string id="st_news_goodwill_intro_lose_1">
 		<text>최근 당신의 실패에 대한 소문이 퍼지고 있습니다.</text>
 	</string>
 	<string id="st_news_goodwill_main_1">
-		<text>당신은 %s 들 사이에서 신용을 얻어갑니다.</text>
+		<text>당신은 %s 사이에서 신용을 얻었습니다.</text>
 	</string>
 	<string id="st_news_goodwill_main_lose_1">
-		<text>당신은 %s 들 사이에서 신용을 잃어갑니다.</text>
+		<text>당신은 %s 사이에서 신용을 잃었습니다.</text>
 	</string>
 	<string id="st_news_goodwill_enemy_1">
-		<text>%s 들은 이에 호의적이지 못합니다.</text>
+		<text>%s 들은 이에 강한 반발을 합니다.</text>
 	</string>
 <!-- Bad turn -->
 	<string id="st_bad_turn_into_bandit">
-		<text>당신은 세력에서 추방되었습니다!</text>
+		<text>당신은 팩션에서 추방되었습니다!</text>
 	</string>
 	<string id="st_bad_turn_into_bandit_news">
-		<text>%c[0,255,0,0]당신은 세력에서 추방되었습니다!</text>
+		<text>%c[0,255,0,0]당신은 팩션에서 추방되었습니다!</text>
 	</string>
 	<string id="st_bad_turn_into_zombie">
 		<text>당신은 심각한 정신파-방사능 수준에 노출되어 좀비가 되었습니다!</text>
@@ -665,7 +665,7 @@
 		<text>당신은 피를 흘리고 방사능에 중독되어 있습니다. 의료 지원을 받으세요</text>
 	</string>
 	<string id="st_sleep_deprived">
-		<text>당신은 모르는 사이에 죽임을 당했습니다</text>
+		<text>당신은 자는 사이에 죽임을 당했습니다</text>
 	</string>
 	<string id="st_sleep_event">
 		<text>이러는 동안 잠을 잘 만큼 미치지 않으셨기를 바랍니다</text>
