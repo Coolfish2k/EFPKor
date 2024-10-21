@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: MORTAL SIN TASKS
+<	Anomaly 1.5 - Lost to the Zone: Mortal Sin
+<
+<	Made by: SarisKhan
+<	Last revised: 25 August 2020
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 1 -->
+	<string id="lttz_ms_start_title">
+		<text>대죄: 신비한 사절</text>
+	</string>
+	
+	<string id="lttz_ms_start_dolg_descr">
+		<text>보로닌 장군은 100라드 바에서 스토커를 괴롭히는 신비한 사절을 심문하기를 원합니다.</text>
+	</string>
+	<string id="lttz_ms_start_dolg_descr_talk">
+		<text>사절로부터 유용한 정보를 얻었습니다. 보로닌 장군에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_start_dolg_descr_kill">
+		<text>당신은 유용한 정보를 얻었고 신비한 사절을 죽였습니다. 보로닌 장군에게 보고하십시오.</text>
+	</string>
+	
+	<string id="lttz_ms_start_killer_descr">
+		<text>더쉬맨은 죽은 도시 기지에서 용병을 괴롭히는 신비한 사절을 심문하기를 원합니다.</text>
+	</string>
+	<string id="lttz_ms_start_killer_descr_talk">
+		<text>사절로부터 유용한 정보를 얻었습니다. 더쉬맨에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_start_killer_descr_kill">
+		<text>당신은 유용한 정보를 얻었고 신비한 사절을 죽였습니다. 더쉬맨에게 보고하십시오.</text>
+	</string>
+	
+	<string id="lttz_ms_start_stalker_descr">
+		<text>시도로비치는 초보자 마을에서 스토커를 괴롭히는 신비한 사절을 심문하기를 원합니다.</text>
+	</string>
+	<string id="lttz_ms_start_stalker_descr_talk">
+		<text>사절로부터 유용한 정보를 얻었습니다. 시도로비치에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_start_stalker_descr_kill">
+		<text>당신은 유용한 정보를 얻었고 신비한 사절을 죽였습니다. 시도로비치에게 보고하십시오.</text>
+	</string>
+	
+	<string id="lttz_ms_start_csky_descr">
+		<text>콜드는 스토커를 괴롭히는 신비한 사절을 심문하기를 원합니다.</text>
+	</string>
+	<string id="lttz_ms_start_csky_descr_talk">
+		<text>사절로부터 유용한 정보를 얻었습니다. 콜드에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_start_csky_descr_kill">
+		<text>당신은 유용한 정보를 얻었고 신비한 사절을 죽였습니다. 콜드에게 보고하십시오.</text>
+	</string>
+	
+	<string id="lttz_ms_start_freedom_descr">
+		<text>루카쉬는 당신이 자유 본부에서 스토커를 괴롭히는 신비한 사절을 심문하기를 원합니다.</text>
+	</string>
+	<string id="lttz_ms_start_freedom_descr_talk">
+		<text>사절로부터 유용한 정보를 얻었습니다. 루카쉬에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_start_freedom_descr_kill">
+		<text>당신은 유용한 정보를 얻었고 신비한 사절을 죽였습니다. 루카쉬에게 보고하십시오.</text>
+	</string>
+	
+	<string id="lttz_ms_start_ecolog_descr">
+		<text>사하로프 교수는 이동식 벙커 연구소 근처에서 경비를 괴롭히는 신비한 사절을 심문하기를 원합니다.</text>
+	</string>
+	<string id="lttz_ms_start_ecolog_descr_talk">
+		<text>사절로부터 유용한 정보를 얻었습니다. 사하로프 교수에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_start_ecolog_descr_kill">
+		<text>당신은 유용한 정보를 얻었고 신비한 사절을 죽였습니다. 사하로프 교수에게 보고하십시오.</text>
+	</string>
+	
+	<string id="vodnik_notes_name">
+		<text>보드닉의 노트</text>
+	</string>
+	<string id="vodnik_notes_desc">
+		<text>"처음부터 존의 웅장함을 이해했든 설명이 필요했든 간에 많은 사람들이 우리 대의에 동참했습니다. 저는 설립자들이 부럽습니다. 그들은 마스터가 직접 창조했으며 비라즈의 탄생을 목격할 수 있었습니다! 하지만 그들은 우리를 정화했습니다. 우리를 합당하게 판단하면 그들은 우리의 새 형제들을 깨끗하게 할 것입니다. 함께 우리는 온 세상에 소문을 퍼뜨릴 것입니다."</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 2 -->
+	<string id="lttz_ms_red_forester_title">
+		<text>대죄: 붉은 숲지기</text>
+	</string>
+	<string id="lttz_ms_red_forester_descr">
+		<text>붉은 숲에서 목격된 씬 활동에 대해 포레스터와 이야기하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 3 -->
+	<string id="lttz_ms_red_forest_attackers_title">
+		<text>대죄: 붉은 숲의 유령</text>
+	</string>
+	<string id="lttz_ms_red_forest_attackers_descr">
+		<text>포레스터는 당신이 조사하고 있는 미스터리한 스토커들이 진영을 세웠던 곳을 추론했습니다. 그들과 맞서십시오.</text>
+	</string>
+	<string id="lttz_ms_red_forest_attackers_descr2">
+		<text>유용한 정보가 있는지 시체를 검색하십시오.</text>
+	</string>
+	
+	<string id="attackers_pda_name">
+		<text>씬 분대 리더의 PDA</text>
+	</string>
+	<string id="attackers_pda_desc">
+		<text>이 PDA는 분대장의 소유였습니다. 표시된 위치에 붉은 숲 지도가 포함되어 있으며 그 중 선택되지 않은 위치가 있습니다. 분대가 누군가를 쫓고 있는 것 같았고, 그들을 찾는 대상은 매우 가까웠습니다. 또한 많은 추가 암호화 데이터가 있습니다. 가치가 있을 수 있습니다.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 4 -->
+	<string id="lttz_ms_runaway_title">
+		<text>대죄: 도주</text>
+	</string>
+	<string id="lttz_ms_runaway_descr">
+		<text>씬은 누군가를 쫓고 있었습니다. 그들은 다음으로 서쪽에 있는 광산을 확인하기로 되어 있었습니다. 대신 조사하러 가십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 5 -->
+	<string id="lttz_ms_needle_haystack_title">
+		<text>대죄: 건초 더미에 바늘</text>
+	</string>
+	<string id="lttz_ms_needle_haystack_descr">
+		<text>스티치가 중요한 작업을 위해 디코더가 필요합니다. 트럭 묘지 한가운데에 있는 부서진 버스 중 하나에서 아이템을 회수하세요.</text>
+	</string>
+	<string id="lttz_ms_return_stitch_descr">
+		<text>디코더를 찾았습니다. 다시 스티치에게 가져오세요.</text>
+	</string>
+	
+	<string id="stitch_decoder_name">
+		<text>스티치의 디코더</text>
+	</string>
+	<string id="stitch_decoder_desc">
+		<text>다소 구식인 이 해킹 장치는 스티치의 소유입니다. 존 전체에 흩어져 있는 구식 기술장치와 호환됩니다.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 6 -->
+	<string id="lttz_ms_report_title">
+		<text>대죄: 상황 보고</text>
+	</string>
+	<string id="lttz_ms_report_dolg_descr">
+		<text>스티치에 따르면 신은 대규모 침공을 준비하고 있다. 발견한 사실을 보로닌 장군에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_report_killer_descr">
+		<text>스티치에 따르면 신은 대규모 침공을 준비하고 있다. 발견한 사실을 더쉬맨에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_report_stalker_descr">
+		<text>스티치에 따르면 신은 대규모 침공을 준비하고 있다. 발견한 사실을 시도르비치에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_report_csky_descr">
+		<text>스티치에 따르면 신은 대규모 침공을 준비하고 있다. 발견한 사실을 콜드에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_report_freedom_descr">
+		<text>스티치에 따르면 신은 대규모 침공을 준비하고 있다. 발견한 사실을 루카쉬에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_report_ecolog_descr">
+		<text>스티치에 따르면 신은 대규모 침공을 준비하고 있다. 발견한 사실을 사하로프 교수에게 보고하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 7 -->
+	<string id="lttz_ms_ambush_title">
+		<text>대죄: 매복</text>
+	</string>
+	<string id="lttz_ms_ambush_dolg_descr">
+		<text>씬의 세력이 바를 침공하고 있습니다. 그들을 막아야 합니다.</text>
+	</string>
+	<string id="lttz_ms_ambush_dolg_done_descr">
+		<text>적의 공격을 격퇴했습니다. 보로닌 장군에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_ambush_killer_descr">
+		<text>씬의 세력이 죽은 도시를 침공하고 있습니다. 그들을 막아야 합니다.</text>
+	</string>
+	<string id="lttz_ms_ambush_killer_done_descr">
+		<text>적의 공격을 격퇴했습니다. 더쉬맨에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_ambush_stalker_descr">
+		<text>씬의 세력이 초보자 마을을 침공하고 있습니다. 그들을 막아야 합니다.</text>
+	</string>
+	<string id="lttz_ms_ambush_stalker_done_descr">
+		<text>적의 공격을 격퇴했습니다. 시도로비치에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_ambush_csky_descr">
+		<text>씬의 세력이 어부 마을을 침공하고 있습니다. 그들을 막아야 합니다.</text>
+	</string>
+	<string id="lttz_ms_ambush_csky_done_descr">
+		<text>적의 공격을 격퇴했습니다. 콜드에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_ambush_freedom_descr">
+		<text>씬의 세력이 본부를 침공하고 있습니다. 그들을 막아야 합니다.</text>
+	</string>
+	<string id="lttz_ms_ambush_freedom_done_descr">
+		<text>적의 공격을 격퇴했습니다. 루카쉬에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_ambush_ecolog_descr">
+		<text>씬의 세력이 이동식 벙커를 공격하고 있습니다. 그들을 막아야 합니다.</text>
+	</string>
+	<string id="lttz_ms_ambush_ecolog_done_descr">
+		<text>적의 공격을 격퇴했습니다. 사하로프 교수에게 보고하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task -->
+	<string id="lttz_ms_dark_crusade_title">
+		<text>대죄: 암흑 성전</text>
+	</string>
+	<string id="lttz_ms_dark_crusade_descr">
+		<text>씬은 스토커 커뮤니티 전체에 상당한 위협이 됩니다. 그들을 막기 위해 할 수 있는 일을 하십시오.</text>
+	</string>
+	<string id="lttz_ms_dark_crusade_descr2">
+		<text>체르노보그는 존을 전 세계로 확장할 계획입니다. 그를 막아야 합니다.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 8 -->
+	<string id="lttz_ms_preemptive_strike_title">
+		<text>대죄: 선제공격</text>
+	</string>
+	<string id="lttz_ms_protect_miracle_machine_descr">
+		<text>씬은 미라클 머신을 재활성화하려고 시도합니다. 연구실 입구 근처의 보초대를 처치하십시오.</text>
+	</string>
+	<string id="lttz_ms_protect_miracle_machine_descr2">
+		<text>씬은 미라클 머신을 재활성화하려고 시도합니다. 실험실로 내려가서 만나는 모든 적을 죽이십시오.</text>
+	</string>
+	<string id="lttz_ms_protect_miracle_machine_descr3">
+		<text>씬은 미라클 머신을 재활성화하려고 시도합니다. 마지막 분대가 성공하지 못하도록 막으십시오.</text>
+	</string>
+	
+	<string id="lttz_ms_protect_brain_scorcher_descr">
+		<text>씬은 브레인 스코쳐를 재활성화하려고 시도합니다. 레이더로 이동하여 모든 적대 세력을 제거하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 9 -->
+	<string id="lttz_ms_to_war_title">
+		<text>대죄: 전장으로</text>
+	</string>
+	<string id="lttz_ms_to_war_descr">
+		<text>그들이 정신파 시설을 다시 활성화하는 데 실패하자 그들은 전쟁을 선언했습니다. 리만스크로 이동하여 로그와 접촉하고 연합 전선을 형성하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 10 -->
+	<string id="lttz_ms_urban_warfare_title">
+		<text>대죄: 시가전</text>
+	</string>
+	<string id="lttz_ms_urban_warfare_descr">
+		<text>죄악 세력이 리만스크의 대부분을 차지했습니다. 그들의 지도자을 암살하여 그들을 방해하십시오.</text>
+	</string>
+	<string id="lttz_ms_urban_warfare_descr2">
+		<text>씬 캐스티게이터를 물리쳤습니다. 로그에게 보고하십시오.</text>
+	</string>
+	
+	<string id="drekavac_notes_name">
+		<text>드레카바크의 메모</text>
+	</string>
+	<string id="drekavac_notes_desc">
+		<text>"드디어 몇 년 간의 고된 준비 끝에 마스터의 계획을 이어갈 수 있게 되었습니다. 많은 분들이 저희를 믿지 않는 것이 안타깝지만, 가끔은 말로도 부족할 때가 있습니다. 그들은 인간의 천박한 욕망에 눈이 멀었습니다. 그들이 폭력적인 방식을 고수하면 우리 또한 폭력으로 대할 것입니다. 그러면 그들은 이해할 수 있을 것입니다. 비라즈의 씨앗이 싹트고 있고 저는 천국을 더 멀리 더 멀리 퍼뜨리기 위해 여기 있습니다. 나는 창끝입니다."</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 11 -->
+	<string id="lttz_ms_war_prisoner_title">
+		<text>대죄: 전쟁 포로</text>
+	</string>
+	<string id="lttz_ms_war_prisoner_descr">
+		<text>로그는 씬 포로를 붙잡았습니다. 유용한 정보를 얻기 위해 그를 심문하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 12 -->
+	<string id="lttz_ms_contact_lost_title">
+		<text>대죄: 연락 두절</text>
+	</string>
+	<string id="lttz_ms_contact_lost_descr">
+		<text>로그가 보낸 정찰대는 임무를 마치고 돌아오지 않았다. 상황을 조사합니다.</text>
+	</string>
+	<string id="lttz_ms_contact_lost_descr2">
+		<text>정보를 얻을 수 있었습니다. 로그에게 돌아가십시오.</text>
+	</string>
+	
+	<string id="contact_lost_pda_name">
+		<text>정찰팀 리더의 PDA</text>
+	</string>
+	<string id="contact_lost_pda_desc">
+		<text>이 PDA는 정찰팀의 리더의 것이었습니다. 그는 사망하기 전에 적군에 대한 일부 정보를 기록할 수 있었습니다.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 13 -->
+	<string id="lttz_ms_destruction_site_title">
+		<text>대죄: 파괴 현장</text>
+	</string>
+	<string id="lttz_ms_destruction_site_descr">
+		<text>씬 세력은 오래된 건설 현장의 요새화된 위치에 자리를 잡았습니다. 그들을 제거하여 리만스크를 확보하고 북쪽으로 가는 길에 접근하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 14 -->
+	<string id="lttz_ms_hospital_assault_title">
+		<text>대죄: 북부의 환대</text>
+	</string>
+	<string id="lttz_ms_hospital_assault_descr">
+		<text>버려진 병원에 접근하기 위해 리만스크에 있는 씬 잔재를 소탕하십시오.</text>
+	</string>
+	<string id="lttz_ms_hospital_assault_descr2">
+		<text>버려진 병원의 씬 세력을 몰아낸 뒤 CNPP로 나아갈 거점을 확보하십시오.</text>
+	</string>
+	<string id="lttz_ms_hospital_assault_descr3">
+		<text>텔레파시 음성이 당신에게 신비한 스토커의 위치를 알렸습니다. 조사하십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 15 -->
+	<string id="lttz_ms_heart_zone_title">
+		<text>대죄: 존의 심장</text>
+	</string>
+	<string id="lttz_ms_heart_zone_descr">
+		<text>퇴로를 확보하기 위해 CNPP 북쪽으로 가는 길에 씬 순찰대를 제거하십시오.</text>
+	</string>
+	<string id="lttz_ms_heart_zone_descr2">
+		<text>발전기로 알려진 불길한 지역으로 여행하십시오.</text>
+	</string>
+	<string id="lttz_ms_heart_zone_descr3">
+		<text>신원을 알 수 없는 스토커가 PDA로 연락해왔습니다. 우호적입니다.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 16 -->
+	<string id="lttz_ms_decisive_blow_title">
+		<text>대죄: 결정타</text>
+	</string>
+	<string id="lttz_ms_decisive_blow_descr">
+		<text>남아있는 씬 세력이 전쟁 연구소의 정문 근처에 집결하고 있습니다. 그들을 공격하여 스트렐록의 방해 공작 임무에서 주의를 돌리십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 17 -->
+	<string id="lttz_ms_confrontation_title">
+		<text>대죄: 직면</text>
+	</string>
+	<string id="lttz_ms_confrontation_descr">
+		<text>씬은 자신들의 사명을 실패했습니다. 체르노보그와 맞서십시오.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 18 -->
+	<string id="lttz_ms_endgame_title">
+		<text>대죄: 엔드게임</text>
+	</string>
+	<string id="lttz_ms_endgame_descr">
+		<text>체르노보그를 추격하고 그의 뒤틀린 소원을 이루는 것을 막으십시오.</text>
+	</string>
+	
+	<string id="chernobog_notes_name">
+		<text>체르노보그의 메모</text>
+	</string>
+	<string id="chernobog_notes_desc">
+		<text>"지역은 기적입니다. 마스터가 우리를 정화했습니다. 곧 우리는 존이 세상을 정화할 것이라고 생각했습니다. 하지만 아닙니다. 우리의 작은 낙원은 곧 죄 많은 세상의 결함 있는 사람들에 의해 침해되었습니다. 그리고, 상상할 수 없는 행동으로 만행, 스트렐록이라는 야수는 용감한 모노리스를 불구로 만들고 그들의 필멸의 형태를 죽이기 위해 마스터의 방에 들어갔습니다. 그러나 나는 절망하지 않을 것입니다. 나는 이 기적이 합당하지 않은 자들의 악덕과 오물에 의해 소멸되도록 내버려 둘 수 없다. 그래서 우리, 씬 , 주인님의 소원을 이루기 위한 탐구를 시작해야 합니다. 우리는 영원한 평화를 위해 폭력적인 자들과 전쟁을 벌일 것입니다."</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 19 -->
+	<string id="lttz_ms_choice_title">
+		<text>대죄: 선택</text>
+	</string>
+	<string id="lttz_ms_choice_descr">
+		<text>체르노보그는 죽었다. 위시그렌터를 직접 사용할지 여부는 본인의 선택입니다.</text>
+	</string>
+	<string id="lttz_ms_choice_descr2">
+		<text>위시트렌터에게 말하기.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 20 -->
+	<string id="lttz_ms_zone_hero_title">
+		<text>대죄: 존의 영웅</text>
+	</string>
+	<string id="lttz_ms_zone_hero_dolg_descr">
+		<text>당신은 씬이 존 확장을 가속화하는 것을 막았습니다. 보로닌 장군에게 성공을 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_killer_descr">
+		<text>당신은 씬이 존 확장을 가속화하는 것을 막았습니다. 더쉬맨에게 성공을 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_stalker_descr">
+		<text>당신은 스토커들에 대한 위협에 맞서 승리했습니다. 시도르비치에게 성공을 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_csky_descr">
+		<text>당신은 씬이 존 확장을 가속화하는 것을 막았습니다. 성공을 콜드에게 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_freedom_descr">
+		<text>당신은 미친 폭군이 군림하는 것을 막았습니다. 루카쉬에게 성공을 보고하십시오.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_ecolog_descr">
+		<text>당신은 대부분의 과학자를 죽일 수 있는 모험에서 살아남았고 연구를 위해 존을 안전하게 격리했습니다. 당신의 성공을 사하로프 교수에게 보고하십시오.</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Unquenchable Flame Tasks -->
+	<string id="unquenchable_flame_task_name">
+		<text>꺼지지 않는 불꽃</text>
+	</string>
+	<string id="unquenchable_flame_task_text">
+		<text>씬의 생존자들이 자톤에 모여 있습니다. 당신은 그들을 제거해야합니다.</text>
+	</string>
+	
+	<string id="esc_m_trader_task_4_about">
+		<text>난 네가 이미 씬과 싸워서 멋지게 승리했다는 걸 알아. 하지만 비어드는 그들의 잔재가 여전히 활동중이라고 하더라고. 몇몇 스토커들이 자톤의 버려진 변전소 작업장에 기지를 세우고 있다고 보고받았어. 그놈들이 내 교역로를 위험에 빠뜨렸고 그게 정말 마음에 안들어서 말이야. 가서 그들을 영원히 침묵시켜줄 수 있을까?</text>
+	</string>
+	<string id="esc_m_trader_task_4_finish">
+		<text>일인 군단이구만? 잘했어, 스토커.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_about">
+		<text>니가 거의 단독으로 그 미치광이들을 몰아냈다면서? 대단하네. 문제는 아직 완전히 파괴되지 않았어. 자톤의 전초 기지에서 우리 정찰대가 근처 버려진 변전소 작업장에서 수상한 활동을 보고했어. 씬 그놈들인게 확실해. 그놈들이 또 피비린내 나는 성전을 시작하기 전에 제거해줘.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_finish">
+		<text>역시 이게 진정한 전문가지. 여기 보상.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+		<text>젠장, 자톤의 버려진 변전소 작업장에서 다시 모이는 죄의 생존자들이 있다는 것이 밝혀졌어. 그 장소가 멀다는 건 알고 있지만, 그들이 일종의 악성 종양처럼 되기전에 제거해. 부하 몇 명을 붙여줄게.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
+		<text>아, 잘했어. 우리가 앞으로 몇 년분의 몫을 다했다고 생각하지 않아?</text>
+	</string>
+		
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+</string_table>
