@@ -125,28 +125,24 @@ fix2
   - Dynamic Anomalies Overhaul(DAO) 한글화 일부 추가
   - 탄창모드 9mm Aug 탄창 추가
   - 기타 자잘한 모드 한글화 추가
-
+-----------------------------------------------------------------------------------------------------------------------------
   
 [WIP]
   - 번역된 한글들 가독성 수정 (볼드처리, 색처리, 점표시 등) - 일단 초벌 다 끝내고 할꺼같음
   - 어노말리 게임 베이스 한글화
       st_treasures.xml
       ui_st_debug.xml
-
   - More Dynamic Tasks
   - NVG
-  - key wrapper
-  - Fire mode check
-  - Food Toxic
-  - EFP 스킬
-  - DAO
+  - key wrapper                                 - z_kor_mcm
+  - Food Toxic                                  - z_kor_foodToxic
+  - EFP 스킬                                    - z_kor_skills
+  - DAO                                         - z_kor_dynamicAnomalies
 
-[알려진 문제]
-  MCM 툴팁 메인화면에서만 보임 내가 고칠수있는 부분이 아님
-  파일 불러오기 우선순위 때문에 원래 한글로 출력되던 부분도 영어로 출력될 수 있음 << 리폿좀 해주셈
 
-[제작/수정 완료된 한글화] (90% 이상 완료 / 이후 수정 없을예정)
+
 ----------------------------------------------------------
+[제작/수정 완료된 한글화] (각각 90% 이상 완료 / 이후 수정 없을예정)
   [TheMrDemonized] Better Upgrades DLTX            - st_items_upgrades_simple
   [Maid - Haruka] EFPWP                            - z_kor_EFPWP
   [Arti] Food Toxines 22.07.26                     - z_kor_foodToxic
@@ -167,7 +163,14 @@ fix2
   [Arti and Raven] Mags + 그 외 탄창관련            - zzz_kor_mag_magredux
   [Arti] Outfit Parts Overhaul (OPO)               - zzz_kor_OPO
 
-  <그 외>
-    EFP 4.2 모드팩의 QoL섹션 약 90% 한글화 완료
-    번역 된 모드명은 zzz_kor_misc 및 zzz_kor_Fix 파일 내 주석 참고
+  그 외 기타 모드들은 관리 편의성이랑 최적화때문에 zzz_kor_misc 및 zzz_kor_Fix 파일 안에 다 넣었음
+  해당 파일 내 주석 참고
  
+  버전 0.2.6 기준 93개 모드 한글화 완료
+----------------------------------------------------------
+
+
+
+[알려진 문제]
+  MCM 툴팁 메인화면에서만 보임 내가 고칠수있는 부분이 아님
+  파일 불러오기 우선순위 때문에 원래 한글로 출력되던 부분도 영어로 출력될 수 있음 << 리폿좀 해주셈

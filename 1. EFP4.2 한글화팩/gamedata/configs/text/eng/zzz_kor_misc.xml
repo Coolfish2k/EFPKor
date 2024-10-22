@@ -913,22 +913,22 @@
 		<text>기본</text>
 	</string>
 	<string id="ui_mcm_lst_dual_key">
-		<text>Dual Key</text>
+		<text>듀얼 키</text>
 	</string>
 	<string id="ui_mcm_lst_single_key">
-		<text>Single Key (recommended)</text>
+		<text>단일 키 (추천)</text>
 	</string>
 	<string id="ui_mcm_lst_full">
 		<text>Full</text>
 	</string>
 	<string id="ui_mcm_lst_text_only">
-		<text>Text only</text>
+		<text>텍스트만</text>
 	</string>
 	<string id="ui_mcm_lst_image_only">
-		<text>Image only</text>
+		<text>이미지만</text>
 	</string>
 	<string id="ui_mcm_fireModeCheck_keybind_check_firemode_key">
-		<text>Check/Switch firemode key</text>
+		<text>사격모드 확인/변경 키</text>
 	</string>
 
 <!-- Rotten meat -->
