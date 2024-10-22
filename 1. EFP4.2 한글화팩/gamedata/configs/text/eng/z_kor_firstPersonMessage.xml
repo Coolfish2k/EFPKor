@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Disguise -->
+	<string id="ui_st_disguse_disabled">
+		<text>변장시스템이 해제되었습니다.</text>
+	</string>
+	<string id="ui_st_disguse_back_to_default">
+		<text>당신은 다시 %s 의 일원으로 받아들여집니다.</text>
+	</string>
+	<string id="ui_st_disguse_monolith">
+		<text>모두가 당신이 %s 팩션이라는 것을 기억하고 있기 때문에, 당신은 모노리스의 일원처럼 변장할 수 없습니다.</text>
+	</string>
+	<string id="ui_st_disguse_someone_saw">
+		<text>당신이 옷을 갈아입는 것을 보았기 때문에, 모두가 당신이 %s 팩션이라는 것을 기억하고 있습니다.</text>
+	</string>
+	<string id="ui_st_disguse_someone_remember">
+		<text>당신이 최근에 목격되었기 때문에, 모두가 당신이 %s 팩션이라는 것을 기억하고 있습니다.</text>
+	</string>
+	<string id="ui_st_disguse_naked">
+		<text>아무 옷도 입지 않았기 때문에 사람들은 당신이 %s 팩션이라는 사실을 알게 되었습니다.</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn">
+		<text>이 옷의 패치는 손상되어 있기 떄문에, 사람들은 당신이 %s팩션이라고 생각할 것입니다.</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn_now">
+		<text>이 옷의 %s 가 떼어졌기 때문에, 더 이상 변장용으로 사용할 수 없습니다.</text>
+	</string>
+	<string id="ui_st_disguse_patch_attach_now">
+		<text>이 옷에 %s 를 붙였기 때문에, 이제 변장용으로 사용할 수 있습니다.</text>
+	</string>
+	<string id="ui_st_disguse_on">
+		<text>이 옷을 입음으로써 사람들은 당신을 %s 팩션이라고 생각합니다.</text>
+	</string>
+	<string id="st_disguse_actor_exposed">
+		<text>당신은 발각되었습니다! 모두가 당신이 변장하고 있는 %s 팩션이라는 것을 알았습니다.</text>
+	</string>
+<!-- Ammo_Check Messages -->
+	<string id="st_ac_full">
+		<text>가득 참</text>
+	</string>
+	<string id="st_ac_nearly_full">
+		<text>거의 가득 참</text>
+	</string>
+	<string id="st_ac_more_half">
+		<text>절반 이상</text>
+	</string>
+
+	<string id="st_ac_about_half">
+		<text>대략 절반</text>
+	</string>
+	<string id="st_ac_less_half">
+		<text>절반 미만</text>
+	</string>
+	<string id="st_ac_near_empty">
+		<text>거의 빔</text>
+	</string>
+	<string id="st_ac_empty">
+		<text>비어있음</text>
+	</string>
+	<string id="st_ac_jammed">
+		<text>기능 고장 처치 필요!</text>
+	</string>
+	<string id="st_ac_noMag">
+		<text>무기에 탄창이 없습니다.</text>
+	</string>
+	<string id="st_ac_ammoLeft">
+		<text>발 남음</text>
+	</string>
+<!-- Lost to the Zone -->
+	<string id="st_lttz_pri_eidolon_message">
+		<text>난 자넬 느낄 수 있지. 지켜보고 듣고있네. 어느 길을 택해도 통과할 수 없을꺼야.</text>
+		</string>
+	<string id="st_lttz_war_stitch_message">
+		<text>젠장, 여기도 잠겨있군. 기억할 지 모르겠는데 뒷문 코드는 26041986 였어. 아마 똑같을꺼 같은데 한번 해봐.</text>
+	</string>
+	<string id="st_oa_transmission_decryption">
+		<text>수신문 해독 중...</text>
+	</string>
+	<string id="st_lttz_mil_radogost_message">
+		<text>네 존재가 느껴지는군, 스토커여. 가까이 와서 이야기를 좀 나누지.</text>
+	</string>
+	<string id="st_lttz_x18_stitch_message">
+		<text>왜... 도대체 왜 날....?</text>
+	</string>
+	<string id="st_lttz_x18_rogue_message">
+		<text>모노리스같은 새끼, 뒤져!</text>
+	</string>
+	<string id="st_lttz_x18_degtyarev_message">
+		<text>빌어먹을 배신자새끼가..!</text>
+	</string>
+	<string id="st_lttz_x18_strelok_message">
+		<text>그렇게 날 배신하는군.</text>
+	</string>
+	<string id="st_lttz_x18_eidolon_message">
+		<text>오오, 모노리스여. 죽어서도 당신을 섬기겠나이다.</text>
+	</string>
+	<string id="st_lttz_x18_chernobog_message">
+		<text>Even from beyond the grave, I shall cast the light of Vyraj... upon this sinful world.</text>
+	</string>
+	<string id="st_lttz_x18_dark_presence_message">
+		<text>죽어!</text>
+	</string>
+</string_table>

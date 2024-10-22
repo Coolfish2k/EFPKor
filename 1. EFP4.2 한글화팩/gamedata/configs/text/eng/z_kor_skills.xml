@@ -244,196 +244,196 @@
 	</string>
 	
 	<string id="st_trait_name_strong_back">
-		<text>튼튼한 허리</text>
+		<text>01. 튼튼한 허리</text>
 	</string>
 	<string id="st_trait_desc_strong_back">
 		<text>"뉴비들을 업고 다니다 보니 등과 허리가 단련됐습니다."\n \n 중량 제한 +4kg</text>
 	</string>
 	
 	<string id="st_trait_name_pack_mule">
-		<text>지게꾼</text>
+		<text>02. 지게꾼</text>
 	</string>
 	<string id="st_trait_desc_pack_mule">
 		<text>"쓰레기들까지 전부 주워서 들고다닐 필요는 없는데요..."\n \n중량 제한 +8kg\n달리기 속도 -4%</text>
 	</string>
 
 	<string id="st_trait_name_strider">
-		<text>종종걸음</text>
+		<text>03. 종종걸음</text>
 	</string>
 	<string id="st_trait_desc_strider">
 		<text>"빨리 가야 되는데..\n이번에도 늦으면 차일꺼야."\n \n이동 속도 +6%\n중량 제한 -1kg</text>
 	</string>
 	
 	<string id="st_trait_name_sprinter">
-		<text>전력질주</text>
+		<text>04. 전력질주</text>
 	</string>
 	<string id="st_trait_desc_sprinter">
 		<text>"빨리 뛰어야해..\n까마귀들이 울고있어!"\n \n달리기 속도 +8%\n중량 제한 -2kg</text>
 	</string>
 	
 	<string id="st_trait_name_mutant_resist">
-		<text>두꺼운 피부</text>
+		<text>05. 두꺼운 피부</text>
 	</string>
 	<string id="st_trait_desc_mutant_resist">
 		<text>"하도 긁히고 물리다 보니 이젠 덜 아픕니다."\n \n뮤턴트로 부터 받는 피해량 -10%</text>
 	</string>
 	
 	<string id="st_trait_name_melee_mutant">
-		<text>뮤턴트 사냥꾼</text>
+		<text>06. 뮤턴트 사냥꾼</text>
 	</string>
 	<string id="st_trait_desc_melee_mutant">
 		<text>"칼로 찌르면 되는걸 아깝게 왜 총알을 쓰는거야?"\n \n뮤턴트에 대한 근접공격 피해량 +15%</text>
 	</string>
 	
 	<string id="st_trait_name_faction_cashback_self">
-		<text>단골 손님</text>
+		<text>07. 단골 손님</text>
 	</string>
 	<string id="st_trait_desc_faction_cashback_self">
 		<text>"나 여기 단골인데, 좀 깎아줘~"\n \n같은 팩션 소속의 상인과 거래 시 이익 +5%</text>
 	</string>
 	
 	<string id="st_trait_name_faction_cashback_other">
-		<text>떠돌이 상인</text>
+		<text>08. 떠돌이 상인</text>
 	</string>
 	<string id="st_trait_desc_faction_cashback_other">
 		<text>"나 여기 첫 주문인데 잘 좀 해줘~"\n \n다른 팩션 소속의 상인과 거래 시 이익 +5%</text>
 	</string>
 	
 	<string id="st_trait_name_psy_resist_controller">
-		<text>지친 멘탈</text>
+		<text>09. 지친 멘탈</text>
 	</string>
 	<string id="st_trait_desc_psy_resist_controller">
 		<text>"될 대로 되라지. 알게 뭐야."\n \n컨트롤러의 정신 공격으로부터 받는 피해량 -25%</text>
 	</string>
 	
 	<string id="st_trait_name_tinkering_armor">
-		<text>대장장이</text>
+		<text>10. 대장장이</text>
 	</string>
 	<string id="st_trait_desc_tinkering_armor">
 		<text>"근데.. 사실 안맞고 다 피하면 되는거 아닌가?"\n \n헬멧과 갑옷을 수리할 때 수리 키트를 소모하지 않을 확률 +15%</text>
 	</string>
 	
 	<string id="st_trait_name_tinkering_weapon">
-		<text>건스미스</text>
+		<text>11. 건스미스</text>
 	</string>
 	<string id="st_trait_desc_tinkering_weapon">
 		<text>"투쉬카노한테 풀오토로 갈기면 배럴이 금방 망가지더라."\n \n총기를 수리할 때 수리 키트를 소모하지 않을 확률 +15%</text>
 	</string>
 	
 	<string id="st_trait_name_medicine_boost">
-		<text>의무병</text>
+		<text>12. 의무병</text>
 	</string>
 	<string id="st_trait_desc_medicine_boost">
 		<text>"축하합니다, 몸 속에 박힌 총알을 좀 더 온전하게 꺼낼 수 있게 됐습니다."\n \n의약품 사용 시 체력 재생과 방사능 회복량 +10%</text>
 	</string>
 	
 	<string id="st_trait_name_mag_loading_bonus">
-		<text>빠른 손놀림</text>
+		<text>13. 빠른 손놀림</text>
 	</string>
 	<string id="st_trait_desc_mag_loading_bonus">
 		<text>"걍 대충 집어서 대충 집어넣어~"\n \n삽탄 속도 +25%</text>
 	</string>
 	
 	<string id="st_trait_name_mag_unloading_bonus">
-		<text>총알 수집가</text>
+		<text>14. 총알 수집가</text>
 	</string>
 	<string id="st_trait_desc_mag_unloading_bonus">
 		<text>"그거 사실 강박증상이래.."\n \n탄창에서 총알 빼는 속도 +30%</text>
 	</string>
 
 	<string id="st_trait_name_lockpicking_bonus">
-		<text>좀도둑</text>
+		<text>15. 좀도둑</text>
 	</string>
 	<string id="st_trait_desc_lockpicking_bonus">
 		<text>"과연 뭐가 들었을까나?"\n \n잠긴 상자 개방 난이도 -10%</text>
 	</string>
 	
 	<string id="st_trait_name_melee_defense">
-		<text>호신술 마스터</text>
+		<text>16. 호신술 마스터</text>
 	</string>
 	<string id="st_trait_desc_melee_defense">
 		<text>"일단 칼을 들어, 그러면 폭탄이 터져도 덜 아플꺼야."\n \n근접 무기를 들고 있을때 받는 피해량 -20%</text>
 	</string>
 	
 	<string id="st_trait_name_lone_stalker">
-		<text>솔쿼드</text>
+		<text>17. 솔쿼드</text>
 	</string>
 	<string id="st_trait_desc_lone_stalker">
 		<text>"동료가 왜 필요해?"\n \n동료가 없을때 중량 제한 +5kg, 받는 피해량 -10%</text>
 	</string>
 	
 	<string id="st_trait_name_squad_leader">
-		<text>4인팟</text>
+		<text>18. 풀쿼드</text>
 	</string>
 	<string id="st_trait_desc_squad_leader">
 		<text>"같이 다니면 안전하지 않겠어? 그러니 일단 너가 먼저 가보고 와."\n \n동료가 주는 피해량 +15%, 받는 피해량 -25%</text>
 	</string>
 	
 	<string id="st_trait_name_small_guns_reload">
-		<text>총잡이</text>
+		<text>19. 총잡이</text>
 	</string>
 	<string id="st_trait_desc_small_guns_reload">
 		<text>"돌잡이때 총을 잡았다네요~"\n \n권총과 기관단총 재장전 속도 +25%</text>
 	</string>
 	
 	<string id="st_trait_name_big_guns_reload">
-		<text>대물 애호가</text>
+		<text>20. 대물 애호가</text>
 	</string>
 	<string id="st_trait_desc_big_guns_reload">
 		<text>"습관적으로 재장전하는걸 먼저 고치는게 나을꺼 같은데.."\n \n돌격소총, 저격소총, 산탄총 재장전 속도 +15%</text>
 	</string>
 	
 	<string id="st_trait_name_sidearm_quickdraw">
-		<text>퀵드로우</text>
+		<text>21. 퀵드로우</text>
 	</string>
 	<string id="st_trait_desc_sidearm_quickdraw">
 		<text>"기억해... 권총으로 바꾸는 게 항상 장전보다 빠르지. - 던 상병"\n \n권총이 아닌 무기를 넣는 속도 +25%, 권총을 뽑는 속도 +50%</text>
 	</string>
 	
 	<string id="st_trait_name_butcher">
-		<text>도살자</text>
+		<text>22. 도살자</text>
 	</string>
 	<string id="st_trait_desc_butcher">
 		<text>"여 짜르고, 여 짜르고, 그리고 여 뼈 위에 짜르고.."\n \n뮤턴트를 해체할 때 추가 부위를 얻을 확률 +50%</text>
 	</string>
 	
 	<string id="st_trait_name_tinkering_parts">
-		<text>재활용의 달인</text>
+		<text>23. 재활용의 달인</text>
 	</string>
 	<string id="st_trait_desc_tinkering_parts">
 		<text>"다른 스토커들은 분명 부러워할껄요."\n \n부품과 도구를 수리할 때 수리 키트를 사용하지 않을 확률 +25%</text>
 	</string>
 	
 	<string id="st_trait_name_pain_rush">
-		<text>아드레날린</text>
+		<text>24. 아드레날린</text>
 	</string>
 	<string id="st_trait_desc_pain_rush">
 		<text>"으아아악!"\n \n데미지를 받으면 10초간 이동속도 +25%</text>
 	</string>
 	
 	<string id="st_trait_name_pain_train">
-		<text>더 많은 아드레날린</text>
+		<text>25. 더 많은 아드레날린</text>
 	</string>
 	<string id="st_trait_desc_pain_train">
 		<text>"으아아아아아아아아악!!!"\n \n아드레날린 지속시간 +5초, 스테미너 재생 +5%/초</text>
 	</string>
 	
 	<string id="st_trait_name_predator">
-		<text>프레데터</text>
+		<text>26. 프레데터</text>
 	</string>
 	<string id="st_trait_desc_predator">
 		<text>"피 흘릴 시간도 아깝다고!"\n \n스토커와 뮤턴트를 죽이면 10초간 출혈 -5%</text>
 	</string>
 	
 	<string id="st_trait_name_bloodlust">
-		<text>피의 욕망</text>
+		<text>27. 피의 욕망</text>
 	</string>
 	<string id="st_trait_desc_bloodlust">
 		<text>"출혈? 너 아직 살아있구나?"\n \n프레데터가 발동될 때 재장전 및 무기 스왑 속도 +25%</text>
 	</string>
 	
 	<string id="st_trait_name_thick_skull">
-		<text>철면피</text>
+		<text>28. 철면피</text>
 	</string>
 	<string id="st_trait_desc_thick_skull">
 		<text>"원래 좀 진상이긴 했는데 방사능을 때문인지 진짜 두꺼워졌습니다."\n \n머리가 받는 피해량 -10%\n물물교환에서 얻는 이익 -3%</text>

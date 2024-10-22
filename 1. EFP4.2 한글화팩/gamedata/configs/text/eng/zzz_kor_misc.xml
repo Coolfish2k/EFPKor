@@ -954,8 +954,195 @@
     <text>생고기가 상하기까지 걸리는 시간(Hour)</text>
   </string>
 
+<!-- [Arti] Outfit Chance To Drop -->
+	<string id="ui_mcm_outfitdrop_helmet_light_chance">
+		<text>방독면/마스크 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_light_chance_desc">
+		<text>Percentage chance to loot balaclavas and cloth masks from dead stalkers.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance">
+		<text>방탄 헬멧 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance_desc">
+		<text>Percentage chance to loot gasmasks and combat helmets from dead stalkers.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance">
+		<text>경갑 의류 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance_desc">
+		<text>Percentage chance to loot a light outfit from dead stalkers.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance">
+		<text>평갑 의류 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance_desc">
+		<text>Percentage chance to loot medium outfits from dead stalkers.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance">
+		<text>중갑 의류 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance_desc">
+		<text>Percentage chance to loot heavy outfits from dead stalkers.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance">
+		<text>외골격 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance_desc">
+		<text>Percentage chance to find exoskeletons off dead stalkers.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance">
+		<text>부품 드랍 찬스</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance_desc">
+		<text>Percentage chance to find parts when outfits don't spawn.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_debug">
+		<text>Debug printing</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_debug_desc">
+		<text>You know what this does by now.</text>
+	</string>
+	<string id="ui_mcm_menu_outfitdrop">
+		<text>Outfit drops</text>
+	</string>
+
+<!-- Outfit Affects Movement Speed -->
+	<string id="ui_inv_outfit_speed">
+		<text>이동속도</text>
+	</string>
+
+	
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_speed">
+		<text>속도</text>
+	</string>
+	<string id="ui_mcm_menu_speed_title">
+		<text>의상/무기 이동속도 영향</text>
+	</string>
+	<string id="ui_mcm_speed_title">
+		<text>의상/무기 이동속도 영향</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance">
+		<text>최대 중량 영향</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance_desc">
+		<text>인벤토리 무게가 가벼울 때(총 중량의 25% 미만) 이동속도에 보너스를 받고반대로 무거울 때(70% 이상) 느려집니다. (more than 70%).
+		\n \n 가벼운 상태일 때 속도가 상당히 빨라질 수 있음에 유의하세요.</text>
+	</string>
+	<string id="ui_mcm_speed_weapon">
+		<text>무기 영향</text>
+	</string>
+	<string id="ui_mcm_speed_weapon_desc">
+		<text>활성화 하면 무기의 무게와 종류에 따라 이동속도가 변화합니다.</text>
+	</string>
+	<string id="ui_mcm_speed_debug">
+		<text>(Developer) Additional console logging</text>
+	</string>
+	<string id="ui_mcm_speed_debug_desc">
+		<text>Prints some useful crap to console.</text>
+	</string>
+
+<!-- More Agressive NPC Looting -->
+	<string id="st_npc_loot_claim_warn_1">
+		<text>그거 내꺼야! 물러서!</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_2">
+		<text>어이 그거 내꺼야! 손 끝 하나 대지 말라고!</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_3">
+		<text>거기서 물러나지 그래? 내가 잡았거든?</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_4">
+		<text>훔쳐갈 생각 하지마, 얘 물건은 내꺼니까.</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_5">
+		<text>당장 손 때, 걔는 내꺼야.</text>
+	</string>
+	<string id="st_npc_loot_claim_warn_6">
+		<text>걔 물건은 전부 내꺼야! 먼저 손 대지마.</text>
+	</string>
+	
+	<string id="st_npc_loot_claim_last_1">
+		<text>더 이상 경고 안한다, 물러나!</text>
+	</string>
+	<string id="st_npc_loot_claim_last_2">
+		<text>이게 마지막 경고야, 당장 손 때고 물러서.</text>
+	</string>
+	<string id="st_npc_loot_claim_last_3">
+		<text>경고하는데, 스틸 할 생각이라면 당장 쏴버릴꺼야.</text>
+	</string>
+	<string id="st_npc_loot_claim_last_4">
+		<text>마지막 경고야, 당장 꺼져.</text>
+	</string>
+	<string id="st_npc_loot_claim_last_5">
+		<text>나 경고했다! 시체에 손 끝 하나라도 갖다대면 당장 쏴버릴꺼야!</text>
+	</string>
+
+	<string id="st_npc_loot_claim_attack_1">
+		<text>경고 했는데도 끝까지 훔쳐가려고 해? 가만 안둘꺼야!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_2">
+		<text>이 새끼 우리 물건 훔쳐간다! 쏴버려!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_3">
+		<text>야야 저 새끼 우리꺼 들고간다, 당장 잡아!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_4">
+		<text>범죄자새끼 잡아!!</text>
+	</string>
+	<string id="st_npc_loot_claim_attack_5">
+		<text>볼트 하나 조차 훔쳐가도록 두지 않을꺼야!</text>
+	</string>
 
 <!-- misc -->
+	<string id="ui_mcm_advanced_stamina_system_show_hud">
+		<text>스테미너 제한 표시 켜기/끄기</text>
+	</string>
+
+	<string id ="ui_mcm_dii_maid_fillcant_show">
+		<text>수통 패치</text>
+	</string>
+
+	<string id="ui_mcm_extra_level_transitions_title">
+		<text>지역 이동 확장</text>
+	</string>
+	<string id="ui_mcm_menu_extra_level_transitions">
+		<text>지역 이동</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_enable_time_advance">
+		<text>시간 흐름 활성화</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_enable_time_advance_desc">
+		<text>지역을 이동할 때 시간이 흐릅니다.</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_delete_level_transitions">
+		<text>모드 제거</text>
+	</string>
+	<string id="ui_mcm_extra_level_transitions_delete_level_transitions_desc">
+		<text>안전하게 모드를 제거할 때 사용하세요.</text>
+	</string>
+
+	<string id="ui_mcm_menu_cozy_campfire">
+		<text>모닥불 휴식</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_health">
+		<text>체력 재생량</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_rad">
+		<text>방사능 회복량</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_psy">
+		<text>정신력 회복량</text>
+	</string>
+
+	<string id="ui_inv_thirst">
+		<text>목마름</text>
+	</string>
+	<string id="ui_inv_sleep">
+		<text>피로도</text>
+	</string>
     <string id="ui_mcm_menu_campfires_on_map">
 		<text>모닥불 아이콘</text>
 	</string>
@@ -1098,7 +1285,7 @@
 		<text>데미지</text>
 	</string>
 		<string id="st_tw8_total">
-		<text>총</text>
+		<text>(총 무게)</text>
 	</string>
 	<string id="ui_mcm_body_health_system_ui_keybind">
 		<text>BHS HUD 키</text>
@@ -1244,9 +1431,33 @@
 		<text>Update MCM to see this feature. Key defaults to F6.</text>
 	</string>
 
+	<string id="ui_mcm_menu_bas_lasers">
+		<text>BaS 레이저</text>
+	</string>
+	<string id="ui_mcm_bas_lasers_keybind">
+		<text>레이저 키바인딩</text>
+	</string>
+	<string id="ui_mcm_menu_torch_anim_toggle">
+		<text>횃불 애니메이션</text>
+	</string>
+	<string id="ui_mcm_torch_anim_toggle_torch_anim">
+		<text>애니매이션 토글</text>
+	</string>
 
-
-
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>스코프 빠른장착/제거</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>기능 활성화</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+        <text>%c[d_green]�%c[DEFAULT] 한번 누르기: 현재 스코프를 때거나 장착합니다.
+            \n\n%c[d_green]�%c[DEFAULT] 두번 누르기: 인벤토리에 호환되는 다른 스코프가 있을 경우 그 스코프로 변경합니다.
+        </text>
+	</string>
+	<string id="ui_mcm_toggle_scope_keybind_toggle_scope">
+		<text>Toggle/Switch scopes key</text>
+	</string>
 
 
 <!-- ///////// -->

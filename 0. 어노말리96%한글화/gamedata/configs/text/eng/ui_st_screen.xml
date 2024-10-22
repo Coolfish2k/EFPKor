@@ -424,14 +424,8 @@
 		<text>오! 도전자가 시간 내에 상대를 죽이는 데 성공했습니다! 그가 이겼습니다!</text>
 	</string>
 	<string id="st_death_count">
-		<text>당신은 %s 번 죽었습니다.</text>
-									 
-																		  
-		  
+		<text>당신은 %s 번 죽었습니다.</text>												
 	</string>
-												  
-		  
- 
 	<string id="st_msg_unlocked_routes">
 		<text>당신의 PDA에 새로운 장소가 표시되었습니다.</text>
 	</string>

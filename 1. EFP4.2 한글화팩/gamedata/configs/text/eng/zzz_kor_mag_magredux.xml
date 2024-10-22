@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
+	<string id="st_mag_aug_9x19_fmj">
+		<text>9x19mm Aug 32발 탄창</text>
+	</string>
+	<string id="st_mag_aug_9x19_fmj_descr">
+		<text>
+            9x19mm 탄을 사용하는 AUG SMG를 위한 32발 탄창입니다.
+		</text>
+	</string>
+
 <!-- 기본 -->
 	<!--COMMON-->
 	<string id="st_mag_weapon_jammed">
@@ -944,7 +953,6 @@
 		
 		
 		<!-- 5.56 -->
-		
 		<string id="st_mag_ace21_5.56x45">
 			<text>5.56x45mm 갈릴 ACE-21 35발 표준탄창</text>
 		</string>
