@@ -8,10 +8,10 @@
 	<string id="st_wpn_stv380_m_descr">
 		<text>
 		베트남의 STV 소총은 베트남에서 제작된 돌격소총 계열입니다. 이 소총들은 모두 Z111 공장에서 조립되었으며, 7.62x39mm 탄약을 사용합니다.\n STV 소총은 IWI 갈릴 에이스의 개조판으로, Z111 공장에서 개조 작업이 이루어졌습니다. 주요 목적은 베트남 군인들이 이전에 사용하던 AK-47과 AKM 돌격소총에서 새로 군에 도입된 소총에 익숙해지도록 돕는 것이었습니다.\n\n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 7.62x39mm compatible suppressor\n
-		%c[d_purple] � %c[ui_gray_2] M203 grenade launcher\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 7.62x39mm 호환 소음기\n
+		%c[d_purple] 언더배럴: %c[ui_gray_2] M203 유탄 발사기\n \n
 		</text>
 	</string>
 
@@ -24,10 +24,10 @@
 	<string id="st_wpn_scarl_m_descr">
 		<text>
 		특수 작전 부대 전투 돌격 소총(SCAR)은 SOCOM을 위해 FN Herstal에서 제작한 모듈식 소총입니다.\n SCAR 제품군에는 SCAR-H와 SCAR-L 총 두개가 있습니다. SCAR-L (Light)은 5.56x45mm NATO 탄약을 사용합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n
-		%c[d_purple] � %c[ui_gray_2] FN Herstal FN40GL Mk2 grenade launcher\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n
+		%c[d_purple] 언더배럴: %c[ui_gray_2] FN Herstal FN40GL Mk2 유탄 발사기\n \n
 		</text>
 	</string>
 
@@ -37,9 +37,9 @@
 	<string id="st_wpn_rsass_m_descr">
 		<text>
 		레밍턴 암즈와 JP 엔터프라이즈에서 제작한 레밍턴 반자동 저격소총 시스템(R.S.A.S.S)은 높은 정확도와 빠른 발사를 요구하는 저격 소총의 필요성을 충족하도록 설계되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 7.62x51mm compatible suppressor\n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 7.62x51mm 호환 소음기\n
 		</text>
 	</string>
 
@@ -49,8 +49,8 @@
 	<string id="st_wpn_mp155_u_descr">
 		<text>
 		칼라시니코브 그룹에서 설계하고 제조한 MP-155 울티마는 전투 산탄총으로, 사용자가 전투 중 쉽게 정보를 접근할 수 있도록 설계되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
 		</text>
 	</string>
 
@@ -60,9 +60,9 @@
 	<string id="st_wpn_mcx_m_descr">
 		<text>
 		SIG Sauer에서 설계하고 제조한 SIG MCX는 다양한 군사 부문의 요구를 충족하기 위해 개발된 총기 제품군 중 하나입니다. 그 중 SIG MCX "버투스"는 2세대 MCX 개량판 입니다. 내구성을 위해 기존의 KeyMod 타입의 핸드가드 대신 맥풀 M-LOK 타입으로 변경했으며, 5.56x45mm NATO 탄약을 사용합니다.  \n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] Surefire SOCOM556-Monster suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Surefire SOCOM556-Monster 소음기\n \n
 		</text>
 	</string>
 
@@ -72,8 +72,8 @@
 	<string id="st_wpn_m590a1_m_descr">
 		<text>
 		모스버그 590은 O.F. Mossberg &amp; Sons 회사에서 1970년대에 기존 모스버그 모델 500 산탄총의 개선된 버전 입니다. 수정 사항에는 총열 주변의 통풍된 열 차폐막 설치, 총검장치, 확장 탄창, 플라스틱 대신 알루미늄 트리거 가드가 포함되었습니다.  총기는 'Cruiser' 모드로 쉽게 변환할 수 있는 교체용 권총 그립이 제공됩니다. 1987년 이후, 이는 미국 군대의 표준 산탄총이었으며, 이후에 베넬리 M1014 반자동 산탄총으로 대체되었지만, 모스버그 590A1 산탄총은 여전히 미 해군 및 미 해병대에서 사용되고 있습니다.\n \n
-	    %c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+	    %c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
 		</text>
 	</string>
 	
@@ -83,9 +83,9 @@
 	<string id="st_wpn_honey_badger_m_descr">
 		<text>
 		AAC 허니뱃저 PDW는 AR-15 플랫폼을 기반으로 일체형 소음기를 장착하고 있는 PDW입니다.\n 이 총기는 Zone에서의 사용을 위해 특별 개조되어 일체형 소음기를 제거했고, .300 Blackout 탄약 대신 5.56x45mm 탄약을 사용하도록 만들어졌습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] Surefire SOCOM556-Monster suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Surefire SOCOM556-Monster 소음기\n \n
 		</text>
 	</string>
 
@@ -95,9 +95,9 @@
 	<string id="st_wpn_brn_180_m_descr">
 		<text>
 		Brownells에서 설계하고 제작한 BRN-180은 1960년대에 도입된 AR-18/AR-180 소총의 여러 개선 사항을 통합하였으며, 여기에는 더욱 견고하고 신뢰할 수 있는 가스 피스톤 작동 시스템이 포함됩니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] Surefire SOCOM556-Monster suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Surefire SOCOM556-Monster 소음기\n \n
 		</text>
 	</string>
 
@@ -107,9 +107,9 @@
 	<string id="st_wpn_adar_m_descr">
 		<text>
 		ADAR 2-15는 AR-15 플랫폼에서 개발된 러시아 민간 총기입니다. 이 총기는 이스라엘산 부품으로 구성되며, Molot Arms에서 생산한 총열을 사용합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] Advanced Armament (AAC) M4-2000 suppressor\n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Advanced Armament (AAC) M4-2000 소음기\n
 		</text>
 	</string>
 
@@ -119,11 +119,11 @@
 	<string id="st_grenade_rgn_impact_descr">
 		<text>
 		RGN 수류탄은 Ruchnaya Granata Nastupatel'naya(공세용 수류탄)의 약어로, 소련의 공격용 파편 수류탄입니다.\n \n\n \n
-		%c[ui_gray_3]CHARACTERISTICS:\n
-		%c[d_purple] � %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
-		%c[d_purple] � %c[ui_gray_2] Blast radius: %c[ui_gray_1]2-5 m\n
-		%c[d_purple] � %c[ui_gray_2] Avg. number of fragments: %c[ui_gray_1]75 (small shrapnels)\n
-		%c[d_purple] � %c[ui_gray_2] Explosion delay: %c[ui_gray_1]1.8 seconds\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] 소음기: 충격량: %c[ui_gray_1]중간\n
+		%c[d_purple] 소음기: 충격 도달 범위: %c[ui_gray_1]2-5m\n
+		%c[d_purple] 소음기: 평균 파편량 : %c[ui_gray_1]75 (소형 파편)\n
+		%c[d_purple] 소음기: 지연 시간: %c[ui_gray_1]1.8초\n \n
 		</text>
 	</string>
 
@@ -133,11 +133,11 @@
 	<string id="st_grenade_rgo_impact_descr">
 		<text>
 		RGO 수류탄은 Ruchnaya Granata Oboronitel'naya(방어용 수류탄)의 약어로, 소련의 방어용 파편 수류탄입니다.\n \n
-		%c[ui_gray_3]CHARACTERISTICS:\n
-		%c[d_purple] � %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
-		%c[d_purple] � %c[ui_gray_2] Blast radius: %c[ui_gray_1]2-7 m\n
-		%c[d_purple] � %c[ui_gray_2] Avg. number of fragments: %c[ui_gray_1]85 (small shrapnels)\n
-		%c[d_purple] � %c[ui_gray_2] Explosion delay: %c[ui_gray_1]1.8 seconds\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] 소음기: 충격량: %c[ui_gray_1]중간\n
+		%c[d_purple] 소음기: 충격 도달 범위: %c[ui_gray_1]2-7 m\n
+		%c[d_purple] 소음기: 평균 파편량 : %c[ui_gray_1]85 (소형 파편)\n
+		%c[d_purple] 소음기: 지연 시간: %c[ui_gray_1]1.8초\n \n
 		</text>
 	</string>
 
@@ -147,9 +147,9 @@
 	<string id="st_wpn_type89_m_descr">
 		<text>
 		일본의 호화 공업에서 생산한 89식 돌격 소총은 5.56x45mm 탄약을 사용하는 돌격 소총입니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] Surefire SOCOM556-Monster suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Surefire SOCOM556-Monster 소음기\n \n
 		</text>
 	</string>
 
@@ -159,9 +159,9 @@
     <string id="st_wpn_famas3_descr">
         <text>
 		파마스(FAMAS)는 Fusil d'Assaut de la Manufacture d'Armes de St-Etienne(생테티엔 무기 공장제 돌격 소총)의 약어입니다. 이 소총의 개발은 프랑스 무기 설계자 폴 텔리에 의해 1967년에 시작되었습니다. 이 새로운 소총은 노후화된 MAS Mle.49/56 반자동 소총, MAT-49 기관단총 및 MAC Mle.1929 경기관총을 대체할 목적으로 제작되었습니다. 첫 번째 파마스 프로토타입은 1971년에 제작되었으며, 프랑스 군대는 1972년에 이 소총을 테스트하기 시작했습니다. 그 사이에 프랑스는 스위스 설계의 SIG SG-540 5.56mm 돌격 소총을 임시 해결책으로 채택했습니다. 파마스는 1978년에 프랑스군에 채택되어 그 이후로 "Le Clairon"(불룩이)라는 별명을 얻고 프랑스 군대의 표준 소총이 되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
     </string>
 
@@ -171,33 +171,33 @@
 	<string id="st_wpn_mp7_descr">
 		<text>
 		Heckler &amp; Koch MP7 (Maschinenpistole 7)는 독일에서 제작된 PDW로, H&amp;K에서 설계하고 제조하며 4.6x30mm 탄약을 사용합니다. 이 무기는 1989년에 발표된 NATO 요구사항을 충족하기 위해 새로운 탄약으로 설계되었으며, 이는 기존의 일반 권총 탄약에 제한된 무기보다 더 높은 방탄복 관통 능력을 갖춘 개인 방어 무기(PDW) 클래스를 요구합니다. MP7은 2001년에 생산에 들어갔습니다.\n 하지만 원본과는 다르게 Zone에서는 4.6x30mm 탄약 대신 9x19mm 또는 9x18mm 탄약을 사용하도록 개조된 MP7만 유통되고 있습니다. \n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 9x19mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 9x19mm 호환 소음기\n \n
 		</text>
 	</string>
 
 	<string id="st_wpn_mp5_descr">
 		<text>
 		MP5는 가장 유명하고 널리 퍼진 기관단총 중 하나입니다. MP5의 소형화, 정확성 및 신뢰성 덕분에 전 세계 수많은 군대, 법 집행 기관, 정보 기관 및 보안 조직의 사랑을 받게 되었습니다. MP5A3는 접이식 금속 스톡이 장착되어 있습니다. 당연히 Zone에도 상당한 물량이 흘러들어왔고 흔하게 찾아볼 수 있습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] 9x19mm compatible suppressor (after modification)\n \n</text>
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 9x19mm 호환 소음기 (개조 후 이용가능)\n \n</text>
 	</string>
 	<string id="st_wpn_mp5_nimble_descr">
 		<text>
 		검증받은 MP5A3 모델을 기반으로 한 기관단총 프로토타입입니다. 차세대 근접 전투 무기로 설계된 이 총기는 더 높은 구경, 발사 속도 및 정확성의 이점을 가지고 있습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] Gemtech suppressor (after modification)\n \n</text>
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 젬테크 소음기 (개조 후 이용가능)\n \n</text>
 	</string>
 
 	<string id="st_wpn_mp5sd_descr">
 		<text>
 		통합 소음기가 장착된 MP5의 변형입니다. 주로 용병들이 선호합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] Special MP5SD suppressor (integrated)\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Special MP5SD suppressor (일체형)\n \n
 		</text>
 	</string>
 
@@ -207,9 +207,9 @@
 	<string id="st_wpn_p90_descr">
 		<text>
 		FN P90 기관단총은 1980년대 후반에 총기를 사용하기 힘든 보직의 병사들, 예를 들어 차량 및 탱크 승무원, 포병 부대 등을 위한 PDW로 개발되었습니다. 표준 권총과 기관단총은 방탄복을 착용한 적에게 효과가 없다는 것이 입증되었습니다. FN 디자이너들은 낮은 반동을 유지하면서 높은 관통력을 달성하기 위해 SS90으로 처음 명명된 새로운 탄약을 개발했습니다. FN은 소구경 방식을 사용하여 5.56 NATO 탄약을 축소한 것처럼 보이는 탄환을 만들었습니다. 그 결과 1990년에 소개된 FN P90 PDW가 탄생하였으며, 방탄복에 대한 더 나은 관통력을 위해 폴리머 코어 탄환을 중량이 더 큰 이중 코어, 강철 및 알루미늄 탄환으로 대체한 개선된 5.7x28 SS190 탄약과 함께 출시되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.7x28mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.7x28mm 호환 소음기\n \n
 		</text>
 	</string>
 	<string id="st_wpn_p90_custom">
@@ -218,9 +218,9 @@
 	<string id="st_wpn_p90_custom_descr">
 		<text>
 		FN P90 기관단총은 1980년대 후반에 총기를 사용하기 힘든 보직의 병사들, 예를 들어 차량 및 탱크 승무원, 포병 부대 등을 위한 PDW로 개발되었습니다. 표준 권총과 기관단총은 방탄복을 착용한 적에게 효과가 없다는 것이 입증되었습니다. FN 디자이너들은 낮은 반동을 유지하면서 높은 관통력을 달성하기 위해 SS90으로 처음 명명된 새로운 탄약을 개발했습니다. FN은 소구경 방식을 사용하여 5.56 NATO 탄약을 축소한 것처럼 보이는 탄환을 만들었습니다. 그 결과 1990년에 소개된 FN P90 PDW가 탄생하였으며, 방탄복에 대한 더 나은 관통력을 위해 폴리머 코어 탄환을 중량이 더 큰 이중 코어, 강철 및 알루미늄 탄환으로 대체한 개선된 5.7x28 SS190 탄약과 함께 출시되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.7x28mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.7x28mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -230,9 +230,9 @@
 	<string id="st_wpn_ash12_descr">
 		<text>
 		ASH-12.7 전투 소총은 CQB/시가전용 무기로, 러시아의 툴라에 위치한 KBP 기계 설계국의 자회사인 TsKIB SOO("중앙 스포츠 및 사냥 무기 설계 및 연구국")에 의해 러시아 FSB(연방 보안 서비스)의 요청으로 개발되었습니다. 이 무기는 도시 환경에서 활동하는 FSB의 특수 부대를 위해 설계되었으며, 중무장한 갱단 및 테러리스트를 한 발로 제거할 수 있도록 엄청난 근거리 저지력을 염두에 두고 제작되었습니다. \n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 12.7mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 12.7mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -242,9 +242,9 @@
 	<string id="st_wpn_mk14_descr">
 		<text>
 		미 해군 Mark 14 Enhanced Battle Rifle (Mk 14 EBR, "개선된 전투 소총")은 M14 소총을 기반으로 미국 해군의 특수 작전 부대에서 제작한 미국의 저격 소총입니다. 씰을 포함한 해군의 여러 특수 부대에서 사용됩니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -254,9 +254,9 @@
 	<string id="st_wpn_g3_descr">
 		<text>
 		G3A3는 독일의 무기 제조업체 Heckler &amp; Koch GmbH가 스페인 국영 설계/개발 기관 CETME(Centro de Estudios Tecnicos de Materiales Especiales)와 협력하여 1950년대에 개발한 전투 소총입니다. 이 총은 7.62x51mm NATO 탄약을 사용하도록 설계되었으며, 롤러 지연 블로우백 작동 방식을 사용합니다. 이 소총은 독일 엔지니어 Dr. Ludwig Vorgrimler가 설계한 CETME mod. A에서 디자인을 따왔습니다. 1957년, Heckler &amp; Koch는 이 소총을 제조할 수 있는 라이선스를 구입하였으며, CETME 디자인에 소규모 수정이 이루어졌습니다. 1959년에는 Bundeswehr에 의해 G3로 공식 채택되었으며, 1995년 G36으로 대체될 때까지 사용되었습니다. 독일 군대에 의해 공식적으로 대체되었음에도 불구하고 여전히 제한적으로 사용되고 있습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -266,9 +266,9 @@
 	<string id="st_wpn_sig552_descr">
 		<text>
 		SG 552 Commando는 시가전을 위해 설계된 SIG의 유명한 SG 550 제품군 중 하나입니다. 제품군 중 가장 작으며 CQC에서 탁월한 성능을 보입니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -278,16 +278,16 @@
 	<string id="st_wpn_m82_descr">
 		<text>
 		바렛 M82는 M107로도 알려진 미국의 반자동 대구경 저격 소총으로, Barrett Firearms Manufacturing에서 제조되며 전 세계 여러 국가에서 사용되고 있습니다. 이 소총의 자동 작동 방식은 버터플라이 밸브를 기반으로 하고 있습니다. 이 소총은 "대물" 저격총이지만, 대인용으로도 자주 사용됩니다.\n \n
-	    %c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n \n
+	    %c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n \n
 		</text>
 	</string>
 
 	<string id="st_wpn_sv98_custom_descr">
 		<text>
 		SV-98 (Snaiperskaya Vintovka Model 1998)은 블라디미르 스트론스키가 설계한 러시아의 볼트 액션 저격 소총입니다. 2003년, 특수 작전 부대는 SV-98 저격 소총과 7N14 저격용 향상된 관통력을 갖춘 탄약으로 구성된 7.62mm 6S11 저격 시스템으로 무장했습니다. 이 소총은 체첸에서의 작전 중 전투에 사용되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n \n
 		</text>
 	</string>
 
@@ -297,9 +297,9 @@
 	<string id="st_wpn_ace21_descr">
 		<text>
 		Galil ACE 제품군은 이스라엘 무기 회사 IWI Ltd.에서 설계 및 생산합니다. ACE Galil 소총의 기초는 갈릴 돌격 소총으로, 이는 다시 칼라시니코프의 AK 소총을 기반으로 합니다. Galil ACE는 인체 공학, 사용 편의성 및 추가 장비와의 통합, 그리고 전투에서의 유연성에 중점을 두고 있습니다. Galil ACE 제품군은 세계에서 가장 일반적인 세 가지 종류의 탄약(5.56x45 NATO, 7.62x39 M43 및 NATO 7.62x51)을 포함하며, 각 종류에 따라 여러 총열 길이를 제공합니다. 이 특정 변형은 5.56x45 NATO 탄약을 사용하며 단축 총열을 가지고 있습니다. Zone에서는 이 돌격 소총이 진정한 희귀품입니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -308,10 +308,10 @@
 	</string>
 	<string id="st_wpn_hk416_descr">
 		<text>HK416은 M4를 개선하기 위해 Heckler &amp; Koch에서 설계 및 제조한 소총입니다. 이 총은 완제품으로 제공되거나, 모든 AR-15 타입의 리시버에 장착할 수 있는 상부 리시버로 제공됩니다. 미국 육군의 델타 포스는 새로운 소총 개발을 위해 독일 무기 제조업체들과 협력했습니다. 2004년에 H&amp;K 416을 테스트한 결과, 피스톤 작동 시스템이 오작동을 크게 줄이는 동시에 부품의 수명을 늘린다는 것이 밝혀졌습니다. 이 프로젝트는 원래 H&amp;K M4로 불렸으나, 콜트사의 상표 침해 소송에 대응하여 이름이 변경되었습니다. 현재 이 소총은 정부 및 군사 조직에만 제공되므로, 이 돌격 소총은 일반적으로 용병들이 소지하고 있습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n
-		%c[d_purple] � %c[ui_gray_2] M203 grenade launcher\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n
+		%c[d_purple] 언더배럴: %c[ui_gray_2] M203 유탄 발사기\n \n
 		</text>
 	</string>
 
@@ -321,20 +321,20 @@
 	<string id="st_wpn_sr25_descr">
 		<text>
 		SR-25 (Stoner Rifle Model 25)는 Knights Armament Co.의 소유주인 리드 나이트와 유진 스토너 의해 개발되었습니다. SR-25는 7.62x51mm NATO 또는 .308 탄약을 발사할 수 있도록 설계된 AR-15 소총입니다. SR-25 플랫폼에서 제작된 모든 소총은 동일한 기본 작동 방식을 공유하며, AR-15/M16 시스템을 기반으로 하고 있습니다. AR-15 스타일의 반동 완충 장치가 리시버 뒤쪽에 있기 때문에 SR-25에는 접이식 스톡을 장착할 수 없습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] SR-25 special suppressor\n
-		%c[d_purple] � %c[ui_gray_2] FN Herstal FN40GL Mk2 grenade launcher\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] SR-25 special 소음기\n
+		%c[d_purple] 언더배럴: %c[ui_gray_2] FN Herstal FN40GL Mk2 유탄 발사기\n \n
 		</text>
 	</string>
 
 	<string id="st_wpn_scar_descr">
 		<text>
 		특수 작전 부대 전투 돌격 소총(SCAR)은 SOCOM을 위해 FN Herstal에서 제작한 모듈식 소총입니다.\n SCAR 제품군에는 SCAR-H와 SCAR-L 총 두개가 있습니다. SCAR-H (Heavy)는 7.62x51mm NATO 탄약을 사용합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] AAC 7.62 SDN-6 suppressor\n
-		%c[d_purple] � %c[ui_gray_2] FN Herstal FN40GL Mk2 grenade launcher\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] AAC 7.62 SDN-6 소음기\n
+		%c[d_purple] 언더배럴: %c[ui_gray_2] FN Herstal FN40GL Mk2 유탄 발사기\n \n
 		</text>
 	</string>
 
@@ -343,18 +343,18 @@
 	</string>
 	<string id="st_wpn_val_descr">
 		<text>AS Val은 러시아 군의 정찰 부대와 MVD(내무부), FSB(연방 보안국) 특수 부대에서 널리 사용됩니다. AS-VAL에는 일체형 소음기가 장착되어 있으며 리시버는 강도를 높이기 위해 강철 단조로 가공되었습니다. 이 소총은 광학 조준기, 야간 투시경 또는 레드닷 조준기를 위한 표준 측면 장착 레일이 있지만, 총검이나 유탄 발사기를 장착할 수 있는 장치는 없습니다. 통합된 소음기는 유지보수, 수리 또는 소형 보관을 위해 쉽게 분리할 수 있지만, 안전성과 신뢰성 문제로 인해 소음기를 제거한 채로 발사해서는 안 됩니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_val_modern">
 		<text>AS Val (현대화)</text>
 	</string>
 	<string id="st_wpn_val_modern_descr">
 		<text>AS Val은 러시아 군의 정찰 부대와 MVD(내무부), FSB(연방 보안국) 특수 부대에서 널리 사용됩니다. AS-VAL에는 일체형 소음기가 장착되어 있으며 리시버는 강도를 높이기 위해 강철 단조로 가공되었습니다. 이 소총은 광학 조준기, 야간 투시경 또는 레드닷 조준기를 위한 표준 측면 장착 레일이 있지만, 총검이나 유탄 발사기를 장착할 수 있는 장치는 없습니다. 통합된 소음기는 유지보수, 수리 또는 소형 보관을 위해 쉽게 분리할 수 있지만, 안전성과 신뢰성 문제로 인해 소음기를 제거한 채로 발사해서는 안 됩니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
-		%c[d_purple] � %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-01, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
 	</string>
 
 	<string id="st_wpn_m_mk47">
@@ -363,17 +363,17 @@
 	<string id="st_wpn_m_mk47_descr">
 		<text>
 		CMMG Mk47 Mutant는 7.62x39mm 구경의 미국산 카빈으로, CMMG Inc.에서 제조되었습니다. 이 카빈은 강철, 폴리머 및 드럼을 포함한 모든 유형의 AK 탄창과 호환됩니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] Hexagon 5.45/7.62x39mm sound suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Hexagon 5.45/7.62x39mm 소음기\n\n \n
 		</text>
 	</string>
 
 	<string id="st_wpn_ump45_descr">
 		<text>UMP는 1990년대 H&amp;K에 의해 개발되어 1999년에 시장에 처음 등장했습니다. UMP의 아이디어는 MP5보다 가볍고 강력하며 가격이 더 저렴한 기관단총을 만드는 것이었습니다. UMP는 주로 미국의 법 집행을 위해 설계되었으며, .45ACP와 .40SW 구경으로 출시되었고, 이후 9mm 버전도 나왔습니다. UMP45는 MP5보다 더 큰 저지력을 제공하지만, 더 많은 반동을 발생시킵니다. 이로 인해 완전 자동 발사를 제어하는 것이 더 어려워졌습니다. 이러한 문제를 해결하기 위해 UMP45의 RPM을 낮출 수 밖에 없었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes, Leupold, March\n
-		%c[d_purple] � %c[ui_gray_2] Gemtech suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes, Leupold, March\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 젬테크 소음기\n \n
 		</text>
 	</string>
 
@@ -383,8 +383,8 @@
 	<string id="st_wpn_vepr101_m_descr">
 		<text>
 		7.62x51mm 구경의 반자동 사냥 카빈입니다. 이 카빈은 칼라시니코프 기관총(RPK) 플랫폼을 기반으로 만들어졌으며, 유사한 외관, 무게 및 치수를 가지고 있습니다. 중대형 사냥 및 스포츠 용도로 전문 및 아마추어 사냥을 위해 설계되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO1, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO1, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n \n
 		</text>
 	</string>
 	<string id="st_mag_efpwp_vpo_101_5">
@@ -427,9 +427,9 @@
 	<string id="st_wpn_sag545_m_descr">
 		<text>
 		5.45x39mm 구경의 AK로, Sureshot Armament Group에서 개발되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] TGP-A suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] TGP-A 소음기\n \n
 		</text>
 	</string>
 
@@ -439,8 +439,8 @@
 	<string id="st_wpn_vpo136_m_descr">
 		<text>
 		Molot Vepr-KM/VPO-136 카빈은 잘 알려진 칼라시니코프 AKM을 기반으로 하며, 외관, 무게 및 전체 치수가 거의 동일합니다. 중대형 사냥 및 스포츠 용도로 설계되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] PBS-1 suppressor\n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 소음기: %c[ui_gray_2] PBS-1 소음기\n
 		</text>
 	</string>
 
@@ -450,9 +450,9 @@
 	<string id="st_wpn_rd704_m_descr">
 		<text>
 		Rifle Dynamics 704 돌격 소총은 7.62x39mm 구경의 AK 시스템의 개선된 버전으로, Rifle Dynamics에서 제조되었습니다. 표준 AK와의 주요 차이점은 전방 부분의 디자인이 리시버에 더 가까운 중심을 이동시켜 무기의 조작성을 크게 향상시켰다는 점입니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] Rifle Dynamics ISG sound suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Rifle Dynamics ISG 소음기\n\n \n
 		</text>
 	</string>
 
@@ -462,8 +462,8 @@
 	<string id="st_wpn_t5000_m_descr">
 		<text>
 		고정밀 ORSIS T-5000 소총은 전문 사수들과 도움아래 개발되었으며 러시아 시장 고객이 요구하는 모든 특성을 만족시키고 있습니다. T-5000 모델은 슬라이딩 브리치 볼트와 두 개의 전방 잠금 장치를 가진 볼트액션 방식 소총입니다. 다목적 무기로 설계되었으며, 사양은 고정밀 장거리 사격(최대 1500m), 준비, 발사, 반동 단계에서의 사수 편의성, 빠른 조준선 회복, 우수한 신뢰성과 인체 공학을 제공합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] Daniel Defence Wave QD suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 소음기: %c[ui_gray_2] Daniel Defence Wave QD 소음기\n \n
 		</text>
 	</string>
 
@@ -473,9 +473,9 @@
 	<string id="st_wpn_g28_m_descr">
 		<text>
 		HK G28 소총은 소형 보병 부대를 위한 지원 무기로 H&amp;K에 의해 특별히 개발되었습니다. G28은 HK MR308을 기반으로 하며, 이는 다시 HK 417 자동 소총의 민수용으로도 사용됩니다. 여러 차이점에도 불구하고 HK G28은 HK 417과 75% 이상 호환 가능합니다. 이 소총은 표준 5.56mm 돌격 소총으로는 접근할 수 없는 거리에서 발사할 수 있도록 설계되었습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] AAC 7.62 SDN-6 suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] AAC 7.62 SDN-6 소음기\n \n
 		</text>
 	</string>
 
@@ -485,10 +485,10 @@
 	<string id="st_knife_6x4_descr">
 		<text>
 			Bars A-2607 단검은 95H18 강철로 단조되었으며, 고급 목재 손잡이와 황동 가드가 특징입니다.\n \n
-			%c[ui_gray_3]PROPERTIES:\n
-			%c[d_blue] � %c[ui_gray_2] military item\n
-			%c[d_blue] � %c[ui_gray_2] melee weapon\n
-			%c[d_red] � %c[ui_gray_2] unsuitable for cutting thick-skinned mutants\n \n
+			%c[ui_gray_3]특징:\n
+			%c[d_blue] ::: %c[ui_gray_2] 군용품\n
+			%c[d_blue] ::: %c[ui_gray_2] 근접 무기\n
+			%c[d_red] ::: %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -498,10 +498,10 @@
 	<string id="st_knife_needle_descr">
 		<text>
 			6H5라고도 불리는 6Kh5총검은 1989년에 AK 돌격소총에 사용하기 위해 채택 및 보급된 총검입니다.
-			%c[ui_gray_3]PROPERTIES:\n
-			%c[d_blue] � %c[ui_gray_2] military item\n
-			%c[d_blue] � %c[ui_gray_2] melee weapon\n
-			%c[d_red] � %c[ui_gray_2] unsuitable for cutting thick-skinned mutants\n \n
+			%c[ui_gray_3]특징:\n
+			%c[d_blue] ::: %c[ui_gray_2] 군용품\n
+			%c[d_blue] ::: %c[ui_gray_2] 근접 무기\n
+			%c[d_red] ::: %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -511,10 +511,10 @@
 	<string id="st_knife_hunting_descr">
 		<text>
 			SP8은 탄소강으로 제작된 서바이벌 마체테입니다.\n \n
-			%c[ui_gray_3]PROPERTIES:\n
-			%c[d_blue] � %c[ui_gray_2] hunting item\n
-			%c[d_blue] � %c[ui_gray_2] melee weapon\n
-			%c[pda_green] � %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n
+			%c[ui_gray_3]특징:\n
+			%c[d_blue] ::: %c[ui_gray_2] 사냥 용품\n
+			%c[d_blue] ::: %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] ::: %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -524,10 +524,10 @@
 	<string id="st_knife_swat_descr">
 		<text>
 			풀네임 UVSR "Device for carrying out rescue operations" Taiga-1은 진정으로 다재다능한 생존 도구입니다. 무기이자 삽이자 도끼는 물론, 상상할 수 있는 모든 것이 될 수 있습니다. 이는 다양한 기관을 위해 소련에서 개발 및 생산되었습니다.\n \n\n \n
-			%c[ui_gray_3]PROPERTIES:\n
-			%c[d_blue] � %c[ui_gray_2] military item\n
-			%c[d_blue] � %c[ui_gray_2] melee weapon\n
-			%c[pda_green] � %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n
+			%c[ui_gray_3]특징:\n
+			%c[d_blue] ::: %c[ui_gray_2] 군용품\n
+			%c[d_blue] ::: %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] ::: %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -537,10 +537,10 @@
 	<string id="st_knife_combat_descr">
 		<text>
 			광범위하게 사용되는 도끼로 캠핑이나 여행은 물론 농업이나 도축용으로도 사용할 수 있습니다.\n \n
-			%c[ui_gray_3]PROPERTIES:\n
-			%c[d_blue] � %c[ui_gray_2] military item\n
-			%c[d_blue] � %c[ui_gray_2] melee weapon\n
-			%c[pda_green] � %c[ui_gray_2] suitable for cutting thick-skinned mutants\n \n
+			%c[ui_gray_3]특징:\n
+			%c[d_blue] ::: %c[ui_gray_2] 군용품\n
+			%c[d_blue] ::: %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] ::: %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -550,10 +550,10 @@
 	<string id="st_axe3_descr">
 		<text>
 			우레탄으로 코팅된 망치로 스틸 볼을 사용하여 충격을 완화하고 손잡이로 전달되는 반동을 줄이도록 설계되었습니다. "둔탁한" 소리를 제공합니다.\n \n
-			%c[ui_gray_3]PROPERTIES:\n
-			%c[d_blue] � %c[ui_gray_2] everyday item\n
-			%c[d_blue] � %c[ui_gray_2] melee weapon\n
-			%c[pda_green] � %c[ui_gray_2] greater reach compared to knives\n \n
+			%c[ui_gray_3]특징:\n
+			%c[d_blue] ::: %c[ui_gray_2] everyday item\n
+			%c[d_blue] ::: %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] ::: %c[ui_gray_2] greater reach compared to knives\n \n
 		</text>
 	</string>
 
@@ -563,9 +563,9 @@
 	<string id="st_wpn_m3s90_m_descr">
 		<text>
 		베넬리 M3 S90은 베넬리사에서 설계 및 제조한 이중 모드 산탄총입니다. 사용자는 반자동 또는 펌프 액션 작동 중에서 선택할 수 있습니다. 베넬리 산탄총은 뛰어난 탄도 성능을 보여주며, 마감 처리와 섬세한 장인은 전통적인 이탈리아 스타일의 정수를 나타냅니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech\n
-		%c[d_purple] � %c[ui_gray_2] SilencerCo Salvo 12 suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] 소음기: %c[ui_gray_2] SilencerCo Salvo 12 소음기\n \n
 		</text>
 	</string>
 
@@ -575,8 +575,8 @@
 	<string id="st_wpn_remington870_descr">
 		<text>
 		레밍턴 870은 1950년에 Remington Arms에 의해 처음 소개된 미국산 총입니다. 그 특징적인 재장전 방식 덕분에 세계에서 가장 유명한 펌프 액션 소총 중 하나입니다. 다양한 버전으로 생산되며, 군대와 경찰, 사냥꾼과 스포츠맨, 그리고 자기 방어용으로 모두 적합합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] Barska ES AC10632, C-MORE Tactical, EOTech, ACOG scopes\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] Barska ES AC10632, C-MORE Tactical, EOTech, ACOG scopes\n \n
 		</text>
 	</string>
 
@@ -586,8 +586,8 @@
 	<string id="st_wpn_m870breacher_m_descr">
 		<text>
 		레밍턴 870은 1950년에 Remington Arms에 의해 처음 소개된 미국산 총입니다. 그 특징적인 재장전 방식 덕분에 세계에서 가장 유명한 펌프 액션 소총 중 하나입니다. 다양한 버전으로 생산되며, 군대와 경찰, 사냥꾼과 스포츠맨, 그리고 자기 방어용으로 모두 적합합니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] Barska ES AC10632, C-MORE Tactical, EOTech, ACOG scopes\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] Barska ES AC10632, C-MORE Tactical, EOTech, ACOG scopes\n \n
 		</text>
 	</string>
 
@@ -597,9 +597,9 @@
 	<string id="st_wpn_tx15_m_descr">
 		<text>
 		The TX15 Designated Marksman Light (DML) 시리즈는 소형 프레임 반자동 정밀 소총의 기준을 설정합니다. 다목적 카빈 개발 중 얻은 데이터를 활용하여 DML은 중거리 사격에 최적화되어 있습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
 	</string>
 
@@ -608,9 +608,9 @@
 	</string>
 	<string id="st_wpn_fal_descr">
 		<text>FN FAL은 벨기에의 Fabrique Nationale de Herstal에서 생산된 NATO 규격 총기입니다. 가장 잘 알려진 자동 소총 중 하나로 FN FAL은 원래 제2차 세계 대전 중 독일이 사용했던 7.92x33mm 탄환을 위해 개발되었고, 이후 .280 British 탄환의 프로토타입이 등장했습니다. 나중에 7.62x51mm NATO에 맞게 재설계되어 NATO 국가의 단일 탄환으로 채택되었습니다. 냉전 동안 "자유 세계의 오른손"이라는 별명을 받았습니다.\n \n
-		%c[ui_gray_3]부착물:\n
-		%c[d_purple] � %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
-		%c[d_purple] � %c[ui_gray_2] 5.56x45mm compatible suppressor\n \n
+		%c[ui_gray_3]부착물\n
+		%c[d_purple] 조준경: %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, Leupold, March, Mark 8 w/ rmr scopes\n
+		%c[d_purple] 소음기: %c[ui_gray_2] 5.56x45mm 호환 소음기\n \n
 		</text>
 	</string>
 

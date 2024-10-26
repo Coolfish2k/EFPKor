@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 
-<!----------------------------- Utilities ----------------------------->
+
 
 	<!-- Mutants -->
 	<string id="st_dyn_news_lurker_1">
@@ -2805,7 +2805,6 @@
 	</string>
 
 	
-<!----------------------------- Reports and Responses ----------------------------->
 	
 		<!-- Response - death by stalker -->
 	<string id="st_dyn_news_res_death_stalker_1">
@@ -4582,7 +4581,7 @@
 	</string>
 	
 	
-<!----------------------------- Task news ----------------------------->
+
 	
 	<!-- Bounty gossip -->
 	<string id="st_dyn_news_gossip_bounty_1">
@@ -4685,7 +4684,7 @@
 		<text>스토커들, 미확인 무선 전송이 최근에 탐지됐어. 지금 출처를 조사할 사람을 찾고 있으니까 벙커에서 만나지. 자세한 그때 알려주겠어.</text>
 	</string>
 
-<!----------------------------- Random news ----------------------------->
+ 
 
 	<!-- Post-surge -->
 	<string id="st_dyn_news_surge_after_1">
@@ -7835,7 +7834,7 @@
 		<text>몸에 아주 이상한 일이 일어나고 있다... 점점 사라져가는 것 같다!</text>
 	</string>
 
-<!----------------------------- Special news ----------------------------->
+
 	<!-- Time news -->
 	<string id="st_dyn_news_time_night_1">
 		<text>젠장, 오늘따라 너무 어둡지 않아? 왠만하면 캠프 가까이에 붙어 있자고.</text>
@@ -9030,7 +9029,7 @@
 	</string>
 	
 	
-<!----------------------------- Companions news ----------------------------->
+
 	
 	<!-- Companions - Life -->
 	<string id="st_dyn_news_companion_life_all_1">
@@ -11687,8 +11686,7 @@
 		<text>해냈다. $location 지역을 확보했다. 겁쟁이놈들 총을 던지고 도망이나 가고.</text>
 	</string>
 
-<!----------------------------- Extra ----------------------------->
-	
+
 	<!-- Special -->
 	<string id="st_dyn_news_spc_obituary_s">
 		<text>$clr_1사망 보고 :$clr_2 $who_name ($who_comm). $victim_name ($victim_comm)을(를) 살해함\n$clr_1확인된 위치 :$clr_2 $where.</text>
@@ -11756,17 +11754,20 @@
 	<string id="st_dyn_news_day_part_pm">
 		<text>오후</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_s_p">
-		<text>경</text>
+		<text>간쯤 후</text>
 	</string>
 	<string id="st_dyn_news_in">
 		<text>앞으로</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_and">
-		<text>의</text>
+		<text>과(와)</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_or">
-		<text>내외</text>
+		<text>혹은</text>
 	</string>
 	<string id="st_dyn_news_at">
 		<text>정각</text>
@@ -11774,8 +11775,9 @@
 	<string id="st_dyn_news_by">
 		<text>다음</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_so">
-		<text>가량</text>
+		<text>그 쯤</text> 
 	</string>
 	<string id="st_dyn_news_after">
 		<text>현 시간 이후</text>
@@ -11786,17 +11788,20 @@
 	<string id="st_dyn_news_between">
 		<text>사이</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_within">
-		<text>멀어도</text>
+		<text>늦어도</text>
 	</string>
 	<string id="st_dyn_news_about">
 		<text>대략</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_soon">
-		<text>곧</text>
+		<text>조만간</text>
 	</string>
+	<!-- fixed -->
 	<string id="st_dyn_news_very">
-		<text>이제</text>
+		<text>몇 시간 내</text>
 	</string>
 	
 	

@@ -11748,57 +11748,6 @@
 	<string id="st_dyn_news_ch_blowout">
 		<text>블로우아웃</text>
 	</string>
-
-	<!-- Extra -->
-	<string id="st_dyn_news_day_part_am">
-		<text>오전</text>
-	</string>
-	<string id="st_dyn_news_day_part_pm">
-		<text>오후</text>
-	</string>
-	<string id="st_dyn_news_s_p">
-		<text>경</text>
-	</string>
-	<string id="st_dyn_news_in">
-		<text>앞으로</text>
-	</string>
-	<string id="st_dyn_news_and">
-		<text>의</text>
-	</string>
-	<string id="st_dyn_news_or">
-		<text>내외</text>
-	</string>
-	<string id="st_dyn_news_at">
-		<text>정각</text>
-	</string>
-	<string id="st_dyn_news_by">
-		<text>다음</text>
-	</string>
-	<string id="st_dyn_news_so">
-		<text>가량</text>
-	</string>
-	<string id="st_dyn_news_after">
-		<text>현 시간 이후</text>
-	</string>
-	<string id="st_dyn_news_this">
-		<text>다가오는</text>
-	</string>
-	<string id="st_dyn_news_between">
-		<text>사이</text>
-	</string>
-	<string id="st_dyn_news_within">
-		<text>멀어도</text>
-	</string>
-	<string id="st_dyn_news_about">
-		<text>대략</text>
-	</string>
-	<string id="st_dyn_news_soon">
-		<text>곧</text>
-	</string>
-	<string id="st_dyn_news_very">
-		<text>이제</text>
-	</string>
-	
 	
 	<string id="st_dyn_news_unknown_contact">
 		<text>신원미상</text>

@@ -512,11 +512,11 @@
 	<string id="st_coffee_drink_descr">
 		<text>UCC 콜드브루 커피와 로브스타 라떼입니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] - %c[ui_gray_2] 음료\n
-		%c[d_blue] - %c[ui_gray_2] 수입품\n
-		%c[d_blue] - %c[ui_gray_2] 자극제\n
-		%c[d_blue] - %c[ui_gray_2] 강력한 숙취 해소 효과\n
-		%c[d_blue] - %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] ::: %c[ui_gray_2] 음료\n
+		%c[d_blue] ::: %c[ui_gray_2] 수입품\n
+		%c[d_blue] ::: %c[ui_gray_2] 자극제\n
+		%c[d_blue] ::: %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_blue] ::: %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	<string id="st_ground_coffee">
@@ -746,7 +746,7 @@
 	<string id="st_dirty_water_descr">
 		<text>더러운 물로 채워진 군용 수통. 급하더라도 최소한 끓인 후 음용하는게 좋아보입니다. 정제약으로 정제하는것이 가장 좋습니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] - %c[ui_gray_2] 음료\n</text>
+		%c[d_blue] ::: %c[ui_gray_2] 음료\n</text>
 	</string>
 	<string id="st_boiled_water">
 		<text>수통(끓인 물)</text>
@@ -754,7 +754,7 @@
 	<string id="st_boiled_water_descr">
 		<text>고온에 한번 끓인 물이 들어있는 군용 수통입니다. 그냥 마실 수 있지만 정제약으로 정제해서 깨끗한 물을 얻을 수 있습니다. \n \n
 		%c[ui_gray_3]PR특징OPERTIES:\n
-		%c[d_blue] - %c[ui_gray_2] 음료\n</text>
+		%c[d_blue] ::: %c[ui_gray_2] 음료\n</text>
 	</string>
 	<string id="st_haruka_fill">
 		<text>채우기</text>
@@ -765,7 +765,7 @@
 	<string id="st_akvatab2_descr">
 		<text>플라스틱 통에 담긴 정제약입니다. 더러운 물에 사용하면 박테리아와 바이러스를 제거해 좀 더 깨끗한 물로 만들어 줍니다. 한 번에 두개의 알약을 사용하십시오.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_red] - %c[ui_gray_2] 느린 사용 (알약)\n
+		%c[d_red] ::: %c[ui_gray_2] 느린 사용 (알약)\n
 		</text>
 	</string>
 	<string id="st_haruka_roast_unlit_campfire">
