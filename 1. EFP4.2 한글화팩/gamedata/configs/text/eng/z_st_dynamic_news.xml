@@ -2658,7 +2658,7 @@
 		<text>분</text>
 	</string>
 	<string id="st_dyn_news_hour">
-		<text>시</text>
+		<text>시(간)</text>
 	</string>
 	<string id="st_dyn_news_day">
 		<text>일</text>
@@ -11756,7 +11756,7 @@
 	</string>
 	<!-- fixed -->
 	<string id="st_dyn_news_s_p">
-		<text>간쯤 후</text>
+		<text>쯤 후</text>
 	</string>
 	<string id="st_dyn_news_in">
 		<text>앞으로</text>
