@@ -14,3 +14,9 @@
 	0 : 어노말리 베이스 게임
 	1 : EFP v4.2 모드팩에 포함된 모드
 	2 : EFP v4.2 모드팩에 포함되어 있지 않는 모드 (예: Modular EFT Armor)
+
+
+[호환 패치 적용 방법]
+	1. https://github.com/Coolfish2k/EFPKor/ 방문
+	2. 호환패치 폴더 클릭
+	3. 호환패치 폴더 내부의 패치 리스트 확인

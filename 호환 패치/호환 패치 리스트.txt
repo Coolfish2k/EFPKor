@@ -1,0 +1,12 @@
+1. KorFix_ItemUIImprovements
+    EFP 팩에 포함되어 있는 모드를 ModDB에서 직접 업데이트 했을 경우 일부 한글 출력이 정상적이지 않은데 해당 모드를 EFP 한글화팩 아래에 두는것으로 해결 가능함
+
+    - 해당하는 모드 (MO2 기준 이름)
+        [Utjan] Fetch Tasks Shows Your Items
+        [Utjan] Show Total Uses
+        [Utjan] Weight of Category
+        [Utjan] Item UI Improvements
+
+    - 해당 모드의 최신버전
+        https://www.moddb.com/mods/stalker-anomaly/addons/utjans-qol-bundle
+        * 패치는 위 모드의 v1.10 (2023년 11월)를 기준으로 제작됨
