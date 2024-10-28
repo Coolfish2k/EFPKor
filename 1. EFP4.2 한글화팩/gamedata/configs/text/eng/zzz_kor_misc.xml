@@ -1438,10 +1438,10 @@
 		<text>레이저 키바인딩</text>
 	</string>
 	<string id="ui_mcm_menu_torch_anim_toggle">
-		<text>횃불 애니메이션</text>
+		<text>해드램프 애니메이션</text>
 	</string>
 	<string id="ui_mcm_torch_anim_toggle_torch_anim">
-		<text>애니매이션 토글</text>
+		<text>애니매이션 켜기</text>
 	</string>
 
 	<string id="ui_mcm_menu_toggle_scope">
