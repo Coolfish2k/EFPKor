@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="windows-1251"?>
-<string_table>
-    <string id="st_fetch_count_have">
-        <text>%$clr_txt인벤토리 보유량: %$clr_numberx$count %$clr_txt</text>
-    </string>
-	<string id="st_fetch_count_in_stashes">
-        <text>%$clr_txt근처 스태쉬 보유량: %$clr_numberx$count %$clr_txt</text>
-    </string>
-</string_table>
