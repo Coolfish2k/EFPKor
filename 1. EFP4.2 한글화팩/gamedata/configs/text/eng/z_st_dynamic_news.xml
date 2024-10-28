@@ -4800,7 +4800,7 @@
 		<text>늪지대에서 닥터를 만났어.. 개에 물린걸 좀 봐줬는는데, 이게 중요한게 아니라, 그가 중요한 경고를 남겼어! $what이 $when에 일어난다고 했어! 잘들 숨어 있으라고!</text>
 	</string>
 	<string id="st_dyn_news_surge_template_8">
-		<text>내가 얀타에 방문했을 때 만난 과학자들이 측정한 데이터에 따르면 $what이 $when전후로 몰아친다고 나왔다더군.</text>
+		<text>내가 얀타에 방문했을 때 만난 과학자들이 측정한 데이터에 따르면 $what이 $when 몰아친다고 나왔다더군.</text>
 	</string>
 	<string id="st_dyn_news_surge_template_9">
 		<text>내가 $what이 $when에 불어 올 거라고 말했던가? 이거 꽤 믿을만한 정보통 한테서 얻은거야. 외출 나갈 생각이면 조심하라고.</text>
@@ -11704,7 +11704,7 @@
 		<text>사망 보고서</text>
 	</string>
 	<string id="st_dyn_news_welcome_stalker">
-		<text>$clr_2• 통합 S.T.A.L.K.E.R. 네트워크에 접속하신것을 환영합니다.\n• 현재 존에 $number명의 접속자가 확인되었습니다.\n• 신규 이용자 네트워크 등록 완료! 체르노빌 출입금지 구역: 존에 오신것을 환영합니다: $name</text>
+		<text>$clr_2&#x0095; 통합 S.T.A.L.K.E.R. 네트워크에 접속하신것을 환영합니다.\n&#x0095; 현재 존에 $number명의 접속자가 확인되었습니다.\n&#x0095; 신규 이용자 네트워크 등록 완료! 체르노빌 출입금지 구역: 존에 오신것을 환영합니다: $name</text>
 	</string>
 	<string id="st_dyn_news_death_by_surge_start">
 		<text>초기 보고: 확인된 에미션 사상자:\n</text>

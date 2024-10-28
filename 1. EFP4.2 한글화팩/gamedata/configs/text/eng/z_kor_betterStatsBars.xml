@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_better_stats_bars_title">
+		<text>스탯 바 색상</text>
+	</string>
+	<string id="ui_mcm_menu_better_stats_bars">
+		<text>스탯 바</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_positive_color_help">
+		<text>증가량 색 설정</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_a">
+		<text>투명도</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_r">
+		<text>빨강</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_g">
+		<text>초록</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_positive_color_b">
+		<text>파랑</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_negative_color_help">
+		<text>감소량 색 설정</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_a">
+		<text>투명도</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_r">
+		<text>빨강</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_g">
+		<text>초록</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_negative_color_b">
+		<text>파랑</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_neutral_color_help">
+		<text>변화없을 경우 색 설정</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_a">
+		<text>투명도</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_r">
+		<text>빨강</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_g">
+		<text>초록</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_neutral_color_b">
+		<text>파랑</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>위치</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_position">
+		<text>스탯이 증감되는 경우 증감게이지의 위치</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_bottom">
+		<text>아래</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_top">
+		<text>위</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_position_justify">
+		<text>덮어쓰기</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_use_game_values">
+		<text>인게임 값 사용</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_use_game_values_desc">
+		<text>
+		이 옵션을 활성화하면 스탯 바가 손상 값과 각각의 원소 유형을 기반으로 실제 게임 내 위협요소(npcs, 돌연변이, 이상 현상)에 대한 보호를 나타내게 되며 복장 및 헬멧 보호의 수정값도 포함됩니다.
+		\n \n 비활성화: 옵션을 비활성화합니다. 
+		\n \n 최대: 막대의 최대값은 받을 수 있는 최대 피해를 나타냅니다. 이 경우 막대의 1/3은 일반적으로 불, 산성 및 정신파 필드, 약한 돌연변이 및 권총 구경 총기를 나타냅니다. 막대의 2/3는 전기, 중력 이상, 버너 및 산성 웅덩이, 싸이독 공격, 평균 강도 돌연변이 및 소총과 같은 숨겨진 이상현상을 나타냅니다. 전체 막대는 가장 강력한 이상현상, 필드현상, 컨트롤러의 공격, 가장 강력한 돌연변이 및 대구경 총기에 대한 보호를 나타냅니다. 
+		\n \n Max(이상현상 배제): Max와 동일하지만 이상현상은 결과에 포함되지 않습니다. 필드로부터 얼마나 많은 피해를 받는지 아는 것보다 필드에 대한 정확한 보호를 알고 싶고 지뢰를 회피할 계획을 세울 때 유용합니다.</text>
+		<!-- <text>Enabling this option will make bars represent protection against actual game threats (npcs, mutants, anomalies), based on their damage values, elemental types, and also includes corrected behaviour of outfit and helmet protection. You can choose these options \n None: disabling the option \n Max: maximum of the bar represents maximum damage possible to receive \n Middle: maximum of the bar represents arithmetic average of possible damages \n Median: maximum of the bar represents median value of possible damages, that will result in more accurate representation of common damage receiving</text> -->
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_none">
+		<text>비활성화</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max">
+		<text>최대</text>
+	</string>
+	<string id="ui_mcm_lst_better_stats_bars_use_game_values_max_no_mines">
+		<text>최대 (이상현상 배제)</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility">
+		<text>EFP UI (Modern UI) 호환성</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_efp_ui_compatibility_desc">
+		<text>Better display of bars when using Escape From Pripyat (EFP) modpack. Also setting position to "Fill all height" and lowering opacity of all kinds of bars is recommended</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility">
+		<text>G.A.M.M.A. UI 호환성 (also applies to old Hunger, Thirst and Sleep bars mod)</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_gamma_ui_compatibility_desc">
+		<text>Better display of bars when using G.A.M.M.A. modpack or old version of Hunger, Thirst and Sleep bars mod</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_arx_compatibility">
+		<text>ARX 호환성</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_arx_compatibility_desc">
+		<text>More correct display of stats when using ARX mod (Artefact Restoration eXperiment)</text>
+	</string>
+
+	<string id="ui_mcm_better_stats_bars_abf_compatibility">
+		<text>ABF 호환성</text>
+	</string>
+	<string id="ui_mcm_better_stats_bars_abf_compatibility_desc">
+		<text>More correct display of stats when using ABF mod (Anomalous Balance Fix)</text>
+	</string>
+		
+</string_table>

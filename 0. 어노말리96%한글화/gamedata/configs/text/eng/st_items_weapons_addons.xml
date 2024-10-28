@@ -10,48 +10,48 @@
 		<text>PSO-1M 조준경</text>
 	</string>
 	<string id="st_addon_scope_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 모든 바르샤바 조약 기구 소총PSO (Pritsel Snaipersky Optichesky, "광학식 저격용 조준경") 은 소비에트 연방의 노보시비르스크 군수공장 (NPZ 국립 광학 공장)에서 만든 광학식 조준경 계열입니다. 이 조준경은 1964년에 SVD 저격 소총의 표준 망원 조준경으로 채택되면서 널리 사용되었습니다. 이 조준경은 이후 AK-74나 AN-94와 같은 돌격 소총에도 채용되었습니다. 튼튼한 내구성과 다재다능함 그리고 편리한 거리측정 기능이 있는 잘 디자인된 레티큘 패턴으로 유명합니다. 이 특정한 모델은 4배율 확대를 사용하여, 장거리에서의 전투에서 주로 사용됩니다. 이 조준경은 바르샤바 조약 기구 소속 국가의 제식인 도브테일 조준경 거치대가 달린 무기들에 장착하여 사용됩니다.
-		\n%c[d_purple] * 배율: 4.0x
-		\n%c[d_purple] * 상태: 좋음
-		\n%c[d_purple] * 레티큘 패턴: PSO-1</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 모든 바르샤바 조약 기구 소총PSO (Pritsel Snaipersky Optichesky, "광학식 저격용 조준경") 은 소비에트 연방의 노보시비르스크 군수공장 (NPZ 국립 광학 공장)에서 만든 광학식 조준경 계열입니다. 이 조준경은 1964년에 SVD 저격 소총의 표준 망원 조준경으로 채택되면서 널리 사용되었습니다. 이 조준경은 이후 AK-74나 AN-94와 같은 돌격 소총에도 채용되었습니다. 튼튼한 내구성과 다재다능함 그리고 편리한 거리측정 기능이 있는 잘 디자인된 레티큘 패턴으로 유명합니다. 이 특정한 모델은 4배율 확대를 사용하여, 장거리에서의 전투에서 주로 사용됩니다. 이 조준경은 바르샤바 조약 기구 소속 국가의 제식인 도브테일 조준경 거치대가 달린 무기들에 장착하여 사용됩니다.
+		\n%c[d_purple]&#x0095; 배율: 4.0x
+		\n%c[d_purple]&#x0095; 상태: 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: PSO-1</text>
 	</string>
 	
 	<string id="st_addon_scope_1p29">
 		<text>1P29 "튤립" 조준경</text>
 	</string>
 	<string id="st_addon_scope_1p29_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 모든 바르샤바 조약 기구 소총USP-1 조준경 (식별번호 1P29)은 프리즘 직립 방식의 광학 배열이 되어 있습니다. 시야각은 무기의 조준경 거치대에 따라 조준경의 몸체를 돌림으로써 기계적으로 맞출 수 있습니다. 트리튬 광원을 사용해 배터리를 요구하지 않습니다. 조준경 시야각 구석에 있는 거리 배율 눈금으로 1200미터 밖에 있는 1.5미터 크기의 표적을 눈으로 찾을 수 있습니다.
-		\n%c[d_purple] * 배율: 4.0x
-		\n%c[d_purple] * 상태: 좋음
-		\n%c[d_purple] * 레티큘 패턴: PSU-1</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 모든 바르샤바 조약 기구 소총USP-1 조준경 (식별번호 1P29)은 프리즘 직립 방식의 광학 배열이 되어 있습니다. 시야각은 무기의 조준경 거치대에 따라 조준경의 몸체를 돌림으로써 기계적으로 맞출 수 있습니다. 트리튬 광원을 사용해 배터리를 요구하지 않습니다. 조준경 시야각 구석에 있는 거리 배율 눈금으로 1200미터 밖에 있는 1.5미터 크기의 표적을 눈으로 찾을 수 있습니다.
+		\n%c[d_purple]&#x0095; 배율: 4.0x
+		\n%c[d_purple]&#x0095; 상태: 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: PSU-1</text>
 	</string>
 	
 	<string id="st_addon_scope_ac10632">
 		<text>바르스카 ELECTRO SIGHT AC10632 조준기</text>
 	</string>
 	<string id="st_addon_scope_ac10632_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * %c[ui_gray_2]모든 NATO 소총바르스카 전자식 조준방식 다중 레티클 레드닷 조준기는 고성능의 조준기를 찾는 사람들을 위한 가장 뛰어난 상품을 목표로 개발되었습니다. 모든 NATO 소속 제식 총기들과 AK-12에 장착할 수 있습니다.
-		\n%c[d_purple] * 배율: 없음 (조준기)
-		\n%c[d_purple] * 상태: 매우 좋음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; %c[ui_gray_2]모든 NATO 소총바르스카 전자식 조준방식 다중 레티클 레드닷 조준기는 고성능의 조준기를 찾는 사람들을 위한 가장 뛰어난 상품을 목표로 개발되었습니다. 모든 NATO 소속 제식 총기들과 AK-12에 장착할 수 있습니다.
+		\n%c[d_purple]&#x0095; 배율: 없음 (조준기)
+		\n%c[d_purple]&#x0095; 상태: 매우 좋음</text>
 	</string>
 	
 	<string id="st_addon_scope_acog">
 		<text>ACOG 3.5배율 조준경</text>
 	</string>
 	<string id="st_addon_scope_acog_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * %c[ui_gray_2]모든 NATO 소총ACOG (개선된 전투용 광학식 총기 조준경)은 트리지콘 사에서 제작된 일련의 총기 조준경을 뜻합니다. 이 방식의 조준경들은 대체적으로 높은 품질을 가지고 있고 트리튬 기반의 레티큘 광원이 내장되어 있습니다. 이런 형식의 조준경은 USMC 스타일의 레티큘 패턴으로 되어 있으며 배율을 조정할 수 있습니다.
-		\n%c[d_purple] * 배율: 3.5x
-		\n%c[d_purple] * 상태: 매우 좋음
-		\n%c[d_purple] * 레티큘 패턴: USMC</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; %c[ui_gray_2]모든 NATO 소총ACOG (개선된 전투용 광학식 총기 조준경)은 트리지콘 사에서 제작된 일련의 총기 조준경을 뜻합니다. 이 방식의 조준경들은 대체적으로 높은 품질을 가지고 있고 트리튬 기반의 레티큘 광원이 내장되어 있습니다. 이런 형식의 조준경은 USMC 스타일의 레티큘 패턴으로 되어 있으며 배율을 조정할 수 있습니다.
+		\n%c[d_purple]&#x0095; 배율: 3.5x
+		\n%c[d_purple]&#x0095; 상태: 매우 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: USMC</text>
 	</string>
 	
 	<string id="st_addon_scope_eotech">
 		<text>이오텍 조준기</text>
 	</string>
 	<string id="st_addon_scope_eotech_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * %c[ui_gray_2]모든 NATO 소총NATO 소속의 돌격소총과 기관단총에 부착하는 홀로그램 조준기입니다.
-		\n%c[d_purple] * 배율: 없음 (조준기)
-		\n%c[d_purple] * 상태: 매우 좋음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; %c[ui_gray_2]모든 NATO 소총NATO 소속의 돌격소총과 기관단총에 부착하는 홀로그램 조준기입니다.
+		\n%c[d_purple]&#x0095; 배율: 없음 (조준기)
+		\n%c[d_purple]&#x0095; 상태: 매우 좋음</text>
 	</string>
 	
 	<string id="st_addon_scope_galil_susat">
@@ -61,59 +61,59 @@
 		<text>갈릴 4.0배율 조준경</text>
 	</string>
 	<string id="st_addon_scope_galil_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 갈릴 AR이스라엘의 IMI 갈릴 소총에 사용되는 광학식 조준경입니다.
-		\n%c[d_purple] * 배율: 4.0x
-		\n%c[d_purple] * 상태: 좋음
-		\n%c[d_purple] * 레티큘 패턴: SUSAT</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 갈릴 AR이스라엘의 IMI 갈릴 소총에 사용되는 광학식 조준경입니다.
+		\n%c[d_purple]&#x0095; 배율: 4.0x
+		\n%c[d_purple]&#x0095; 상태: 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: SUSAT</text>
 	</string>
 	
 	<string id="st_addon_scope_kobra">
 		<text>EKP 1S-03 "코브라"</text>
 	</string>
 	<string id="st_addon_scope_kobra_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 모든 바르샤바 조약 기구 소총코브라 조준기는 개방식 전투용 광학 조준기로 레이저 표시된 HUD를 사용하여 필터 처리된 렌즈 위에 레티클 패턴을 겹쳐서 보여줍니다. 이 조준기는 접근전이나 시가전에서의 다양한 광원 조건에서 짧은 시간 안에 나타나거나 빨리 움직이는 목표물과 교전하기 위해 설계되었습니다. 이 조준기는 단안 또는 양안 조준 시 104 럭스 (주간)부터 10(황혼) 에서 2 럭스(달빛) 까지의 광도에서 원활한 조준 능력을 제공합니다. 움직이는 차량에서 사격할 때 효과적입니다.
-		\n%c[d_purple] * 배율:  없음 (조준기)
-		\n%c[d_purple] * 상태: 매우 좋음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 모든 바르샤바 조약 기구 소총코브라 조준기는 개방식 전투용 광학 조준기로 레이저 표시된 HUD를 사용하여 필터 처리된 렌즈 위에 레티클 패턴을 겹쳐서 보여줍니다. 이 조준기는 접근전이나 시가전에서의 다양한 광원 조건에서 짧은 시간 안에 나타나거나 빨리 움직이는 목표물과 교전하기 위해 설계되었습니다. 이 조준기는 단안 또는 양안 조준 시 104 럭스 (주간)부터 10(황혼) 에서 2 럭스(달빛) 까지의 광도에서 원활한 조준 능력을 제공합니다. 움직이는 차량에서 사격할 때 효과적입니다.
+		\n%c[d_purple]&#x0095; 배율:  없음 (조준기)
+		\n%c[d_purple]&#x0095; 상태: 매우 좋음</text>
 	</string>
 	
 	<string id="st_addon_scope_po4x34">
 		<text>PO4x34 조준경</text>
 	</string>
 	<string id="st_addon_scope_po4x34_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * OTs-14 계열 무기OTs-14 계열 무기들에 장비할 수 있는 광학식 조준경입니다.
-		\n%c[d_purple] * 배율: 4.0x
-		\n%c[d_purple] * 상태: 좋음
-		\n%c[d_purple] * 레티큘 패턴: 4x34</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; OTs-14 계열 무기OTs-14 계열 무기들에 장비할 수 있는 광학식 조준경입니다.
+		\n%c[d_purple]&#x0095; 배율: 4.0x
+		\n%c[d_purple]&#x0095; 상태: 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: 4x34</text>
 	</string>
 	
 	<string id="st_addon_scope_pso-1m2-01">
 		<text>PSO-1M2-1 조준경</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 모든 바르샤바 조약 기구 소총PSO-1M2-1 조준경은 서 있는 목표물과 웅크린 목표물을 위한 서로 다른 스케일링을 지원하는 매우 효율적이고 유용한 높이 기반 거리측정기입니다. 400미터 시모노프 높이 기반 경사도 (초크 스타일) 거리측정기는 9x39mm 구경의 소총들과 사용하기 위한 V자 표시가 되어 있습니다.
-		\n%c[d_purple] * 배율: 4.0x
-		\n%c[d_purple] * 상태: 매우 좋음
-		\n%c[d_purple] * 레티큘 패턴: PSO-1-1</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 모든 바르샤바 조약 기구 소총PSO-1M2-1 조준경은 서 있는 목표물과 웅크린 목표물을 위한 서로 다른 스케일링을 지원하는 매우 효율적이고 유용한 높이 기반 거리측정기입니다. 400미터 시모노프 높이 기반 경사도 (초크 스타일) 거리측정기는 9x39mm 구경의 소총들과 사용하기 위한 V자 표시가 되어 있습니다.
+		\n%c[d_purple]&#x0095; 배율: 4.0x
+		\n%c[d_purple]&#x0095; 상태: 매우 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: PSO-1-1</text>
 	</string>
 	
 	<string id="st_addon_scope_pu">
 		<text>PU 조준경</text>
 	</string>
 	<string id="st_addon_scope_pu_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 역사적 가치가 있는 러시아 소총모신나강이나 SVT-40과 같은 보병용 또는 저격용 소총에 장착하기 위해 붉은 군대에서 제 2차 세계 대전과 그 이후까지 사용된 제식 망원 조준경입니다. 이 조준경은 3.5배율을 사용하여 장거리 교전을 위한 좋은 선택이 될 수 있습니다. 다른 소비에트제 물건들과 마찬가지로, 이 조준경은 견고하고 효과적이며 오늘날까지 생산 및 사용되고 있습니다.
-		\n%c[d_purple] * 배율: 3.5x
-		\n%c[d_purple] * 상태: 보통
-		\n%c[d_purple] * 레티큘 패턴: PU</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 역사적 가치가 있는 러시아 소총모신나강이나 SVT-40과 같은 보병용 또는 저격용 소총에 장착하기 위해 붉은 군대에서 제 2차 세계 대전과 그 이후까지 사용된 제식 망원 조준경입니다. 이 조준경은 3.5배율을 사용하여 장거리 교전을 위한 좋은 선택이 될 수 있습니다. 다른 소비에트제 물건들과 마찬가지로, 이 조준경은 견고하고 효과적이며 오늘날까지 생산 및 사용되고 있습니다.
+		\n%c[d_purple]&#x0095; 배율: 3.5x
+		\n%c[d_purple]&#x0095; 상태: 보통
+		\n%c[d_purple]&#x0095; 레티큘 패턴: PU</text>
 	</string>
 	
 	<string id="st_addon_scope_zf4">
 		<text>ZF-4 조준경</text>
 	</string>
 	<string id="st_addon_scope_zf4_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 역사적 가치가 있는 독일 소총ZF-4는 인류가 만들어낸 가장 최초의 조준경 중 하나입니다. 제 2차 세계 대전 동안 독일에서 설계 및 제작된 이 조준경은 일반 보병들이 먼 거리에서 전투할 수 있도록 하기 위해 고안되었습니다. 하지만 불충분한 숫자만 생산된 관계로, 주로 독일군 저격수나 정예 전투부대들 위주로 지급되었습니다. 이 조준경이 사용되는 무기들은 아직도 널리 쓰이고 있기 때문에, 존에서도 아직까지 상당히 인기있는 물건으로 남아 있습니다.
-		\n%c[d_purple] * 배율: 2.0x
-		\n%c[d_purple] * 상태: 좋음
-		\n%c[d_purple] * 레티큘 패턴: ZF-41</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 역사적 가치가 있는 독일 소총ZF-4는 인류가 만들어낸 가장 최초의 조준경 중 하나입니다. 제 2차 세계 대전 동안 독일에서 설계 및 제작된 이 조준경은 일반 보병들이 먼 거리에서 전투할 수 있도록 하기 위해 고안되었습니다. 하지만 불충분한 숫자만 생산된 관계로, 주로 독일군 저격수나 정예 전투부대들 위주로 지급되었습니다. 이 조준경이 사용되는 무기들은 아직도 널리 쓰이고 있기 때문에, 존에서도 아직까지 상당히 인기있는 물건으로 남아 있습니다.
+		\n%c[d_purple]&#x0095; 배율: 2.0x
+		\n%c[d_purple]&#x0095; 상태: 좋음
+		\n%c[d_purple]&#x0095; 레티큘 패턴: ZF-41</text>
 	</string>
 	
 	<string id="st_addon_scope_cmore">
@@ -121,8 +121,8 @@
     </string>
     <string id="st_addon_scope_cmore_descr">
         <text>일반적인 튜브 형태의 조준기에서 나타나는 시야 차단이나 터널 비전 효과를 제거한, 거의 무한대의 가시 영역을 자랑하는 고성능 레드닷 조준기입니다. 레일웨이 계열 조준기는 대부분의 위버나 피카티니 레일 거치대 또는 총몸에 부착할 수 있는 표준형 레일 베이스가 장착되어 있습니다.
-		\n%c[d_purple] * 배율: 없음 (조준기)
-		\n%c[d_purple] * 상태: 좋음</text>
+		\n%c[d_purple]&#x0095; 배율: 없음 (조준기)
+		\n%c[d_purple]&#x0095; 상태: 좋음</text>
     </string>
 	
 	<string id="st_addon_scope_ac11090">
@@ -136,126 +136,126 @@
 		<text>.45 ACP 소음기</text>
 	</string>
 	<string id="st_addon_sil_45_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * .45 구경 무기들.45 ACP 탄을 사용하는 권총이나 기관단총에 장착하는 소음기입니다.%c[d_purple] * 소음 성능: 매우 높음 (권총)</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; .45 구경 무기들.45 ACP 탄을 사용하는 권총이나 기관단총에 장착하는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 매우 높음 (권총)</text>
 	</string>
 	
 	<string id="st_addon_sil_57">
 		<text>5.7x28 소음기</text>
 	</string>
 	<string id="st_addon_sil_57_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 5.7 mm 구경 무기들FN-P90 개인방어화기의 소음기입니다.%c[d_purple] * 소음 성능: 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 5.7 mm 구경 무기들FN-P90 개인방어화기의 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_6p9">
 		<text>6P9 소음기</text>
 	</string>
 	<string id="st_addon_sil_6p9_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 9 mm 구경 무기들PB 권총에 장착하는 소음기입니다.%c[d_purple] * 소음 성능: 매우 좋음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 9 mm 구경 무기들PB 권총에 장착하는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 매우 좋음</text>
 	</string>
 	
 	<string id="st_addon_sil_9a91">
 		<text>9A-91/VSK-94 소음기</text>
 	</string>
 	<string id="st_addon_sil_9a91_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 9x39 구경 무기들9A-91 카빈 소총과 VSK-94 소총에 장착하는 소음기입니다.%c[d_purple] * 소음 성능: 매우 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 9x39 구경 무기들9A-91 카빈 소총과 VSK-94 소총에 장착하는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 매우 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_9mm">
 		<text>9mm 소음기</text>
 	</string>
 	<string id="st_addon_sil_9mm_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 9 mm 구경 무기들9mm 권총이나 기관단총에 장착하는 소음기입니다. 9x18mm 구경의 무기에 사용되는 효율적인 발사음 억제기입니다. 역사가 아주 오래되었지만 아직 효과는 확실합니다. 소음기 몸체 안에는 세밀하게 뽑아낸 청동제 철망이 단단하게 말아져 있습니다. 소음기의 앞부분은 9mm 구경 크기의 구멍이 뚫린 고무 마개로 구성되어 있어 총알이 통과할 수 있습니다. 주로 경장갑을 걸친 적과의 근접전이나 암살에 사용됩니다.%c[d_purple] * 소음 성능: 매우 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 9 mm 구경 무기들9mm 권총이나 기관단총에 장착하는 소음기입니다. 9x18mm 구경의 무기에 사용되는 효율적인 발사음 억제기입니다. 역사가 아주 오래되었지만 아직 효과는 확실합니다. 소음기 몸체 안에는 세밀하게 뽑아낸 청동제 철망이 단단하게 말아져 있습니다. 소음기의 앞부분은 9mm 구경 크기의 구멍이 뚫린 고무 마개로 구성되어 있어 총알이 통과할 수 있습니다. 주로 경장갑을 걸친 적과의 근접전이나 암살에 사용됩니다.%c[d_purple]&#x0095; 소음 성능: 매우 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_aps">
 		<text>APS 소음기</text>
 	</string>
 	<string id="st_addon_sil_aps_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 9 mm 구경 무기들OTs-33 "페르나치" 권총에 장착하는 소음기입니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 9 mm 구경 무기들OTs-33 "페르나치" 권총에 장착하는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_sil_atg">
 		<text>ATG 소음기</text>
 	</string>
 	<string id="st_addon_sil_atg_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 5.56, 7.62 구경 무기들AK-102, AK-103 그리고 AK-104에 장착하는 소음기입니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 5.56, 7.62 구경 무기들AK-102, AK-103 그리고 AK-104에 장착하는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_sil_gemtech">
 		<text>젬테크 소음기</text>
 	</string>
 	<string id="st_addon_sil_gemtech_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 9 mm, .45 구경 무기들글록과 FN-FNP에 사용되는 소음기입니다.%c[d_purple] * 소음 성능: 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 9 mm, .45 구경 무기들글록과 FN-FNP에 사용되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_kzrzp">
 		<text>KZRZP 소음기</text>
 	</string>
 	<string id="st_addon_sil_kzrzp_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 7.62 구경 무기들SVD 저격소총에 사용되는 소음기입니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 7.62 구경 무기들SVD 저격소총에 사용되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_sil_nato">
 		<text>NATO 소음기</text>
 	</string>
 	<string id="st_addon_sil_nato_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * .45, 5.56, 7.62 구경 무기들표준 NATO 5.56mm 구경 소총에 사용되는 소음기입니다.%c[d_purple] * 소음 성능: 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; .45, 5.56, 7.62 구경 무기들표준 NATO 5.56mm 구경 소총에 사용되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs1">
 		<text>PBS-1 소음기</text>
 	</string>
 	<string id="st_addon_sil_pbs1_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 7.62 구경 무기들칼라시니코프 7.62mm 소총에 소음과 소염 기능을 추가하기 위해 사용되는 소음기입니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 7.62 구경 무기들칼라시니코프 7.62mm 소총에 소음과 소염 기능을 추가하기 위해 사용되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs4">
 		<text>PBS-4 소음기</text>
 	</string>
 	<string id="st_addon_sil_pbs4_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 5.45 구경 무기들AKS-74U 소총에 장착되는 소음기입니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 5.45 구경 무기들AKS-74U 소총에 장착되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_sil_sr25">
 		<text>SR-25 소음기</text>
 	</string>
 	<string id="st_addon_sil_sr25_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 7.62 mm 구경 무기들SR-25 소총에 사용되는 소음기입니다%c[d_purple] * 소음 성능: 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 7.62 mm 구경 무기들SR-25 소총에 사용되는 소음기입니다%c[d_purple]&#x0095; 소음 성능: 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_tgp-a">
 		<text>TGP-A 소음기</text>
 	</string>
 	<string id="st_addon_sil_tgp-a_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 5.45 구경 무기들AK 소총 계열과 RPK-74 경기관총에 사용되는 소음기입니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 5.45 구경 무기들AK 소총 계열과 RPK-74 경기관총에 사용되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_sil_vihr">
 		<text>SR-3M 소음기</text>
 	</string>
 	<string id="st_addon_sil_vihr_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 9x39 구경 무기들SR-3M 소총에 사용되는 소음기입니다.%c[d_purple] * 소음 성능: 매우 높음</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 9x39 구경 무기들SR-3M 소총에 사용되는 소음기입니다.%c[d_purple]&#x0095; 소음 성능: 매우 높음</text>
 	</string>
 	
 	<string id="st_addon_silencer">
 		<text>미 군용 소구경 소총 소음기</text>
 	</string>
 	<string id="st_addon_silencer_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 5.56x45 구경 무기들 미국에서 설계 및 생산된 진보된 형태의 소총 소음기이며, 미군 보급상자들 중 하나로부터 우연히 '사라진' 물건입니다. 이 소음기는 고품질 강철로 된 몸체와 Z형 티타늄 칸막이로 구분된 네 곳의 확장 챔버로 구성되어 있습니다. 발사 시 이 소음기는 총구 화염을 거의 완벽한 수준으로 억제하고 상당한 소음 억제 효과를 제공합니다. 또한 최소한의 유지보수만을 필요로 합니다. 이 소음기 및 유사한 형태의 소음기들은 서구권에서 만들어진 모든 소구경 소총들에 널리 사용되고 있으며 아직까지 서구권의 무장 단체에서 현역으로 사용되고 있습니다.%c[d_purple] * 소음 성능: 중간</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 5.56x45 구경 무기들 미국에서 설계 및 생산된 진보된 형태의 소총 소음기이며, 미군 보급상자들 중 하나로부터 우연히 '사라진' 물건입니다. 이 소음기는 고품질 강철로 된 몸체와 Z형 티타늄 칸막이로 구분된 네 곳의 확장 챔버로 구성되어 있습니다. 발사 시 이 소음기는 총구 화염을 거의 완벽한 수준으로 억제하고 상당한 소음 억제 효과를 제공합니다. 또한 최소한의 유지보수만을 필요로 합니다. 이 소음기 및 유사한 형태의 소음기들은 서구권에서 만들어진 모든 소구경 소총들에 널리 사용되고 있으며 아직까지 서구권의 무장 단체에서 현역으로 사용되고 있습니다.%c[d_purple]&#x0095; 소음 성능: 중간</text>
 	</string>
 	
 	<string id="st_addon_silencer_svu">
 		<text>SVU 소음기</text>
 	</string>
 	<string id="st_addon_silencer_svu_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * SVU 계열 소총들이 특별히 설계된 세 칸막이로 이루어진 소음기는 이 소음기를 사용하는 병사가 아음속탄을 쓰지 않기 때문에 SVU 소총에게 완벽한 소음 효과를 주기 위해 고안된 물건은 아닙니다. 이 소음기의 주된 목적은 적이 탐지하기 어려울 정도로만 소음을 조용하게 만드는 것입니다. 이 소음기의 특별한 기능은 소음기 끝부분에 있는 매우 효과적인 반동 억제기로, 반동을 40% 가까이 감소해 줍니다. 이러한 특성들은 총구 초속을 감소시켜 무기의 피해량을 상당히 감소시킨다는 단점이 있습니다.%c[d_purple] * 소음 성능: 낮음SPECIAL:%c[d_red] * 개선된 반동 감소 효과</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; SVU 계열 소총들이 특별히 설계된 세 칸막이로 이루어진 소음기는 이 소음기를 사용하는 병사가 아음속탄을 쓰지 않기 때문에 SVU 소총에게 완벽한 소음 효과를 주기 위해 고안된 물건은 아닙니다. 이 소음기의 주된 목적은 적이 탐지하기 어려울 정도로만 소음을 조용하게 만드는 것입니다. 이 소음기의 특별한 기능은 소음기 끝부분에 있는 매우 효과적인 반동 억제기로, 반동을 40% 가까이 감소해 줍니다. 이러한 특성들은 총구 초속을 감소시켜 무기의 피해량을 상당히 감소시킨다는 단점이 있습니다.%c[d_purple]&#x0095; 소음 성능: 낮음SPECIAL:%c[d_red]&#x0095; 개선된 반동 감소 효과</text>
 	</string>
 	
 	<string id="st_addon_trijicon_acog">
 		<text>ACOG 조준경</text>
 	</string>
 	<string id="st_addon_trijicon_acog_descr">
-		<text>%c[ui_gray_2]호환성:%c[d_cyan] * 특정 NATO 소총들NATO 소총들에 장착하기 위해 만들어진 탈착 가능한 광학식 조준경입니다. ACOG (개선된 전투용 광학식 총기 조준경)은 트리지콘 사에서 제작된 일련의 총기 조준경을 뜻합니다. 이 방식의 조준경들은 대체적으로 높은 품질을 가지고 있고 트리튬 기반의 레티큘 광원이 내장되어 있습니다. 이 특별한 형식의 조준경은 현대적인 '트리지콘' 레티큘 패턴을 사용하며 2.0배율 고정 확대기능이 있습니다.%c[d_purple] * 배율: 2.0x%c[d_purple] * 상태: 매우 좋음%c[d_purple] * 레티큘 패턴: 트리지콘</text>
+		<text>%c[ui_gray_2]호환성:%c[d_cyan]&#x0095; 특정 NATO 소총들NATO 소총들에 장착하기 위해 만들어진 탈착 가능한 광학식 조준경입니다. ACOG (개선된 전투용 광학식 총기 조준경)은 트리지콘 사에서 제작된 일련의 총기 조준경을 뜻합니다. 이 방식의 조준경들은 대체적으로 높은 품질을 가지고 있고 트리튬 기반의 레티큘 광원이 내장되어 있습니다. 이 특별한 형식의 조준경은 현대적인 '트리지콘' 레티큘 패턴을 사용하며 2.0배율 고정 확대기능이 있습니다.%c[d_purple]&#x0095; 배율: 2.0x%c[d_purple]&#x0095; 상태: 매우 좋음%c[d_purple]&#x0095; 레티큘 패턴: 트리지콘</text>
 	</string>
 	
 </string_table>

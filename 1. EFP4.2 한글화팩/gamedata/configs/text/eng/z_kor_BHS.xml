@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_body_health_system_title">
+		<text>부위별 체력 시스템</text>
+	</string>
+	<string id="ui_mcm_menu_body_health_system">
+		<text>BHS</text>
+	</string>
+
+	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH">
+		<text>텍스트형 HUD로 변경</text>
+	</string>
+	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH_desc">
+		<text>(재시작 필요) HUD를 텍스트형으로 변경합니다.</text>
+	</string>
+
+	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE">
+		<text>새로운 사지 패널티 기능</text>
+	</string>
+	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE_desc">
+		<text>(재시작 필요) 새로운 사지 패널티 기능을 활성화 합니다. 비활성화 시 구 버전의 패널티를 사용합니다.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_new_voice_sounds">
+		<text>신음 출력</text>
+	</string>
+	<string id="ui_mcm_body_health_system_new_voice_sounds_desc">
+		<text>다리에 데미지를 입은 채 달리기 시 신음소리를 출력합니다.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp">
+		<text>(다리) 카메라 흔들림 패널티 기준HP</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp_desc">
+		<text>
+		다리 양쪽 중 한쪽이라도 기준 HP미만이 될 경우 패널티 이펙트가 재생됩니다. 기본값은 5 이며, 기본값 기준 한쪽 다리의 체력이 4 미만일 경우 이펙트가 재생됩니다.
+		</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp">
+		<text>(다리) 달리기 패널티 기준HP</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp_desc">
+		<text>다리에 부상을 입은 채 달릴 때 전체 HP에 데미지를 받을 수 있습니다. -1로 설정할 경우 기능이 비활성화 됩니다.\n
+		슬라이더를 조절하여 패널티가 발생할 수 있는 다리 최소 HP를 설정할 수 있습니다.
+		</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_animation_power">
+		<text>(다리) 카메라 흔들림 패널티 강도</text>
+	</string>
+	<string id="ui_mcm_body_health_system_leg_animation_power_desc">
+		<text>다리 패널티 이펙트의 강도를 설정합니다. 기본값은 1 입니다.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp">
+		<text>(팔) 패널티 기준HP</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp_desc">
+		<text>패널티 이펙트가 재생되는 기준 HP를 설정합니다. 기본값은 10이며, 기본값 기준 양 팔 모두 10 미만의 HP가 남아있을 경우 이펙트가 재생됩니다.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_animation_power">
+		<text>(팔) 패널티 강도</text>
+	</string>
+	<string id="ui_mcm_body_health_system_arm_animation_power_desc">
+		<text>팔 패널티 이펙트의 강도를 설정합니다. 기본값은 1 입니다.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp">
+		<text>(머리) 패널티 최소 데미지</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp_desc">
+		<text>패널티 이펙트가 재생되는 최소 데미지를 설정합니다. 기본값은 2 이며, 기본값 기준 한번에 2 이상의 데미지를 머리에 받을 경우 이펙트가 재생됩니다.</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_animation_power">
+		<text>(머리) 패널티 강도</text>
+	</string>
+	<string id="ui_mcm_body_health_system_head_animation_power_desc">
+		<text>머리 패널티 이펙트의 강도를 설정합니다. 기본값은 1 입니다.</text>
+	</string>
+
+
+</string_table>

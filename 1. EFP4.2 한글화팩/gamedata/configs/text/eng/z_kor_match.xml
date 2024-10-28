@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="ui_mcm_menu_hobo_matches">
+		<text>성냥</text>
+	</string>
+
+	<string id="ui_mcm_hobo_matches_chance">
+		<text>성냥 드랍 확률</text>
+	</string>
+
+	<string id="ui_mcm_hobo_matches_sounds_title">
+		<text>성냥</text>
+	</string>
+
+	<string id="st_hobo_match">
+		<text>성냥 한 개비</text>
+	</string>
+	
+	<string id="st_hobo_match_descr">
+		<text>
+            딱성냥 또는 마찰성냥이라고도 불리는 이 성냥은 역사가 가장 오래 된 성냥 종류중 하나이며 어디든 긁으면 쉽게 불을 붙일 수 있습니다. 습기에 약하고 쉽게 부러지기 때문에 곽에 넣어 보관하는것이 좋습니다.  \n \n \n 
+			
+			%c[ui_gray_3]특징  \n 
+			%c[d_blue]&#x0095; %c[ui_gray_2]일상용품  \n 
+			%c[d_orange]&#x0095; %c[ui_gray_2]모닥불을 켜거나 담뱃불을 붙이는데 사용 가능 \n \n 
+		</text>
+	</string>
+
+	<string id="st_hobo_matchbox">
+		<text>성냥곽</text>
+	</string>
+	
+	<string id="st_hobo_matchbox_descr">
+		<text>
+            성냥을 보관할 수 있는 성냥곽입니다. 성냥을 항상 곽에 보관하고 습기와 충격으로 부터 보호하십시오.  \n \n \n
+			
+			%c[ui_gray_3]특징  \n 
+			%c[d_blue]&#x0095; %c[ui_gray_2]성냥을 보관할 수 있음 \n 			
+		</text>
+	</string>	
+	
+	<string id="st_add_match">
+        <text>성냥곽에 넣기</text>
+    </string>
+	
+	<string id="st_match_box">
+        <text>성냥 보관하기</text>
+    </string>
+	
+	<string id="st_match_bundle">
+        <text>성냥 보관하기</text>
+    </string>
+	
+	<string id="st_take_match">
+        <text>성냥 꺼내기</text>
+    </string>
+	
+	<string id="st_box_full">
+        <text>이 성냥곽은 가득 차 있습니다.</text>
+    </string>
+	
+	<string id="st_number_of_uses">
+		<text>보관된 성냥 갯수</text>
+	</string>
+		<string id="st_matches">
+		<text>점화 세트</text>
+	</string>
+</string_table>

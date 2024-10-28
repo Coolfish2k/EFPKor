@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_menu_efp_ui">
+		<text>심플 비주얼</text>
+	</string>
+	<string id="ui_mcm_menu_faction_settings">
+		<text>팩션 색상</text>
+	</string>
+	<string id="ui_mcm_menu_main_settings">
+		<text>메인 설정</text>
+	</string>
+	<string id="ui_mcm_menu_modules_settings">
+		<text>모듈 설정</text>
+	</string>
+	<string id="ui_mcm_menu_dolg">
+		<text>듀티</text>
+	</string>
+	<string id="ui_mcm_menu_csky">
+		<text>클리어 스카이</text>
+	</string>
+	<string id="ui_mcm_menu_monolith">
+		<text>모노리스</text>
+	</string>
+	<string id="ui_mcm_menu_ecolog">
+		<text>과학자</text>
+	</string>
+	<string id="ui_mcm_menu_bandit">
+		<text>밴딧</text>
+	</string>
+	<string id="ui_mcm_menu_stalker">
+		<text>로너</text>
+	</string>
+	<string id="ui_mcm_menu_killer">
+		<text>용병</text>
+	</string>
+	<string id="ui_mcm_menu_greh">
+		<text>씬</text>
+	</string>
+	<string id="ui_mcm_menu_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_menu_renegade">
+		<text>레네게이드</text>
+	</string>
+	<string id="ui_mcm_menu_army">
+		<text>내무군</text>
+	</string>
+	<string id="ui_mcm_menu_freedom">
+		<text>프리덤</text>
+	</string>
+	<string id="ui_mcm_desc_faction_banner_color">
+		<text>팩션 배너 색상</text>
+	</string>
+	<string id="ui_mcm_desc_faction_text_color">
+		<text>팩션 배너 글자 색상</text>
+	</string>
+	<string id="ui_mcm_efp_ui_red">
+		<text>빨강</text>
+	</string>
+	<string id="ui_mcm_efp_ui_green">
+		<text>초록</text>
+	</string>
+	<string id="ui_mcm_efp_ui_blue">
+		<text>파랑</text>
+	</string>
+	<string id="ui_mcm_efp_ui_alpha">
+		<text>투명도</text>
+	</string>
+	<string id="ui_mcm_menu_base_settings">
+		<text>커스텀 색상</text>
+	</string>
+	<string id="ui_mcm_menu_slots">
+		<text>장비 슬롯</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_faction">
+		<text>팩션/커스텀 색상 토글</text>
+	</string>
+	<string id="ui_mcm_desc_cell_knife">
+		<text>칼 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pistol">
+		<text>부무장 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_rifle">
+		<text>주무장 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_grenade">
+		<text>수류탄 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_binoculars">
+		<text>쌍안경 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_bolt">
+		<text>볼트 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_outfit">
+		<text>의상 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pda">
+		<text>PDA 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_detector">
+		<text>전자장비 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_torch">
+		<text>헤드램프 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_helmet">
+		<text>헬멧 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_backpack">
+		<text>가방 슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_quick">
+		<text>퀵슬롯</text>
+	</string>
+	<string id="ui_mcm_desc_cell_belt">
+		<text>벨트 슬롯</text>
+	</string>
+	<string id="ui_mcm_menu_stats">
+		<text>스탯 바</text>
+	</string>
+	<string id="ui_mcm_desc_stat_acid">
+		<text>화학 저항</text>
+	</string>
+	<string id="ui_mcm_desc_stat_thirst">
+		<text>목마름</text>
+	</string>
+	<string id="ui_mcm_desc_stat_power">
+		<text>스테미너</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire_wound">
+		<text>방어구 등급</text>
+	</string>
+	<string id="ui_mcm_desc_stat_shock">
+		<text>전기 저항</text>
+	</string>
+	<string id="ui_mcm_desc_stat_health">
+		<text>HP</text>
+	</string>
+	<string id="ui_mcm_desc_stat_psi">
+		<text>정신 저항</text>
+	</string>
+	<string id="ui_mcm_desc_stat_hunger">
+		<text>배고픔</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire">
+		<text>화상 저항</text>
+	</string>
+	<string id="ui_mcm_desc_stat_radia">
+		<text>방사능 저항</text>
+	</string>
+	<string id="ui_mcm_desc_stat_wound">
+		<text>파열 저항</text>
+	</string>
+	<string id="ui_mcm_desc_stat_sleep">
+		<text>피로도</text>
+	</string>
+	<string id="ui_mcm_menu_faction_banner">
+		<text>팩션 오버레이</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_alt_ranks">
+		<text>Switch to alternate styled ranks</text>
+	</string>
+	<string id="ui_st_points_in_loadouts_cost">
+		<text>비용</text>
+	</string>
+	    <string id="ui_mcm_menu_drop_item_key">
+		<text>아이템 버리기 키</text>
+	</string>
+    <string id="ui_mcm_svui_drop_item_key">
+		<text>아이템 버리기 키</text>
+	</string>
+	    <string id="ui_mcm_menu_input_blocker">
+		<text>인벤토리 입력 차단</text>
+	</string>
+    <string id="ui_mcm_svui_input_blocker_kACCEL">
+		<text>인벤토리 창에서 걷기/앉기 비활성화</text>
+	</string>
+    <string id="ui_mcm_svui_input_blocker_kCROUCH">
+		<text>인벤토리 창에서 앉기 비활성화</text>
+	</string>
+</string_table>

@@ -6,8 +6,8 @@
 	<string id="st_placeable_radio_descr">
 		<text>작동하는 라디오 입니다. 존의 여러 거점에서 볼 수 있는 라디오와 동일한 신호를 수신할 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
 		</text>
 	</string>
 	<string id="st_placeable_workshop">
@@ -16,10 +16,10 @@
 	<string id="st_placeable_workshop_descr">
 		<text>작업 테이블과 작업용 도구 보관함이 포함되어 있는 휴대용 작업대 세트입니다. 무겁긴 하지만 야전에서 급하게 장비를 수리하거나 아이템을 제작할 때 유용합니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 가치있는 물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 대용량 (일체형)\n
-		%c[d_orange] ::: %c[ui_gray_2] 장비 수리에 유용함\n</text>
+		%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 가치있는 물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 대용량 (일체형)\n
+		%c[d_orange]&#x0095; %c[ui_gray_2] 장비 수리에 유용함\n</text>
 	</string>
     <string id="st_tag_anime">
 		<text>에니매이션</text>
@@ -39,10 +39,10 @@
 	<string id="st_placeable_gas_lamp_descr">
 		<text>심지에 등유를 적시고 불을 붙여 빛을 발생시킵니다. 가스램프는 연료를 추가적으로 들고다녀야 하기 때문에 흔한 소지품은 아닙니다. 인적이 드문 경로를 이용해 여행하는 숙련된 스토커는 이 램프를 은신처로 사용합니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-		%c[d_blue] ::: %c[ui_gray_2] 낮은 연료 소비량\n
-		%c[d_blue] ::: %c[ui_gray_2] 사용되는 연료: 등유\n</text>
+		%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 낮은 연료 소비량\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 사용되는 연료: 등유\n</text>
 	</string>
 
 	<string id="st_placeable_metal_torch">
@@ -51,10 +51,10 @@
 	<string id="st_placeable_metal_torch_descr">
 		<text>소련 시대의 휴대용 손전등. 배터리를 효율적으로 사용할 수 있어 은신처를 밝히는 용도로 유용합니다. 이 조명은 쉽게 사용이 가능하지만 원뿔형으로 빛을 내기 때문에 사용처는 제한됩니다. 숙련된 스토커는 이를 활용하여 자신의 은폐를 유지하면서 상대를 빛출 수 있습니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-		%c[d_blue] ::: %c[ui_gray_2] 낮은 전력 소비량\n
-		%c[d_blue] ::: %c[ui_gray_2] 사용되는 연료: 배터리\n</text>
+		%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 낮은 전력 소비량\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 사용되는 연료: 배터리\n</text>
 	</string>
 
 	<string id="st_placeable_light_altar">
@@ -63,12 +63,12 @@
 	<string id="st_placeable_light_altar_descr">
 		<text>An object of unknown origin and purpose. Originally, this strange object emitted lethal psi-waves and was the cause of death to many unsuspecting stalkers who braved the northern areas. This one was modified by Sakharov and, with the help of a few artefacts, became a source of limitless light and mental strength.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-		%c[d_blue] ::: %c[ui_gray_2] 가치있는 물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 낮은 전력 소비량\n
-		%c[d_blue] ::: %c[ui_gray_2] 달빛 아티팩트를 사용함\n
-		%c[d_blue] ::: %c[ui_gray_2] 사용되는 연료: 가우스 배터리\n</text>
+		%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 가치있는 물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 낮은 전력 소비량\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 달빛 아티팩트를 사용함\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 사용되는 연료: 가우스 배터리\n</text>
 	</string>
 		<string id="st_placeable_case">
 		<text>무기 케이스</text>
@@ -76,10 +76,10 @@
 	<string id="st_placeable_case_descr">
 		<text>An empty gun case void of any weaponry. It provides more space than conventional backpacks at the cost of weight.\n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 평균 용량\n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능\n</text>
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 평균 용량\n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능\n</text>
 	</string>
 
 	<string id="st_placeable_blue_box">
@@ -88,10 +88,10 @@
 	<string id="st_placeable_blue_box_descr">
 		<text>A spacious metal box dedicated for storing items. It provides the most space compared to alternatives, but its bulky container makes it harder to transport.\n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 대용량\n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능\n</text>
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 대용량\n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능\n</text>
 	</string>
 
 	<string id="st_placeable_exo_kit">
@@ -100,10 +100,10 @@
 	<string id="st_placeable_exo_kit_descr">
 		<text>An empty case stripped of any useful items. Many stalkers simply discard these repair kits after tending to their high tech suits, though the capacity and size of this one is useful when reused as storage.\n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 평균 용량\n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능\n</text>
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 평균 용량\n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능\n</text>
 	</string>
 
 	<string id="st_placeable_sumka6">
@@ -112,10 +112,10 @@
 	<string id="st_placeable_sumka6_descr">
 		<text>Small cloth sheets sewn together to form a simple sack. While not particularly useful in permanent bases, this one finds its niche in creating a small stash when in a pinch.\n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 낮은 용량\n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능\n</text>
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 낮은 용량\n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능\n</text>
 	</string>
 
     <string id="st_place_furniture">
@@ -127,9 +127,9 @@
 	<string id="st_placeable_piano_descr">
 		<text>A luxury installation not often seen in the Zone. Although it does not offer any protection against mutants or hostile stalkers, it can provide a brief respite against the hostilities of the Zone. This one appears to have many music sheets of varying difficulty and a number of synthetic-sounding instruments.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-		%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-		%c[d_blue] ::: %c[ui_gray_2] 가치있는 물품\n</text>
+		%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+		%c[d_blue]&#x0095; %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	   <string id="st_electric_piano_name">
 		<text>전자 피아노</text>
@@ -323,8 +323,8 @@
 		<text>
 			작고 가벼운 노트북입니다. 존에 어떻게 들어왔을까요? \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n				
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n				
 		</text>
 	</string>
 
@@ -335,9 +335,9 @@
 		<text>
 			간이 매트리스와 담요입니다. 가볍고 휴대가 가능합니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
-			%c[d_orange] ::: %c[ui_gray_2] 침대에서 수면 가능\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
+			%c[d_orange]&#x0095; %c[ui_gray_2] 침대에서 수면 가능\n		
 		</text>
 	</string>
 
@@ -348,9 +348,9 @@
 		<text>
 			매트리스와 담요가 올려져있는 오래되고 녹슨 침대입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
-			%c[d_orange] ::: %c[ui_gray_2] 침대에서 수면 가능\n				
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
+			%c[d_orange]&#x0095; %c[ui_gray_2] 침대에서 수면 가능\n				
 		</text>
 	</string>
 
@@ -361,9 +361,9 @@
 		<text>
 			원목 침대입니다. 편안한 매트리스, 깔개와 이불이 모두 포함되어 있습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
-			%c[d_orange] ::: %c[ui_gray_2] 침대에서 수면 가능\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
+			%c[d_orange]&#x0095; %c[ui_gray_2] 침대에서 수면 가능\n		
 		</text>
 	</string>
 
@@ -374,8 +374,8 @@
 		<text>
 			존의 정보를 담고있는 지도입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
 		</text>
 	</string>
 
@@ -386,11 +386,11 @@
 		<text>
 			보통 상인들이 매대에 올려두는 개방형 나무 보관함입니다. 통조림만 보관할 수 있습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 대용량\n
-			%c[d_blue] ::: %c[d_red] 통조림만 보관 가능 %c[ui_gray_2] \n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능 \n	
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 대용량\n
+			%c[d_blue]&#x0095; %c[d_red] 통조림만 보관 가능 %c[ui_gray_2] \n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능 \n	
 		</text>
 	</string>
 
@@ -401,8 +401,8 @@
 		<text>
 			오래됐지만 편안한 소파입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
 		</text>
 	</string>
 
@@ -413,8 +413,8 @@
 		<text>
 			존의 가혹한 환경에서 살아남은 연약한 목재 카운터입니다.  \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
 		</text>
 	</string>
 
@@ -425,9 +425,9 @@
 		<text>
 			코팅된 포스터입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
-			%c[d_purple] ::: %c[ui_gray_2] 원하는 이미지를 넣을 수 있음\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
+			%c[d_cyan]&#x0095; %c[ui_gray_2] 원하는 이미지를 넣을 수 있음\n			
 		</text>
 	</string>
 	
@@ -438,8 +438,8 @@
 		<text>
 			단단한 목재 책상입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
 		</text>
 	</string>
 
@@ -450,8 +450,8 @@
 		<text>
 			평범한 목재 테이블입니다. \n \n
 			%%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n		
 		</text>
 	</string>
 
@@ -462,8 +462,8 @@
 		<text>
 			물담배로도 알려져있는 후카입니다. 쉬샤 담배를 피우기 위한 장치로써 물을 담을 수 있는 공간이 있습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -474,8 +474,8 @@
 		<text>
 			오래된 PC 본체입니다. 작동하지는 않지만 분위기를 내기에 좋습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -486,8 +486,8 @@
 		<text>
 			심플한 나무 의자입니다. 보기와는 다르게 충분히 편안하고 푹신합니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -498,8 +498,8 @@
 		<text>
 			세라믹으로 만들어진 평범한 접시로써 당연하지만 방탄소재로는 사용할 수 없습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -510,8 +510,8 @@
 		<text>
 			세라믹으로 만들어진 볼입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -522,9 +522,9 @@
 		<text>
 			작동하는 초소형 선풍기입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n
-			%c[d_orange] ::: %c[ui_gray_2] 작동 시 시원한 바람이 나옴\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n
+			%c[d_orange]&#x0095; %c[ui_gray_2] 작동 시 시원한 바람이 나옴\n			
 		</text>
 	</string>
 
@@ -535,11 +535,11 @@
 		<text>
 			크고 무거운 냉장고입니다. 전기만 연결되어 있다면 여러 음식을 상하지 않게 보관할 수 있습니다.\n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 대용량\n
-			%c[d_orange] ::: %c[ui_gray_2] 뮤턴트 고기는 냉장고에서 상하지 않음 %c[ui_gray_2] \n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능 \n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 대용량\n
+			%c[d_orange]&#x0095; %c[ui_gray_2] 뮤턴트 고기는 냉장고에서 상하지 않음 %c[ui_gray_2] \n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능 \n
 		</text>
 	</string>
 	
@@ -550,8 +550,8 @@
 		<text>
 			오래된 컴퓨터 키보드입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -562,8 +562,8 @@
 		<text>
 			기본적인 PC 마우스입니다. 오래전에 나온 제품이라 편안하지도 않고 부드럽지도 않습니다. 볼을 잃어버리지 않게 조심하세요. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -574,8 +574,8 @@
 		<text>
 			기본적인 PC 마우스입니다. 오래전에 나온 제품이라 편안하지도 않고 부드럽지도 않습니다. 그나마 마우스 패드가 있어 사용하기에 좀 낫습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -586,9 +586,9 @@
 		<text>
 			오래된 모니터입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
-			%c[d_purple] ::: %c[ui_gray_2] 모니터에 표시 될 이미지를 지정할 수 있음\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
+			%c[d_cyan]&#x0095; %c[ui_gray_2] 모니터에 표시 될 이미지를 지정할 수 있음\n
 		</text>
 	</string>
 
@@ -599,8 +599,8 @@
 		<text>
 			출처를 알 수 없는 기본 머그컵입니다. 상당히 깨끗합니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -611,9 +611,9 @@
 		<text>
 			작동하는 작은 스토브로써 모든 종류의 연료를 사용할 수 있습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-			%c[d_blue] ::: %c[ui_gray_2] 가치있는 물품\n
-			%c[d_orange] ::: %c[ui_gray_2] 요리 시 사용할 수있음 \n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 가치있는 물품\n
+			%c[d_orange]&#x0095; %c[ui_gray_2] 요리 시 사용할 수있음 \n
 		</text>
 	</string>
 
@@ -624,10 +624,10 @@
 		<text>
 			작동하는 큰 스토브로써 모든 종료의 연료를 사용할 수 있습니다. 물품 보관이 가능합니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-			%c[d_blue] ::: %c[ui_gray_2] 가치있는 물품\n
-			%c[d_blue] ::: %c[ui_gray_2] 대용량 (일체형)\n
-			%c[d_orange] ::: %c[ui_gray_2] 요리 시 사용할 수있음 \n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 가치있는 물품\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 대용량 (일체형)\n
+			%c[d_orange]&#x0095; %c[ui_gray_2] 요리 시 사용할 수있음 \n		
 		</text>
 	</string>
 
@@ -638,9 +638,9 @@
 		<text>
 			존에서 종종 보이는 TV와 동일한 모델으로써 같은 채널을 수신합니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
-			%c[d_purple] ::: %c[ui_gray_2] 모니터에 표시 될 이미지를 지정할 수 있음\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
+			%c[d_cyan]&#x0095; %c[ui_gray_2] 모니터에 표시 될 이미지를 지정할 수 있음\n
 		</text>
 	</string>
 
@@ -651,8 +651,8 @@
 		<text>
 			심플한 원목 수납장입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -663,8 +663,8 @@
 		<text>
 			단단한 원목 수납장입니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_green] ::: %c[ui_gray_2] 가구 아이템\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_green]&#x0095; %c[ui_gray_2] 가구 아이템\n			
 		</text>
 	</string>
 
@@ -675,9 +675,9 @@
 		<text>
 			최근에 제작된 모델로 보이는 디지털 시계입니다. 존에서는 흔하지 않습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_orange] ::: %c[ui_gray_2] 현재 시간을 표시함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_orange]&#x0095; %c[ui_gray_2] 현재 시간을 표시함\n
 		</text>
 	</string>
 
@@ -688,11 +688,11 @@
 		<text>
 			단단한 플라스틱으로 만들어진 보관함으로 안에는 내용물 보호를 위한 쿠션 내장재로 마감되었습니다. 마감을 보나 외형을 보나 의약품만 보관할 수 있습니다. \n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 대용량\n
-			%c[d_orange] ::: %c[d_red] 의약품만 보관 가능 %c[ui_gray_2] \n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능 \n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 대용량\n
+			%c[d_orange]&#x0095; %c[d_red] 의약품만 보관 가능 %c[ui_gray_2] \n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능 \n
 		</text>
 	</string>
 
@@ -703,10 +703,10 @@
 		<text>
 			밤을 밝힐 수 있는 책상등입니다. \n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 낮은 전력 소비량\n
-			%c[d_blue] ::: %c[ui_gray_2] 사용되는 연료: 배터리\n			
+			%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 낮은 전력 소비량\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 사용되는 연료: 배터리\n			
 		</text>
 	</string>
 
@@ -718,10 +718,10 @@
 		<text>
 			밤을 밝힐 수 있는 책상등입니다. \n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 기술물품\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 낮은 전력 소비량\n
-			%c[d_blue] ::: %c[ui_gray_2] 사용되는 연료: 배터리\n		
+			%c[d_blue]&#x0095; %c[ui_gray_2] 기술물품\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 낮은 전력 소비량\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 사용되는 연료: 배터리\n		
 		</text>
 	</string>
 
@@ -731,11 +731,11 @@
 	<string id="st_placeable_ammo_box_descr">
 		<text>나무로 만들어진 군용 보관함입니다. 방습처리가 되어 있으며 주로 탄약을 보관하는데 사용됩니다.\n \n
 			%c[ui_gray_1]특징:\n
-			%c[d_blue] ::: %c[ui_gray_2] 아이템 보관함\n
-			%c[d_blue] ::: %c[ui_gray_2] 설치가능\n
-			%c[d_blue] ::: %c[ui_gray_2] 대용량\n
-			%c[d_orange] ::: %c[d_red] 탄약만 보관 가능 %c[ui_gray_2] \n
-			%c[0,100,255,150] ::: %c[ui_gray_2] 은닉처로 사용 가능 \n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 아이템 보관함\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 설치가능\n
+			%c[d_blue]&#x0095; %c[ui_gray_2] 대용량\n
+			%c[d_orange]&#x0095; %c[d_red] 탄약만 보관 가능 %c[ui_gray_2] \n
+			%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능 \n
 		</text>
 	</string>
 </string_table>

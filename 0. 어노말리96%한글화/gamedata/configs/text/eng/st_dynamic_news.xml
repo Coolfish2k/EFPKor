@@ -11706,7 +11706,7 @@
 		<text>사망 보고서</text>
 	</string>
 	<string id="st_dyn_news_welcome_stalker">
-		<text>$clr_2• 통합 S.T.A.L.K.E.R. 네트워크에 접속하신것을 환영합니다.\n• 현재 존에 $number명의 접속자가 확인되었습니다.\n• 신규 이용자 네트워크 등록 완료! 체르노빌 출입금지 구역: 존에 오신것을 환영합니다: $name</text>
+		<text>$clr_2: : 통합 S.T.A.L.K.E.R. 네트워크에 접속하신것을 환영합니다.\n: : 현재 존에 $number명의 접속자가 확인되었습니다.\n: : 신규 이용자 네트워크 등록 완료! 체르노빌 출입금지 구역: 존에 오신것을 환영합니다: $name</text>
 	</string>
 	<string id="st_dyn_news_death_by_surge_start">
 		<text>초기 보고: 확인된 에미션 사상자:\n</text>

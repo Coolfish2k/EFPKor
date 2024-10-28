@@ -337,7 +337,7 @@
 <!-- st_items_ammo_new.xml -->
 	<!-- descriptors -->
 	<string id="st_dot">
-		<text>•</text>
+		<text>&#x0095;</text>
 	</string>
 	<string id="st_ball_properties">
 		<text>특성:</text>

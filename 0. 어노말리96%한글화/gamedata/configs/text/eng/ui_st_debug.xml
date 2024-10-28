@@ -5,14 +5,14 @@
 		<text>
 		%c[ui_gray_2]Available main menu keybinds on debug mode:
 		\n \n%c[d_orange]On loaded game only:
-		\n%c[pda_blue]• %c[ui_gray_3]F7:%c[ui_gray_2] Start Anomaly debugger
-		\n%c[pda_blue]• %c[ui_gray_3]1:%c[ui_gray_2] Debug HUD - Switch info feedback of left panel
-		\n%c[pda_blue]• %c[ui_gray_3]2:%c[ui_gray_2] Debug HUD - Switch info feedback of middle panel
-		\n%c[pda_blue]• %c[ui_gray_3]3:%c[ui_gray_2] Debug HUD - Switch info feedback of right panel
+		\n%c[pda_blue]: : %c[ui_gray_3]F7:%c[ui_gray_2] Start Anomaly debugger
+		\n%c[pda_blue]: : %c[ui_gray_3]1:%c[ui_gray_2] Debug HUD - Switch info feedback of left panel
+		\n%c[pda_blue]: : %c[ui_gray_3]2:%c[ui_gray_2] Debug HUD - Switch info feedback of middle panel
+		\n%c[pda_blue]: : %c[ui_gray_3]3:%c[ui_gray_2] Debug HUD - Switch info feedback of right panel
 		\n \n%c[d_orange]Without a loaded game:
-		\n%c[pda_blue]• %c[ui_gray_3]F2:%c[ui_gray_2] Launch test map
+		\n%c[pda_blue]: : %c[ui_gray_3]F2:%c[ui_gray_2] Launch test map
 		\n \n%c[d_orange]Both cases:
-		\n%c[pda_blue]• %c[ui_gray_3]Numpad 0:%c[ui_gray_2] Reload system_ini()
+		\n%c[pda_blue]: : %c[ui_gray_3]Numpad 0:%c[ui_gray_2] Reload system_ini()
 		</text>
 	</string>
 
@@ -30,23 +30,23 @@
 			\nYou can return to them in case you turned off the editor (Avoid exiting or reloading when you have unsaved values).
 			\nIn (Viewer) mode, you can witness weather changes by the time slider.
 			\n \n%c[pda_blue]Keybinds%c[ui_gray_2]\n
-			\n%c[d_purple]• %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
-			\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
-			\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.\n
-			\n%c[d_purple]• %c[ui_gray_3]R/F: %c[ui_gray_2]increase/reduce selected value.
-			\n%c[d_purple]• %c[ui_gray_3]T/G: %c[ui_gray_2]increase/reduce all values of selected parameter.
-			\n%c[d_purple]• %c[ui_gray_3]Q/A: %c[ui_gray_2]select next/previous hour.
-			\n%c[d_purple]• %c[ui_gray_3]W/S: %c[ui_gray_2]select next/previous minute.
-			\n%c[d_purple]• %c[ui_gray_3]E/D: %c[ui_gray_2]select next/previous saved moment.\n
-			\n%c[d_purple]• %c[ui_gray_3]Z: %c[ui_gray_2]start viewer mode.\n
-			\n%c[d_purple]• %c[ui_gray_3]C: %c[ui_gray_2]copy select paramter value.
-			\n%c[d_purple]• %c[ui_gray_3]C + CTRL: %c[ui_gray_2]copy current settings.
-			\n%c[d_purple]• %c[ui_gray_3]V: %c[ui_gray_2]paste/apply copied parameter value.
-			\n%c[d_purple]• %c[ui_gray_3]V + CTRL: %c[ui_gray_2]paste/apply to current settings.\n
-			\n%c[d_purple]• %c[ui_gray_3]Delete: %c[ui_gray_2]reset current modified moment.
-			\n%c[d_purple]• %c[ui_gray_3]Delete + CTRL: %c[ui_gray_2]reset all modified moments.
-			\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]toggle help window.
-			\n%c[d_purple]• %c[ui_gray_3]Esc or Home: %c[ui_gray_2]turn off editor.
+			\n%c[d_purple]: : %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
+			\n%c[d_purple]: : %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
+			\n%c[d_purple]: : %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.\n
+			\n%c[d_purple]: : %c[ui_gray_3]R/F: %c[ui_gray_2]increase/reduce selected value.
+			\n%c[d_purple]: : %c[ui_gray_3]T/G: %c[ui_gray_2]increase/reduce all values of selected parameter.
+			\n%c[d_purple]: : %c[ui_gray_3]Q/A: %c[ui_gray_2]select next/previous hour.
+			\n%c[d_purple]: : %c[ui_gray_3]W/S: %c[ui_gray_2]select next/previous minute.
+			\n%c[d_purple]: : %c[ui_gray_3]E/D: %c[ui_gray_2]select next/previous saved moment.\n
+			\n%c[d_purple]: : %c[ui_gray_3]Z: %c[ui_gray_2]start viewer mode.\n
+			\n%c[d_purple]: : %c[ui_gray_3]C: %c[ui_gray_2]copy select paramter value.
+			\n%c[d_purple]: : %c[ui_gray_3]C + CTRL: %c[ui_gray_2]copy current settings.
+			\n%c[d_purple]: : %c[ui_gray_3]V: %c[ui_gray_2]paste/apply copied parameter value.
+			\n%c[d_purple]: : %c[ui_gray_3]V + CTRL: %c[ui_gray_2]paste/apply to current settings.\n
+			\n%c[d_purple]: : %c[ui_gray_3]Delete: %c[ui_gray_2]reset current modified moment.
+			\n%c[d_purple]: : %c[ui_gray_3]Delete + CTRL: %c[ui_gray_2]reset all modified moments.
+			\n%c[d_purple]: : %c[ui_gray_3]H: %c[ui_gray_2]toggle help window.
+			\n%c[d_purple]: : %c[ui_gray_3]Esc or Home: %c[ui_gray_2]turn off editor.
 		</text>
 	</string>
 	<string id="st_ui_dbg_weather_title">
@@ -141,16 +141,16 @@
 			\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) will keep trace of original parameters upon changing, so you can reset them back with Reset button.
 			\nDon't forget to make a backup of the configs for reference.
 			\n \n%c[pda_blue]Keybinds%c[ui_gray_2]\n
-			\n%c[d_purple]• %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]increase/reduce selected value.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]increase/reduce all values of selected parameter.
-			\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
-			\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 5: %c[ui_gray_2]copy current stats.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 6: %c[ui_gray_2]paste stored stats.
-			\n%c[d_purple]• %c[ui_gray_3]G: %c[ui_gray_2]Toggle crosshair.\n
-			\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]Show help window.
-			\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]turn off editor.
+			\n%c[d_purple]: : %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]increase/reduce selected value.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]increase/reduce all values of selected parameter.
+			\n%c[d_purple]: : %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
+			\n%c[d_purple]: : %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 5: %c[ui_gray_2]copy current stats.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 6: %c[ui_gray_2]paste stored stats.
+			\n%c[d_purple]: : %c[ui_gray_3]G: %c[ui_gray_2]Toggle crosshair.\n
+			\n%c[d_purple]: : %c[ui_gray_3]H: %c[ui_gray_2]Show help window.
+			\n%c[d_purple]: : %c[ui_gray_3]Esc: %c[ui_gray_2]turn off editor.
 		</text>
 	</string>
 	
@@ -269,15 +269,15 @@
 			\n(%c[ui_gray_3]gamedata/configs/cache_dbg.ltx%c[ui_gray_2]) will keep trace of original parameters upon changing, so you can reset them back with Reset button.
 			\nDon't forget to make a backup of the configs for reference.
 			\n \n%c[pda_blue]Keybinds%c[ui_gray_2]\n
-			\n%c[d_purple]• %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]increase/reduce selected value.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]increase/reduce all values of selected parameter.
-			\n%c[d_purple]• %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
-			\n%c[d_purple]• %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 5: %c[ui_gray_2]copy current stats.
-			\n%c[d_purple]• %c[ui_gray_3]Numpad 6: %c[ui_gray_2]paste stored stats.\n
-			\n%c[d_purple]• %c[ui_gray_3]H: %c[ui_gray_2]Show help window.
-			\n%c[d_purple]• %c[ui_gray_3]Esc: %c[ui_gray_2]turn off editor.
+			\n%c[d_purple]: : %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]increase/reduce selected value.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]increase/reduce all values of selected parameter.
+			\n%c[d_purple]: : %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
+			\n%c[d_purple]: : %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 5: %c[ui_gray_2]copy current stats.
+			\n%c[d_purple]: : %c[ui_gray_3]Numpad 6: %c[ui_gray_2]paste stored stats.\n
+			\n%c[d_purple]: : %c[ui_gray_3]H: %c[ui_gray_2]Show help window.
+			\n%c[d_purple]: : %c[ui_gray_3]Esc: %c[ui_gray_2]turn off editor.
 		</text>
 	</string>
 
@@ -402,12 +402,12 @@
 		\n \n%c[pda_blue]Jamming chance calculation%c[ui_gray_2]
 		\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
 		
-		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
-		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
+		\n \n%c[d_purple]: : %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
+		\n%c[d_purple]: : %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
 		</text>
 	</string>
 	<string id="st_desc_misfire_end_condition">
@@ -420,12 +420,12 @@
 		\n \n%c[pda_blue]Jamming chance calculation%c[ui_gray_2]
 		\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
 		
-		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
-		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
+		\n \n%c[d_purple]: : %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
+		\n%c[d_purple]: : %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
 		</text>
 	</string>
 	<string id="st_desc_misfire_start_prob">
@@ -437,12 +437,12 @@
 		\n \n%c[pda_blue]Jamming chance calculation%c[ui_gray_2]
 		\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
 		
-		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
-		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
+		\n \n%c[d_purple]: : %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
+		\n%c[d_purple]: : %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
 		</text>
 	</string>
 	<string id="st_desc_misfire_end_prob">
@@ -454,12 +454,12 @@
 		\n \n%c[pda_blue]Jamming chance calculation%c[ui_gray_2]
 		\n%c[ui_gray_3]Misfire chance on shot = start_prop + ( (start_con - condition) x (end_prop - start_prop) / factor )
 		
-		\n \n%c[d_purple]• %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
-		\n%c[d_purple]• %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
-		\n%c[d_purple]• %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
-		\n%c[d_purple]• %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
+		\n \n%c[d_purple]: : %c[ui_gray_3]condition:%c[ui_gray_2] current weapon condition
+		\n%c[d_purple]: : %c[ui_gray_3]start_prop:%c[ui_gray_2] "misfire_start_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_prop:%c[ui_gray_2] "misfire_end_prob" value
+		\n%c[d_purple]: : %c[ui_gray_3]start_con:%c[ui_gray_2] "misfire_start_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]end_con:%c[ui_gray_2] "misfire_end_condition" value
+		\n%c[d_purple]: : %c[ui_gray_3]factor:%c[ui_gray_2] (start_con - end_con) when those values are different, or (start_con) only if they are identical.
 		</text>
 	</string>
 	<string id="st_desc_condition_shot_dec">
@@ -470,10 +470,10 @@
 		\n%c[ui_gray_2]$range
 		\n \n%c[pda_blue]Calculation
 		\n%c[ui_gray_3]condition loss per shot = (condition_shot_dec) x (weapon_degredation) x (impair) x (condition_shot_dec_k)
-		\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] is defined per weapon section. Set "condition_queue_shot_dec" to the same value
-		\n%c[d_purple]• %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] is a console command, allowing in-game control for degredation in general (defaulted to 1)
-		\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] is a parameter defined in the ammo section the weapon is currently using
-		\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] is a parameter defined in the silencer section attached to the weapon (defaulted to 1 if it's missing)
+		\n \n%c[d_purple]: : %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] is defined per weapon section. Set "condition_queue_shot_dec" to the same value
+		\n%c[d_purple]: : %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] is a console command, allowing in-game control for degredation in general (defaulted to 1)
+		\n%c[d_purple]: : %c[ui_gray_3]"impair"%c[ui_gray_2] is a parameter defined in the ammo section the weapon is currently using
+		\n%c[d_purple]: : %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] is a parameter defined in the silencer section attached to the weapon (defaulted to 1 if it's missing)
 		</text>
 	</string>
 	<string id="st_desc_condition_queue_shot_dec">
@@ -484,10 +484,10 @@
 		\n%c[ui_gray_2]$range
 		\n \n%c[pda_blue]Calculation
 		\n%c[ui_gray_3]condition loss per shot = (condition_shot_dec) x (weapon_degredation) x (impair) x (condition_shot_dec_k)
-		\n \n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] is defined per weapon section. Set "condition_queue_shot_dec" to the same value
-		\n%c[d_purple]• %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] is a console command, allowing in-game control for degredation in general (defaulted to 1)
-		\n%c[d_purple]• %c[ui_gray_3]"impair"%c[ui_gray_2] is a parameter defined in the ammo section the weapon is currently using
-		\n%c[d_purple]• %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] is a parameter defined in the silencer section attached to the weapon (defaulted to 1 if it's missing)
+		\n \n%c[d_purple]: : %c[ui_gray_3]"condition_shot_dec"%c[ui_gray_2] is defined per weapon section. Set "condition_queue_shot_dec" to the same value
+		\n%c[d_purple]: : %c[ui_gray_3]"weapon_degredation"%c[ui_gray_2] is a console command, allowing in-game control for degredation in general (defaulted to 1)
+		\n%c[d_purple]: : %c[ui_gray_3]"impair"%c[ui_gray_2] is a parameter defined in the ammo section the weapon is currently using
+		\n%c[d_purple]: : %c[ui_gray_3]"condition_shot_dec_k"%c[ui_gray_2] is a parameter defined in the silencer section attached to the weapon (defaulted to 1 if it's missing)
 		</text>
 	</string>
 	<string id="st_desc_cam_return">
