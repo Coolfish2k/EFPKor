@@ -2,22 +2,22 @@
 <string_table>
 	<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
 	<string id="ui_mm_cc_icc">
-		<text>Closed captions</text>
+		<text>자막</text>
 	</string>
 	<string id="ui_mm_cc_icc_chktext">
-		<text>On sound effects</text>
+		<text>효과음만</text>
 	</string>
 	<string id="ui_mm_cc_captioning">
-		<text>Closed captions</text>
+		<text>자막</text>
 	</string>
 	<string id="ui_mm_cc_none">
-		<text>No subtitles</text>
+		<text>자막 없음</text>
 	</string>
 	<string id="ui_mm_cc_storyonly">
-		<text>Important subtitles only</text>
+		<text>중요한 자막만</text>
 	</string>
 	<string id="ui_mm_cc_all">
-		<text>All subtitles</text>
+		<text>모든 자막</text>
 	</string>
 
 	<!-- STRING TABLE ADDITIONS FOR GAME -->
@@ -2541,142 +2541,142 @@
 
 	<!-- CLOSED CAPTIONS FOR CALL OF CHERNOBYL -->
 	<string id="bar_barman_hello_1">
-		<text>Hey there!</text>
+		<text>어이, 안녕하신가!</text>
 	</string>
 	<string id="bar_barman_hello_2">
-		<text>What's up, man? How goes it?</text>
+		<text>좀 어때? 일은 잘 풀려?</text>
 	</string>
 	<string id="bar_barman_hello_3">
-		<text>Still alive? That's great.</text>
+		<text>아직도 살아있는걸 보니 반갑네.</text>
 	</string>
 	<string id="bar_barman_hello_4">
-		<text>How's it going?</text>
+		<text>바깥생활은 좀 어떤가?</text>
 	</string>
 	<string id="bar_barman_hello_5">
-		<text>What's up?</text>
+		<text>무슨일이지?</text>
 	</string>
 	<string id="bar_barman_wait_1">
-		<text>What's taking you so long, eh?</text>
+		<text>뭐가 그렇게 오래걸려?</text>
 	</string>
 	<string id="bar_barman_wait_2">
-		<text>Come on already. Get over here.</text>
+		<text>여기와서 한잔 하지.</text>
 	</string>
 	<string id="bar_barman_wait_3">
-		<text>What are you standing around for? Come on, get over here.</text>
+		<text>거기서 멀뚱히 뭐 하는거야? 이리 와서 한잔 하는게 어때?</text>
 	</string>
 	<string id="bar_barman_wait_4">
-		<text>Get over here. We haven't got much time.</text>
+		<text>시간아깝게 거기서 뭐하나? 여기와서 이야기하지.</text>
 	</string>
 	<string id="bar_guard_prohodi_1">
-		<text>I said: come in! Don't stand there.</text>
+		<text>거기 서있으면 안돼. 들어올꺼면 얼른 들어와.</text>
 	</string>
 	<string id="bar_guard_stop_1">
-		<text>You can't go there!</text>
+		<text>어이! 거긴 출입 금지 구역이야!</text>
 	</string>
 	<string id="bar_guard_stop_2">
-		<text>Talk to the Barkeep.</text>
+		<text>바텐더랑 얘기 해보는게 어때?</text>
 	</string>
 	<string id="bar_guard_stop_3">
-		<text>Stop! I can't let you in here right now.</text>
+		<text>정지! 지금은 출입할 수 없으니 다음에 와.</text>
 	</string>
 	<string id="duty_hangar_1">
-		<text>Get out of here, stalker.</text>
+		<text>여기서 당장 나가.</text>
 	</string>
 	<string id="esc_mech_meet_1">
-		<text>Well? What do you want?</text>
+		<text>음? 원하는게 뭐지?</text>
 	</string>
 	<string id="esc_mech_meet_2">
-		<text>What is it again?</text>
+		<text>또 뭐야?</text>
 	</string>
 	<string id="esc_mech_meet_3">
-		<text>Will you ever just leave me alone? You all think I enjoy getting bothered like this, don't you?</text>
+		<text>그냥 좀 내버려두면 안되나? 여기서 물건이나 만지는게 즐거울꺼라고 생각하는거야?</text>
 	</string>
 	<string id="esc_mech_meet_bye_1">
-		<text>Okay, bye.</text>
+		<text>좋아, 잘 가.</text>
 	</string>
 	<string id="esc_mech_meet_bye_2">
-		<text>So you're 1? Finally.</text>
+		<text>드디어 가려고? 다행이네.</text>
 	</string>
 	<string id="esc_mech_meet_bye_3">
-		<text>Finally, you leave me alone. It brings me happiness.</text>
+		<text>드디어 날 내버려두는거야? 행복해 죽을 것 같군.</text>
 	</string>
 	<string id="esc_nimble_greeting_1">
-		<text>Hello, stalker. Thinking of placing an order?</text>
+		<text>반가워 스토커. 뭐 주문하게?</text>
 	</string>
 	<string id="esc_nimble_greeting_2">
-		<text>What's up? Decided to order something?</text>
+		<text>좀 어때? 뭐 갖다줄까?</text>
 	</string>
 	<string id="esc_nimble_greeting_3">
-		<text>Hey! You need something?</text>
+		<text>어이, 뭐 필요한거라도?</text>
 	</string>
 	<string id="esc_nimble_greeting_order_not_ready_1">
-		<text>Don't worry. You'll get the goods a bit later.</text>
+		<text>걱정하지마. 좀 기다리면 준비될꺼야.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_not_ready_2">
-		<text>Come back later. I don't have the goods yet.</text>
+		<text>나중에 다시 와. 아직 덜 끝났어.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_not_ready_3">
-		<text>Drop by later. I'll have your order by then.</text>
+		<text>좀 있다 다시 들려. 아직 안됐어.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_ready_1">
-		<text>That's your order complete. Collect your goods.</text>
+		<text>여기, 자네 물건. 확인하고 챙겨가.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_ready_2">
-		<text>I have the goods. Take them!</text>
+		<text>다 끝났지. 여기, 받아.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_ready_3">
-		<text>Take your goods, stalker! As you can see, I keep my word.</text>
+		<text>이거 받아가. 굳이 확인 안해봐도 되네.</text>
 	</string>
 	<string id="esc_nimble_order">
-		<text>The job's done. You can collect the goods.</text>
+		<text>끝났어. 이거 챙겨가면 돼.</text>
 	</string>
 	<string id="esc_fanat_farewell_1">
-		<text>See you, then.</text>
+		<text>그럼, 다음에 또 보길.</text>
 	</string>
 	<string id="esc_fanat_farewell_2">
-		<text>Good luck.</text>
+		<text>행운을 빌어, 스토커.</text>
 	</string>
 	<string id="esc_fanat_farewell_3">
-		<text>Nice talking to you.</text>
+		<text>만나서 반가웠어.</text>
 	</string>
 	<string id="esc_fanat_farewell_4">
-		<text>Farewell.</text>
+		<text>잘가.</text>
 	</string>
 	<string id="esc_fanat_farewell_5">
-		<text>Good hunting, stalker.</text>
+		<text>좋은 사냥 되길.</text>
 	</string>
 	<string id="esc_fanat_greeting_1">
-		<text>Hello.</text>
+		<text>안녕.</text>
 	</string>
 	<string id="esc_fanat_greeting_2">
-		<text>What's up?</text>
+		<text>좀 어때?</text>
 	</string>
 	<string id="esc_fanat_greeting_3">
-		<text>Hey there.</text>
+		<text>반가워.</text>
 	</string>
 	<string id="esc_fanat_greeting_4">
-		<text>Hey.</text>
+		<text>어이.</text>
 	</string>
 	<string id="red_forester_greet_1">
-		<text>Hello. What brings you here?</text>
+		<text>반갑군. 무슨일로 왔지?</text>
 	</string>
 	<string id="red_forester_hello_bye_0">
-		<text>Farewell, lad.</text>
+		<text>조심히 들어가게.</text>
 	</string>
 	<string id="red_forester_hello_bye_1">
-		<text>Don't forget the old man.</text>
+		<text>이 늙은이를 잊지 말게나.</text>
 	</string>
 	<string id="red_forester_hello_bye_2">
-		<text>Wish you a straight road, boy.</text>
+		<text>가는 길 마다 잘 풀리길 바라지.</text>
 	</string>
 	<string id="red_forester_meet_hello_0">
-		<text>Greetings, living soul.</text>
+		<text>반갑네, 살아있는 영혼이여.</text>
 	</string>
 	<string id="red_forester_meet_hello_1">
-		<text>What is it, young one? What are you looking for here?</text>
+		<text>이번엔 또 어쩐일인가 젊은이?</text>
 	</string>
 	<string id="red_forester_meet_hello_2">
-		<text>Was it chance that brought you to this place, or what?</text>
+		<text>여기 올 만한 이유가 있었나? 아니면 그냥 들려본겐가?</text>
 	</string>
 	<string id="val_bandit_trader_meet_1">
 		<text>...</text>
@@ -2685,24 +2685,24 @@
 		<text>...</text>
 	</string>
 	<string id="yan_sakharov_meet_1">
-		<text>Greetings, young man!</text>
+		<text>반갑네, 젊은이!</text>
 	</string>
 	<string id="yan_sakharov_meet_2">
-		<text>I welcome you to our scientific base!</text>
+		<text>우리 캠프에 방문한걸 환영하네.</text>
 	</string>
 	<string id="yan_sakharov_meet_3">
-		<text>What do you bring to my humble laboratory?</text>
+		<text>오늘은 뭘 가져왔지?</text>
 	</string>
 	<string id="yan_sakharov_meet_4">
-		<text>Yes-yes?</text>
+		<text>음, 응?</text>
 	</string>
 	<string id="yan_sakharov_meet_bye_1">
-		<text>Best wishes to you!</text>
+		<text>조심히 가게나!</text>
 	</string>
 	<string id="yan_sakharov_meet_bye_2">
-		<text>It's been nice meeting you.</text>
+		<text>만나서 반가웠네.</text>
 	</string>
 	<string id="yan_sakharov_meet_bye_3">
-		<text>Come back if you need anything else!</text>
+		<text>필요한게 있으면 또 들려주게!</text>
 	</string>
 </string_table>

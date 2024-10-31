@@ -486,9 +486,9 @@
 		<text>
 			Bars A-2607 단검은 95H18 강철로 단조되었으며, 고급 목재 손잡이와 황동 가드가 특징입니다.\n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 군용품\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[d_red]&#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 군용품\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
+			%c[d_red] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -499,9 +499,9 @@
 		<text>
 			6H5라고도 불리는 6Kh5총검은 1989년에 AK 돌격소총에 사용하기 위해 채택 및 보급된 총검입니다.
 			%c[ui_gray_3]특징:\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 군용품\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[d_red]&#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 군용품\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
+			%c[d_red] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -512,9 +512,9 @@
 		<text>
 			SP8은 탄소강으로 제작된 서바이벌 마체테입니다.\n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 사냥 용품\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[pda_green]&#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 사냥 용품\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -525,9 +525,9 @@
 		<text>
 			풀네임 UVSR "Device for carrying out rescue operations" Taiga-1은 진정으로 다재다능한 생존 도구입니다. 무기이자 삽이자 도끼는 물론, 상상할 수 있는 모든 것이 될 수 있습니다. 이는 다양한 기관을 위해 소련에서 개발 및 생산되었습니다.\n \n\n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 군용품\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[pda_green]&#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 군용품\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -538,9 +538,9 @@
 		<text>
 			광범위하게 사용되는 도끼로 캠핑이나 여행은 물론 농업이나 도축용으로도 사용할 수 있습니다.\n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 군용품\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[pda_green]&#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 군용품\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
 		</text>
 	</string>
 
@@ -551,9 +551,9 @@
 		<text>
 			우레탄으로 코팅된 망치로 스틸 볼을 사용하여 충격을 완화하고 손잡이로 전달되는 반동을 줄이도록 설계되었습니다. "둔탁한" 소리를 제공합니다.\n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] everyday item\n
-			%c[d_blue]&#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[pda_green]&#x0095; %c[ui_gray_2] greater reach compared to knives\n \n
+			%c[d_blue] &#x0095; %c[ui_gray_2] everyday item\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
+			%c[pda_green] &#x0095; %c[ui_gray_2] greater reach compared to knives\n \n
 		</text>
 	</string>
 

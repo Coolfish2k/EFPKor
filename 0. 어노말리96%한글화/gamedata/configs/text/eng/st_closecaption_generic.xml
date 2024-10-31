@@ -306,13 +306,13 @@
 
 	<!-- Ecologists -->
 	<string id="cc_generic-ecolog-meet_hello_1">
-		<text>What do you say?</text>
+		<text>뭐라고?</text>
 	</string>
 	<string id="cc_generic-ecolog-meet_hello_2">
-		<text>I'm listening.</text>
+		<text>듣고 있어.</text>
 	</string>
 	<string id="cc_generic-ecolog-meet_hello_3">
-		<text>Good day.</text>
+		<text>좋은 하루야.</text>
 	</string>
 
 	<string id="cc_generic-ecolog-meet_hide_weapon_1">

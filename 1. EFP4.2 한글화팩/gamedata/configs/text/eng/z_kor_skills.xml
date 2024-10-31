@@ -195,10 +195,10 @@
 		Sunset Sarsaparilla Company는 1918년에 설립되었으며, 이후 사르사파릴라 맛 청량음료로 전 미국 전역에 알려지게 되었습니다.
 		\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue]&#x0095; %c[ui_gray_2] 음료\n
-		%c[d_blue]&#x0095; %c[ui_gray_2] 수입품\n
-		%c[d_blue]&#x0095; %c[ui_gray_2] 높은 품질\n
-		%c[d_red]&#x0095; %c[ui_gray_2] 신부전을 일으킬 수 있음\n
+		%c[d_blue] &#x0095; %c[ui_gray_2] 음료\n
+		%c[d_blue] &#x0095; %c[ui_gray_2] 수입품\n
+		%c[d_blue] &#x0095; %c[ui_gray_2] 높은 품질\n
+		%c[d_red] &#x0095; %c[ui_gray_2] 신부전을 일으킬 수 있음\n
 		\n \n
 		%c[ui_gray_3]마시면 특성이 초기화됩니다!</text>
 	</string>
@@ -467,7 +467,7 @@
 		<text>$clr_cyan&#x0095; $clr_white저항력 증가\n$clr_purple&#x0095; $clr_white사냥 스킬 증가</text>
 	</string>
 	<string id="st_new_level_header">
-		<text>$name lvl. $level 획득</text>
+		<text>$name 스킬의 레벨이 $level 으로 올랐습니다.</text>
 	</string>
 
 		<string id="ui_mcm_skill_system_exp_multiplier_strength">
@@ -502,7 +502,7 @@
 	</string>
 
 	    <string id="st_player_skill_stats">
-        <text>\상태:</text>
+        <text>상태:</text>
     </string>
 
     <!-- Scavenging -->

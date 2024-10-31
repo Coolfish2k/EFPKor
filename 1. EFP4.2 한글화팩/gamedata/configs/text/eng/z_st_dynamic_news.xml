@@ -1425,7 +1425,7 @@
 		<text>아그로프롬 지하,</text>
 	</string>
 	<string id="st_dyn_news_l04_darkvalley">
-		<text>어두운 계곡,</text>
+		<text>검은 계곡,</text>
 	</string>
 	<string id="st_dyn_news_l04u_labx18">
 		<text>X-18 연구소,</text>
@@ -7336,7 +7336,7 @@
 		<text>$clr_1익명의 사용자\n$clr_2좆같은 아티팩트 단 하나가 쳐 없네... 이 냄새나는 땀통에서 부서진 금속과 야생동물들을 1마일이나 질질 끌고 다녔어. 절차데로 그대로 했다고! 근데 씨발 아무것도 안 나오잖아! 개같은거 엿이나 먹어라!</text>
 	</string>
 	<string id="st_dyn_news_spam_186">
-		<text>$clr_1익명의 사용자\n$clr_2석혈과 진짜 차 1파운드를 교환할 용의가 있습니다. 농담 아님.</text>
+		<text>$clr_1익명의 사용자\n$clr_2스톤 블러드와 진짜 차 1파운드를 교환할 용의가 있습니다. 농담 아님.</text>
 	</string>
 	<string id="st_dyn_news_spam_187">
 		<text>$clr_1Vincent\n$clr_2멀리가지 못했을 거야. 출혈량이 그렇게 많으면...</text>
@@ -8637,7 +8637,7 @@
 		<text>오늘 재밌어지겠는데, $who을(를) 봤어.</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_stalker_19">
-		<text>감시를 강화해라. 보아하니 $who이(가) 근처에 있다는군y.</text>
+		<text>감시를 강화해라. 보아하니 $who이(가) 근처에 있다는군.</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_stalker_20">
 		<text>모두 위치로, 방금 $who을(를) 목격했다.</text>

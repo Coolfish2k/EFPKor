@@ -280,7 +280,7 @@
 	<!--MAGAZINES-->
 
 	<string id="st_dot">
-		<text>-</text>
+		<text>&#x0095;</text>
 	</string>
 	<string id="st_mag_bonus">
 		<text>(기본:%s + 추가:%s)<!--alt:> (%s + %s)<--></text>

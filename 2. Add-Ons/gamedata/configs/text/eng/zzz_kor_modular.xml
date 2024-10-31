@@ -9,7 +9,7 @@
 		<text>에어프레임 헬멧을 위한 추가 보호 악세사리 입니다. 파편이나 소구경 탄환을 직접 보호해줄 수 있으며, 특유의 각진 형상으로 인해 도탄 가능성도 커집니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Crye Precision 에어프레임 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Crye Precision 에어프레임 헬멧
 		\n
 		</text>
 	</string>
@@ -21,11 +21,11 @@
 		<text>고강도 특수 방탄 안면 보호대 입니다. 다양한 헬멧과 호환됩니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Kiver-M
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Crye Precision 에어프레임 헬멧
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MSA Gallet TC 800 하이컷 전투 헬멧
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Team Wendy EXFIL 방탄 헬멧
-		\n%c[d_green]&#x0095; %c[ui_gray_1]NFM HJELM
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Kiver-M
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Crye Precision 에어프레임 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MSA Gallet TC 800 하이컷 전투 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Team Wendy EXFIL 방탄 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]NFM HJELM
 		\n
 		</text>
 	</string>	
@@ -37,8 +37,8 @@
 		<text>Ops-Core FAST MT 헬멧에 사용 가능한 안면 보호대 입니다. 소구경 총탄과 수류탄 파편을 보호할 수 있고, 작전 중 유독 물질이나 액체가 피부에 튀는것을 막아줍니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST MT
-		\n%c[d_green]&#x0095; %c[ui_gray_1]NFM HJELM
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1]NFM HJELM
 		\n
 		</text>
 	</string>	
@@ -50,7 +50,7 @@
 		<text>Ops-Core FAST 헬멧에 사용 가능한 추가 방탄 플레이트 악세사리 입니다. BR5 인증을 받았습니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST MT
 		\n
 		</text>
 	</string>
@@ -62,7 +62,7 @@
 		<text>알틴 헬멧을 위한 특수 방탄 안면 보호대 입니다. 총탄과 파편으로 부터 확실한 보호를 제공합니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]알틴
+		\n%c[d_green] &#x0095; %c[ui_gray_1]알틴
 		\n
 		</text>
 	</string>	
@@ -74,7 +74,7 @@
 		<text>마스카 1Sch 헬멧을 위한 안면 보호대 입니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]마스카 1Sch
+		\n%c[d_green] &#x0095; %c[ui_gray_1]마스카 1Sch
 		\n
 		</text>
 	</string>	
@@ -86,8 +86,8 @@
 		<text>Ops-Core FAST MT 헬멧을 위한 추가 턱 보호대 입니다. LZSh 경량 헬멧과도 호환됩니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1] Ops-Core FAST MT
-		\n%c[d_green]&#x0095; %c[ui_gray_1] LZSh 경량 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1] Ops-Core FAST MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1] LZSh 경량 헬멧
 		\n
 		</text>
 	</string>	
@@ -99,7 +99,7 @@
 		<text>Tac-Kek 헤비 트루퍼 마스크는 Tac-Kek FAST MT에 장착 가능한 안면 보호 마스크 입니다. 특유의 디자인으로 인해 인기가 많습니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Tac-Kek FAST MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Tac-Kek FAST MT
 		\n
 		</text>
 	</string>	
@@ -111,10 +111,10 @@
 		<text>GSSh-01 활성 헤드셋은 러시아군의 군용 헬멧 입니다. 외부 소음 차단 기능이 있기 때문에 소리를 이용해 정신 공격을 하는 뮤턴트들에 대해 유의미한 방호 능력이 있습니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Tac-Kek FAST MT
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MSA Gallet TC 800
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Team Wendy EXFIL
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core Fast MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Tac-Kek FAST MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MSA Gallet TC 800
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Team Wendy EXFIL
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core Fast MT
 		\n
 		</text>
 	</string>
@@ -126,7 +126,7 @@
 		<text>%c[ui_gray_1]ZSh-1-2M 방탄 헬멧을 위한 특수 안면 보호대 입니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]ZSh-1-2M
+		\n%c[d_green] &#x0095; %c[ui_gray_1]ZSh-1-2M
 		\n\n
 		</text>
 	</string>
@@ -138,7 +138,7 @@
 		<text>%c[ui_gray_1]카이만 하이브리드 헬멧에 장착할 수 있는 턱 보호대 악세사리 입니다. 사이드 레일에 결합할 수 있습니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]카이만 하이브리드
+		\n%c[d_green] &#x0095; %c[ui_gray_1]카이만 하이브리드
 		\n\n
 		</text>
 	</string>
@@ -149,7 +149,7 @@
 		<text>%c[ui_gray_1]카이만 하이브리드 헬멧에 장착할 수 있는 방탄 플레이트 입니다. 총탄과 파편으로 부터 착용자를 보호합니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]카이만 하이브리드
+		\n%c[d_green] &#x0095; %c[ui_gray_1]카이만 하이브리드
 		\n\n
 		</text>
 	</string>
@@ -160,7 +160,7 @@
 		<text>%c[ui_gray_1]카이만 하이브리드 헬멧에 장착할 수 있는 안면 바이저 입니다. 시야를 방해하지 않으면서도 전면으로 부터 날아오는 총탄과 파편을 효과적으로 방어합니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]카이만 하이브리드
+		\n%c[d_green] &#x0095; %c[ui_gray_1]카이만 하이브리드
 		</text>
 	</string>
 
@@ -171,7 +171,7 @@
 		<text>%c[ui_gray_1]벌칸-5 중무장 헬멧에 결합 가능한 안면 보호대 입니다. 총알과 파편으로 부터 착용자를 보호합니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]벌칸-5 중무장 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]벌칸-5 중무장 헬멧
 		\n\n
 		</text>
 	</string>
@@ -183,7 +183,7 @@
 		<text>%c[ui_gray_1]Rys-T 중무장 돌격 헬멧에 착용 가능한 방탄 안면 보호대 입니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Rys-T 중무장 돌격 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Rys-T 중무장 돌격 헬멧
 		\n\n
 		</text>
 	</string>
@@ -195,7 +195,7 @@
 		<text>%c[ui_gray_1]복합 재료와 방탄 유리로 제작된 안면 보호대로써 LSHZ-2DTM에 장착하여 보호 능력을 향상시킬 수 있습니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]BNTI LShZ-2DTM
+		\n%c[d_green] &#x0095; %c[ui_gray_1]BNTI LShZ-2DTM
 		\n\n
 		</text>
 	</string>
@@ -206,7 +206,7 @@
 		<text>%c[ui_gray_1]후두부와 목에 추가적인 방탄 능력을 제공하는 목 보호대 입니다.
 		\n%c[d_red]경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]BNTI LShZ-2DTM
+		\n%c[d_green] &#x0095; %c[ui_gray_1]BNTI LShZ-2DTM
 		\n\n
 		</text>
 	</string>
@@ -229,11 +229,11 @@
 	</string>
 	<string id="st_helm_crye_descr">
 		<text>%c[ui_gray_1]Crye Precision에서 제작한 에어프레임 헬멧은 모듈러 헬멧의 교과서적인 제품으로 사용자 편의성과 확장성이 매우 뛰어납니다.
-		\n\n%c[d_blue]&#x0095; 소속: NATO
+		\n\n%c[d_blue] &#x0095; 소속: NATO
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Crye 에어프레임 턱 보호대
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Crye 에어프레임 턱 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -243,9 +243,9 @@
 	</string>
 	<string id="st_helm_altyn_descr">
 		<text>%c[ui_gray_1]"알틴"은 아프가니스탄과 체첸 전투에서 실제로 사용되어 방탄성능이 검증 된 헬멧으로써 러시아 내무부와 특수부대에서 아직도 사용중인 뛰어난 헬멧입니다. 
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]알틴 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]알틴 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -255,9 +255,9 @@
 	</string>
 	<string id="st_helm_maska_descr">
 		<text>%c[ui_gray_1]마스카 1Sch 헬멧은 1991년을 시작으로 기존의 Sphere 헬멧을 대체하기 위해 제작되었습니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]마스카 1Sch 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]마스카 1Sch 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -267,10 +267,10 @@
 	</string>
 	<string id="st_helm_lzsh_descr">
 		<text>%c[ui_gray_1]러시아에서 제작 된 경량 방탄모 입니다. 실제로는 Ops-ore FAST MT 헬멧을 카피하여 만들어진 제품이지만, 덕분에 일부 악세사리를 똑같이 장착할 수 있습니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST "GUNSIGHT" 턱 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST "GUNSIGHT" 턱 보호대
 		\n\n
 		</text>
 	</string>
@@ -280,11 +280,11 @@
 	</string>
 	<string id="st_helm_tackek_descr">
 		<text>%c[ui_gray_1]Ops-Core FAST MT 헬멧의 레플리카 제품으로 방탄 성능이 없습니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Tac-Kek 헤비 트루퍼 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Tac-Kek 헤비 트루퍼 마스크
 		\n\n
 		</text>
 	</string>
@@ -294,11 +294,11 @@
 	</string>
 	<string id="st_helm_gallet_descr">
 		<text>%c[ui_gray_1] MSA TC-800 전투 헬멧은 경찰소속 특수 부대원들이 사용할 수 있도록 제작된 헬멧입니다.
-		\n\n%c[d_blue]&#x0095; 소속: NATO
+		\n\n%c[d_blue] &#x0095; 소속: NATO
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
 	\n\n
 		</text>
 	</string>
@@ -308,13 +308,13 @@
 	</string>
 	<string id="st_helm_ops_descr">
 		<text>%c[ui_gray_1]전 세계의 특수부대에서 사랑받는 모듈 헬멧 입니다. 다양한 악세사리를 이용해 확장할 수 있습니다.
-		\n\n%c[d_blue]&#x0095; 소속: NATO
+		\n\n%c[d_blue] &#x0095; 소속: NATO
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST 안면 보호대
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST "GUNSIGHT" 턱 보호대
-		\n%c[d_green]&#x0095; %c[ui_gray_1]SLAPP 방탄 플레이트
+		\n%c[d_green] &#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST "GUNSIGHT" 턱 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]SLAPP 방탄 플레이트
 		\n\n
 		</text>
 	</string>
@@ -324,10 +324,10 @@
 	</string>
 	<string id="st_helm_kiver_descr">
 		<text>%c[ui_gray_1]방탄 헬멧입니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
 		\n\n
 		</text>
 	</string>
@@ -337,11 +337,11 @@
 	</string>
 	<string id="st_helm_wendy_descr">
 		<text>%c[ui_gray_1]최신 전술 방탄 헬멧 중 하나로써 뛰어난 확장성과 방탄 성능이 특징입니다.
-		\n\n%c[d_blue]&#x0095; 소속: NATO
+		\n\n%c[d_blue] &#x0095; 소속: NATO
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Multi-Hit 방탄 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -350,11 +350,11 @@
 	</string>
 	<string id="st_helm_nfmhjelm_descr">
 		<text>%c[ui_gray_1]차세대 HJELM 시스템 헬멧은 추가적인 무게나 부피 증가 없이 다양한 전자 장치와 악세사리를 사용할 수 있도록 하고자 하는 아이디어에서 제작된 제품입니다.
-		\n\n%c[d_blue]&#x0095; 소속: NATO
+		\n\n%c[d_blue] &#x0095; 소속: NATO
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]GSSH-01 활성 헤드셋
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -366,9 +366,9 @@
 	</string>
 	<string id="st_helm_zsh12m_descr">
 		<text>%c[ui_gray_1]ZSh-1-2M 헬멧은 아라미드와 합금으로 제작된 방탄 헬멧입니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]ZSh-1-2M 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]ZSh-1-2M 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -377,12 +377,12 @@
 	</string>
 	<string id="st_helm_caiman_descr">
 		<text>%c[ui_gray_1]특수부대용 차세대 경량 하이브리드 헬멧입니다.
-		\n\n%c[d_blue]&#x0095; 소속: NATO
+		\n\n%c[d_blue] &#x0095; 소속: NATO
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
-		\n%c[d_green]&#x0095; %c[ui_gray_1]카이만 하이브리드 방탄 턱 보호대
-		\n%c[d_green]&#x0095; %c[ui_gray_1]카이만 하이브리드 방탄 플레이트
-		\n%c[d_green]&#x0095; %c[ui_gray_1]카이만 하이브리드 고정식 안면 바이저
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MCU-2/P 보호 가스 마스크
+		\n%c[d_green] &#x0095; %c[ui_gray_1]카이만 하이브리드 방탄 턱 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]카이만 하이브리드 방탄 플레이트
+		\n%c[d_green] &#x0095; %c[ui_gray_1]카이만 하이브리드 고정식 안면 바이저
 		\n\n
 		</text>
 	</string>
@@ -391,9 +391,9 @@
 	</string>
 	<string id="st_helm_vulkan5_descr">
 		<text>%c[ui_gray_1]6레벨의 방탄 성능을 보장하는 전투 방탄 헬멧입니다. 소구경 권총탄은 물론 고속 소총탄과 철갑탄까지 방어할 수 있습니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]벌칸-5 헬멧 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]벌칸-5 헬멧 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -402,9 +402,9 @@
 	</string>
 	<string id="st_helm_ryst_descr">
 		<text>%c[ui_gray_1]"Rys-T" ("Lynx-T") 중무장 돌격 헬멧은 기존의 알틴 헬멧을 개선하고 경량화한 헬멧으로 러시아 내무군에서 사용하고 있습니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Rys-T 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Rys-T 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -413,10 +413,10 @@
 	</string>
 	<string id="st_helm_lshz2_descr">
 		<text>%c[ui_gray_1]소구경 탄환으로 부터 효율적인 방탄 성능을 보여주는 헬멧입니다. 추가 악세사리를 장착하면 목과 얼굴도 보호할 수 있습니다.
-		\n%c[d_orange]&#x0095; 소속: Warshaw
+		\n%c[d_orange] &#x0095; 소속: Warshaw
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]LShZ-2DTM 목 보호대
-		\n%c[d_green]&#x0095; %c[ui_gray_1]LShZ-2DTM 안면 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]LShZ-2DTM 목 보호대
+		\n%c[d_green] &#x0095; %c[ui_gray_1]LShZ-2DTM 안면 보호대
 		\n\n
 		</text>
 	</string>
@@ -432,9 +432,9 @@
 		<text>%c[ui_gray_1]폭 넓은 확장이 가능한 최신형 전투배낭 입니다. 각기 다른 모양을 가진 3개의 파우치 악세사리를 부착할 수 있습니다.\n
 		\n
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095; %c[ui_gray_2] 수입품\n
-		%c[d_blue]&#x0095; %c[ui_gray_2] 넓은 확장성\n
-		%c[0,100,255,150]&#x0095; %c[ui_gray_2] 은닉처로 사용 가능\n
+		%c[d_blue] &#x0095; %c[ui_gray_2] 수입품\n
+		%c[d_blue] &#x0095; %c[ui_gray_2] 넓은 확장성\n
+		%c[0,100,255,150] &#x0095; %c[ui_gray_2] 은닉처로 사용 가능\n
 		</text>
 	</string>
 	<string id="st_backpack_pouch">
@@ -442,7 +442,7 @@
 	</string>
 	<string id="st_backpack_pouch_descr">
 		<text>
-			%c[ui_gray_1]모듈형 전투배낭에 장착할 수 있는 모듈 악세사리 입니다. 더 많은 물품을 담을 수 있으며, 전투 중 쉽게 접근할 수 있는 공간이 있어 여분의 탄창을 보관할 수 있습니다.\n%c[d_red]&#x0095; 경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!\n\n
+			%c[ui_gray_1]모듈형 전투배낭에 장착할 수 있는 모듈 악세사리 입니다. 더 많은 물품을 담을 수 있으며, 전투 중 쉽게 접근할 수 있는 공간이 있어 여분의 탄창을 보관할 수 있습니다.\n%c[d_red] &#x0095; 경고: 악세사리 부착 시 업그레이드가 초기화 됩니다!\n\n
 		</text>
 	</string>
 <!-- Modular Armors -->
@@ -452,7 +452,7 @@
 	<string id="st_iotv_descr">
 		<text>
 		%c[ui_gray_1]향상된 전술 조끼(The Improved Outer Tactical Vest/IOTV)는 사격 자세를 정확히 취하면서 기동 및 조작 동작을 수행할 수 있는 최대한의 자유로운 움직임을 제공하도록 설계되었습니다. 이 조끼는 탄도 방탄 시스템과 추가 하중 장비의 무게를 최적으로 분산시켜, 착용감과 지속성, 그리고 기동성을 한층 강화합니다.\n\n
-		%c[d_blue]&#x0095; 소속: NATO %c[ui_gray_2]
+		%c[d_blue] &#x0095; 소속: NATO %c[ui_gray_2]
 		\n
 		</text>
 	</string>
@@ -492,7 +492,7 @@
 	</string>
 	<string id="st_redut_descr">
 		<text>%c[ui_gray_1]"Redut M"은 검증된 Redut 방탄복을 개량한 버전으로, FSB 특수 부대에서 사용 중인 개인 방어구입니다. 이 조끼는 개인 장갑 분야의 최신 기술을 바탕으로 제작되었으며, 방호 요소의 최적화된 형태와 통기 시스템이 포함된 외부 커버 덕분에 뛰어난 기능성을 제공합니다. 이를 통해 차량 운전과 같은 밀폐된 공간에서의 활동 등 다양한 기동 작업을 수월하게 수행할 수 있습니다.\n\n
-		%c[d_orange]&#x0095; 소속: Warshaw %c[ui_gray_2]
+		%c[d_orange] &#x0095; 소속: Warshaw %c[ui_gray_2]
 		\n
 		</text>
 	</string>
@@ -529,7 +529,7 @@
 	</string>
 	<string id="st_6b43_descr">
 		<text>%c[ui_gray_1]6B43 방탄복은 소구경 탄환(BP, PP 포함), 수류탄 및 지뢰 파편, 근접 무기 공격으로부터 보호하도록 설계되었습니다. 또한 전투 상황에서 관통 이후 발생할 수 있는 부상 위험을 줄이는 데 도움을 줍니다.\n\n
-		%c[d_orange]&#x0095; 소속: Warshaw %c[ui_gray_2]
+		%c[d_orange] &#x0095; 소속: Warshaw %c[ui_gray_2]
 		\n
 		</text>
 	</string>
@@ -580,7 +580,7 @@
 	</string>
 	<string id="st_thor_descr">
 		<text>%c[ui_gray_1]THOR 돌격 방탄복은 소프트 및 하드 방탄 요소를 갖추고 있어 파편뿐만 아니라 권총 및 소총 구경의 탄환으로부터 보호합니다. NFM에서 제조한 이 방탄복은 고강도 보호 성능을 제공합니다.\n\n
-		%c[d_blue]&#x0095; 소속: NATO %c[ui_gray_2]
+		%c[d_blue] &#x0095; 소속: NATO %c[ui_gray_2]
 		\n
 		</text>
 	</string>
@@ -620,7 +620,7 @@
 	</string>
 	<string id="st_apc_descr">
 		<text>%c[ui_gray_1]돌격 소총으로부터 즉각적인 방호를 제공하도록 설계된 Advanced Plate Carrier(APC)는 가벼운 무게와 뛰어난 방탄 성능으로 시장에서 자리를 지키고 있습니다. 전술 조끼의 기능성과 플레이트 캐리어의 간결함을 결합하여, APC는 소프트 방탄 패널과 Level III 또는 IV 하드 방탄 플레이트, 그리고 장비 파우치를 수용할 수 있습니다.\n\n
-		%c[d_blue]&#x0095; 소속: NATO %c[ui_gray_2]
+		%c[d_blue] &#x0095; 소속: NATO %c[ui_gray_2]
 		\n
 		</text>
 	</string>
@@ -639,7 +639,7 @@
 	</string>
 	<string id="st_a18_descr">
 		<text>%c[ui_gray_1]Ars Arma에서 제작한 이 방탄 조끼는 특정 특수 작전을 위해 높은 모듈성을 제공합니다.\n\n
-		%c[d_orange]&#x0095; 소속: Warshaw %c[ui_gray_2]
+		%c[d_orange] &#x0095; 소속: Warshaw %c[ui_gray_2]
 		\n
 		</text>
 	</string>
@@ -663,14 +663,14 @@
 	<string id="st_helm_mcu2p_descr">
 		<text>%c[ui_gray_1]MCU-2/P는 미 공군과 미 해군이 사용하는 보호 마스크로, 원래는 XM-30라는 이름을 가지고 미 육군용으로 설계되었습니다.
 		\n\n%c[d_green]호환성
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Kiver-M
-		\n%c[d_green]&#x0095; %c[ui_gray_1]LZSh 경량 헬멧
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Galvion 카이만 하이브리드
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Crye Precision 에어프레임 헬멧
-		\n%c[d_green]&#x0095; %c[ui_gray_1]NFM HJELM
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Ops-Core FAST MT
-		\n%c[d_green]&#x0095; %c[ui_gray_1]MSA Gallet TC 800
-		\n%c[d_green]&#x0095; %c[ui_gray_1]Team Wendy EXFIL 방탄 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Kiver-M
+		\n%c[d_green] &#x0095; %c[ui_gray_1]LZSh 경량 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Galvion 카이만 하이브리드
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Crye Precision 에어프레임 헬멧
+		\n%c[d_green] &#x0095; %c[ui_gray_1]NFM HJELM
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Ops-Core FAST MT
+		\n%c[d_green] &#x0095; %c[ui_gray_1]MSA Gallet TC 800
+		\n%c[d_green] &#x0095; %c[ui_gray_1]Team Wendy EXFIL 방탄 헬멧
 		\n\n
 		</text>
 	</string>
