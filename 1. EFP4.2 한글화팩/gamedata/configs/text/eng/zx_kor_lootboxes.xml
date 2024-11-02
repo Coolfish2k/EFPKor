@@ -385,25 +385,25 @@
 	</string>
 
 	<string id="st_lootbox_docs_sheet5_descr">
-		<text>Some form of typed communication between two coded parties. No identifying marks of either of the parties are present, aside from two ciphered callsigns. Mercenary groups tend to pass information in this manner via one-time pads and dead drops to ensure absolute secrecy and anonymity for all parties involved.</text>
+		<text>암호화된 통신 문서 입니다. 당사자만이 확인할 수 있는 여러 암구호들과 식별부호 두개가 적혀있습니다. 용병은 때때로 비밀과 익명성을 보장하기 위해 해킹 위험이 있는 디지털 방식 대신 아날로그 방식의 문서를 던지기 방식으로 정보를 전달하는 경향이 있습니다.</text>
 	</string>
 
 	<string id="st_lootbox_docs_notebook1_descr">
-		<text>A field notebook with scientific observations and drawings recovered from an Ecologist team. Several pages are encoded. The information inside is likely to be of interest to certain parties. The Ecologists will want this back, but other groups would certainly be interested in this as well.</text>
+		<text>과학자들이 작성한듯한 현장 노트. 여러 페이지에 여러 그림과 연구 자료들이 적혀있는것으로 보입니다. 당사자인 과학자들 뿐만 아니라 여러 팩션에서 이 문서의 가치를 높게 평가할것입니다.</text>
 	</string>
 
 	<string id="st_lootbox_docs_notebook2_descr">
-		<text>Thick bundle of old papers from some administrative building. Most of the information in here is rather rote, like pay stubs, mundane reports, and printouts. There is definitely some useful information or patterns that may be uncovered here, but it will take a lot of time and patience.</text>
+		<text>두껍고 낡은 서류 뭉치입니다. 급여명세서, 평범한 보고서, 보도자료 등 일반적인 문서들로 가득 차 있습니다. 여기에서 발견할 수 있는 몇 가지 유용한 정보나 패턴이 있을 수 있지만, 직접 시간 투자할 가치는 없어보입니다.</text>
 	</string>
 	<string id="st_lootbox_docs_notebook3_descr">
-		<text>This notebook has some accounting information in it, but the entries are encoded for security reasons. This likely belongs to either the military or other independent groups operating in the area, which makes such a document quite dangerous in the wrong hands.</text>
+		<text>이 서류 뭉치에는 암호화된 회계 정보가 포함되어 있습니다. 아마 내무군의 소유일 가능성이 높지만 확신할 순 없지만 어쨋든 이 문서가 잘못된 사람의 손에 들어가면 매우 위험해질것으로 보입니다.</text>
 	</string>
 	<string id="st_lootbox_docs_notebook4_descr">
-		<text>Old notebook recovered from one of the X-Labs or a site adjacent to it.  Scientific groups will pay dearly for this, as any information inside can shed light on the true nature of the activities going on before the Second Incident.</text>
+		<text>X-Labs 중 한 곳에서 작성된것으로 보이는 오래된 문서들. 과학자들이 항상 수배중인 문서 중 하나입니다.</text>
 	</string>
 
         <string id="st_lootbox_docs_folder_descr">
-                <text>실험 기록, 관찰 및 스케치를 포함하여 과학적 정보가 포함된 여러 문서가 있는 파일링 폴더. 이러한 문서의 대부분은 암호화되어 읽을 수 없습니다. </text>
+                <text>실험 기록, 관찰 및 스케치를 포함하여 과학적 정보가 포함된 여러 문서가 있는 파일. 이러한 문서의 대부분은 암호화되어 읽을 수 없습니다. </text>
         </string>
         
         <string id="st_lootbox_docs_usb_descr">

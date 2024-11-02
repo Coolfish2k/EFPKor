@@ -7,7 +7,7 @@
 <string_table>
 	
 	<string id="st_meat_tushkano">
-		<text>쥐꼬치 (존에서 생산됨)</text>
+		<text>쥐꼬치</text>
 	</string>
 	<string id="st_meat_tushkano_descr">
 		<text>소금과 칠리 고추로 간이 되어 구워진, 2개의 작은 투스카노 꼬치이다. 존에서 먹을 수 있는 가장 저렴한 식사이다. 기름이 떨어지는 것을 막기 위해 두꺼운 갈색 종이에 싸여있다.\n
@@ -16,7 +16,7 @@
 	</string>
 	
 	<string id="st_meat_dog">
-		<text>개고기 구이 (존에서 생산됨)</text>
+		<text>개고기 구이</text>
 	</string>
 	<string id="st_meat_dog_descr">
 		<text>마늘과 후추, 그리고 버섯과 함께 조리된 구워진 개고기로 만든 작은 식사이다. 오래된 깡통에 담겨져 나온다. 좀 더 인기있는 멧돼지 구이의 값싼 대체품이다.\n
@@ -25,7 +25,7 @@
 	</string>
 	
 	<string id="st_meat_pseudodog">
-		<text>사칭견 구이 (존에서 생산됨)</text>
+		<text>사칭견 구이</text>
 	</string>
 	<string id="st_meat_pseudodog_descr">
 		<text>사칭견 구이 한 점이다. 사칭견의 근육이 두꺼운 덕에 영양가가 놓다.\n
@@ -34,7 +34,7 @@
 	</string>
 	
 	<string id="st_meat_flesh">
-		<text>기름진 베이컨 (존에서 생산됨)</text>
+		<text>기름진 베이컨</text>
 	</string>
 	<string id="st_meat_flesh_descr">
 		<text>살덩이라고 알려진 변이된 돼지들로 만든 기름진 베이컨 두 조각이다. 기름이 떨어지는 것을 막기 위해 두꺼운 갈색 종이에 싸여있다.\n
@@ -43,7 +43,7 @@
 	</string>
 	
 	<string id="st_meat_boar">
-		<text>멧돼지 구이 (존에서 생산됨)</text>
+		<text>멧돼지 구이</text>
 	</string>
 	<string id="st_meat_boar_descr">
 		<text>소금과 후추로 간이 된 채로 구워진 멧돼지 고기 한 점이다. 스토커들이 가장 좋아하는 따뜻한 한 끼 식사이다. 갈색 종이로 포장되었다.\n
@@ -52,7 +52,7 @@
 	</string>
 	
 	<string id="st_meat_bloodsucker">
-		<text>블러드써커 굴라쉬 (존에서 생산됨)</text>
+		<text>블러드써커 굴라쉬</text>
 	</string>
 	<string id="st_meat_bloodsucker_descr">
 		<text>칠리로 양념된 채로 버섯과 함께 구워진 블러드써커 고기로 만들어진 따듯한 한 끼 식사이다. 깡통에 담겨져 나온다.\n
@@ -61,7 +61,7 @@
 	</string>
 	
 	<string id="st_meat_psysucker">
-		<text>싸이써커 굴라쉬 (존에서 생산됨)</text>
+		<text>싸이써커 굴라쉬</text>
 	</string>
 	<string id="st_meat_psysucker_descr">
 		<text>칠리로 양념된 채로 버섯과 함께 구워진 싸이써커 고기로 만들어진 따듯한 한 끼 식사이다. 깡통에 담겨져 나온다.\n 
@@ -70,7 +70,7 @@
 	</string>
 	
 	<string id="st_meat_snork">
-		<text>스노크 손 구이 (존에서 생산됨)</text>
+		<text>스노크 손 구이</text>
 	</string>
 	<string id="st_meat_snork_descr">
 		<text>먹음직스러운 스노크 손 구이이다. 주의할 점은 대부분의 존 거주민들은 스노크 고기를 먹는 것을 식인으로 여겨 도덕적이지 못한 짓으로 간주한다는 것이다. 하지만, 밴딧이나 용병들 같은 몇몇 세력에서는 식사에 스노크 구이를 포함하여 다른 세력들보다 자신들이 우위에 있다는 것을 보여주려 한다.\n
@@ -79,7 +79,7 @@
 	</string>
 	
 	<string id="st_meat_chimera">
-		<text>사나이의 식사 (존에서 생산됨)</text>
+		<text>사나이의 식사</text>
 	</string>
 	<string id="st_meat_chimera_descr">
 		<text>버섯과 향신료들과 함께 구운 키메라 고기 한 점이다. 값비싼 음식으로, 주로 경험이 많은 스토커들이 어려운 임무를 성공한 것을 자축하기 위하여 먹는다.\n
@@ -88,7 +88,7 @@
 	</string>
 	
 	<string id="st_meat_lurker">
-		<text>러커 구이 (존에서 생산됨)</text>
+		<text>러커 구이</text>
 	</string>
 	<string id="st_meat_lurker_descr">
 		<text>소금과 후추로 간이 된 채로 구워진 러커 고기 한 점이다. 종이에 담겨진 채로 식사 준비가 되어 있다. 뮤턴트가 두꺼운 근육을 가진 덕분에 영양가는 높다.\n

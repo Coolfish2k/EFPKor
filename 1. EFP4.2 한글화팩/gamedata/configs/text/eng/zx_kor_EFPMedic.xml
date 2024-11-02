@@ -11,7 +11,8 @@
 		\n%c[d_blue] &#x0095; 매우 강력한 숙취 해소 효과
 		\n%c[d_red] &#x0095; 사용 시 약간의 건강 회복
 		\n%c[d_cyan] &#x0095; 약간의 피해 경감
-		\n</text>
+		\n
+		</text>
 	</string>
 
 	<string id="st_antibio_sulfad2">
@@ -25,7 +26,8 @@
 		\n%c[d_blue] &#x0095;  수입품
 		\n%c[d_blue] &#x0095;  진통제
 		\n%c[d_blue] &#x0095;  약간의 피해 경감 보너스
-		\n</text>
+		\n
+		</text>
 	</string>
 
 	<string id="st_antibio_chlor2">
@@ -47,7 +49,8 @@
 		\n%c[ui_gray_3]특징:
 		\n%c[d_blue] &#x0095; %c[ui_gray_2]미분류 의약품\n
 		%c[d_red] &#x0095; %c[ui_gray_2]다치거나 감염될 가능성이 높음\n
-		\n</text>
+		\n
+		</text>
 	</string>
 
 
@@ -57,14 +60,16 @@
                 <text>방사선 방지약</text>
 	</string>
 	<string id="st_antirad_descr">
-                <text>멕사미늄 방사선 보호 약물은 존에서 흔히 볼 수 있습니다. 이 약을 사용하면 말초혈관의 수축과 산소결핍을 유발하여 방사선 피폭을 치료하고 예방하는 역할을 한다. 경미한 메스꺼움, 현기증, 경련 및 복통의 사례가 보고되었지만 이 약물은 심각한 부작용이 없습니다.\n
+        <text>
+		멕사미늄 방사선 보호 약물은 존에서 흔히 볼 수 있습니다. 이 약을 사용하면 말초혈관의 수축과 산소결핍을 유발하여 방사선 피폭을 치료하고 예방하는 역할을 한다. 경미한 메스꺼움, 현기증, 경련 및 복통의 사례가 보고되었지만 이 약물은 심각한 부작용이 없습니다.\n
 		\n%c[ui_gray_3]\n 효과
 		%c[d_red] 사용시 건강 5% 감소
 		\n%c[ui_gray_3]특징:
 		\n%c[d_blue] &#x0095; 약물
 		\n%c[d_blue] &#x0095; 수입품
 		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)
-		\n</text>
+		\n
+		</text>
 	</string>
 	<string id="st_bandage">
 		<text>붕대</text>
@@ -95,7 +100,9 @@
                 <text>Ukrainian Vikasolum - 비타민 K의 인공 등가물. 이 약의 주요 목적은 혈액 응고 속도를 높이는 것입니다. 천천히 치유되는 상처와 뮤턴트에 의해 입은 열상을 더 빨리 치유 싶어하는 스토커들 사이에서 큰 수요가 있습니다. 약물의 효과는 오래 지속됩니다. 1회 복용시 2정을 섭취하십시오.\n
 		\n%c[ui_gray_3]특징:
 		\n%c[d_blue] &#x0095; 지혈 작용
-		\n%c[d_red] &#x0095; 어지러움 유발</text>
+		\n%c[d_red] &#x0095; 어지러움 유발
+		\n
+		</text>
 	</string>
 	
 	<string id="st_drug_anabiotic">
@@ -107,6 +114,7 @@
 		\n%c[d_blue] &#x0095; 약물
 		\n%c[d_blue] &#x0095; 존 내수 생산품
 		\n%c[d_red] &#x0095; 일시적인 기절 유발
+		\n
 		</text>   
 	</string>
 	
@@ -128,7 +136,9 @@
                 <text>IP2 항독소는 메토클로프라미둠, 피리독신, 티아민, 리복신 및 기타 의약품을 포함한 여러 해독제로 구성된 복합 약물입니다. 이 약물은 합성 독 흡수제와 함께 천연 독을 중화하기 위해 다양한 항생제를 혈류에 주입하는 데 사용됩니다. 대부분의 스토커가 방독면과 보호복에 의존하기 때문에 IP2는 존에서 딱히 인기가 없습니다. 그러나 비상 상황에 대비해 이 해독제를 몇 개 보관해 두는 사람들이 있습니다. 약물의 효과는 오래 지속됩니다. 한 번에 한 캡슐을 섭취하십시오.\n
 		\n%c[ui_gray_3]특징:
 		\n%c[d_blue] &#x0095; 약물																																																														
-		\n%c[d_red] &#x0095; 어지러움 유발</text>
+		\n%c[d_red] &#x0095; 어지러움 유발
+		\n
+		</text>
 	</string>
 	
 	<string id="st_drug_booster">
@@ -183,7 +193,9 @@
 		\n%c[d_cyan] 아나바이오틱스
 		\n%c[d_cyan] 빈카
 		\n%c[ui_gray_3]특징:
-		\n%c[d_blue] &#x0095; 의료품 보관함</text>
+		\n%c[d_blue] &#x0095; 의료품 보관함
+		\n
+		</text>
 	</string>
 	
 	<string id="st_medkit_ai2">
@@ -352,7 +364,9 @@
 		\n%c[ui_gray_3]특징:
 		\n%c[d_blue] &#x0095; 약물
 		\n%c[d_blue] &#x0095; 수입품
-		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)</text>
+		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)
+		\n
+		</text>
 	</string>
 	
 	<string id="st_stim_impro">
@@ -365,7 +379,9 @@
 		\n%c[d_blue] &#x0095; 수입품
 		\n%c[d_blue] &#x0095; 군용품
 		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)
-		\n%c[d_cyan] &#x0095; 효과적인 피해 경감</text>
+		\n%c[d_cyan] &#x0095; 효과적인 피해 경감
+		\n
+		</text>
 	</string>
 	
 	<string id="st_stim_military">
@@ -380,7 +396,9 @@
 		\n%c[d_blue] &#x0095; 군용품
 		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)
 		\n%c[d_cyan] &#x0095; 훌륭한 피해 경감
-		\n%c[d_cyan] &#x0095; 지구력 향상</text>
+		\n%c[d_cyan] &#x0095; 지구력 향상
+		\n
+		</text>
 	</string>
 	
 	<string id="st_stim_scientic">
@@ -394,7 +412,7 @@
 		\n%c[d_blue] &#x0095; 수입품
 		\n%c[d_blue] &#x0095; 가치 있는 물품
 		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)
-		\n%c[d_cyan] &#x0095; 빠른 건강 회복</text>
+		\n%c[d_cyan] &#x0095; 빠른 건강 회복\n</text>
 					   
 	</string>
 	
@@ -873,7 +891,7 @@
 		\n%c[d_blue] &#x0095; 수입품
 		\n%c[d_blue] &#x0095; 가치 있는 물품
 		\n%c[d_blue] &#x0095; 빠른 사용 (주사기)
-		\n%c[d_cyan] &#x0095; 빠른 건강 회복</text>
+		\n%c[d_cyan] &#x0095; 빠른 건강 회복\n</text>
 	</string>
 	
 	<string id="st_morphine">

@@ -96,7 +96,7 @@
                 <text>바르스카 일렉트로 사이트 AC10632 조준경 (BaS+Van)</text>
         </string>
         <string id="st_addon_scope_ac10632_descr">
-                <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255]  *모든 NATO 소총\n%c[ui_gray_1]바르스카 일렉트로 사이트 멀티 레티클 레드 도트 사이트 AC10632는 고품질 사이트를 찾고 있는 사람들에게 최적의 제품입니다. NATO의 무기와 AK-12에 탑재할 수 있습니다.\n
+                <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255]  모든 NATO 소총\n%c[ui_gray_1]바르스카 일렉트로 사이트 멀티 레티클 레드 도트 사이트 AC10632는 고품질 사이트를 찾고 있는 사람들에게 최적의 제품입니다. NATO의 무기와 AK-12에 탑재할 수 있습니다.\n
                 %c[d_blue] &#x0095; 배율: 없음 (시준기)\n
                 %c[d_blue] &#x0095; 상태: 매우 양호</text>
         </string>
@@ -105,7 +105,7 @@
                 <text>ACOG 조준경 (BaS+Van)</text>
         </string>
         <string id="st_addon_scope_acog_descr">
-                <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255]  *모든 NATO 소총\n%c[ui_gray_1]ACOG는 Advanced Combat Optical Gunsights의 약자로 트리지콘(Trijicon)이 제조한 총기들을 말합니다. 이 유형의 범위는 일반적으로 고품질이며 내부에 삼중수소 기반 레티클 조명이 있습니다. 이 특정 유형은 USMC 스타일의 레티클을 가지며 조정 가능한 배율을 갖추고 있습니다.\n
+                <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255]  모든 NATO 소총\n%c[ui_gray_1]ACOG는 Advanced Combat Optical Gunsights의 약자로 트리지콘(Trijicon)이 제조한 총기들을 말합니다. 이 유형의 범위는 일반적으로 고품질이며 내부에 삼중수소 기반 레티클 조명이 있습니다. 이 특정 유형은 USMC 스타일의 레티클을 가지며 조정 가능한 배율을 갖추고 있습니다.\n
                 %c[d_blue] &#x0095; 배율: 4.0x\n
                 %c[d_blue] &#x0095; 상태: 매우 양호\n
                 %c[d_blue] &#x0095; 십자선 방식: USMC</text>
@@ -115,7 +115,7 @@
                 <text>EOTech 조준경 553 (BaS+Van)</text>
         </string>
         <string id="st_addon_scope_eotech_descr">
-                <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255]  *모든 NATO 소총\n%c[ui_gray_1]NATO 돌격 소총과 서브 머신 건의 홀로그램 사이트.\n
+                <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255]  모든 NATO 소총\n%c[ui_gray_1]NATO 돌격 소총과 서브 머신 건의 홀로그램 사이트.\n
                 %c[d_blue] &#x0095; 배율: 없음 (시준기)\n
                 %c[d_blue] &#x0095; 상태: 매우 양호</text>
         </string>
@@ -705,7 +705,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         </string>
         <string id="st_addon_scope_mod_x_gen3_descr">
                 <text>\n%c[ui_gray_2]호환성:\n%c[0,153,255,255] &#x0095; 레밍턴 M700\n%c[ui_gray_1]
- A * B Arms MOD X GEN III 모듈식 소총 시스템은 레밍턴 M700용으로 설계된 가볍고 인체공학적인 드롭인 섀시입니다. 12개의 라운드 탄창 세트와 45도 각도 마운트에 설치된 르폴드 델타포인트 PRO 레드 도드 사이트가 포함됩니다. 이 업그레이드는 되돌릴 수 없습니다. \n </text>
+ A  B Arms MOD X GEN III 모듈식 소총 시스템은 레밍턴 M700용으로 설계된 가볍고 인체공학적인 드롭인 섀시입니다. 12개의 라운드 탄창 세트와 45도 각도 마운트에 설치된 르폴드 델타포인트 PRO 레드 도드 사이트가 포함됩니다. 이 업그레이드는 되돌릴 수 없습니다. \n </text>
         </string>
 
 
@@ -1455,7 +1455,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
     <string id="st_wpn_fal_aus_descr">
                 <text>미국 회사 DSA(David Selveggio Arms)에서 제조한 SA-58은 FAL의 법적 사본이며 StG-58과 동일한 슈타이어-다임러-푸치 생산 라인 장비로 만들어졌습니다. 이 모델은 21 "배럴 길이 및 기타"오스트리아 스타일 "FAL용 원래 오스트리아 포그립, 알루미늄 합금 하부 수신기 및 개선된 유리 충전 나일론 가구와 함께 제공됩니다. 이 모델은 군대 및 법 집행 기관에서 사용하며 실행할 수 있습니다. 완전 자동. DSA-58은 모든 미터법 FAL 매거진을 사용할 수 있습니다.\n
             %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n조준경: %c[ui_gray_2]없음
                 %c[d_blue]\n소음기: %c[ui_gray_2]AAC 7.62 SDN-6</text>
     </string>        
@@ -1677,7 +1677,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_sig226_descr">
                 <text>시그 사우어 P226R은 네이비실의 표준무기인 시그 사우어(SIG Sauer)에서 제작한 실물크기의 서비스형 권총이다. 9x19mm 파라블럼용 챔버로, 프레임 아래쪽에 피카티니 레일 마운트가 있습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n소음기: %c[ui_gray_2]없음 </text>
         </string>
 
@@ -1690,7 +1690,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_sig220_n_descr">
                 <text>1970년대 후반 J.P.가 제조한 시그 사우어 P220. 사우어 & 앰프손 사는 종종 .45 구경 더블 액션 권총 중 최고로 간주됩니다. 즉각적인 성공을 거둔 P220은 스위스와 일본 자위대와 많은 유럽 경찰 기관에서 채택했습니다. 이 권총은 처음에는 유타주의 브라우닝 암즈사를 거쳐 1980년대 이후로는 뉴햄프셔의 시그 암즈(SIGARMS)사를 통해 미국으로 유입되었습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n소음기: %c[ui_gray_2]없음 </text>
         </string>
 
@@ -1703,7 +1703,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_walther_p99_descr">
                 <text>인체 공학이 디자인의 핵심 초점인 발터 P99는 유리 섬유 폴리머 프레임이 있는 반동 작동식 권총입니다. 법 집행 기관과 민간인 총격 사건 시장을 위해 개발되었으며 여러 국가의 경찰 부서에서 사용합니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n소음기: %c[ui_gray_2]없음 </text>
         </string>
 
@@ -1864,7 +1864,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_sr1m_descr">
                 <text>세르듀코프(Serdyukov) 반자동 권총 - SPS 및 구루자(Gyurza 혹은 Viper)라고도 하는 GRAU Index 6P53. P. 세르듀코프와 I. 벨리아예프가 러시아 연방 특수부대용으로 설계한 9x21mm 탄창용 권총입니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n소음기: %c[ui_gray_2]없음</text>
         </string>
         
@@ -1874,7 +1874,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_sr1m_sr1upgr1_descr">
                 <text>세르듀코프(Serdyukov) 반자동 권총 - SPS 및 구루자(Gyurza 혹은 Viper)라고도 하는 GRAU Index 6P53. P. 세르듀코프와 I. 벨리아예프가 러시아 연방 특수부대용으로 설계한 9x21mm 탄창용 권총입니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]전술 키트를 사용하여 업그레이드됨 
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]전술 키트를 사용하여 업그레이드됨 
                 %c[d_blue]\n소음기: %c[ui_gray_2]SR1MP 9x21 소음기</text>
         </string>
 
@@ -1923,7 +1923,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_ak105_descr">
                 <text>AK-105는 AK-74M 소총의 5.45x39mm 카빈 버전입니다. AK-105는 러시아 육군에서 AKS-74U 카빈총을 보완하고 있습니다. CQC(근거리 전투)에 이상적이며 장거리 전투에는 적합하지 않습니다. 소총의 리버는 스탬프 강철로 만들어집니다. 매거진은 강화 유리 섬유로 만들고 스톡은 속이 빈 플라스틱으로 만들어 더 가볍고 내구성이 뛰어나며 필드 키트를 내부에 보관할 수 있습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n조준경: %c[ui_gray_2]도브테일 마운트용 모든 스코프 아이컵이 있는 PSO 스코프와 1P59 지페론 제외
                 %c[d_blue]\n소음기: %c[ui_gray_2]TGP-A 소음기 </text>
         </string>
@@ -1937,7 +1937,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_ak105_swamp_descr">
                 <text>AK-105는 AK-74M 소총의 5.45x39mm 카빈 버전입니다. AK-105는 러시아 육군에서 AKS-74U 카빈총을 보완하고 있습니다. AK-105의 매우 희귀한 변종입니다. Clear Sky 그룹의 베테랑들 사이에서 주로 발견됩니다. 여러 조준 장치가 있기 때문에 근거리 및 중거리 전투에 이상적입니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]"늪지" 전술 키트로 업그레이드됨
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]"늪지" 전술 키트로 업그레이드됨
                 %c[d_blue]\n조준경: %c[ui_gray_2]엘칸 스팩터Dr, 트리지콘 RMR 그리고 AN/PEQ-15 LAM (일체형)
                 %c[d_blue]\n소음기: %c[ui_gray_2]5.45/7.62x39 헥사곤 소음기 </text>
         </string>
@@ -1951,7 +1951,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_remington700_lapua700_descr">
                 <text>디어 헌터는 매우 먼 거리에서 정확한 사격을 위해 레밍턴 M700을 개조한 것입니다. \n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]디어 헌터 .338 키트로 업그레이드됨
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]디어 헌터 .338 키트로 업그레이드됨
                 %c[d_blue]\n소음기: %c[ui_gray_2]M700 .338LM </text>
         </string>
 
@@ -1964,8 +1964,8 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_pl15_descr">
                 <text>9x19mm 파라블럼용 러시아 자동 장전식 권총 PL-15-01. 권총과 그 유사품의 차이점은 인체 공학과 균형이며, 이는 인간 생체 역학에 기반합니다. 사용된 자동화 계산 방식은 많은 사격 자원에 기여했고 적용된 인체 공학 솔루션과 함께 권총을 반동, 발사 후 던지기 및 조준선으로의 빠른 복귀 측면에서 편안하게 만듭니다. 이 모든 것이 빠른 재사격과 빠른 사격 전달에 기여하며, 경사각이 큰 인체공학적 손잡이로 인해 "오프핸드" 사격이 더 쉽습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]"택틱" 키트로 업그레이드 가능 
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]PL-15용 레이저 조준 모듈
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]"택틱" 키트로 업그레이드 가능 
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]PL-15용 레이저 조준 모듈
                 %c[d_blue]\n소음기: %c[ui_gray_2]PL-15 소음기</text>
         </string>
 
@@ -1978,7 +1978,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_pl15_pl15_scolaz_descr">
                 <text>9x19mm 파라블럼용 러시아 자동 장전식 권총 PL-15-01. 권총과 그 유사품의 차이점은 인체 공학과 균형이며, 이는 인간 생체 역학에 기반합니다. 사용된 자동화 계산 방식은 많은 사격 자원에 기여했고 적용된 인체 공학 솔루션과 함께 권총을 반동, 발사 후 던지기 및 조준선으로의 빠른 복귀 측면에서 편안하게 만듭니다. 이 모든 것이 빠른 재사격과 빠른 사격 전달에 기여하며, 경사각이 큰 인체공학적 손잡이로 인해 "오프핸드" 사격이 더 쉽습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]"택틱" 키트를 사용하여 개조됨 (LAM, 에임 포인트 T1 스코프)
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]"택틱" 키트를 사용하여 개조됨 (LAM, 에임 포인트 T1 스코프)
                 %c[d_blue]\n소음기: %c[ui_gray_2]PL-15 소음기</text>
         </string>
 
@@ -1991,7 +1991,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_ak105_shakal_descr">
                 <text>AK-105는 AK-74M 소총의 5.45x39mm 카빈 버전입니다. AK-105는 러시아 육군에서 AKS-74U 카빈총을 보완하고 있습니다. AK-105의 매우 희귀한 변종. 그것은 주로 듀티의 베테랑들 사이에서 발견됩니다. 여러 조준 장치가 있기 때문에 근거리 및 중거리 전투에 이상적입니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]"샤칼" 전술 키트로 업그레이드됨
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]"샤칼" 전술 키트로 업그레이드됨
                 %c[d_blue]\n조준경: %c[ui_gray_2]트리지콘 Acog, 트리지콘 RMR and AN/PEQ-15 LAM (일체형)
                 %c[d_blue]\n소음기: %c[ui_gray_2]5.45/7.62x39 헥사곤 소음기 </text>
         </string>
@@ -2018,7 +2018,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_aps_bas_descr">
                 <text>스테츠킨 APS는 설계자 이고르 스테츠킨(Igor Stechkin)의 이름을 딴 러시아의 사격 방식 선택이 가능한 기관총입니다. 스테츠킨 자동 권총은 원래 7.62x25mm 토카레프용으로 제작되었지만 이 카트리지가 소련군의 권총용 새 탄약이 될 것이 분명해지면서 새로운 마카로프권총에 사용된 9x18mm 구경으로 변경되었습니다. 1951년에 마카로프와 스테츠킨이 모두 노후화된 TT-33을 대체하여 소련군 무기에 도입되었습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n소음기: %c[ui_gray_2]없음 </text>
         </string>
 
@@ -2115,7 +2115,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
           <string id="st_wpn_sr2_veresk_descr">
                 <text> SR.2 베레스크(Veresk)는 개별 방탄복을 사용하여 근접 전투(최대 200m 거리)에서 적군과 교전하도록 설계된 러시아 기관단총(TsNIITOCHMASH 제조)입니다. SR-2의 주요 장점은 높은 화력, 높은 발사 정확도 및 근거리에서 파괴 효과입니다. \n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음        
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음        
         %c[d_blue]\n조준경: %c[ui_gray_2]KP SR-2 리플렉스 사이트                 
                 %c[d_blue]\n소음기: %c[ui_gray_2]GZV-SR2 </text>
           </string>
@@ -2129,7 +2129,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
           <string id="st_wpn_sr2_veresk_sr2_upkit_descr">
                 <text> SR.2 베레스크(Veresk)는 개별 방탄복을 사용하여 근접 전투(최대 200m 거리)에서 적군과 교전하도록 설계된 러시아 기관단총(TsNIITOCHMASH 제조)입니다. SR-2의 주요 장점은 높은 화력, 높은 발사 정확도 및 근거리에서 파괴 효과입니다. \n
                 %c[ui_gray_2]\n \n부착물               
-        %c[d_blue]\n&#x0095; %c[ui_gray_2]전술 키트로 업그레이드됨         
+        %c[d_blue]\n &#x0095; %c[ui_gray_2]전술 키트로 업그레이드됨         
                 %c[d_blue]\n소음기: %c[ui_gray_2]GZV-SR2 </text>
           </string>        
 
@@ -2204,7 +2204,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         <string id="st_wpn_ak5c_bas_descr">
                 <text>Ak 5 또는 자동 카빈 5는 일부 수정된 FN FNC 돌격 소총의 스웨덴 버전입니다. Ak 5는 스웨덴군의 표준 라이플입니다. 보로포스(Bofors) Ak 5C는 모듈식 무기의 트렌드를 따라 오리지널 Ak 5를 현대화한 버전입니다. 가장 중요한 개선 사항 중 하나는 MIL-STD-1913 철도 시스템으로, 망원경 및 이미지 강화 장치와 같은 다양한 광학 장치, 조명 및 조준경을 장착할 수 있습니다. 원래 Ak 5 소총 제품군의 이중 가스 위치, 철 조준경 및 볼트 캐치가 폐기되었습니다.\n
                 %c[ui_gray_2]\n \n부착물
-                %c[d_blue]\n&#x0095; *전술 키트를 사용하여 업그레이드할 수 있음 
+                %c[d_blue]\n &#x0095; 전술 키트를 사용하여 업그레이드할 수 있음 
                 %c[d_blue]\n조준경: %c[ui_gray_2]피카티니/위버 마운트 모두
                 %c[d_blue]\n소음기: %c[ui_gray_2]NATO </text>
         </string>
@@ -2283,7 +2283,7 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         </string>
         <string id="st_wpn_sks_b_descr">
                 <text>SKS는 7.62x39mm 탄약을 탑재한 최초의 무기 중 하나입니다. 1950년대 초 소련 최전선에서 AK-47로 대체되었으며 수십 년 동안 2차로 배치되었으며 오늘날에도 여전히 의장용 무기로 사용됩니다.\n
-                %c[ui_gray_2]\n \n부착물%c[d_blue]\n&#x0095; %c[ui_gray_2]없음</text>
+                %c[ui_gray_2]\n \n부착물%c[d_blue]\n &#x0095; %c[ui_gray_2]없음</text>
         </string>
 
 
@@ -2446,10 +2446,10 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         </string>
         <string id="st_grenade_launcher_descr">
                 <text>바르샤바 조약 국가에서 제조된 돌격 소총용 단발, 전방 장전, 소총 하부 유탄 발사기. 기본 보병 분대의 화력을 크게 확장하도록 설계되었습니다. 발사 메커니즘은 소총에 잘못 설치된 경우 수동 안전 캐치 및 자동 사격 방지 기능이 있는 자동 콕킹입니다.\n
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]총구 속도: %c[ui_gray_1]~76 m / sec
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]사격 범위: %c[ui_gray_1]~300 m
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]재장전 시간: %c[ui_gray_1]느림
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]탄약: %c[ui_gray_1]VOG-25 40mm 유탄</text>
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]총구 속도: %c[ui_gray_1]~76 m / sec
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]사격 범위: %c[ui_gray_1]~300 m
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]재장전 시간: %c[ui_gray_1]느림
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]탄약: %c[ui_gray_1]VOG-25 40mm 유탄</text>
         </string>
         
         <string id="st_grenade_launcher_m203">
@@ -2457,10 +2457,10 @@ QD에서 이동식 마운트를 사용하면 이 사이트를 피카티니 플�
         </string>
         <string id="st_grenade_launcher_m203_descr">
                 <text>길이가 3인치 감소하고 피카티니 레일을 통해 무기에 부착할 수 있는 수정된 M203 유탄 발사기입니다. 마운트 변경으로 인해 이 유탄 발사기는 전 세계적으로 널리 사용되며 현재 생산되는 대부분의 소총에 장착할 수 있습니다. 보다 현대적인 디자인이지만 소련의 GP-25 유탄 발사기와 거의 동일한 속성을 가지고 있습니다.\n
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]총구 속도: %c[ui_gray_1]~76 m / sec
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]사격 범위: %c[ui_gray_1]~300 m
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]재장전 시간: %c[ui_gray_1]느림
-                %c[d_blue]\n&#x0095; %c[ui_gray_2]탄약: %c[ui_gray_1]M203 40mm 유탄</text>
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]총구 속도: %c[ui_gray_1]~76 m / sec
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]사격 범위: %c[ui_gray_1]~300 m
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]재장전 시간: %c[ui_gray_1]느림
+                %c[d_blue]\n &#x0095; %c[ui_gray_2]탄약: %c[ui_gray_1]M203 40mm 유탄</text>
         </string>
 
 

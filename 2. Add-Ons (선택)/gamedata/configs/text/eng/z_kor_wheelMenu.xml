@@ -1,0 +1,75 @@
+<string_table>
+    <string id="ui_mcm_menu_haru_quick_action_wheel_mcm">
+        <text>QAW</text>
+    </string>
+
+    <string id="ui_haru_add_item_to_qaw">
+        <text>휠에 추가</text>
+    </string>
+    <string id="ui_haru_qaw_override">
+        <text>덮어쓰기</text>
+    </string>
+    
+    <string id="ui_mcm_qaw_controls">
+        <text>조작</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_hold">
+        <text>누르기</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_hold_desc">
+        <text>Hold down the button to keep quick action wheel open</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_keybind">
+        <text>QAW 열기</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_controls_override_ammo_wheel">
+        <text>탄약 선택 휠 덮어쓰기</text>
+    </string>
+    
+    <string id="ui_mcm_qaw_tabs">
+        <text>탭 설정</text>
+    </string>
+    <string id="ui_mcm_qaw_devices">
+        <text>전자기기 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_grenades">
+        <text>수류탄 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_attachments">
+        <text>부착물 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_food">
+        <text>음식 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_meds">
+        <text>의약품 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_ammo">
+        <text>탄약(탄창) 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_slots">
+        <text>액티브 슬롯 탭</text>
+    </string>
+    <string id="ui_mcm_qaw_enabled">
+        <text>활성화됨</text>
+    </string>
+    <string id="ui_mcm_qaw_tab">
+        <text>탭</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_tabs_tab_count">
+        <text>탭 카운트</text>
+    </string>
+
+    <string id="ui_mcm_qaw_misc">
+        <text>기타 설정</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_misc_slowmo">
+        <text>열려있는 동안 시간 느리게 흐르기</text>
+    </string>
+    <string id="ui_mcm_haru_quick_action_wheel_mcm_misc_slowmo_factor">
+        <text>배수</text>
+    </string>
+     <string id="ui_mcm_haru_quick_action_wheel_mcm_misc_old_mags_compat">
+        <text>구버전 Mag Redux 호환</text>
+    </string>
+</string_table>

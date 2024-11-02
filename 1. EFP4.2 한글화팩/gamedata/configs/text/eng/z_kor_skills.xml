@@ -545,10 +545,10 @@
 		<text>데미지 저항력이 상승하고 뮤턴트 해체 시 추가 부위를 얻을 수 있습니다.\n \n뮤턴트나 총알로부터 피해를 입거나 뮤턴트를 해체하면 경험치를 얻습니다. \n \n</text>
 	</string>
     <string id="st_skills_stats_resistance_positive">
-        <text>\n%c[255,135,255,86]&#x0095;%c[ui_6] 받는 데미지: %c[d_green]x$stat</text>
+        <text>\n%c[255,135,255,86]&#x0095;%c[ui_6] 받는 데미지 감소: %c[d_green]x$stat</text>
     </string>
     <string id="st_skills_stats_resistance_negative">
-        <text>\n%c[255,135,255,86]&#x0095;%c[ui_6] 받는 데미지: %c[d_red]x$stat</text>
+        <text>\n%c[255,135,255,86]&#x0095;%c[ui_6] 받는 데미지 증가: %c[d_red]x$stat</text>
     </string>
 
     <string id="st_skills_stats_bleed_restore">
@@ -567,16 +567,16 @@
 		<text>스테미너와 이동 속도가 상승합니다.\n \n과적이 아닌 상태로 이동하면 경험치를 얻습니다. \n \n</text>
 	</string>
     <string id="st_skills_stats_power_loss_positive">
-        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 스테미너 사용량: %c[d_green]x$stat</text>
+        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 스테미너 소모: %c[d_green](-) x$stat</text>
     </string>
     <string id="st_skills_stats_power_loss_negative">
-        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 스테미너 사용량: %c[d_red]x$stat</text>
+        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 스테미너 소모: %c[d_red](+) x$stat</text>
     </string>
 
     <string id="st_skills_stats_speed_modifier_positive">
-        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 이동속도 변화: %c[d_green]x$stat</text>
+        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 이동속도: %c[d_green]x$stat</text>
     </string>
     <string id="st_skills_stats_speed_modifier_negative">
-        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 이동속도 변화: %c[d_red]x$stat</text>
+        <text>\n%c[255,255,86,86]&#x0095;%c[ui_6] 이동속도: %c[d_red]x$stat</text>
     </string>
 </string_table>

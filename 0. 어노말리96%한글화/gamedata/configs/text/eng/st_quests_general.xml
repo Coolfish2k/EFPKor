@@ -405,7 +405,7 @@
 		<text>구해 오기 : %s</text>
 	</string>
 	<string id="simulation_task_2_text">
-		<text>괜찮은 % 구해오기.</text>
+		<text>괜찮은 %s 구해오기.</text>
 	</string>
 	<string id="simulation_task_2_about">
 		<text>젠장, 부탁좀 해도 될까? 도와줄래?</text>

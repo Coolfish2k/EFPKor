@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
+<!-- SSS -->
 
+	<string id="ui_mcm_menu_ssfx_module">
+		<text>SSS 설정</text>
+	</string>
+
+	<!-- Button -->
+	<string id="ui_mcm_ssfx_module_general">
+		<text>기본</text>
+	</string>
+	
+	<!-- General Settings -->
+	<string id="ui_mcm_ssfx_module_general_title">
+		<text>기본 설정</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_general_shaderscope_patch_mcm">
+		<text>Acitvate SHADER BASED 2D SCOPES support</text>
+	</string>
+	
 <!-- Quick Melee -->
     <string id="ui_mcm_menu_haru_quick_melee">
         <text>빠른 근접공격</text>

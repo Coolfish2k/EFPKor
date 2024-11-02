@@ -302,7 +302,7 @@
 		<text>우리는 특정 종류의 아티팩트를 구하고 있어. 관심 있으면 알려 주지.</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_2_fetch_about">
-		<text>"%" 아티팩트가 필요해. 들어본 적 있어?</text>
+		<text>"%s" 아티팩트가 필요해. 들어본 적 있어?</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_2_fetch_finish">
 		<text>엄청나! 우리가 찾고 있는 것을 정확히 찾아왔군. 이 옷을 가져가. 그것은 존에서 훌륭한 보호를 제공해줄 거야. 값도 꽤나 잘 훌륭할 거라 확신하지.</text>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_yan_sakharov_neutral_zone_warning">
+		<text>
+		접근하는 스토커에게, 당신은 지금 이동식 연구소에 접근 중입니다. 이 구역은 중립 구역으로써 어떠한 폭력도 허용되지 않습니다. 만약 이를 위반 할 경우 즉시 공격을 받게 되니 내부에서는 주의 해 주시길 바랍니다.
+		</text>
+	</string>
+
+	<string id="st_bar_duty_neutral_zone_warning">
+		<text>
+		접근하는 스토커에게, 너는 지금 듀티의 영역에 접근하고 있음을 알린다. 이 구역 내에서 총기를 발포할 경우 즉시 처분되니 유의하도록. 이상.
+		</text>
+	</string>
+
+	<string id="ui_mcm_menu_neutral_zone">
+		<text>중립 구역</text>
+	</string>
+
+	<string id="ui_mcm_neutral_zone_title">
+		<text>중립 구역</text>
+	</string>
+	
+	<string id="ui_mcm_neutral_zone_description">
+		<text>Bases on which stalkers (who are neutral to the faction that owns the base) will not fight each other</text>
+	</string>
+
+	<string id="ui_mcm_neutral_zone_yantar_bunker">
+		<text>얀타의 연구 벙커</text>
+	</string>
+
+	<string id="ui_mcm_neutral_zone_jupiter_bunker">
+		<text>주피터의 연구 벙커</text>
+	</string>
+
+	<string id="ui_mcm_neutral_zone_rostok">
+		<text>바의 듀티 기지</text>
+	</string>
+
+	<string id="ui_mcm_neutral_zone_yanov">
+		<text>야노브 역</text>
+	</string>
+
+</string_table>

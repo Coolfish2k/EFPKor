@@ -7,9 +7,9 @@
 	<string id="st_설치 가능_arti_display_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[0,250,250,0]&#x0095;%c[0,250,250,0] 참고: 아티팩트 감지기를 들고있으면 아티팩트가 표시됩니다.\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[0,250,250,0] &#x0095;%c[0,250,250,0] 참고: 아티팩트 감지기를 들고있으면 아티팩트가 표시됩니다.\n</text>
 	</string>
 	   <string id="st_설치 가능_documents_1">
 		<text>종이 뭉치</text>
@@ -17,8 +17,8 @@
 	<string id="st_설치 가능_documents_1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_cabinet">
@@ -27,8 +27,8 @@
 	<string id="st_설치 가능_cabinet_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_ashtray">
@@ -37,8 +37,8 @@
 	<string id="st_설치 가능_ashtray_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 
     <string id="st_설치 가능_barrel_metal">
@@ -47,8 +47,8 @@
 	<string id="st_설치 가능_barrel_metal_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_shelves_b">
@@ -57,8 +57,8 @@
 	<string id="st_설치 가능_shelves_b_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 
     <string id="st_설치 가능_biliard">
@@ -67,8 +67,8 @@
 	<string id="st_설치 가능_biliard_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_pot">
@@ -77,8 +77,8 @@
 	<string id="st_설치 가능Countertop_pot_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_countertop">
@@ -87,8 +87,8 @@
 	<string id="st_설치 가능_countertop_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_cuttingboard">
@@ -97,8 +97,8 @@
 	<string id="st_설치 가능_cuttingboard_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_fchair">
@@ -107,8 +107,8 @@
 	<string id="st_설치 가능_fchair_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_game">
@@ -117,8 +117,8 @@
 	<string id="st_설치 가능_game_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_fuel">
@@ -127,8 +127,8 @@
 	<string id="st_설치 가능_fuel_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_shooting_target_1">
@@ -137,8 +137,8 @@
 	<string id="st_설치 가능_shooting_target_1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_bidon">
@@ -147,8 +147,8 @@
 	<string id="st_설치 가능_bidon_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_gaz_balon">
@@ -157,8 +157,8 @@
 	<string id="st_설치 가능_gaz_balon_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_radiola">
@@ -167,8 +167,8 @@
 	<string id="st_설치 가능_radiola_descr">
 		<text> A functional radio.\n
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 기술 물품\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 기술 물품\n</text>
 	</string>
 	
     <string id="st_설치 가능_kartina03">
@@ -177,8 +177,8 @@
 	<string id="st_설치 가능_kartina03_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_dev_guitar">
@@ -187,8 +187,8 @@
 	<string id="st_설치 가능_dev_guitar_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_stool">
@@ -197,8 +197,8 @@
 	<string id="st_설치 가능_stool_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_metal_table1">
@@ -207,8 +207,8 @@
 	<string id="st_설치 가능_metal_table1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_metal_table2">
@@ -217,8 +217,8 @@
 	<string id="st_설치 가능_metal_table2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_stalker_outfit">
@@ -227,8 +227,8 @@
 	<string id="st_설치 가능_stalker_outfit_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_merc_outfit">
@@ -237,8 +237,8 @@
 	<string id="st_설치 가능_merc_outfit_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_exoskelet">
@@ -247,8 +247,8 @@
 	<string id="st_설치 가능_exoskelet_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_stretcher">
@@ -257,8 +257,8 @@
 	<string id="st_설치 가능_stretcher_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_gun_parts">
@@ -267,8 +267,8 @@
 	<string id="st_설치 가능_gun_parts_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_teapot">
@@ -277,8 +277,8 @@
 	<string id="st_설치 가능_teapot_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_psi_helmet">
@@ -287,8 +287,8 @@
 	<string id="st_설치 가능_psi_helmet_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_documents_2">
@@ -297,8 +297,8 @@
 	<string id="st_설치 가능_documents_2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_notes_writing_book">
@@ -307,8 +307,8 @@
 	<string id="st_설치 가능_notes_writing_book_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_survivalguide">
@@ -317,8 +317,8 @@
 	<string id="st_설치 가능_survivalguide_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_guidebook1">
@@ -327,8 +327,8 @@
 	<string id="st_설치 가능_guidebook1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_guidebook2">
@@ -337,8 +337,8 @@
 	<string id="st_설치 가능_guidebook2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_lead_box_open">
@@ -347,8 +347,8 @@
 	<string id="st_설치 가능_lead_box_open_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_suit">
@@ -357,8 +357,8 @@
 	<string id="st_설치 가능_suit_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster1">
@@ -367,8 +367,8 @@
 	<string id="st_설치 가능_poster1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster2">
@@ -377,8 +377,8 @@
 	<string id="st_설치 가능_poster2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster3">
@@ -387,8 +387,8 @@
 	<string id="st_설치 가능_poster3_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster4">
@@ -397,8 +397,8 @@
 	<string id="st_설치 가능_poster4_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster5">
@@ -407,8 +407,8 @@
 	<string id="st_설치 가능_poster5_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster6">
@@ -417,8 +417,8 @@
 	<string id="st_설치 가능_poster6_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_poster7">
@@ -427,8 +427,8 @@
 	<string id="st_설치 가능_poster7_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_sink">
@@ -437,8 +437,8 @@
 	<string id="st_설치 가능_sink_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_sidetable1">
@@ -447,8 +447,8 @@
 	<string id="st_설치 가능_sidetable1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_sidetable2">
@@ -457,8 +457,8 @@
 	<string id="st_설치 가능_sidetable2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_shelves">
@@ -467,8 +467,8 @@
 	<string id="st_설치 가능_shelves_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_box_wood">
@@ -477,8 +477,8 @@
 	<string id="st_설치 가능_box_wood_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie1">
@@ -487,8 +487,8 @@
 	<string id="st_설치 가능_trophie1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie2">
@@ -497,8 +497,8 @@
 	<string id="st_설치 가능_trophie2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie3">
@@ -507,8 +507,8 @@
 	<string id="st_설치 가능_trophie3_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie4">
@@ -517,8 +517,8 @@
 	<string id="st_설치 가능_trophie4_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie5">
@@ -527,8 +527,8 @@
 	<string id="st_설치 가능_trophie5_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie6">
@@ -537,8 +537,8 @@
 	<string id="st_설치 가능_trophie6_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie7">
@@ -547,8 +547,8 @@
 	<string id="st_설치 가능_trophie7_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie8">
@@ -557,8 +557,8 @@
 	<string id="st_설치 가능_trophie8_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_trophie9">
@@ -567,8 +567,8 @@
 	<string id="st_설치 가능_trophie9_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
     <string id="st_설치 가능_box_paper">
@@ -577,9 +577,9 @@
 	<string id="st_설치 가능_box_paper_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_2] 용량: 20kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_2] 용량: 20kg\n</text>
 	</string>
 	
     <string id="st_설치 가능_microscope">
@@ -588,8 +588,8 @@
 	<string id="st_설치 가능_microscope_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_map1">
@@ -598,8 +598,8 @@
 	<string id="st_설치 가능_map1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_map2">
@@ -608,8 +608,8 @@
 	<string id="st_설치 가능_map2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_grave1">
@@ -618,7 +618,7 @@
 	<string id="st_설치 가능_grave1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n</text>
 	</string>
 	
    <string id="st_설치 가능_grave2">
@@ -627,7 +627,7 @@
 	<string id="st_설치 가능_grave2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n</text>
 	</string>
 	
    <string id="st_설치 가능_junk">
@@ -636,8 +636,8 @@
 	<string id="st_설치 가능_junk_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_money_5000">
@@ -646,8 +646,8 @@
 	<string id="st_설치 가능_money_5000_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_plant2">
@@ -656,8 +656,8 @@
 	<string id="st_설치 가능_plant2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_plant3">
@@ -666,8 +666,8 @@
 	<string id="st_설치 가능_plant3_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_plant4">
@@ -676,8 +676,8 @@
 	<string id="st_설치 가능_plant4_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_rug">
@@ -686,9 +686,9 @@
 	<string id="st_설치 가능_rug_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n
-		%c[d_red]&#x0095;%c[d_red] 경고!!! 바닥에 러그 아이템을 "절대" 버리지 마시오. %c[0,250,250,0] 끼임 현상 등이 발생 해 죽을 수 있습니다.\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n
+		%c[d_red] &#x0095;%c[d_red] 경고!!! 바닥에 러그 아이템을 "절대" 버리지 마시오. %c[0,250,250,0] 끼임 현상 등이 발생 해 죽을 수 있습니다.\n</text>
 	</string>
 	
    <string id="st_설치 가능_clinic_equipments">
@@ -697,8 +697,8 @@
 	<string id="st_설치 가능_clinic_equipments_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 
    <string id="st_설치 가능_wall_divider">
@@ -707,8 +707,8 @@
 	<string id="st_설치 가능_wall_divider_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>	
 	
    <string id="st_설치 가능_storage01">
@@ -717,9 +717,9 @@
 	<string id="st_설치 가능_storage01_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 300kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 300kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage02">
@@ -728,9 +728,9 @@
 	<string id="st_설치 가능_storage02_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 700kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 700kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage03">
@@ -739,9 +739,9 @@
 	<string id="st_설치 가능_storage03_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 70kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 70kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage04">
@@ -750,9 +750,9 @@
 	<string id="st_설치 가능_storage04_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 35kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 35kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage05">
@@ -761,9 +761,9 @@
 	<string id="st_설치 가능_storage05_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 60kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 60kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage06">
@@ -772,9 +772,9 @@
 	<string id="st_설치 가능_storage06_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 170kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 170kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage07">
@@ -783,9 +783,9 @@
 	<string id="st_설치 가능_storage07_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 120kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 120kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_storage08">
@@ -794,9 +794,9 @@
 	<string id="st_설치 가능_storage08_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 아이템 보관함\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 70kg\n</text>
+		%c[d_blue] &#x0095;%c[ui_gray_2] 아이템 보관함\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 용량:%c[ui_gray_2] 70kg\n</text>
 	</string>
 	
    <string id="st_설치 가능_wooden_board">
@@ -805,8 +805,8 @@
 	<string id="st_설치 가능_wooden_board_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 창문이나 출입구를 막을 수 있음\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 창문이나 출입구를 막을 수 있음\n</text>
 	</string>
 	
    <string id="st_설치 가능_wooden_plank">
@@ -815,8 +815,8 @@
 	<string id="st_설치 가능_wooden_plank_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 창문이나 출입구를 막을 수 있음\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 창문이나 출입구를 막을 수 있음\n</text>
 	</string>
 	
    <string id="st_설치 가능_metal_plate">
@@ -825,8 +825,8 @@
 	<string id="st_설치 가능_metal_plate_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 창문이나 출입구를 막을 수 있음\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 창문이나 출입구를 막을 수 있음\n</text>
 	</string>
 	
    <string id="st_설치 가능_shield">
@@ -835,7 +835,7 @@
 	<string id="st_설치 가능_shield_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n</text>
 	</string>
 	
    <string id="st_설치 가능_toilet">
@@ -844,8 +844,8 @@
 	<string id="st_설치 가능_toilet_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_shower">
@@ -854,8 +854,8 @@
 	<string id="st_설치 가능_shower_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 가구 아이템\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 가구 아이템\n</text>
 	</string>
 	
    <string id="st_설치 가능_tv_box">
@@ -864,8 +864,8 @@
 	<string id="st_설치 가능_tv_box_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 기술 물품\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 기술 물품\n</text>
 	</string>
 
    <string id="st_설치 가능_light1">
@@ -874,10 +874,10 @@
 	<string id="st_설치 가능_light1_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]2700K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]2700K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light2">
@@ -886,10 +886,10 @@
 	<string id="st_설치 가능_light2_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]6500K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]6500K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light3">
@@ -898,10 +898,10 @@
 	<string id="st_설치 가능_light3_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]3000K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]3000K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light4">
@@ -910,10 +910,10 @@
 	<string id="st_설치 가능_light4_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]4000K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]4000K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light5">
@@ -922,10 +922,10 @@
 	<string id="st_설치 가능_light5_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]4000K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]4000K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light6">
@@ -934,10 +934,10 @@
 	<string id="st_설치 가능_light6_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]5000K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]5000K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light7">
@@ -946,10 +946,10 @@
 	<string id="st_설치 가능_light7_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]2000K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]2000K\n</text>
 	</string>
 	
    <string id="st_설치 가능_light8">
@@ -958,10 +958,10 @@
 	<string id="st_설치 가능_light8_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
-		%c[d_blue]&#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
-		%c[d_purple]&#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]4000K\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_3] 사용되는 연료: %c[ui_gray_2]배터리\n	
+		%c[d_blue] &#x0095;%c[ui_gray_3] 지속 시간: %c[ui_gray_2]2주\n
+		%c[d_purple] &#x0095;%c[ui_gray_3] 색 온도: %c[ui_gray_2]4000K\n</text>
 	</string>
 	   <string id="st_설치 가능_door">
 		<text>나무 문 100x190cm</text>
@@ -969,9 +969,9 @@
 	<string id="st_설치 가능_door_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 제작 가능한 문틀과 호환됨\n
-		%c[0,250,250,0]&#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다./n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 제작 가능한 문틀과 호환됨\n
+		%c[0,250,250,0] &#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다./n</text>
 	</string>
 	
    <string id="st_설치 가능_door02">
@@ -980,8 +980,8 @@
 	<string id="st_설치 가능_door02_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[0,250,250,0]&#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다./n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[0,250,250,0] &#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다./n</text>
 	</string>
 	
    <string id="st_설치 가능_door03">
@@ -990,8 +990,8 @@
 	<string id="st_설치 가능_door03_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[0,250,250,0]&#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다.\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[0,250,250,0] &#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다.\n</text>
 	</string>
 	
    <string id="st_설치 가능_door04">
@@ -1000,8 +1000,8 @@
 	<string id="st_설치 가능_door04_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[0,250,250,0]&#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다.\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[0,250,250,0] &#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다.\n</text>
 	</string>
 	
    <string id="st_설치 가능_door05">
@@ -1010,8 +1010,8 @@
 	<string id="st_설치 가능_door05_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[0,250,250,0]&#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다./n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[0,250,250,0] &#x0095;%c[0,250,250,0] 참고: 나무 문을 제거하기 위해서는 근접 공격이나 폭발물을 사용해야 합니다. 총으로 쏴도 제거할 수 있지만 총알을 많이 낭비합니다./n</text>
 	</string>
 	
    <string id="st_설치 가능_wall">
@@ -1020,8 +1020,8 @@
 	<string id="st_설치 가능_wall_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue]&#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue] &#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
 	</string>	
 	
    <string id="st_설치 가능_wall_metal">
@@ -1030,8 +1030,8 @@
 	<string id="st_설치 가능_wall_metal_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue]&#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue] &#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
 	</string>	
 	
    <string id="st_설치 가능_wall02">
@@ -1040,8 +1040,8 @@
 	<string id="st_설치 가능_wall02_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue]&#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue] &#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
 	</string>	
 	
    <string id="st_설치 가능_wall02_metal">
@@ -1050,8 +1050,8 @@
 	<string id="st_설치 가능_wall02_metal_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue]&#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue] &#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
 	</string>	
 	
    <string id="st_설치 가능_wall_doorway">
@@ -1060,9 +1060,9 @@
 	<string id="st_설치 가능_wall_doorway_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 호환 문 사이즈: 100x190cm\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue]&#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 호환 문 사이즈: 100x190cm\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue] &#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
 	</string>	
 	
    <string id="st_설치 가능_wall_doorway_metal">
@@ -1071,8 +1071,8 @@
 	<string id="st_설치 가능_wall_doorway_metal_descr">
 		<text>
 		%c[ui_gray_3]특징\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 설치 가능\n
-		%c[d_orange]&#x0095;%c[ui_gray_2] 호환 문 사이즈: 100x190cm\n
-		%c[d_blue]&#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue]&#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
+		%c[d_orange] &#x0095;%c[ui_gray_2] 설치 가능\n
+		%c[d_orange] &#x0095;%c[ui_gray_2] 호환 문 사이즈: 100x190cm\n
+		%c[d_blue] &#x0095;%c[ui_gray_2] 건축 아이템\n%c[d_blue] &#x0095;%c[ui_gray_2] 방을 나누거나 효율적으로 구분하기 위해 사용\n</text>
 	</string>		
 </string_table>

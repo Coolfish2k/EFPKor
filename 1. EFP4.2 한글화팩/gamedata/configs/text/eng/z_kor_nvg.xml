@@ -1,0 +1,173 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+	<string id="ui_mcm_beef_nvg_enable_anim">
+		<text>나이트비전 애니메이션 활성화</text>
+	</string>	
+	<string id="ui_mcm_beef_nvg_keybind_brightness_adjust">
+		<text>밝기 조절 키</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_title">
+		<text>Beef's NVG Settings</text>
+	</string>	
+	
+	<string id="ui_mcm_beef_nvg_title_2">
+		<text>2D 스코프 쉐이더 호환</text>
+	</string>	
+	
+	<string id="ui_mcm_menu_beef_nvg">
+		<text>나이트비전</text>
+	</string>
+
+
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+		<text>NVG 착용 시 최대 밝기</text>
+	</string>
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+		<text>높은 값은 더 밝은 밝기를 의미합니다. Cloudy_dark_2 날씨에서 한밤중 시간대를 기준으로 밝기값을 설정하는것을 추천합니다.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+		<text>NVG 착용 시 최소 밝기</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+		<text>낮은 값은 더 어두운 밝기를 의미합니다.(밝기 조절 시) 값을 낮출 경우 한낮에도 NVG를 사용할 수 있을 정도로 어두워집니다.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+		<text>세계 밝기 영향력</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+		<text>1.0은 기본값 입니다. 값이 커질수록 영향력이 커집니다.(광원 제외)</text>
+	</string>
+
+
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+		<text>광원 밝기 영향력</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+		<text>추천값은 0.1 입니다. 값이 높을 수록 NVG를 이용해 광원을 바라봤을 때 더 큰 눈뽕을 얻습니다.</text>
+	</string>
+	
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+		<text>정조준 시 NVG활성화</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+		<text>체크 할 경우 NVG를 켠 상태에서 정조준할 수 있습니다. 체크 해제 할 경우 NVG를 우선 끈 뒤 정조준을 하게 됩니다.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+		<text>PDA 작동 시 NVG 유지</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+		<text>체크 할 경우 PDA를 들더라도 별도의 동작이 없습니다. 체크 해제 할 경우 PDA를 들면 NVG를 자동으로 끕니다.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+		<text>Gen 1 Tube Setup: (Default single tube centered)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+		<text>Choose the number of tubes for Gen 1 NVGs.</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+		<text>Gen 2 Tube Setup: (Default dual tubes centered)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+		<text>Choose the number of tubes for Gen 2 NVGs.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+		<text>Gen 3 Tube Setup: (Default quad tubes centered)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+		<text>Choose the number of tubes for Gen 3 NVGs.</text>
+	</string>
+
+	
+	<string id="ui_mcm_lst_single_centered">
+		<text>Single Tube, Centered</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_left">
+		<text>Single Tube, Left Side</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_right">
+		<text>Single Tube, Right Side</text>
+	</string>
+	
+	<string id="ui_mcm_lst_dual_centered">
+		<text>Dual Tubes, Centered</text>
+	</string>
+	
+	<string id="ui_mcm_lst_quad_centered">
+		<text>Quad Tubes, Centered</text>
+	</string>
+	
+	
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+		<text>Gen 1 Overlay Background: (기본값은 오버레이 없음 입니다.)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+		<text>Choose what background overlay you want</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+		<text>Gen 2 Overlay Background: (기본값은 블러 오버레이 입니다.)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+		<text>Choose what background overlay you want</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+		<text>Gen 3 Overlay Background: (기본값은 블랙 오버레이 입니다.)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+		<text>Choose what background overlay you want</text>
+	</string>
+	
+	
+	<string id="ui_mcm_lst_blurred_background">
+		<text>블러(Blur) 오버레이</text>
+	</string>
+	
+	<string id="ui_mcm_lst_black_background">
+		<text>블랙 오버레이</text>
+	</string>
+	
+	<string id="ui_mcm_lst_image_overlay">
+		<text>(미구현) 이미지 오버레이</text>
+	</string>
+	
+	<string id="ui_mcm_lst_clear_vision">
+		<text>오버레이 없음</text>
+	</string>
+	
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat">
+		<text>If you have Shader Based 2d Scope, check this box</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+		<text>Basically, due to shadering magic, if you have Shader Based 2d Scopes, you need to check this box. Otherwise, don't check this box.</text>
+	</string>
+	
+</string_table>

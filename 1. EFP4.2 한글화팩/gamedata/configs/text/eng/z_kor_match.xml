@@ -41,7 +41,7 @@
 	</string>	
 	
 	<string id="st_add_match">
-        <text>성냥곽에 넣기</text>
+        <text>성냥을 넣었습니다.</text>
     </string>
 	
 	<string id="st_match_box">
@@ -57,7 +57,7 @@
     </string>
 	
 	<string id="st_box_full">
-        <text>이 성냥곽은 가득 차 있습니다.</text>
+        <text>성냥곽이 가득 찼습니다.</text>
     </string>
 	
 	<string id="st_number_of_uses">
