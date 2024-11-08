@@ -387,40 +387,6 @@
 		%c[d_blue] 조준경: %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO1, ACOG, Barska ES AC10632, EOTech, Leupold, March scopes\n \n
 		</text>
 	</string>
-	<string id="st_mag_efpwp_vpo_101_5">
-		<text>VPO-101 "Vepr-Hunter" 5 round magazine</text>
-	</string>
-	<string id="st_mag_efpwp_vpo_101_5_descr">
-		<text>
-		Magazine for VPO-101 and compatible systems, manufactured by Molot arms with a capacity of 5 rounds of 7.62x51 caliber ammo.
-		</text>
-	</string>
-	<string id="st_mag_efpwp_vpo_101_10">
-		<text>VPO-101 "Vepr-Hunter" 10 round magazine</text>
-	</string>
-	<string id="st_mag_efpwp_vpo_101_10_descr">
-		<text>
-		Magazine for VPO-101 and compatible systems, manufactured by Molot arms with a capacity of 10 rounds of 7.62x51 caliber ammo.
-		</text>
-	</string>
-	<string id="st_mag_efpwp_vpo_101_5_alt">
-		<text>Rechambered VPO-101 "Vepr-Hunter" 10 round magazine</text>
-	</string>
-
-	<string id="st_mag_efpwp_vpo_101_5_alt_descr">
-		<text>
-		Rechambered magazine for VPO-101 and compatible systems with a capacity of 5 rounds of 7.62x39 caliber ammo.
-		</text>
-	</string>
-	<string id="st_mag_efpwp_vpo_101_10_alt">
-		<text>Rechambered VPO-101 "Vepr-Hunter" 10 round magazine</text>
-	</string>
-	<string id="st_mag_efpwp_vpo_101_10_alt_descr">
-		<text>
-		Rechambered magazine for VPO-101 and compatible systems with a capacity of 10 rounds of 7.62x39 caliber ammo.
-		</text>
-	</string>
-
 	<string id="st_wpn_sag545_m">
 		<text>SAG AK-545 카빈</text>
 	</string>
@@ -488,7 +454,7 @@
 			%c[ui_gray_3]특징:\n
 			%c[d_blue] &#x0095; %c[ui_gray_2] 군용품\n
 			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[d_red] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_red] &#x0095; 두꺼운 가죽을 자를 수 없음\n \n
 		</text>
 	</string>
 
@@ -501,7 +467,7 @@
 			%c[ui_gray_3]특징:\n
 			%c[d_blue] &#x0095; %c[ui_gray_2] 군용품\n
 			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[d_red] &#x0095; %c[ui_gray_2] 두꺼운 가죽을 자를 수 있음\n \n
+			%c[d_red] &#x0095;  두꺼운 가죽을 자를 수 없음\n \n
 		</text>
 	</string>
 
@@ -551,9 +517,9 @@
 		<text>
 			우레탄으로 코팅된 망치로 스틸 볼을 사용하여 충격을 완화하고 손잡이로 전달되는 반동을 줄이도록 설계되었습니다. "둔탁한" 소리를 제공합니다.\n \n
 			%c[ui_gray_3]특징:\n
-			%c[d_blue] &#x0095; %c[ui_gray_2] everyday item\n
+			%c[d_blue] &#x0095; %c[ui_gray_2] 일상용품\n
 			%c[d_blue] &#x0095; %c[ui_gray_2] 근접 무기\n
-			%c[pda_green] &#x0095; %c[ui_gray_2] greater reach compared to knives\n \n
+			%c[pda_green] &#x0095; %c[ui_gray_2] 칼과 비교했을 때 리치가 훨씬 김\n \n
 		</text>
 	</string>
 

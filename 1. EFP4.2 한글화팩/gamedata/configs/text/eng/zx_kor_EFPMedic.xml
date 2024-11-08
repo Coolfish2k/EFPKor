@@ -620,7 +620,7 @@
 	</string>
 	
 	<string id="st_rebirth">
-		<text>쟈그스틴 지혈제</text>
+		<text>자구스틴 지혈제</text>
 	</string>
 	<string id="st_rebirth_descr">
 		<text>군사용 약물입니다. 프로피브리노라이신 활성을 억제하고, 섬유소 용해효소의 변형을 늦추는 효과를 가지고 있습니다. 일시적으로 출혈을 멈추고 출혈에 대한 저항성을 향상시킵니다. 극심한 탈수증세와 같은 부작용이 발생할 수 있습니다.\n
@@ -639,7 +639,6 @@
 		\n%c[ui_gray_3]특징:
 		\n%c[d_blue] &#x0095; 외용약
 		\n%c[d_blue] &#x0095; 수리용 유활제
-		\n%c[d_blue] &#x0095; 화상 보호
 		\n%c[d_blue] &#x0095; 수입품</text>
 	</string>
 	
@@ -734,7 +733,7 @@
 		\n%c[d_cyan] 아드레날린
 		\n%c[d_cyan] SJ1 TGLabs 전투 자극제
 		\n%c[d_cyan] SJ6 TGLabs 전투 자극제
-		\n%c[d_cyan] 쟈그스틴 지혈제
+		\n%c[d_cyan] 자구스틴 지혈제
 		\n%c[d_cyan] 프로피탈 주사기
 		\n%c[d_cyan] eTG-체인지 재생 자극제
 		\n%c[d_blue] &#x0095; 의료품 보관함</text>
