@@ -395,60 +395,6 @@
     <string id="ui_mcm_glowsticks_throw_key_desc">
         <text>형광봉을 던질 때 누르고 있어야 하는 키.</text>
     </string>
-</string_table>
-
-<!-- st_items_hobomatches -->
-
-	<string id="st_hobo_match">
-		<text>성냥</text>
-	</string>
-	
-	<string id="st_hobo_match_descr">
-		<text>
-            어디든 그으면 불이 붙는 성냥 1개비. 이것 자체로도 유용하지만 개별적으로 보관하기에는 까다롭기에 사용할 때 까지는 상자에 넣어 건조한 상태로 보관하는 것이 좋습니다.   \n \n \n 
-			
-		%c[0,200,200,200]특징:
-		%c[0,100,100,255] &#x0095; 일상품
-		%c[255,238,153,26] &#x0095; 용도: 불 피우기, 담배에 불 붙이기
-		</text>
-	</string>
-
-	<string id="st_hobo_matchbox">
-		<text>성냥갑</text>
-	</string>
-	
-	<string id="st_hobo_matchbox_descr">
-		<text>
-            황린 성냥을 보관하는 상자. 스토커가 성냥을 건조하게 보관하거나 배낭에서 떨어지는 것을 방지하기에 좋습니다. \n \n \n
-			
-		%c[0,200,200,200]특징:
-		%c[0,100,100,255] &#x0095; 성냥 보관용 상자
-		</text>
-	</string>	
-	
-	<string id="st_add_match">
-        <text>상자에 성냥 넣기</text>
-    </string>
-	
-	<string id="st_match_box">
-        <text>성냥갑</text>
-    </string>
-	
-	<string id="st_match_bundle">
-        <text>성냥 묶음</text>
-    </string>
-	
-	<string id="st_take_match">
-        <text>성냥 꺼내기</text>
-    </string>
-	
-	<string id="st_box_full">
-        <text>성냥갑이 꽉 찼습니다</text>
-    </string>
-	
-	<string id="st_number_of_uses">
-		<text>상자 안의 성냥</text>
-	</string>
 
 <!-- st_items_missing_translations_eng -->
 

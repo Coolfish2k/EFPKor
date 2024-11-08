@@ -9,8 +9,8 @@
 	<string id="st_wpn_beretta_m9_descr">
 		<text>
 		이 제품은 베레타 92FS에 미 해병대의 요구사항을 반영한 권총 입니다. M9A1 이전에 만들어졌기 때문에 경사형 탄창과 직선 방아쇠 그리고 삼중수소 코팅된 조준경을 제외한 변경점은 없다고 봐도 무방합니다.\n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] 9x19 호환 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기</text>
 	</string>
 
 	<string id="st_wpn_beretta_px4">
@@ -19,8 +19,8 @@
 	<string id="st_wpn_beretta_px4_descr">
 		<text>
 		베레타 Px4 스톰은 베레타 8000의 개선형 입니다. 기존의 92FS를 대체하여 법 집행 기관과 개인 호신용으로 개발되었으며, 무게가 더 가벼워졌고 지속 사격시의 반동 제어와 핸들링 성능이 크게 나아졌습니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] 9x19 호환 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기</text>
 	</string>
 	
 	<string id="st_up_px4_a1_name">
@@ -35,8 +35,8 @@
 	<string id="st_wpn_browning_p35_descr">
 		<text>
 		브라우닝 하이파워는 9mm 탄약을 사용하는 싱글액션 반자동 권총입니다. 미국인 존 브라우닝의 아이디어를 바탕으로 1922년 창안되어 특허를 취득하였으며, 이후 FN Herstal로 특허가 넘어갔습니다. 이 총의 마감이나 조준경 모양으로 봤을 땐 벨기에에서 제작된 초기형 브라우닝 HP 권총임이 틀림없습니다.  \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] 9x19 호환 소음기 (개조 후 사용가능)</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기 %c[d_orange](업그레이드 필요)</text>
 	</string>
 	<string id="st_wpn_browning_mk3">
 		<text>브라우닝 하이 파워 Mark III</text>
@@ -44,8 +44,8 @@
 	<string id="st_wpn_browning_mk3_descr">
 		<text>
 		브라우닝 HP Mark III는 오스트리아 방어군의 제식 권총이기도 하며, 클래식 브라우닝 HP권총의 현대화 버전으로써 1988년에 처음 제작되었습니다. 기계식 조준경이 개선되었고 반동과 신뢰성이 조금 더 향상되었습니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] 9x19 호환 소음기 (개조 후 사용가능)</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기 %c[d_orange](업그레이드 필요)</text>
 	</string>
 
 
@@ -90,8 +90,8 @@
 	</string>
 	<string id="st_wpn_sw645_descr">
 		<text>The Smith &amp; Wesson Model 645 is a .45 ACP compact pistol manufactured in 1985 and discontinued in 1988, despite so, a lot of folks from the black market are able to obtain it, let alone even make some illegaly even. The S&amp;W 645 is constructed almost entirely from stainless steel and is thus extremely resistant to harsh weather conditions. Since it's very easy to do so, any technician can change the caliber to 9x19, turning it into a S&amp;W Model 659. Overall, good backup pistol if you need less weight and better close quarter combat. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] .45 ACP 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3].45 ACP 소음기</text>
 	</string>
 
 	<string id="st_wpn_m45">
@@ -99,8 +99,8 @@
 	</string>
 	<string id="st_wpn_m45_descr">
 		<text>M1911의 현대식 변형으로, 1985년 이후 미 해병대에서 제식 권총으로 채택된 모델입니다. "더 나은 1911"이라는 발상은 1980년대 후반 미 해병대의 로버트 영 대령이 구상한 것이지만 사실상 다양한 제조사에서 조립한 M1911A1로, 슬라이드는 스프링필드 아머리(SA)에서, 탄창 추출 및 탄피 배출구는 윌슨 컴뱃(Wilson Combat), 나머지 부품은 나우린 매뉴팩처링(Nowlin Manufacturing)에서 제작되었습니다. 이렇게 보면 "프랑켄슈타인 몬스터" 같지만, 실제로는 1911보다 우수하고 아름다운 권총입니다. 특히 용병들이 이 총을 선호하는 이유는, 커스터마이징이 자유로우며, M1911보다 성능이 상당히 개선되었기 때문입니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] .45 ACP 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3].45 ACP 소음기</text>
 	</string>
 
 	<string id="st_wpn_m45a1">
@@ -108,8 +108,8 @@
 	</string>
 	<string id="st_wpn_m45a1_descr">
 		<text>M1911의 현대식 변형이자 M45를 개선한 모델로, 1985년 이후 미 해병대에서 제식 권총으로 사용되고 있습니다. M45와 비교했을 때 M45A1의 개선점으로는 반동 피크를 낮춰 .45 ACP 탄의 반동을 고르게 분산시키는 이중 반동 스프링 시스템, 트리튬 야간 조준기, 5인치 내셔널 매치 총열, 양손잡이용 안전장치, 피카티니 레일, 그리고 사막색 세라코트 마감 처리가 있습니다. Zone에서 이 사막색 세라코트가 과연 어울릴지 궁금하겠지만, 아마도 용병들에게는 자부심의 상징일 겁니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] .45 ACP 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3].45 ACP 소음기</text>
 	</string>
 
 	<string id="st_wpn_svi">
@@ -120,8 +120,8 @@
 	</string>
 	<string id="st_wpn_svi_descr">
 		<text>Strayer-Voigt Inc.는 M1911 스타일의 모듈식 권총을 제조하는 회사로, 대표적으로 SVI라 불리는 Strayer-Voigt Infinity가 있습니다. 이 권총은 주로 경기용으로 판매되기 때문에 가격이 높고 일반 군대나 일반 시민이 쉽게 소지할 수 없는 희귀한 모델입니다. 이 권총의 주요 특징은 Strayer-Voigt 전용 탄창을 사용해 15발을 장전할 수 있고, 자체적으로 3점사로 개조되어 빠른 속도로 발사할 수 있으며 "파란색" 트리튬 야간 조준기까지 장착되어 있으니 성능과 시각적 만족감 모두 엄청나다는 것입니다. 다만, 안정성은 조금 떨어지는 편 입니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] .45 ACP 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3].45 ACP 소음기</text>
 	</string>
 
 	<string id="st_wpn_coonan357">
@@ -147,8 +147,8 @@
 	</string>
 	<string id="st_wpn_desert_eagle_dhampyr_descr">
 		<text>데저트 이글의 현대화 버전으로, 프레임과 슬라이드에 보정기와 피카티니 레일이 내장되어 있습니다. 그럼에도 여전히 상당한 반동을 가지고 있지만 총열 개량 덕분에 정확도도 향상되었고, 스코프 장착도 가능합니다. 슬라이드와 탄창을 보면 .50AE 탄을 사용한다고 되어 있으면서도 실제로는 .357 매그넘을 사용하는것으로 보아 Zone 안에서 개조된 것일 가능성이 크며, 어쩌면 님블이 직접 손댄 작품일지도 모릅니다.\n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 조준경: %c[ui_gray_3][ACOG] [ES AC10632] [C-MORE 택티컬]</text>
 	</string>
 	
 	<string id="st_up_deagle_127_name">
@@ -165,8 +165,8 @@
 	
 	<string id="st_wpn_fort12_descr">
 		<text>TFort-12는 1991년 8월 독립한 우크라이나가 구소련 시대의 마카로프 PM을 대체할 경찰용 권총을 자체 개발하기 위한 시도로, 여전히 9x18 구경을 사용합니다. 1995년에 설계되어 1998년 우크라이나의 화기 설계사 RPC Fort에 의해 개발된 이 권총은 PM의 업그레이드로 평가받는 강력한 모델입니다. 안전한 디코킹 기능이 없어 신뢰성 면에서 다소 문제가 있을 수 있지만, 정확도, 탄창 용량, 인체공학적 설계가 이를 보완해 줍니다. 기본적으로 소음기를 장착할 수 있도록 나사선이 있는 총열이 적용된 모델입니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple]  %c[ui_gray_2] 9x19 호환 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기</text>
 	</string>
 	
 	<string id="st_wpn_fort17">
@@ -175,8 +175,8 @@
 	
 	<string id="st_wpn_fort17_descr">
 		<text>Fort-17은 Fort-12의 개량형으로, 프레임을 강철에서 폴리머로 변경하여 무게를 줄였습니다. 다만, 이로 인해 반동이 약간 더 강해졌을 수 있습니다. 기본 탄창 용량은 13발로 제공되며, 탈부착 가능한 그립 백스트랩이 있어 인체공학적 편안함을 개선할 수 있습니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple]  %c[ui_gray_2] 9x19 호환 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기</text>
 	</string>
 	
 	<string id="st_wpn_glock17">
@@ -187,8 +187,8 @@
 	</string>
 	<string id="st_wpn_glock17_descr">
 		<text>글록 17 Gen 4은 폴리머 프레임에 단축 반동 방식으로 설계된 클래식 권총으로, 슬라이드의 각인에서 알 수 있듯 오스트리아 제조사 Glock Ges.m.b.H가 설계 및 생산한 모델입니다. 1982년에 오스트리아 군대 및 경찰에 도입된 이래, 높은 신뢰성과 안전성을 입증해 여러 나라, 특히 우크라이나의 특수부대에도 수출되었습니다. 낮은 무게, 우수한 반동 제어력, 그리고 9mm 구경 덕분에 모든 진영에서 인기가 높으며, 그만한 이유가 있는 권총입니다.\n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] GemTech 소음기 (개조 후 사용가능)</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]젬테크 소음기 %c[d_orange](업그레이드 필요)</text>
 	</string>
 
 	<string id="st_up_glock17_45acp_name">
@@ -203,8 +203,8 @@
 	</string>
 	<string id="st_wpn_xd9_descr">
 		<text>SA XD Mod.2 는 HS2000의 미국 생산 제품으로, 이 모델은 HS2000을 좀 더 컴팩트하게 제작하고 휴대성과 은닉성을 향상시킨 모델입니다. 이 모델이 원조와 비교하여 갖는 주요 변화 중 하나는 "그립 존"으로, 이는 인체공학적으로 상당한 개선을 이루었습니다. 용량이 낮은 작은 권총임에도 불구하고, 낮은 반동을 가진 정확한 권총을 원하는 이들에게는 매우 환영받는 선택입니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] GemTech 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]젬테크 소음기</text>
 	</string>
 
 	<string id="st_wpn_sig229">
@@ -212,8 +212,8 @@
 	</string>
 	<string id="st_wpn_sig229_descr">
 		<text>P229은 경찰 임무와 은닉 휴대를 위해 설계된 컴팩트 사이즈의 9mm 권총으로, 업그레이드된 P228 모델입니다. "LEGION" 변형인 만큼, 서구 진영, 특히 용병들 사이에서는 상당한 찬사를 받고 있는 모델이라고 할 수 있습니다. 강력한 .45 ACP 대신 다소 약한 9mm로 설계되었지만, 여전히 .45 ACP 대신 9mm를 선호하는 SIG-Sauer 팬들에게는 꽤 좋은 선택이 될 수 있는 소형 권총입니다.\n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] 9x19 호환 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기</text>
 	</string>
 
 	<string id="st_wpn_sig320">
@@ -221,8 +221,8 @@
 	</string>
 	<string id="st_wpn_sig320_descr">
 		<text>이 권총은 님블이 발견한 놀라운 모델로, SIG-Sauer 권총에 최근 추가된 최신 버전입니다. 9mm 구경으로 설계되었지만, 기술자만 찾으면 쉽게 .45 ACP로 재장전할 수 있습니다. "스트라이크 액션" 메커니즘을 사용하여, .45 ACP를 사용할 때도 반동을 크게 줄여줍니다. 신뢰성은 타의 추종을 불허하며, 정확도와 반동 조절도 훌륭합니다. 특히 .45 ACP로 재장전했을 경우, 최고의 권총이 될 것입니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] 9x19 호환 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3]9x19 호환 소음기</text>
 	</string>
 	<string id="st_up_p320_c7_name">
 		<text>.45 ACP로 구경 변환</text>
@@ -244,8 +244,8 @@
 	</string>
 	<string id="st_wpn_usp_tactical_descr">
 		<text>MK23 및 USP의 개선형으로 여겨지지만, 사실상 USP의 컴팩트한 버전으로 더욱 향상된 모델입니다. O-링이 장착된 연장된 나사선 총열을 통해 정확도를 높이고 반동을 줄이며 기본적으로 소음기를 통합할 수 있도록 설계되었습니다. 조정 가능한 마이크로미터 후방 조준기와 트리튬 조준기가 장착된 전방 조준기가 특징입니다. 이러한 모든 개선 사항으로 볼 때, 이 모델은 사실 흔히 알고있는 USP 택티컬과는 조금 다릅니다. 플라스틱 부품은 다소 닳고 형태가 변형되었으며, 트리거도 조작된 것으로 보입니다. 이는 암시장에서의 개조일 수 있지만, 여전히 가치 있는 신뢰성 있는 .45 ACP(또는 구경을 변경하면 9mm) 권총입니다. \n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] .45 ACP 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3].45 ACP 소음기</text>
 	</string>
 
 	<string id="st_wpn_mk23">
@@ -253,8 +253,8 @@
 	</string>
 	<string id="st_wpn_mk23_descr">
 		<text>Better known as the USSOCOM MARK 23, this is a pistol made by Heckler &amp; Koch for the USSOCOM, a Spec Ops team of the USA. The idea was to make a pistol especially made for Spec Ops, so it has amazing durability, be it harsh environment, water or corrosion, as well as good accuracy and recoil thanks to its polygonal barrel design and instead of the 9mm it uses the more powerful .45 ACP. Despite proving to be quite useful, especially for USSOCOM, it was discontinued due to its unpopularity outside of Spec Ops. In The Zone, this gun is only popular because of the legendarily unpopular ex-Spetnaz stalker, Boleslav "Sishka" Tarchik.\n \n
-		%c[ui_gray_2]부착물: \n
-		%c[d_purple] &#x0095; %c[ui_gray_2] .45 ACP 소음기</text>
+		%c[ui_gray_3]부착물:\n
+		%c[d_blue] 소음기: %c[ui_gray_3].45 ACP 소음기</text>
 	</string>
 
 
